@@ -1,4 +1,4 @@
-ARMORY_QUICKSELL=按下Ctrl + 右键 快速卖出物品
+ARMORY_QUICKSELL=按下Ctrl+右键，快速卖出物品
 ARMORY_LOADOUT=装备配置
 
 ARMORY_POSSIBLE_AUGMENTATIONS=可能的强化效果
@@ -23,9 +23,9 @@ ARMORY_SORT_RARITY=稀有度
 ARMORY_SORT_ITEMLVL=物品等级
 
 ARMORY_SORT_FAVORITE=<color=#FF911F>最爱</color> - 最爱标记的物品不会被卖掉所有...卖掉
-ARMORY_HOVER_DIVINE=<color=#FF911F>神圣装备</color> - 这是一个强化版本的 {0}
+ARMORY_HOVER_DIVINE=<color=#FF911F>神圣装备</color> - 这是一个强化版本的{0}
 ARMORY_HOVER_CHAOTIC=<color=#FF911F>混沌装备</color> - 这件装备只在混沌难度掉落
-ARMORY_HOVER_ANOMALOUS=<color=#FF911F>异常装备</color> - 这是一件属性略有不同的 {0}
+ARMORY_HOVER_ANOMALOUS=<color=#FF911F>异常装备</color> - 这是一件属性略有不同的{0}
 ARMORY_HOVER_PERFECT=<color=#FF911F>完美装备</color> - 这件装备的品质大于10
 
 ARMORY_FILTERS_TITLE=过滤方式
