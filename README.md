@@ -1,7 +1,7 @@
 # miniLocalization
 A translation tracker for the game Minihealer on Steam.https://store.steampowered.com/app/955740/Mini_Healer/
 
-The en_us folder is here to help track changes from version changes.
+The en_us folder is here to help track changes from versions.
 
 The en_cn_s is the main working folder.
 
