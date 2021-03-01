@@ -1,0 +1,97 @@
+SETTINGS_GENERAL=General
+SETTINGS_CONTROL=Controls
+SETTINGS_GAMEPLAY=Gamplay
+SETTINGS_BACKTOMENU=Back to menu
+SETTINGS_LANGUAGE=Language
+SETTINGS_EXIT=Exit game
+
+SETTINGS_EXPORT_SAVE=Export Save
+SETTINGS_EXPORT_SAVE_HARDCORE=Can not export save in hardcore
+SETTINGS_EXPORT_SAVE_DESC=You can export your progress for transfer
+SETTINGS_IMPORT_SAVE=Import Save
+SETTINGS_IMPORT_SAVE_HARDCORE=Can not import save in hardcore
+SETTINGS_IMPORT_SAVE_DESC=Import your exported save file and continue your journey
+
+SETTINGS_RESOLUTIONS=Resolutions
+SETTINGS_RESOLUTIONS_DESC=Adjust the resolution of the game
+
+SETTINGS_WINDOWED=Windowed
+SETTINGS_WINDOWED_DESC=Toggle between windowed or full screen mode. Full screen resolutions are currently in testing.
+
+SETTINGS_MUSIC=Music
+SETTINGS_SOUND=Sound
+
+SETTINGS_MUTE_AUDIO_IN_BKG=Mute audio when in background
+SETTINGS_MUTE_AUDIO_IN_BKG_DESC=Enabling this option will mute the audio when the game is minimized or not focused
+
+SETTINGS_TARGET_FPS=Target FPS
+SETTINGS_TARGET_FPS_DESC=Set the desired FPS you want the game to run on. Recommended at 60 FPS.
+
+SETTINGS_MILISEC=Best Time shows miliseconds
+SETTINGS_MILISEC_DESC=Gives a more accurate information on how fast you killed the boss
+
+SETTINGS_TALENT_HOVER=Select talent or skill on hover
+SETTINGS_TALENT_HOVER_DESC=Enabling this option will automatically select the talent or skill on mouse hover
+
+SETTINGS_DISABLE_ITEM_HOVER=Disable item hover tooltip
+SETTINGS_DISABLE_ITEM_HOVER_DESC=Enabling this option will disable displaying item detail on mouse hover
+
+SETTINGS_ADDTIONAL_ARTIFACT_INFO=Display additional artifact information
+SETTINGS_ADDTIONAL_ARTIFACT_INFO_DESC=This will show the total quality as well as the tier of attributes of an item
+
+SETTINGS_ONLY_DMG_NUM=Show only significant damage number
+SETTINGS_ONLY_DMG_NUM_DESC=Only show damage that exceeds a portion of bosses' maximum health
+
+SETTINGS_ADDITIONAL_COMBAT_INFO=Show additional combat info
+SETTINGS_ADDITIONAL_COMBAT_INFO_DESC=Display the current stats of the selected party member as well as selected enemy during battle
+
+SETTINGS_AUTO_RESTART=Auto Restart
+SETTINGS_AUTO_RESTART_DESC=Enabling this option will automatically restart the fight after 5 seconds. Auto restart will stop if canceled or if inventory is full
+SETTINGS_AUTO_RESTART_WITH_CHAOS=Auto Restart with Chaos
+SETTINGS_AUTO_RESTART_WITH_CHAOS_DESC=Enabling this option will also cause Auto Restart  to try and restart the level with the same amount of chaos crystals
+
+SETTINGS_QUICK_CAST=Quick cast
+SETTINGS_QUICK_CAST_DESC=Enabling this will cause the party member to automatically be selected when the mouse is hovered onto him/her
+
+SETTINGS_KEYBINDINGS=Key Bindings
+SETTINGS_KEYBINDINGS_MOVE_LEFT=Move left
+SETTINGS_KEYBINDINGS_MOVE_RIGHT=Move right
+SETTINGS_KEYBINDINGS_SKILL_CAST=Skill Cast
+SETTINGS_KEYBINDINGS_CHARACTER_SELECT=Character Select
+
+SETTINGS_KEYBINDINGS_ENGAGE=Engage
+SETTINGS_KEYBINDINGS_ENGAGE_DESC=Engage the battle
+SETTINGS_KEYBINDINGS_CANCEL_CAST=Cancel Cast
+SETTINGS_KEYBINDINGS_CANCEL_CAST_DESC=Cancel the current spell being casted
+SETTINGS_KEYBINDINGS_SWITCH_TARGET=Switch Target
+SETTINGS_KEYBINDINGS_SWITCH_TARGET_DESC=Switch the current targetted enemy
+
+SETTINGS_SELECT_HOTKEYS_TO_CHANGE=Select a hotkey to change...
+SETTINGS_SELECT_HOTKEYS_ENTER_KEY=Please enter a key...
+
+
+SETTINGS_AUTO_ENGAGE=Auto Engage
+SETTINGS_AUTO_ENGAGE_DESC=Automatically start the fight when loaded
+
+SETTINGS_DISABLE_SCREENSHAKE=Disable screen shakes
+SETTINGS_DISABLE_SCREENSHAKE_DESC=Disable all screen shakes
+
+SETTINGS_DISPLAY_MAX_HEALTH=Display maximum health
+SETTINGS_DISPLAY_MAX_HEALTH_DESC=This will display the maximum health alongside the current health
+
+SETTINGS_DETAILED_RESTART=Detailed restart
+SETTINGS_DETAILED_RESTART_DESC=Enabling this option will display a more detailed view of the level when selecting the restart option at the end of the fight
+
+SETTINGS_FASTER_ANIMATION=Faster animation
+SETTINGS_FASTER_ANIMATION_DESC=Enabling this option will speed up the battle success screen's animation
+
+SETTINGS_MINIMAL_PARTICLES=Minimal Particles
+SETTINGS_MINIMAL_PARTICLES_DESC=Enabling this option will disable most of the particle effects of the game
+
+SETTINGS_VERTICAL_DMG_TEXT=Vertical Damage Text
+SETTINGS_VERTICAL_DMG_TEXT_DESC=Enabling this option cause the damage text on bosses to show up vertically
+
+SETTINGS_ALWAYS_SHOW_SKILL_CD=Always show skill cooldown
+SETTINGS_ALWAYS_SHOW_SKILL_CD_DESC=Enabling this option cause the skill cooldown overlay to display even if a skill has one or more charges remaining
+
+END

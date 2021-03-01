@@ -1,0 +1,357 @@
+UI_MENU_BUTTON_START=Start
+UI_MENU_BUTTON_SETTINGS=Settings
+UI_MENU_BUTTON_EXIT=Exit
+
+UI_SAVE_SLOTS_TITLE=Save Slots
+UI_SAVE_SLOTS_DESC=Choose a save slot to continue
+UI_SAVE_SLOTS_DELETE=Are you sure you want to delete this save?
+UI_TALENT_LOADOUT_SLOTS_EDIT=Edit Loadout Name
+UI_TALENT_LOADOUT_SLOTS_DELETE=Are you sure you want to delete this loadout?
+UI_SAVE_SLOTS_EDIT_NAME=Enter save slot name
+UI_SAVE_SLOTS_NEW_GAME=< New Game >
+
+UI_YES=Yes
+UI_NO=No
+UI_OK=Ok
+UI_GOT_IT=Got it
+UI_CONTINUE=Continue
+UI_START=Start
+UI_RESTART=Restart
+UI_CANCEL=Cancel
+UI_AUTO_RESTART=Restarting in {0:F0}
+UI_CLOSE=Close
+UI_NONE=None
+UI_CONFIRM=Confirm
+UI_UPGRADE=Upgrade
+UI_ENTER_TEXT=Enter text
+UI_LEVEL=Level
+UI_MASTERY=Mastery
+UI_PURCHASE=Purchase
+UI_PURCHASE_ALL=Purchase all
+UI_PURCHASE_HINT=Purchase hint
+UI_FEED=Add
+UI_CLEANSE=Cleanse
+UI_CRAFT=Craft
+UI_TRAVEL_TO=Travel to
+UI_LOADING=Loading...
+UI_SELL=Sell
+UI_SELL_ALL=Sell all
+UI_SELL_ALL_BAG=Sell all bag
+UI_BACK_TO_HAVEN=Back to Haven
+UI_PAUSED=Paused
+UI_RESUME=Resume
+UI_BACK=Back
+UI_SAVE=Save
+UI_LOAD=Load
+UI_REFERSH=Refresh
+UI_NOT_ENOUGH_X=Not enough {0}
+UI_AUGMENT=Augment
+UI_MUTATE=Mutate
+UI_ENCHANT=Enchant
+UI_CURSE=Curse
+UI_REROLL_AUGMENT=Reroll Augments
+UI_BUYBACK=Buy back
+UI_OVERVIEW=Overview
+UI_ON=On
+UI_OFF=Off
+UI_OPENED=Opened
+UI_UNKNOWN_X=Unknown {0}
+UI_GOLEM_ATTACK=Golem attack?
+UI_X_OR_Y={0} or {1}
+UI_X_Y_OR_Z={0}, {1}, or {2}
+
+UI_MENU_GAME_MODE=Game Mode
+UI_MENU_GAME_MODE_DESC=Choose a game mode that you want to experience
+
+UI_MENU_GAME_MODE_NORMAL_TITLE=Normal Mode
+UI_MENU_GAME_MODE_NORMAL_DESC=Experience Mini Healer as is. <br><br>This is the suggested mode for first time players
+
+UI_MENU_GAME_MODE_HARDCORE_TITLE=Hardcore Mode
+UI_MENU_GAME_MODE_HARDCORE_DESC_0=For experienced healers only<br><br>
+UI_MENU_GAME_MODE_HARDCORE_DESC_1=- Level up faster (but low level bosses give less experience)<br><br>
+UI_MENU_GAME_MODE_ENEMY_HAS_MORE_HEALTH=- Enemy has {0}% more health<br><br>
+UI_MENU_GAME_MODE_ENEMY_HAS_MORE_ATTACK=- Enemy has {0}% more attack damage<br><br>
+UI_MENU_GAME_MODE_ENEMY_HAS_MORE_SPELLPOWER=- Enemy has {0}% more spellpower<br><br>
+UI_MENU_GAME_MODE_ENEMY_HAS_LESS_HEALTH=- Enemy has {0}% less health<br><br>
+UI_MENU_GAME_MODE_ENEMY_HAS_LESS_ATTACK=- Enemy has {0}% less attack damage<br><br>
+UI_MENU_GAME_MODE_ENEMY_HAS_LESS_SPELLPOWER=- Enemy has {0}% less spellpower<br><br>
+UI_MENU_GAME_MODE_HARDCORE_DESC_2=- Turns into Normal mode if you die<br><br>
+UI_MENU_GAME_MODE_HARDCORE_DESC_3=- Contains an additional achievement<br><br>
+UI_MENU_GAME_MODE_HARDCORE_DESC_4=- Highly recommended that you finished a normal playthrough before starting a hardcore run
+UI_MENU_GAME_MODE_EXPLORER_TITLE=Explorer Mode
+UI_MENU_GAME_MODE_EXPLORER_DESC_0=Just want to have a more casual experience?<br><br>
+UI_MENU_GAME_MODE_EXPLORER_DESC_1=- Level up significantly faster<br><br>
+UI_MENU_GAME_MODE_EXPLORER_DESC_2=- Does not contain achievements
+
+
+UI_CHAOS_CRYSTAL_IDLE_TTILE=Chaos Shrine
+UI_CHAOS_CRYSTAL_IDLE_DESC=Chaos Shrine will automatically generate a Chaos Crystal every {0} minutes
+UI_CHAOS_CRYSTAL_IDLE_OFFLINE_DESC=Chaos Shrine will continue to generate Chaos Crystals even when MiniHealer is closed for up to a maximum of {0} hours
+
+UI_ATLAS_TITLE=The Atlas
+UI_ART_ATLAS_TITLE=Artifact Atlas
+UI_ART_ATLAS_DESC=Search and hunt for the artifacts you desire
+UI_ART_ATLAS_SEARCH_PLACEHOLDER=Enter artifact names, attributes, effects...etc
+UI_ART_ATLAS_EMPTY_DESC=Select an artifact to view its information
+UI_ART_ATLAS_NOT_DISCOVERED_DESC=This artifact has yet to be discovered
+UI_ART_ATLAS_NOT_FOUND_DESC=No artifacts found or you have not discovered this artifact yet
+UI_ART_ATLAS_DIVINE_VERSION_BTN_DESC=Divine version
+UI_ART_ATLAS_NO_DIVINE_VERSION_BTN_DESC=This artifact has no divine version
+UI_ART_ATLAS_PURCHAST_QUALITY_BTN_DESC=Quality ranges from 1-10
+UI_ART_ATLAS_DROPPED_BY=Dropped by: {0}
+UI_ART_ATLAS_DIFFICULTY=Difficulty
+UI_ART_ATLAS_DROP_CHANCE=Drop chance: {0}%
+UI_ART_ATLAS_ZONE=Zone: {0}
+
+UI_ART_ATLAS_TUT_TITLE=The <color=#B58300FF>Atlas</color> contains lots of information about all items in the game
+UI_ART_ATLAS_TUT_ART_ATLAS_DESC=The <color=#B58300FF>Artifact Atlas</color> displays all artifacts seen in the game, you can search for the artifacts you want here. As well as directly forge them here!
+UI_ART_ATLAS_TUT_RUNE_ATLAS_DESC=The <color=#B58300FF>Rune Atlas</color> displays information about different runewords, you can also purchase hints here as well
+
+UI_RUNE_ATLAS_TITLE=Rune Atlas
+UI_RUNE_ATLAS_DESC=Discover different rune combination here
+
+UI_STATS_INFO_TUT_TITLE=The <color=#B58300FF>Stats and Info</color> contains the stats of your party members as well as FAQs of the game
+UI_STATS_INFO_TUT_STATS_TITLE=The <color=#B58300FF>Stats</color> tab contains all current stats of your party
+UI_STATS_INFO_TUT_FAQ_TITLE=The <color=#B58300FF>FAQ</color> tab will tell you some tips and tricks about the game as well as how to improve your party
+
+UI_STATS_INFO_OFFENSE=Offense
+UI_STATS_INFO_DEFENSE=Defense
+
+UI_FAQ_TITLE=FAQs
+UI_FAQ_DESC=Feeling a little bit stuck or confused?
+
+UI_ARMORY_TITLE=Armory
+UI_STATS_INFO_TITLE=Stats and Info
+UI_TALENTS_TITLE=Talents
+UI_VAULT_WAYPOINTS_TITLE=Vault Waypoints
+UI_CHAOS_SHRINE_TITLE=Chaos Shrine
+
+UI_DICE_TITLE=Dice of Greed
+UI_DICE_DESC=Will lady luck smile upon you today?
+UI_DICE_SELECT_PLACEHOLDER=Purchase an item to see its stats as well as add it to the armory
+UI_DICE_ROLL_WEAPONS_ONLY=Roll [ARMORY_FILTERS_WEAPON] only
+UI_DICE_ROLL_ARMORS_ONLY=Roll [ARMORY_FILTERS_ARMOR] only
+UI_DICE_ROLL_ACCESSORIES_ONLY=Roll [ARMORY_FILTERS_ACCESSORY] only
+
+UI_DISCORD_FEEDBACK_DESC=Found a bug? Liked the game? Have feedback? <br>Join the discord server!
+
+UI_COMBATLOG_TITLE=<color=#B58300FF>Combat Log</color>
+UI_COMBATLOG_DESC=Select a party member to view their detailed information about the battle
+UI_COMBATLOG_DMG_DONE=Damage Done
+UI_COMBATLOG_TOTAL_DMG_DONE=Total damage done: {0}<br>({1}% of all damage done)
+UI_COMBATLOG_HEALING_DONE=Healing Done
+UI_COMBATLOG_TOTAL_HEALING_DONE=Total healing done: {0}<br>({1}% of all healing done)
+UI_COMBATLOG_HEALING_RECEIVED=Healing Received
+UI_COMBATLOG_TOTAL_HEALING_RECEIVED=Total healing received: {0}<br>({1}% of all healing received)
+
+UI_SKILL_SETUP_TITLE=Skills Setup
+UI_SKILL_SETUP_DESC=Learn and set up your skills here before you venture into the darkness
+UI_SKILL_CAN_CRITICALLY_HEAL=Can critically heal
+
+
+UI_SKILL_SETUP_CURRENT_HEAL=Current healing: {0}
+UI_SKILL_SETUP_CURRENT_HEAL_PER_SEC=Current healing: {0} per second
+UI_SKILL_CLEANSING_RAY_STRENGTH_INCREASE=Strength increase: {0}% per second upto a maximum of {1}%
+
+UI_SKILL_SETUP_BASE_HEALING=BaseHeal: {0}
+
+UI_SKILL_SETUP_OVERTIME_BASE_HEALING=Overtime base healing: {0} per second
+UI_SKILL_SETUP_OVERTIME_HEALING=Overtime healing: {0} per second
+
+UI_SKILL_SETUP_EFFECT_START_BASE_HEALING=Effect start base healing: {0}
+UI_SKILL_SETUP_EFFECT_START_HEALING=Effect start healing: {0}
+
+UI_SKILL_SETUP_EFFECT_END_BASE_HEALING=Effect end base healing: {0}
+UI_SKILL_SETUP_EFFECT_END_HEALING=Effect end healing: {0}
+
+UI_SKILL_SETUP_ATTRIBUTE_INCREASE={0} increase:<br>{1}
+UI_SKILL_SETUP_ATTRIBUTE_REDUCTION={0} reduction: {1}
+UI_SKILL_SETUP_ATTRIBUTE_BONUS={0} bonus: {1}
+UI_SKILL_SETUP_BASE_DMG=Base damage: {0}
+UI_SKILL_SETUP_BASE_DMG_PER_SECOND=Base damage: {0} per second
+UI_SKILL_SETUP_CURRENT_DMG=Current damage: {0}
+UI_SKILL_SETUP_CURRENT_DMG_PER_SECOND=Current damage: {0} per second
+UI_SKILL_SETUP_DMG_REDUCTION=Damage reduction: {0}
+UI_SKILL_SETUP_HEALTH_RESTORED=Health restored: {0}
+
+UI_SKILL_SETUP_BASE_HEALTH_REGEN=Base health regeneration: {0} per second
+UI_SKILL_SETUP_TOTAL_HEALTH_REGEN=Total health regeneration: {0} per second
+
+UI_SKILL_SETUP_BASE_SHIELD_VALUE=Base shield value: {0}
+UI_SKILL_SETUP_CURRENT_SHIELD_VALUE=Current shield value: {0}
+
+UI_SKILL_SETUP_HEALS_FOR_HEALPOWER=Heals for {0} of healpower
+UI_SKILL_SETUP_SIPHON_LIFT_SAC_BONUS={0} deals {1}% more damage and heals for {1}% more per sacrificed talent point
+
+UI_SKILL_SETUP_DURATION=Duration: {0} seconds
+UI_SKILL_SETUP_CASTTIME_SECONDS=Cast time: {0} seconds
+UI_SKILL_SETUP_CASTTIME=Cast time: {0}
+UI_SKILL_SETUP_DURATION_INSTANT_CAST=Instant cast
+
+UI_SKILL_SETUP_COOLDOWN_SECONDS=Cooldown: {0} seconds
+UI_SKILL_SETUP_MANA_COST=Mana cost: {0}
+UI_SKILL_SETUP_MANA_COST_PER_SECOND=Mana cost: {0} per second
+
+UI_SKILL_SETUP_REQUIRED_POINTS=Require {0} points invested in {1} talents to use
+
+UI_BUYBACK_TITLE=Buy back
+UI_BUYBACK_DESC=Buy back the last {0} items sold this session
+
+UI_BLACKSMITH_INVENTORY=Equipped items & Inventory
+UI_BLACKSMITH_EMPTY_TEXT=Select an artifact to view its crafting options
+UI_BLACKSMITH_MAT_USED=Material used on this artifact
+UI_BLACKSMITH_ENCHANT_LOCKED_TEXT=Complete more {0} quests to unlock
+UI_BLACKSMITH_NO_OPTION_TEXT=This material can not be upgraded
+UI_BLACKSMITH_OVERVIEW_TITLE=Crafting Overview
+UI_BLACKSMITH_OVERVIEW_DESC=Crafting can increase the power of an artifact. Select a way to change the artifact on the left to get started!
+UI_BLACKSMITH_UPGRADE_VIEW_TITLE=Upgrade Artifact
+UI_BLACKSMITH_UPGRADE_VIEW_DESC=Upgrading will increase the stats of the artifact, making it more powerful
+UI_BLACKSMITH_AUG_VIEW_TITLE=Augment Artifact
+UI_BLACKSMITH_AUG_VIEW_DESC=Augmenting will add additional attributes to the artifact
+UI_BLACKSMITH_MUT_VIEW_TITLE=Mutate Artifact
+UI_BLACKSMITH_MUT_VIEW_DESC=Mutating will make some attributes become more powerful at the cost of some other attributes become less powerful
+UI_BLACKSMITH_ORRA_VIEW_TITLE=[BOSS_ORRA_SHORT_NAME] Crafting
+UI_BLACKSMITH_ORRA_VIEW_DESC=[BOSS_ORRA_SHORT_NAME] can help you improve your armors even further by enchanting it with additional attributes. Attributes improves as [BOSS_ORRA_SHORT_NAME]'s level gets higher
+UI_BLACKSMITH_MEVOR_VIEW_TITLE=[BOSS_MEVOR_SHORT_NAME] Crafting
+UI_BLACKSMITH_MEVOR_VIEW_DESC=[BOSS_MEVOR_SHORT_NAME] can help you improve your weapons even further by enchanting it with additional attributes. Attributes improves as [BOSS_MEVOR_SHORT_NAME]'s level gets higher.
+UI_BLACKSMITH_EDWIN_VIEW_TITLE=[BOSS_EDWIN_SHORT_NAME] Crafting
+UI_BLACKSMITH_EDWIN_VIEW_DESC=[BOSS_EDWIN_SHORT_NAME] can help you improve your accessories even further by enchanting it with additional attributes. Attributes improves as [BOSS_EDWIN_SHORT_NAME]'s level gets higher.
+UI_BLACKSMITH_CURSED_VIEW_TITLE=Cursed Crafting
+UI_BLACKSMITH_CURSED_VIEW_DESC=Cursed crafting has some of the strongest crafting option in the game.
+UI_BLACKSMITH_MAT_UPGRADE_VIEW_TITLE=Upgrade Jewel
+UI_BLACKSMITH_MAT_UPGRADE_VIEW_DESC=You can craft high tier of the same jewels here
+UI_BLACKSMITH_UPGRADE_QUALITY_TITLE=Upgrade Overall Quality
+UI_BLACKSMITH_UPGRADE_QUALITY_DESC=Upgrade the overall quality of the artifact
+UI_BLACKSMITH_MAXIMUM_UPGRADE_REACHED=Maximum upgrades reached
+UI_BLACKSMITH_UPGRADE_RANDOM_ATTR_TITLE=Upgrade Random Attribute
+UI_BLACKSMITH_UPGRADE_RANDOM_ATTR_DESC=Upgrade a random attribute of the artifact, some attributes are not upgradeable
+UI_BLACKSMITH_UPGRADE_JEWEL_DESC=Upgrade the jewel into a higher tier
+UI_BLACKSMITH_ADDS_AUGMENT_TITLE=Add Augmentations
+UI_BLACKSMITH_ADDS_AUGMENT_DESC=Add three random augmentations to the artifact
+UI_BLACKSMITH_ALREADY_AUGMENTED=Artifact is already augmented
+UI_BLACKSMITH_HASNT_AUGMENTED=Artifact has not been augmented
+UI_BLACKSMITH_MODIFY_AUGMENT_TITLE=Modify Augmentations
+UI_BLACKSMITH_MODIFY_AUGMENT_DESC=Reroll or lock the existing augmentations
+UI_BLACKSMITH_UPGRADE_AUGMENT_TITLE=Upgrade Augmentations
+UI_BLACKSMITH_UPGRADE_AUGMENT_DESC=Upgrade existing augmentations
+UI_BLACKSMITH_MUTATE_DESC=Upgrade existing augmentations
+UI_BLACKSMITH_CLEANSE_MUTATION_TITLE=Cleanse Mutations
+UI_BLACKSMITH_CLEANSE_MUTATION_DESC=Cleanse all mutations on the artifact
+UI_BLACKSMITH_HASNT_MUTATED=Artifact does not have mutations
+
+UI_MUTZ_HEAVEN_DESC=Keeper of Haven
+UI_SETTINGS_HEAVEN_DESC=Change and setup your preferences
+UI_ACHIEVEMENTS_HEAVEN_DESC=View your achievements and progress
+UI_ATALS_HEAVEN_DESC=Contains information about all items and runes
+UI_ARMORY_HEAVEN_DESC=Organize and sell artifacts
+UI_STATS_INFO_HEAVEN_DESC=View your party stats and FAQs
+UI_SKILL_ROOM_HEAVEN_DESC=Upgrade and set up your skills
+UI_TALENT_ROOM_HEAVEN_DESC=Learn and set up your talents
+UI_VAULT_WAYPOINTS_HEAVEN_DESC=Venture into the Vault
+UI_CHAOS_SHRINE_HEAVEN_DESC=Generates Chaos Crystals overtime
+UI_DICE_OF_GREED_HEAVEN_DESC=Mysterious artifacts at a cost of a bit of gold
+UI_TORROM_HEAVEN_DESC=Upgrade artifacts
+
+UI_DIALOG_SKIP=Press ESC to skip
+UI_DIALOG_CONTINUE=Click to continue
+
+UI_LEVEL_DESC_MODAL_CHAOTIC=Chaotic
+UI_LEVEL_DESC_MODAL_BEST_TIME=Best Time
+UI_LEVEL_DESC_MODAL_KILL_COUNT=Kill Count
+
+UI_LEVEL_DESC_BOSS_JOURNAL_DESC=<color=#FF911F>Boss Journal</color> - Contains information about the boss or level
+UI_LEVEL_DESC_CHAOS_PILLAR_DESC=<color=#FF911F>Chaos Pillar</color> - Use it to increase the difficulty of the boss or level
+UI_LEVEL_DESC_LOOT_DESC=<color=#FF911F>Loot</color> - Contains information about the boss or the level's loot
+UI_LEVEL_DESC_MODAL_EMPTY=Select an object at the bottom right to view the boss's info
+UI_LEVEL_DESC_MODAL_LOCKED_LOOT_VIEW=Defeat the boss at this difficulty to unlock
+UI_LEVEL_DESC_MODAL_EMPTY_LOOT_VIEW=This boss has no loot
+UI_LEVEL_DESC_MODAL_HOK_TEXT=Immortals only have 1 difficulty. They are tougher than normal bosses, be careful!
+UI_LEVEL_DESC_MODAL_GUARDIANS_TEXT=Guardians only have 1 non Chaos difficulty. They are ancient beings that were created with the Vault to guard the most sacred treasures.
+UI_LEVEL_DESC_MODAL_MIDNIGHT_ZONE_ITEMS_TEXT=Complete all floors in order for the midnight specific items to have a chance of dropping. <br>Completing individual floor will only drop the individual boss's items.
+UI_LEVEL_DESC_MODAL_MIDNIGHT_ZONE_TEXT=Take on the challenge of facing a horde of bosses. The more bosses you defeat, the better the reward will be!
+UI_LEVEL_DESC_MODAL_ARMORY_FULL_TEXT=Your [UI_ARMORY_TITLE] is full!
+UI_LEVEL_DESC_MODAL_FEED_IT_A_X=Feed it a 
+UI_LEVEL_DESC_MODAL_CHAOS_ENCOUNTER_DESC=The next encounter will contain the following
+UI_LEVEL_DESC_MODAL_CHAOS_LOCKED_DESC=Acquire a [MATERIAL_CHAOS_CRYSTAL_NAME] to unlock
+UI_LEVEL_DESC_MODAL_EMPTY_SKILL_VIEW=This boss has no skills
+UI_LEVEL_DESC_MODAL_OTHER_EFFECTS=Other Effects
+UI_LEVEL_DESC_DIFFICULTY_LEVEL=Difficulty level
+UI_LEVEL_DESC_BOSS_DAMAGE_TOOLTIP=How strong the boss's auto attacks are
+UI_LEVEL_DESC_BOSS_DAMAGE_ELEMENTS_TOOLTIP=Boss's auto attacks sometimes deals a mixture of damage elements
+UI_LEVEL_DESC_BOSS_SPELLPOWER_TOOLTIP=How strong the boss's abilities are
+UI_LEVEL_DESC_BOSS_ATTACKSPD_TOOLTIP=How fast the boss attacks
+UI_LEVEL_DESC_ENERY_ITEMS=Enemy Items
+UI_LEVEL_DESC_DEFEAT_NORMAL=Defeat the boss at [CONTEXT_DIFFICULTY_NORMAL] difficulty to unlock
+UI_LEVEL_DESC_DEFEAT_BRUTAL=Defeat the boss at [CONTEXT_DIFFICULTY_BRUTAL] difficulty to unlock
+UI_LEVEL_DESC_ONLY_CHAOTIC=Only drops when chaotic
+
+UI_LEVEL_DESC_TOTAL_DAMAGE_TEXT={0}[ATTRIBUTE_TOTAL_DAMAGE_TEXT]: {1}{2}
+UI_LEVEL_DESC_SPELLPOWER_TEXT={0}[ATTRIBUTE_SPELLPOWER_TEXT]: {1}{2}
+UI_LEVEL_DESC_ATTACKSPEED_TEXT={0}[ATTRIBUTE_ATTACK_SPEED]: {1}{2}
+UI_LEVEL_DESC_MAX_HEALTH_TEXT={0}[ATTRIBUTE_MAXIMUM_HEALTH]: {1}{2}
+UI_LEVEL_DESC_HEALTH_REGENERATION_TEXT={0}[ATTRIBUTE_HEALTH_REGENERATION]: {1}{2} per second
+UI_LEVEL_DESC_BLOCKCHANCE_TEXT={0}[ATTRIBUTE_BLOCK_CHANCE_TEXT]: {1}%{2}
+UI_LEVEL_DESC_DODGECHANCE_TEXT={0}[ATTRIBUTE_DODGE_CHANCE_TEXT]: {1}%{2}
+
+UI_LEVEL_DESC_CHAOS_DROP_X_TO_Y_CC=<color=#FF911F>Drops {0}-{1} Chaos Crystal</color>
+UI_LEVEL_DESC_CHAOS_X_MORE_QUALITY=<color=#FF911F>Dropped items have +{0} quality</color>
+UI_LEVEL_DESC_CHAOS_AUG_CHANCE_ONE_TIER=<color=#FF911F>Dropped items have a chance to be augmented with tier {0} augmentations</color>
+UI_LEVEL_DESC_CHAOS_AUG_CHANCE_TWO_TIERS=<color=#FF911F>Dropped items have a chance to be augmented with tier {0} or {1} augmentations</color>
+
+UI_BETA_INFO_ENEMY_NAME=Enemy Name: {0}
+UI_BETA_INFO_ENEMY_CURRENT_HP=Health: {0}
+UI_BETA_INFO_ENEMY_ATK=Attack Damage: <br><color=#{0}>Physical: {1}</color><br><color=#{2}>Fire: {3}</color><br><color=#{4}>Ice: {5}</color><br><color=#{6}>Lightning: {7}</color><br><color=#{8}>Nemesis: {9}</color>
+UI_BETA_INFO_TOTAL=Total
+UI_BETA_INFO_OTHER=Other
+
+UI_BATTLE_SUCCESS_NEW_RECORD=New Record!
+UI_BATTLE_SUCCESS_LEVEL_UP=Level up!
+UI_BATTLE_SUCCESS_LEVEL_UP_STATS=All stats increased!
+UI_BATTLE_SUCCESS_FLAWLESS=Flawless Victory!
+UI_BATTLE_SUCCESS_FLAWLESS_XP={0}% more [CONTEXT_EXPERIENCE]
+
+UI_MODAL_FULL_ARMORY_ERROR=Your Armory is full, please make sure to have at least 1 empty slot in the Armory
+
+UI_TOOLTIP_ENERGIZED_NAME=Energized
+UI_TOOLTIP_ENERGIZED_DESC=Gain extra [ATTRIBUTE_BASE_LIGHTNING_DAMAGE] equal to {0}% [ATTRIBUTE_PHYSICAL_DAMAGE]
+
+UI_TOOLTIP_ENERGY_CHARGE_NAME=Energized
+UI_TOOLTIP_ENERGY_CHARGE_DESC=Charging energy
+
+UI_TOOLTIP_VIVID_NAME=Vivid
+UI_TOOLTIP_VIVID_DESC=Increase all healing over time effect by {0}%
+
+UI_TOOLTIP_GATHERED_WIND_NAME=Garthered Wind
+UI_TOOLTIP_GATHERED_WIND_DESC=Gathered some wind, moving will consume the wind
+
+UI_TOOLTIP_GUST_NAME=Gust
+UI_TOOLTIP_GUST_DESC=Gain {0}% [ATTRIBUTE_MOVEMENT_SPEED] and {1}% [ATTRIBUTE_CAST_SPEED]
+
+UI_TOOLTIP_BLOODLUST_NAME=Blood Lust
+UI_TOOLTIP_BLOODLUST_DESC=Gain {0}% [ATTRIBUTE_BASE_PHYSICAL_DAMAGE] and re-enable healing from [TALENT_VAMPIRISM_NAME]
+
+UI_TOOLTIP_CRAVE_NAME=Crave
+UI_TOOLTIP_CRAVE_DESC=Craving for blood
+
+UI_TOOLTIP_VOID_AURA_NAME=Void Aura
+UI_TOOLTIP_VOID_AURA_DESC=Aura of the void, this aura does nothing
+
+UI_TOOLTIP_DECREPIFICATION_AURA_NAME=Decrepification Aura
+UI_TOOLTIP_DECREPIFICATION_AURA_DESC=Reduce all enemies' [ATTRIBUTE_BLOCK_CHANCE_TEXT], [ATTRIBUTE_DODGE_CHANCE_TEXT], and [ATTRIBUTE_ELE_RESISTS_TEXT] by 10%
+
+UI_TOOLTIP_SANGUINE_AURA_NAME=Sanguine Aura
+UI_TOOLTIP_SANGUINE_AURA_DESC=Increased [ATTRIBUTE_PHYSICAL_DAMAGE] by 8% <br>Increased [ATTRIBUTE_PHYSICAL_RESIST] by 2%
+
+UI_TOOLTIP_VIGOR_AURA_NAME=Vigor Aura
+UI_TOOLTIP_VIGOR_AURA_DESC=Increased [ATTRIBUTE_HEALING_RECEIVED] by 5%
+
+UI_TOOLTIP_BRUTALITY_AURA_NAME=Brutality Aura
+UI_TOOLTIP_BRUTALITY_AURA_DESC=Increase [ATTRIBUTE_ALL_DAMAGE_DEALT] by 5%
+
+UI_TOOLTIP_FLAME_AURA_NAME=Flame Aura
+UI_TOOLTIP_FLAME_AURA_DESC=[ATTRIBUTE_BASE_FIRE_DAMAGE] increased
+
+UI_TOOLTIP_FROST_AURA_NAME=Frost Aura
+UI_TOOLTIP_FROST_AURA_DESC=[ATTRIBUTE_BASE_ICE_DAMAGE] increased
+
+END

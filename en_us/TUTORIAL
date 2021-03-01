@@ -1,0 +1,91 @@
+TUTORIAL_HAVEN_TTILE=Welcome to the <color=#B58300FF>Hidden Haven</color>. Here you can rest and prepare yourself for your next fight.
+TUTORIAL_HAVEN_TALENT_TTILE=Visit the <color=#B58300FF>Talent Room</color> to learn different talents and masteries. <br><br><color=#858585>Every time you level up you will gain a talent point</color>
+TUTORIAL_HAVEN_MUTZ=Checkout the other items in Haven as well, then when you are ready, talk to <color=#B58300FF>Mutz</color>
+
+TUTORIAL_DESC_TALENT_TITLE=Talents provide strong bonuses to your party. 
+TUTORIAL_DESC_TALENT_UPGRADE=Select a talent by left clicking on it. And then left click/right click again to upgrade/downgrade
+TUTORIAL_DESC_TALENT_UPGRADE_MANUAL=You can also use these buttons to upgrade/downgrade as well
+
+TUTORIAL_DESC_EQUIPPING_TITLE=Welcome to the <color=#B58300FF>[UI_ARMORY_TITLE]</color>, here you can equip different artifacts to your <color=#B58300FF>[CONTEXT_PARTY_MEMBER_NAME_HEALER]</color>! 
+TUTORIAL_DESC_EQUIPPING_HEALER_ONLY=<color=#B58300FF>Note that items equipped onto the [CONTEXT_PARTY_MEMBER_NAME_HEALER] will affect the party as a whole!</color> 
+TUTORIAL_DESC_EQUIPPING_METHODS=You can equip the artifacts by either drag and drop or double click!
+
+TUTORIAL_FAV_INSTRUCTION=Click the heart icon to favorite an artifact
+TUTORIAL_FAV_DESC=Favorited artifacts do not get auto sold, ever.
+
+
+TUTORIAL_FIRST_ARTIFACT=Looks like you got yourself an artifact there, let's go visit the <color=#B58300FF>Armory</color> in <color=#B58300FF>Hidden Haven</color> to learn more about it!
+TUTORIAL_SKILL_ROOM=The <color=#B58300FF>Skill Room</color> in <color=#B58300FF>Hidden Haven</color> is now unlocked! You can learn and equip new skills there!
+TUTORIAL_ATLAS_UNLOCK=The <color=#B58300FF>Atlas</color> in <color=#B58300FF>Hidden Haven</color> has been unlocked! <br><br>The <color=#B58300FF>Atlas</color> contains all information about all items and runes in the game!
+
+TUTORIAL_ORRA_INTRO=Torram can now enchant additional attributes to all your <color=#B58300FF>Armors</color>
+TUTORIAL_ORRA_ATTRIBUTES=Torram can now enchant stronger and more attributes!
+TUTORIAL_MEVOR_INTRO=Torram can now enchant additional attributes to all your <color=#B58300FF>Weapons</color>
+TUTORIAL_MEVOR_ATTRIBUTES=Torram can now enchant stronger and more attributes!
+TUTORIAL_EDWIN_INTRO=Torram can now enchant additional attributes to all your <color=#B58300FF>Accessory</color>
+TUTORIAL_EDWIN_ATTRIBUTES=Torram can now enchant stronger and more attributes!
+TUTORIAL_TRIO_CHAOS=You have acquired 1 <color=#B58300FF>Astral Fragments</color>
+TUTORIAL_TRIO_CHAOS_COLLECT=Collect
+TUTORIAL_TRIO_CHAOS_MORE=more fragments to unlock an anddtional item slot in the armory
+TUTORIAL_TRIO_CHAOS_DONE=The <color=#B58300FF>Chaos Slot</color> is now unlocked in the armory
+
+TUTORIAL_MASTERY_UNLOCK_TITLE=Congratulations on reaching <color=#FF911F>level 10</color>!
+TUTORIAL_MASTERY_DESC=You will now earn <color=#FF911F>Mastery Experience</color> after every battle based on how many points you have invested into the class tree<br><br>Each Mastery Level will grant you a <color=#FF911F>Mastery Point</color>, mastery points can be used to improve the talents even more<br><br>Talent mastery level will only activate based on the current level of the talent
+TUTORIAL_MASTERY_BONUS=Talent Mastery Bonus
+TUTORIAL_MASTERY_VISIT=Visit the <color=#FF911F>Talent Door</color> to view your mastery
+
+
+TUTORIAL_CHAOS_UNLOCK=Looks like you found yourself a <color=#FF911F>Chaos Crystal</color>, the crystal can be used by clicking on the <color=#FF911F>Chaos Pillar</color> before entering a battle. Making the battle harder, but also increasing the rewards!
+TUTORIAL_CHAOS_PILLAR_UNLOCK=The <color=#FF911F>Chaos Pillar</color> will also sometimes activate itself after a battle. Defeating the auto-activated <color=#FF911F>Chaos Pillar</color> bosses is a good way to gain more <color=#FF911F>Chaos Crystals</color>
+TUTORIAL_CHAOS_GENERATION_UNLOCK=You will also now earn a <color=#FF911F>Chaos Crystal</color> every few minutes, even when the game is closed!
+
+TUTORIAL_MIDNIGHT_UNLOCK=The <color=#FF911F>Midnight Zone</color> is now unlocked! After defeating all bosses in a quarter/zone you can fight them 1 by 1 again at the <color=#FF911F>Midnight Zone</color> to challenge yourself and earn additional items!
+
+TUTORIAL_DICE_UNLOCK=The <color=#FF911F>Dice of Greed</color> is now unlocked at the Hidden Haven
+TUTORIAL_DICE_UNLOCK_DESC=The dice offers a variety of items at a cost. Some will be good, some will not
+
+TUTORIAL_CURSE_UNLOCK=Woa, that's a very rare <color=#FF911F>Cursed Soul</color> you got there!
+TUTORIAL_CURSE_CRAFT=<color=#FF911F>Torram</color> can now use <color=#FF911F>Cursed Soul</color> to craft and upgrade items in a different way!
+TUTORIAL_CURSE_PURCHASE=You can also use <color=#FF911F>Cursed Soul</color> to purchase any item you have seen in the <color=#FF911F>Atlas</color>
+
+TUTORIAL_BEATING_GAME=Congratulation on defeating the guardians and beating Mini Healer! You can challenge yourself by using the <color=#B58300FF>Key of Infinity</color> in depth and see how far you can go!
+
+TUTORIAL_BATTLE_SELECT_CHARACTER_0=Looks like our Tank has taken some damage.  Let's heal him up!
+TUTORIAL_BATTLE_SELECT_CHARACTER_1=First, <color=#B58300FF>select</color> him by clicking anywhere on his portrait or health bar
+TUTORIAL_BATTLE_SELECT_CHARACTER_2=You can also select other party members by pressing Q,W,E,R
+
+TUTORIAL_BATTLE_SELECT_SPELL_0=Good job! Now let's cast our first spell, <color=#ea8631>Lesser Heal</color> on him!
+TUTORIAL_BATTLE_SELECT_SPELL_1=<color=#ea8631>Hover</color> onto spells or icons to see what it does. <br>Then press <color=#ea8631>1</color> to cast it on the Tank!
+
+TUTORIAL_BATTLE_MANA_0=He's all patched up! That should be all you need to know. <br>Defeat the Bone Knight, and venture into the Vault.
+TUTORIAL_BATTLE_MANA_1=Careful not to run out of mana or you won't be able to cast spells
+
+TUTORIAL_BATTLE_RENEW_0=Uh oh, looks like our Tank is bleeding. Don't worry, here's a new skill that can help!
+TUTORIAL_BATTLE_RENEW_1=<color=#ea8631>Unlocked Renew!</color> <br>Renew is great for healing a single target over time.<br>Try selecting the <color=#ea8631>Tank</color> then press <color=#ea8631>2</color> to cast it
+
+TUTORIAL_BATTLE_NEGATE_0=Some enemies will cast powerful buffs on themselves, pay attention to them and remove them if need be.
+TUTORIAL_BATTLE_NEGATE_1=<color=#ea8631>Unlocked Negate!</color> <br>Negate is great for removing powerful buffs on the enemies. <br>Try selecting an enemy then press <color=#ea8631>4</color> to cast it
+
+TUTORIAL_BATTLE_SWITCH_0=Looks like Gump has summoned a minion!
+TUTORIAL_BATTLE_SWITCH_1=<color=#B58300FF>Clicking on an enemy will make the party switch focus to it</color>
+TUTORIAL_BATTLE_SWITCH_2=You can also press<color=#B58300FF> tab</color> to switch focus
+
+TUTORIAL_MOVEMENT=You can press <color=#B58300FF>A</color> or <color=#B58300FF>D</color> to move the Healer. You can use it to dodge bosses' skills or interact with the items on the battle field.
+
+TUTORIAL_ENV_EFFECT=Be aware that sometimes there can be additional<color=#B58300FF> environmental effects</color><br><br>Make sure to check the top left corner to learn its effect
+
+
+TUTORIAL_DISPEL_WATCH_OUT=Watch out for any harmful debuffs on your character!
+TUTORIAL_DISPEL_HOVER=<color=#ea8631>Make sure to hover onto each debuff to see the effects</color>
+TUTORIAL_DISPEL_CAN_BE_DISPEL=<color=#ea8631>-> can be dispelled</color>
+TUTORIAL_DISPEL_CAN_NOT_BE_DISPEL=<color=#ea8631>-> can not be dispelled</color>
+TUTORIAL_DISPEL_UNLOCK=<color=#ea8631>Unlocked Dispel!</color> <br><br>Dispel can remove some harmful effects on your party member
+
+
+
+TUTORIAL_SKILL_ROOM_TITLE=Welcome to the Skill room!
+TUTORIAL_SKILL_ROOM_DESC=Bringing the right skills into a battle is a key to success and you can set up your skills here<br><br>Check back here often to see what skills you have unlocked.
+TUTORIAL_SKILL_ROOM_UPGRADE_DESC=You will also find <color=#B58300FF>Angelic Crystals</color> throughout your adventure. You can use those crystals to upgrade your skills
+
+
+END
