@@ -1,0 +1,91 @@
+TUTORIAL_HAVEN_TTILE=欢迎来到<color=#B58300FF>隐藏避难所</color>。在这里你可以放松休息，或者为下一次战斗做准备。
+TUTORIAL_HAVEN_TALENT_TTILE=访问<color=#B58300FF>天赋屋</color>学习各种天赋和精通。 <br><br><color=#858585>每次升级都可以获得一个天赋点数</color>
+TUTORIAL_HAVEN_MUTZ=在避难所到处逛逛，当你准备好战斗了，就去找<color=#B58300FF>穆</color>对话
+
+TUTORIAL_DESC_TALENT_TITLE=天赋对队伍提升很大。
+TUTORIAL_DESC_TALENT_UPGRADE=左键选择一个天赋，再按左键/右键可以提升/降低它的等级
+TUTORIAL_DESC_TALENT_UPGRADE_MANUAL=也可以用界面按钮来提升/降低等级
+
+TUTORIAL_DESC_EQUIPPING_TITLE=欢迎来到<color=#B58300FF>装备库</color>！在这里可以给<color=#B58300FF>[CONTEXT_PARTY_MEMBER_NAME_HEALER]</color>调整装备！
+TUTORIAL_DESC_EQUIPPING_HEALER_ONLY=<color=#B58300FF>给[CONTEXT_PARTY_MEMBER_NAME_HEALER]穿的装备影响全队</color> 
+TUTORIAL_DESC_EQUIPPING_METHODS=你可以拖拽装备到栏位，或者双击装备图标！
+
+TUTORIAL_FAV_INSTRUCTION=点击心形图标，将装备标记为最爱
+TUTORIAL_FAV_DESC=最爱装备永远不会被自动卖出
+
+
+TUTORIAL_FIRST_ARTIFACT=看起来你找到了一件装备，快回<color=#B58300FF>避难所</color>的<color=#B58300FF>装备库</color>看看能不能穿上
+TUTORIAL_SKILL_ROOM=<color=#B58300FF>避难所</color>的<color=#B58300FF>技能屋</color>已解锁！你可以在那里学习新法术/技能，调整法术栏！
+TUTORIAL_ATLAS_UNLOCK=<color=#B58300FF>避难所</color>的<color=#B58300FF>图鉴</color>已解锁！<br><br>The <color=#B58300FF>图鉴</color>里可以找到所有已知装备和符文的信息
+
+TUTORIAL_ORRA_INTRO=托拉姆现在可以附魔<color=#B58300FF>护甲</color>了！
+TUTORIAL_ORRA_ATTRIBUTES=托拉姆附魔种类增加了！
+TUTORIAL_MEVOR_INTRO=托拉姆现在可以附魔<color=#B58300FF>武器</color>了！
+TUTORIAL_MEVOR_ATTRIBUTES=托拉姆附魔种类增加了！
+TUTORIAL_EDWIN_INTRO=托拉姆现在可以附魔<color=#B58300FF>饰品</color>了！
+TUTORIAL_EDWIN_ATTRIBUTES=托拉姆附魔种类增加了！
+TUTORIAL_TRIO_CHAOS=你获得了1块<color=#B58300FF>星体碎片</color>
+TUTORIAL_TRIO_CHAOS_COLLECT=收集
+TUTORIAL_TRIO_CHAOS_MORE=更多碎片，解锁额外武器槽。
+TUTORIAL_TRIO_CHAOS_DONE=<color=#B58300FF>混沌武器槽</color>已在装备库解锁！你可以装备更多武器了！
+
+TUTORIAL_MASTERY_UNLOCK_TITLE=恭喜你达到了<color=#FF911F>10级</color>!
+TUTORIAL_MASTERY_DESC=<color=#FF911F>精通经验</color>是通过战斗获取的，天赋树里投入的点数越多，对应职业的精通经验就涨的越快<br><br>精通每升一级就奖励一点<color=#FF911F>精通点数</color>，可以把天赋的效果继续变强<br><br>对一个天赋效果，精通对天赋的加成级别不会超过天赋的级别
+TUTORIAL_MASTERY_BONUS=天赋精通加成
+TUTORIAL_MASTERY_VISIT=到<color=#FF911F>天赋屋</color>查看精通效果
+
+
+TUTORIAL_CHAOS_UNLOCK=你找到了一颗<color=#FF911F>混沌水晶</color>，它可以给疯狂难度的BOSS继续增加难度（难度越高掉落越好），每颗增加混沌难度1级，最多5级。点击BOSS界面的<color=#FF911F>混沌之柱</color>使用这种水晶强化当前BOSS。
+TUTORIAL_CHAOS_PILLAR_UNLOCK=有些<color=#FF911F>混沌之柱</color>被系统自动点亮了，击败这些BOSS赚取水晶是白嫖<color=#FF911F>混沌水晶</color>的好方法。
+TUTORIAL_CHAOS_GENERATION_UNLOCK=每隔几分钟就会自动生成一块<color=#FF911F>混沌水晶</color>，即使游戏没在运行
+
+TUTORIAL_MIDNIGHT_UNLOCK=<color=#FF911F>午夜区</color>解锁了！当你打败一个区域的所有BOSS后，你可以在<color=#FF911F>午夜区</color>跟他们打群架！挑战自己实力，获取额外奖励！
+
+TUTORIAL_DICE_UNLOCK=避难所里的<color=#FF911F>筛子转转转</color>开门了！
+TUTORIAL_DICE_UNLOCK_DESC=可以用金币购买各种盲盒物品，有些很好，有些没用，全凭运气！
+
+TUTORIAL_CURSE_UNLOCK=哇喔，这个<color=#FF911F>诅咒灵魂</color>可是个高级货
+TUTORIAL_CURSE_CRAFT=<color=#FF911F>托拉姆</color>可以<color=#FF911F>诅咒灵魂</color>制造和升级物品了！
+TUTORIAL_CURSE_PURCHASE=你可以用<color=#FF911F>诅咒灵魂</color>直接购买<color=#FF911F>图鉴</color>里的装备
+
+TUTORIAL_BEATING_GAME=祝贺你剧情通关了！用<color=#B58300FF>无限之钥</color>挑战深渊吧！
+
+TUTORIAL_BATTLE_SELECT_CHARACTER_0=坦克受到了一些伤害，来治疗他吧！
+TUTORIAL_BATTLE_SELECT_CHARACTER_1=首先，<color=#B58300FF>选择</color>坦克的头像或者他的血条
+TUTORIAL_BATTLE_SELECT_CHARACTER_2=你也可以通过按键选择队友，按下Q，W，E，R
+
+TUTORIAL_BATTLE_SELECT_SPELL_0=干得好！现在开始第一次施法，使用<color=#ea8631>次级治疗术</color>给他！
+TUTORIAL_BATTLE_SELECT_SPELL_1=<color=#ea8631>鼠标悬停</color>在法术或者图标上查看说明。<br>然后按下<color=#ea8631>1</color>施法治疗坦克！
+
+TUTORIAL_BATTLE_MANA_0=他被治好了！现在你已经掌握了方法， <br><br>击败白骨骑士，向着宝库深处探险吧！
+TUTORIAL_BATTLE_MANA_1=注意剩余法力，如果法力不够就不能施法了。
+
+TUTORIAL_BATTLE_RENEW_0=糟糕，看起来坦克正在流血！别急，用这个新法术帮忙！
+TUTORIAL_BATTLE_RENEW_1=<color=#ea8631>解锁 恢复术！</color> <br>恢复术很适合对单个目标持续治疗。<br>试试选择<color=#ea8631>坦克</color>然后按下<color=#ea8631>2</color>来施法
+
+TUTORIAL_BATTLE_NEGATE_0=有些敌人会给自己BUFF法术，大幅强化自身，注意驱散这类效果。
+TUTORIAL_BATTLE_NEGATE_1=<color=#ea8631>解锁驱散术！</color> <br>驱散术可以消除敌人身上的一个增益效果（红色）<br>试试选择敌人，然后按下<color=#ea8631>4</color>来用一下
+
+TUTORIAL_BATTLE_SWITCH_0=阿甘召唤了一个小弟！
+TUTORIAL_BATTLE_SWITCH_1=<color=#B58300FF>点击敌人可以让队伍集中攻击它！</color>
+TUTORIAL_BATTLE_SWITCH_2=也可以用<color=#B58300FF>Tab</color>键在多个敌人间切换
+
+TUTORIAL_MOVEMENT=按下<color=#B58300FF>A</color>或<color=#B58300FF>D</color>来移动治疗者。可以用来躲避BOSS技能，或者与场地内的物体互动。
+
+TUTORIAL_ENV_EFFECT=注意，有时候场地上会有<color=#B58300FF>环境效果</color>，造成伤害或者战斗机制相关<br><br>时刻检查左上角的显示
+
+
+TUTORIAL_DISPEL_WATCH_OUT=注意队员身上的有害效果DEBUFF
+TUTORIAL_DISPEL_HOVER=<color=#ea8631>鼠标悬停在DEBUFF图标上查看它的作用</color>
+TUTORIAL_DISPEL_CAN_BE_DISPEL=<color=#ea8631>-> 可以被净化术去除</color>
+TUTORIAL_DISPEL_CAN_NOT_BE_DISPEL=<color=#ea8631>-> 不可去除</color>
+TUTORIAL_DISPEL_UNLOCK=<color=#ea8631>解锁净化术！</color> <br><br>净化术可以移除队员身上的有害效果
+
+
+
+TUTORIAL_SKILL_ROOM_TITLE=欢迎来到技能/法术屋！
+TUTORIAL_SKILL_ROOM_DESC=用合适的法术应战是胜利诀窍，你可以在这里配置法术栏<br><br>常回来看看有没有解锁新的法术。
+TUTORIAL_SKILL_ROOM_UPGRADE_DESC=在冒险时获得的<color=#B58300FF>天使水晶</color>可以在这里升级法术等级。
+
+
+END
