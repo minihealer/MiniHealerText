@@ -11,9 +11,20 @@ TALENT_LASTS_X_SECONDS=Lasts {0} seconds
 
 TALENT_RESET=Reset
 TALENT_RESET_TITLE=Talent Reset
-TALENT_RESET_ONLY_TALENT_TITLE=Reset Talents
+
+TALENT_RESET_ONLY_TALENT_TITLE=Reset All Talents
+TALENT_RESET_ONLY_DRUID_TALENT_TITLE=Reset [CONTEXT_TALENT_CLASS_DRUID] Talents
+TALENT_RESET_ONLY_PRIEST_TALENT_TITLE=Reset [CONTEXT_TALENT_CLASS_PRIEST] Talents
+TALENT_RESET_ONLY_OCCULTIST_TALENT_TITLE=Reset [CONTEXT_TALENT_CLASS_OCCULTIST] Talents
+TALENT_RESET_ONLY_PALADIN_TALENT_TITLE=Reset [CONTEXT_TALENT_CLASS_PALADIN] Talents
 TALENT_RESET_ONLY_TALENT_DESC=Free! Reset as many times as you want
-TALENT_RESET_MASTERY_TITLE=Reset Masteries
+
+TALENT_RESET_MASTERY_TITLE=Reset All Masteries
+TALENT_RESET_DRUID_MASTERY_TITLE=Reset [CONTEXT_TALENT_CLASS_DRUID] Masteries
+TALENT_RESET_PREIST_MASTERY_TITLE=Reset [CONTEXT_TALENT_CLASS_PRIEST] Masteries
+TALENT_RESET_OCCULTIST_MASTERY_TITLE=Reset [CONTEXT_TALENT_CLASS_OCCULTIST] Masteries
+TALENT_RESET_PALADIN_MASTERY_TITLE=Reset [CONTEXT_TALENT_CLASS_PALADIN] Masteries
+
 TALENT_RESET_MASTERY_DESC=Comes with an increasing cost per reset time. Reset time is capped at your current level
 TALENT_RESET_DESC=Don't like your build? You can always change them here!
 TALENT_TALENT_LOADOUT=Talent Loadout
@@ -40,7 +51,7 @@ TALENT_PLUS_X_EFFECT_BY_Y=+{0} {1} effect
 TALENT_PLUS_X_EFFECT_BY_Y_PERCENTAGE=+{0}% {1} effect
 TALENT_MINUS_X_EFFECT_BY_Y_PERCENTAGE=-{0}% {1} effect
 TALENT_PLUS_X_DAMAGE_BY_Y_PERCENTAGE=+{0}% {1} damage
-TALENT_PLUS_X_RAPID_SHOT_ARROW=+{0} LINK_TALENT_RAPID_SHOT arrow
+TALENT_PLUS_X_RAPID_SHOT_ARROW=+{0} [LINK_TALENT_RAPID_SHOT] arrow
 TALENT_PLUS_X_ATTRIBUTE_BY_Y=+{0} {1}
 TALENT_PLUS_X_ATTRIBUTE_BY_Y_NO_SPACE=+{0}{1}
 TALENT_PLUS_ALL_PARTY_MEMBER_X_ATTRIBUTE_BY_Y=+{0} All party members' {1}
@@ -73,10 +84,10 @@ TALENT_ERADICATION_DESC=All enemies take {0}% more damage for each 20% life miss
 TALENT_ERADICATION_SAC_DESC=Further increases enemies's [ATTRIBUTE_ALL_DAMAGE_TAKEN] by {0}% for each 20% life missing per sacrificed talent point
 TALENT_ERADICATION_MASTERY_DESC=% Eradication life missing threshhold
 TALENT_SACRIFICE_DESC=Sacrifice a talent point (what?)
-TALENT_DEMONIFY_ATK_SPD_DESC=LINK_SKILL_MIND_RUSH also increases [ATTRIBUTE_ATTACK_SPEED] by {0}%
-TALENT_DEMONIFY_NEM_RES_DESC=LINK_SKILL_MIND_RUSH also increases [ATTRIBUTE_NEMESIS_RESIST] by {0}%
-TALENT_SOUL_BOOS_PHYS_DMG_DESC=LINK_SKILL_LESSER_HEAL , LINK_SKILL_RADIANT_HEAL , LINK_SKILL_FLASH_HEAL also increases target's [ATTRIBUTE_PHYSICAL_DAMAGE] by {0}% for 3 seconds
-TALENT_SOUL_BOOS_FIRE_DMG_DESC=LINK_SKILL_LESSER_HEAL , LINK_SKILL_RADIANT_HEAL , LINK_SKILL_FLASH_HEAL also increases target's [ATTRIBUTE_FIRE_DAMAGE] by {0}% for 3 seconds
+TALENT_DEMONIFY_ATK_SPD_DESC=[LINK_SKILL_MIND_RUSH] also increases [ATTRIBUTE_ATTACK_SPEED] by {0}%
+TALENT_DEMONIFY_NEM_RES_DESC=[LINK_SKILL_MIND_RUSH] also increases [ATTRIBUTE_NEMESIS_RESIST] by {0}%
+TALENT_SOUL_BOOS_PHYS_DMG_DESC=[LINK_SKILL_LESSER_HEAL] , [LINK_SKILL_RADIANT_HEAL] , [LINK_SKILL_FLASH_HEAL] also increases target's [ATTRIBUTE_PHYSICAL_DAMAGE] by {0}% for 3 seconds
+TALENT_SOUL_BOOS_FIRE_DMG_DESC=[LINK_SKILL_LESSER_HEAL] , [LINK_SKILL_RADIANT_HEAL] , [LINK_SKILL_FLASH_HEAL] also increases target's [ATTRIBUTE_FIRE_DAMAGE] by {0}% for 3 seconds
 TALENT_SOUL_BOOS_FIRE_MASTERY_DESC=% Soul Boost [ATTRIBUTE_FIRE_DAMAGE] bonus
 TALENT_SOUL_BOOS_PHYS_MASTERY_DESC=% Soul Boost [ATTRIBUTE_PHYSICAL_DAMAGE] bonus
 TALENT_VAMPIRISM_DESC=All party members' auto attacks restore health equal to {0}% of the [ATTRIBUTE_PHYSICAL_DAMAGE] dealt
@@ -92,8 +103,8 @@ TALENT_DECAY_AURA_DESC=[CONTEXT_PARTY_MEMBER_NAME_HEALER] deals ({0}% of [ATTRIB
 TALENT_DECAY_AURA_DMG_TAKEN_DESC=Increases enemies [ATTRIBUTE_ALL_DAMAGE_TAKEN] by {0}%
 TALENT_DECAY_AURA_SAC_DESC=Further increases [CONTEXT_PARTY_MEMBER_NAME_HEALER]'s [ATTRIBUTE_ALL_DAMAGE_DEALT] by {0}% per sacrificed talent point
 TALENT_UNSTABLE_MAGIC_DESC=Reduce all party members' [ATTRIBUTE_HEALING_RECEIVED] by {0}%
-TALENT_SHADOW_ENTROPY_STORE_DESC=LINK_SKILL_VOID_ZONE now stores 100% of all amount healed within the zone throughout its duration
-TALENT_SHADOW_ENTROPY_EXPIRE_DESC=When LINK_SKILL_VOID_ZONE expires, [CONTEXT_PARTY_MEMBER_NAME_HEALER] will deal [ATTRIBUTE_FIRE_DAMAGE] to all enemies equal to {0}% of all healing stored
+TALENT_SHADOW_ENTROPY_STORE_DESC=[LINK_SKILL_VOID_ZONE] now stores 100% of all amount healed within the zone throughout its duration
+TALENT_SHADOW_ENTROPY_EXPIRE_DESC=When [LINK_SKILL_VOID_ZONE] expires, [CONTEXT_PARTY_MEMBER_NAME_HEALER] will deal [ATTRIBUTE_FIRE_DAMAGE] to all enemies equal to {0}% of all healing stored
 TALENT_SHADOW_ENTROPY_SAC_DESC=Further increases the damage ratio by {0}% per sacrificed talent point
 TALENT_SHADOW_ENTROPY_MASTERY_DESC=% Shadow Entropy damage ratio
 TALENT_MARK_OF_DEATH_HIT_DESC=[CONTEXT_PARTY_MEMBER_NAME_TANK]'s attacks has a {0}% chance to mark the target, dealing ({1}% * [ATTRIBUTE_INCREASE_HEALPOWER_FLAT_TEXT]) [ATTRIBUTE_NEMESIS_DAMAGE]
@@ -105,25 +116,25 @@ TALENT_CHAOS_STRIKE_CRIT_DESC=[SKILL_CHAOS_STRIKE_NAME] is guaranteed to critica
 TALENT_CHAOS_STRIKE_MASTERY_DESC=% Chaos Strike [CONTEXT_PARTY_MEMBER_NAME_BERZERKER] damage ratio
 TALENT_VOODOO_MAGIC_DESC=Whenever a party member receives fatal damage for the first time in a fight,<br>their health is set to {0}% of their [ATTRIBUTE_MAXIMUM_HEALTH] instead
 TALENT_VOODOO_MASTERY_DESC=% Voodoo Magic health restored percentage
-TALENT_AGONY_DESC=Whenever LINK_SKILL_SHADOW_RIPPLE overheals, [CONTEXT_PARTY_MEMBER_NAME_HEALER] is healed for {0}% of the amount overhealed
+TALENT_AGONY_DESC=Whenever [LINK_SKILL_SHADOW_RIPPLE] overheals, [CONTEXT_PARTY_MEMBER_NAME_HEALER] is healed for {0}% of the amount overhealed
 TALENT_AGONY_SAC_DESC=Further increases the ratio of the overhealing heal by {0}% per sacrificed talent point
 TALENT_AGONY_MASTERY_DESC=% Shadow Ripple healpower ratio
-TALENT_BANISH_DESC=LINK_SKILL_BANISH also reduces [ATTRIBUTE_ELE_RESISTS_TEXT] by {0}%
+TALENT_BANISH_DESC=[LINK_SKILL_BANISH] also reduces [ATTRIBUTE_ELE_RESISTS_TEXT] by {0}%
 TALENT_HEXING_MASTERY_DESC=% Hexing attack speed reduction
-TALENT_HEXING_ATK_SPD_DESC=LINK_SKILL_BANISH also reduces [ATTRIBUTE_ATTACK_SPEED] by {0}%
-TALENT_HEXING_SAC_DESC=LINK_SKILL_BANISH further reduces attack speed by 0.5% per sacrificed talent point
+TALENT_HEXING_ATK_SPD_DESC=[LINK_SKILL_BANISH] also reduces [ATTRIBUTE_ATTACK_SPEED] by {0}%
+TALENT_HEXING_SAC_DESC=[LINK_SKILL_BANISH] further reduces attack speed by 0.5% per sacrificed talent point
 TALENT_DECEPTION_MASTERY_DESC=% Deception health threshold
 TALENT_DECEPTION_UP_DESC=All party members gain {0}% [ATTRIBUTE_ALL_RESISTS_TEXT] when above {1}% health
 TALENT_DECEPTION_DOWN_DESC=All party members lose {0}% [ATTRIBUTE_ALL_RESISTS_TEXT] when below {1}% health
 TALENT_DECEPTION_SAC_DESC=Increase all party members' [ATTRIBUTE_MAXIMUM_HEALTH] by 0.8% per sacrificed talent point
 TALENT_MISERY_SAC_DESC=Increases [ATTRIBUTE_MAXIMUM_MANA] by {0} per sacrificed talent point
-TALENT_SOUL_CONDUIT_ATK_SPD_DESC=LINK_SKILL_CLEANSING_RAY also increases the target's [ATTRIBUTE_ATTACK_SPEED] by {0}% and all [ATTRIBUTE_BASE_DAMAGE_TEXT] by {1}%
-TALENT_SOUL_CONDUIT_DMG_DESC=LINK_SKILL_CLEANSING_RAY now deals [ATTRIBUTE_ICE_DAMAGE] to the party member equal to {0}% of the party member's [ATTRIBUTE_MAXIMUM_HEALTH] instead
+TALENT_SOUL_CONDUIT_ATK_SPD_DESC=[LINK_SKILL_CLEANSING_RAY] also increases the target's [ATTRIBUTE_ATTACK_SPEED] by {0}% and all [ATTRIBUTE_BASE_DAMAGE_TEXT] by {1}%
+TALENT_SOUL_CONDUIT_DMG_DESC=[LINK_SKILL_CLEANSING_RAY] now deals [ATTRIBUTE_ICE_DAMAGE] to the party member equal to {0}% of the party member's [ATTRIBUTE_MAXIMUM_HEALTH] instead
 TALENT_SOUL_CONDUIT_SAC_DESC=Further increases the [TALENT_SOUL_CONDUIT_NAME] [ATTRIBUTE_BASE_DAMAGE_TEXT] bonus by {0}% per sacrificed talent point
 TALENT_UNHOLY_MIGHT_CD_DESC=[CONTEXT_PARTY_MEMBER_NAME_BERZERKER]'s critical strikes reduce the cooldown of [TALENT_CHAOS_STRIKE_NAME] by {0} seconds
 TALENT_UNHOLY_MIGHT_SAC_DESC=Increase [CONTEXT_PARTY_MEMBER_NAME_BERZERKER] [ATTRIBUTE_ATTACK_SPEED] by 1% per sacrificed talent point
-TALENT_REAPER_OF_SOULS_ADDITIONAL_DESC=LINK_SKILL_SIPHON_LIFE now heals 1 additional random party member
-TALENT_REAPER_OF_SOULS_SAC_DESC=Increase the damage of LINK_SKILL_SIPHON_LIFE by 1% per sacrificed talent point
+TALENT_REAPER_OF_SOULS_ADDITIONAL_DESC=[LINK_SKILL_SIPHON_LIFE] now heals 1 additional random party member
+TALENT_REAPER_OF_SOULS_SAC_DESC=Increase the damage of [LINK_SKILL_SIPHON_LIFE] by 1% per sacrificed talent point
 TALENT_REAPER_OF_SOULS_MASTERY_DESC= additional target of Siphon Life's healing
 TALENT_VOID_CHAINS_ENEMY_HEAL_DESC=Reduce all enemies' [ATTRIBUTE_HEALING_RECEIVED] by {0}%
 TALENT_VOID_CHAINS_SAC_DESC=Further reduces all enemies' [ATTRIBUTE_HEALING_RECEIVED] by {0}% per sacrificed talent point
@@ -135,8 +146,8 @@ TALENT_SHADOW_FURY_BASE_ELE_REDUCTION_DESC=Reduce all party members' [ATTRIBUTE_
 TALENT_SHADOW_FURY_MASTERY_DESC=% Shadow Fury's Elemental damage penalties
 TALENT_IMMOLATE_DESC=Every 8 seconds, all party members gain {0}% of their [ATTRIBUTE_PHYSICAL_DAMAGE] as extra [ATTRIBUTE_FIRE_DAMAGE]
 TALENT_IMMOLATE_MASTERY_DESC=% Immolate [ATTRIBUTE_PHYSICAL_DAMAGE] ratio
-TALENT_WICKED_BLOOM_HEALER_ATK_DESC=[CONTEXT_PARTY_MEMBER_NAME_HEALER]'s attacks have a {0}% chance of refreshing all existing LINK_SKILL_RENEW effects
-TALENT_WICKED_BLOOM_BERZERKER_ATK_DESC=[CONTEXT_PARTY_MEMBER_NAME_BERZERKER]'s attacks have a {0}% chance of making your next LINK_SKILL_SHADOW_RIPPLE to have no overhealing penalty
+TALENT_WICKED_BLOOM_HEALER_ATK_DESC=[CONTEXT_PARTY_MEMBER_NAME_HEALER]'s attacks have a {0}% chance of refreshing all existing [LINK_SKILL_RENEW] effects
+TALENT_WICKED_BLOOM_BERZERKER_ATK_DESC=[CONTEXT_PARTY_MEMBER_NAME_BERZERKER]'s attacks have a {0}% chance of making your next [LINK_SKILL_SHADOW_RIPPLE] to have no overhealing penalty
 TALENT_WICKED_BLOOM_SAC_DESC=Further increases [TALENT_WICKED_BLOOM_NAME]'s proc chance by {0}% for both [CONTEXT_PARTY_MEMBER_NAME_HEALER] and [CONTEXT_PARTY_MEMBER_NAME_BERZERKER] per sacrificed talent point
 TALENT_VOID_INFLUENCE_DESC=Increase enemies' spell cast time by {0}%
 TALENT_VOID_INFLUENCE_MASTERY_DESC=% Void Influence enemies' cast time increase percentage
@@ -156,12 +167,12 @@ TALENT_SHOCK_MASTERY_DESC=% Smite's damage increase percentage
 TALENT_PATHS_END_DESC=When a party member dies, increase [ATTRIBUTE_INCREASE_HEALPOWER_FLAT_TEXT] by {0}%
 TALENT_PATHS_END_MASTERY=% Path's End Healpower bonus
 
-TALENT_VIRTUOUS_SPIRIT_DESC=Casting LINK_SKILL_RADIANT_HEAL will decrease the cooldown of LINK_SKILL_HEAVEN_MELODY by {0} seconds
+TALENT_VIRTUOUS_SPIRIT_DESC=Casting [LINK_SKILL_RADIANT_HEAL] will decrease the cooldown of [LINK_SKILL_HEAVEN_MELODY] by {0} seconds
 TALENT_VIRTUOUS_SPIRIT_MASTERY_DESC= Heaven's Melody healing received ratio
-TALENT_RAMPART_DESC=LINK_SKILL_TOUGHEN also reduces [ATTRIBUTE_ALL_DAMAGE_TAKEN] by {0}%
-TALENT_HELPING_HANDS_DESC=LINK_SKILL_LESSER_HEAL also heals 1 extra random target for {0}% healing done to the main target
+TALENT_RAMPART_DESC=[LINK_SKILL_TOUGHEN] also reduces [ATTRIBUTE_ALL_DAMAGE_TAKEN] by {0}%
+TALENT_HELPING_HANDS_DESC=[LINK_SKILL_LESSER_HEAL] also heals 1 extra random target for {0}% healing done to the main target
 TALENT_HELPING_HANDS_MASTERY_DESC=% Helping Hands healing
-TALENT_LIGHTS_GUIDANCE_DESC=LINK_SKILL_LESSER_HEAL , LINK_SKILL_RADIANT_HEAL , LINK_SKILL_AMPLE_HEAL , LINK_SKILL_FLASH_HEAL also reduces target's damage taken by {0}% for 7 seconds
+TALENT_LIGHTS_GUIDANCE_DESC=[LINK_SKILL_LESSER_HEAL] , [LINK_SKILL_RADIANT_HEAL] , [LINK_SKILL_AMPLE_HEAL] , [LINK_SKILL_FLASH_HEAL] also reduces target's damage taken by {0}% for 7 seconds
 TALENT_LIGHTS_GUIDANCE_MASTERY_DESC=% Light's Guidance damage reduction bonus
 
 TALENT_ENERGY_AURA_T_L_DMG=[CONTEXT_PARTY_MEMBER_NAME_TANK] by {0} * current level
@@ -175,7 +186,7 @@ TALENT_HEROISM_DESC=Redirect {0}% all damage taken by all other party members to
 TALENT_HEROISM_MASTERY_DESC=% Heroism's damage redirect percentage
 TALENT_AURA_MASTERY_MANA_DESC=Decrease mana reduction for auras by {0}%
 TALENT_AURA_MASTERY_DMG_DESC=All party members deal {0}% more damage per aura on them
-TALENT_FORTUNATE_FAITH_DESC=LINK_SKILL_LESSER_HEAL has a {0}% chance to make the next LINK_SKILL_AMPLE_HEAL to have no cast time
+TALENT_FORTUNATE_FAITH_DESC=[LINK_SKILL_LESSER_HEAL] has a {0}% chance to make the next [LINK_SKILL_AMPLE_HEAL] to have no cast time
 TALENT_TIME_IN_NEED_DESC=[CONTEXT_PARTY_MEMBER_NAME_TANK] is healed for {0}% of his [ATTRIBUTE_MAXIMUM_HEALTH] every 7 seconds
 TALENT_TIME_IN_NEED_MASTERY_DESC=% Time in Need maximum health heal bonus
 TALENT_INSPIRE_TANK_CAST_DESC=[CONTEXT_PARTY_MEMBER_NAME_TANK] will occasionally cast [SKILL_INSPIRE_NAME]
@@ -187,21 +198,21 @@ TALENT_DIVINE_AEGIS_MASTERY_DESC=% Divine Aegis block heal bonus
 TALENT_LAST_STAND_DMG_TAKEN_DESC=[CONTEXT_PARTY_MEMBER_NAME_TANK] takes {0}% less damage while under {1}% health
 TALENT_LAST_STAND_DMG_DEALT_DESC=[CONTEXT_PARTY_MEMBER_NAME_TANK] deals {0}% more damage while under {1}% health
 TALENT_LAST_STAND_MASTERY_DESC=% Last Stand damage bonus
-TALENT_ANGELIC_INFUSION_CD_DESC=Skills have {0}% less cooldown during LINK_SKILL_ANGELIC_INFUSION
-TALENT_ANGELIC_INFUSION_MANACOST_DESC=LINK_SKILL_ANGELIC_INFUSION increases mana cost of skills by {0}% instead
+TALENT_ANGELIC_INFUSION_CD_DESC=Skills have {0}% less cooldown during [LINK_SKILL_ANGELIC_INFUSION]
+TALENT_ANGELIC_INFUSION_MANACOST_DESC=[LINK_SKILL_ANGELIC_INFUSION] increases mana cost of skills by {0}% instead
 TALENT_ANGELIC_INFUSION_MASTERY_DESC= of Angelic Infusion
 TALENT_BODY_AND_MIND_DMG_DEALT_DESC=Party members deal {0}% more damage when shielded
 TALENT_BODY_AND_MIND_DMG_TAKEN_DESC=Party members takes {0}% less damage when shielded
-TALENT_TWIST_OF_FATE_CD_DESC=[CONTEXT_PARTY_MEMBER_NAME_HEALER]'s critical strikes reduce the cooldown of LINK_SKILL_SMITE by {0} seconds
-TALENT_TWIST_OF_FATE_DMG_DESC=[CONTEXT_PARTY_MEMBER_NAME_HEALER]'s critical strikes will make the next LINK_SKILL_SMITE deal {0}% more damage
+TALENT_TWIST_OF_FATE_CD_DESC=[CONTEXT_PARTY_MEMBER_NAME_HEALER]'s critical strikes reduce the cooldown of [LINK_SKILL_SMITE] by {0} seconds
+TALENT_TWIST_OF_FATE_DMG_DESC=[CONTEXT_PARTY_MEMBER_NAME_HEALER]'s critical strikes will make the next [LINK_SKILL_SMITE] deal {0}% more damage
 TALENT_RAPTURE_DESC=When a shield is removed or expired, [CONTEXT_PARTY_MEMBER_NAME_HEALER] will deal {0}% of damage absorbed as [ATTRIBUTE_LIGHTNING_DAMAGE] to all enemies
 TALENT_RAPTURE_MASTERY_DESC=% Rapture damage bonus
 TALENT_FEATHERED_FOOTWORK_MOVE_DESC=You can now move while channelling
 TALENT_FEATHERED_FOOTWORK_REDUCE_MS_DESC=Reduce movement speed by {0}% while channelling
 TALENT_FEATHERED_FOOTWORK_MANACOST_INCREASE_DESC=Increase mana cost by {0}% while channelling and moving
-TALENT_HOLY_HALO_DESC=LINK_SKILL_RADIANT_HEAL now also shields all party members for {0}% of [ATTRIBUTE_INCREASE_HEALPOWER_FLAT_TEXT] for {1} seconds
+TALENT_HOLY_HALO_DESC=[LINK_SKILL_RADIANT_HEAL] now also shields all party members for {0}% of [ATTRIBUTE_INCREASE_HEALPOWER_FLAT_TEXT] for {1} seconds
 TALENT_HOLY_HALO_MASTERY_DESC=% Holy Halo healpower bonus
-TALENT_HOLY_FURY_DESC=LINK_SKILL_CLEANSING_RAY now also deals {0}% of [ATTRIBUTE_INCREASE_HEALPOWER_FLAT_TEXT] as unblockable/undodgeable [ATTRIBUTE_FIRE_DAMAGE] to the targeted enemy every second
+TALENT_HOLY_FURY_DESC=[LINK_SKILL_CLEANSING_RAY] now also deals {0}% of [ATTRIBUTE_INCREASE_HEALPOWER_FLAT_TEXT] as unblockable/undodgeable [ATTRIBUTE_FIRE_DAMAGE] to the targeted enemy every second
 TALENT_DEVOTION_DESC=All other party members will gain the Devotion effect while you are channelling
 TALENT_DEVOTION_EFFECT_DESC=Devotion effect increases [ATTRIBUTE_PHYSICAL_RESIST] and [ATTRIBUTE_NEMESIS_RESIST] by {0}%, [ATTRIBUTE_BLOCK_CHANCE_TEXT] by {1}%, and [ATTRIBUTE_ALL_DAMAGE_DEALT] by {2}%
 TALENT_PURE_IN_HEART_EFFECT_DESC=Your critical heal will also shield the target for {0}% of the heal amount for {1} seconds
@@ -214,12 +225,12 @@ TALENT_SALVATION_DESC=[CONTEXT_PARTY_MEMBER_NAME_HEALER] will occasionally cast 
 TALENT_SALVATION_MASTERY_DESC=% Salvation damage reduction bonus
 TALENT_THUNDER_ASSAULT_DESC=Every [CONTEXT_PARTY_MEMBER_NAME_HEALER]'s 3rd attack will deal {0} + ({1}% * [ATTRIBUTE_INCREASE_HEALPOWER_FLAT_TEXT]) [ATTRIBUTE_LIGHTNING_DAMAGE] to all enemies.
 
-TALENT_ABUNDANT_GROWTH_MANA_DESC=Everytime LINK_SKILL_RENEW heals a target, there's a {0}% chance to restore {1} mana
-TALENT_SPIRIT_CONNECTION_DESC=LINK_SKILL_SPIRIT_RITUAL also increases healing received by {0}% per stack
+TALENT_ABUNDANT_GROWTH_MANA_DESC=Everytime [LINK_SKILL_RENEW] heals a target, there's a {0}% chance to restore {1} mana
+TALENT_SPIRIT_CONNECTION_DESC=[LINK_SKILL_SPIRIT_RITUAL] also increases healing received by {0}% per stack
 TALENT_POISION_DESC=[CONTEXT_PARTY_MEMBER_NAME_RANGER]'s attack have a {0}% chance to poison enemy, dealing {1} [CONTEXT_ELEMENT_NEMESIS] damage over {2} seconds
 TALENT_POISION_RANGER_SCALING_DESC={0} + ({1}% [CONTEXT_PARTY_MEMBER_NAME_RANGER]'s total damage)
-TALENT_STAR_CALL_DESC=LINK_SKILL_STAR_CALL has a {0}% chance to hit all enemies, dealing {1}% of the damage to all secondary targets
-TALENT_IRON_VINE_DESC=LINK_SKILL_IRON_VINES also increases [ATTRIBUTE_INCREASE_HEALPOWER_FLAT_TEXT] by {0}%
+TALENT_STAR_CALL_DESC=[LINK_SKILL_STAR_CALL] has a {0}% chance to hit all enemies, dealing {1}% of the damage to all secondary targets
+TALENT_IRON_VINE_DESC=[LINK_SKILL_IRON_VINES] also increases [ATTRIBUTE_INCREASE_HEALPOWER_FLAT_TEXT] by {0}%
 TALENT_IRON_VINE_MASTERY_DESC= additional [SKILL_IRON_VINES_NAME] random target
 
 TALENT_REGEN_AURA_DESC=Regenerates {0} + {1} all party members' health per second
@@ -229,39 +240,39 @@ TALENT_FOREST_BLESSING_DESC=Every {0} seconds, all party members are healed for 
 TALENT_FOREST_BLESSING_MASTERY_DESC=% [TALENT_FOREST_BLESSING_NAME] missing health restored bonus
 
 
-TALENT_BOTANIST_HEAL_RECEIVED=LINK_SKILL_RESTORATION_TOTEM also increases [ATTRIBUTE_HEALING_RECEIVED] by {0}%
-TALENT_BOTANIST_DMG_TAKEN=LINK_SKILL_RESTORATION_TOTEM also reduces [ATTRIBUTE_ALL_DAMAGE_TAKEN] by {0}%
+TALENT_BOTANIST_HEAL_RECEIVED=[LINK_SKILL_RESTORATION_TOTEM] also increases [ATTRIBUTE_HEALING_RECEIVED] by {0}%
+TALENT_BOTANIST_DMG_TAKEN=[LINK_SKILL_RESTORATION_TOTEM] also reduces [ATTRIBUTE_ALL_DAMAGE_TAKEN] by {0}%
 TALENT_SHADE_DESC=If a party member has not taken damage for {0} second, they will gain the Shade Effect
 TALENT_SHADE_EFFECT_DESC=Shade Effect regenerates {0}% of maximum health per second
 TALENT_RAPID_SHOT_OCCASIONALLY_CAST=[CONTEXT_PARTY_MEMBER_NAME_RANGER] will occasionally cast [SKILL_RAPID_SHOT_NAME]
 TALENT_RAPID_SHOT_DESC=[SKILL_RAPID_SHOT_NAME] fires 6 arrows and has a 80% [ATTRIBUTE_CRITICAL_STRIKE_CHANCE_TEXT] <br><br>Each arrow will deal {0}% of [CONTEXT_PARTY_MEMBER_NAME_RANGER]'s total damage as [ATTRIBUTE_PHYSICAL_DAMAGE]
 
-TALENT_NEW_SPRING_MANA_GAIN=Increase the mana gained from LINK_SKILL_REJUVENATE by {0} per tick
+TALENT_NEW_SPRING_MANA_GAIN=Increase the mana gained from [LINK_SKILL_REJUVENATE] by {0} per tick
 TALENT_NEW_SPRING_MANA_GAIN_MASTERY= of [SKILL_REJUVENATE_NAME]
 
-TALENT_NEW_SPRING_HEAL=LINK_SKILL_REJUVENATE now heals all party members for ({0}% of [ATTRIBUTE_INCREASE_HEALPOWER_FLAT_TEXT]) per tick
-TALENT_NEW_SPRING_HEALER_CRIT_CD=[CONTEXT_PARTY_MEMBER_NAME_HEALER]'s critical strikes also reduce the cooldown of LINK_SKILL_REJUVENATE by {0} seconds
-TALENT_NEW_SPRING_SR_CD=LINK_SKILL_SPIRIT_RITUAL also reduces the cooldown of LINK_SKILL_REJUVENATE by {0} second per tick
-TALENT_POISON_MASTERY_DESC=LINK_TALENT_POISON damage can now critically strikes with {0}% of [CONTEXT_PARTY_MEMBER_NAME_RANGER]'s [ATTRIBUTE_CRITICAL_STRIKE_CHANCE_TEXT] and [ATTRIBUTE_CRITICAL_STRIKE_DAMAGE_TEXT]
+TALENT_NEW_SPRING_HEAL=[LINK_SKILL_REJUVENATE] now heals all party members for ({0}% of [ATTRIBUTE_INCREASE_HEALPOWER_FLAT_TEXT]) per tick
+TALENT_NEW_SPRING_HEALER_CRIT_CD=[CONTEXT_PARTY_MEMBER_NAME_HEALER]'s critical strikes also reduce the cooldown of [LINK_SKILL_REJUVENATE] by {0} seconds
+TALENT_NEW_SPRING_SR_CD=[LINK_SKILL_SPIRIT_RITUAL] also reduces the cooldown of [LINK_SKILL_REJUVENATE] by {0} second per tick
+TALENT_POISON_MASTERY_DESC=[LINK_TALENT_POISON] damage can now critically strikes with {0}% of [CONTEXT_PARTY_MEMBER_NAME_RANGER]'s [ATTRIBUTE_CRITICAL_STRIKE_CHANCE_TEXT] and [ATTRIBUTE_CRITICAL_STRIKE_DAMAGE_TEXT]
 TALENT_JUNGLE_SURVIVAL_DODGE_DESC=All party members gain +{0}% [ATTRIBUTE_DODGE_CHANCE_TEXT] when below {1}% health
 TALENT_JUNGLE_SURVIVAL_HEAL_RECEIVE_DESC=All party members gain +{0}% [ATTRIBUTE_HEALING_RECEIVED] when below {1}% health
 TALENT_HEIGHTENED_SENSES_DESC=Whenever a party member dodges, all party members gain a Heightened Sense stack for {0} seconds
 TALENT_HEIGHTENED_SENSES_STACK_DESC=Each Heightened Sense stack grants {0} [ATTRIBUTE_INCREASE_HEALPOWER_FLAT_TEXT] and {1} [ATTRIBUTE_ICE_DAMAGE] for {2} seconds.
-TALENT_FROST_BITE_ICE_DMG_DESC=LINK_SKILL_REJUVENATE also adds {0} [ATTRIBUTE_BASE_ICE_DAMAGE] to all party member during the duration
-TALENT_FROST_BITE_BASE_ICE_DMG_DESC=LINK_SKILL_REJUVENATE also increases {0}% [ATTRIBUTE_BASE_ICE_DAMAGE] to all party member during the duration
+TALENT_FROST_BITE_ICE_DMG_DESC=[LINK_SKILL_REJUVENATE] also adds {0} [ATTRIBUTE_BASE_ICE_DAMAGE] to all party member during the duration
+TALENT_FROST_BITE_BASE_ICE_DMG_DESC=[LINK_SKILL_REJUVENATE] also increases {0}% [ATTRIBUTE_BASE_ICE_DAMAGE] to all party member during the duration
 TALENT_FROST_BITE_MASTERY_PRE_TEXT=[SKILL_REJUVENATE_NAME] adds additional 
 TALENT_FROST_BITE_MASTERY_POST_TEXT= [ATTRIBUTE_ICE_DAMAGE]
 
-TALENT_TRANQUILITY_LVL1_DESC=At level 1, your LINK_SKILL_RENEW can also now critically heal
-TALENT_TRANQUILITY_LVL2_DESC=At level 2, your LINK_SKILL_SPIRIT_RITUAL can also now critically heal
-TALENT_TRANQUILITY_LVL3_DESC=At level 3, your LINK_SKILL_NATURE_GIFT can also now critically heal
+TALENT_TRANQUILITY_LVL1_DESC=At level 1, your [LINK_SKILL_RENEW] can also now critically heal
+TALENT_TRANQUILITY_LVL2_DESC=At level 2, your [LINK_SKILL_SPIRIT_RITUAL] can also now critically heal
+TALENT_TRANQUILITY_LVL3_DESC=At level 3, your [LINK_SKILL_NATURE_GIFT] can also now critically heal
 TALENT_REACTIVE_INSTINCT_DESC=All party members gain {0}% [ATTRIBUTE_DODGE_CHANCE_TEXT] for 3 seconds whenever an enemy casts a spell
 TALENT_REACTIVE_INSTINCT_MASTERY=% [TALENT_REACTIVE_INSTINCT_NAME] [ATTRIBUTE_DODGE_CHANCE_TEXT]
 
 TALENT_ASTRAL_SHIFT_DESC=Every {0} seconds<br><br>Gains {1}% [ATTRIBUTE_INCREASE_HEALPOWER_FLAT_TEXT] for 5 seconds, then [CONTEXT_PARTY_MEMBER_NAME_HEALER] gains {2}% [ATTRIBUTE_CAST_SPEED] for 5 seconds
-TALENT_RENEWING_MIST_DESC=LINK_SKILL_SPIRIT_RITUAL has a {0}% chance of applying another stack at the end of its duration
-TALENT_FROZEN_TOUGH_VAMP_DESC=Each LINK_SKILL_SPIRIT_ORB also grants the affected target to heal for {0}% of [ATTRIBUTE_ICE_DAMAGE] they dealt
-TALENT_FROZEN_TOUGH_EXPLODE_DESC=When a LINK_SKILL_SPIRIT_ORB explodes, it will also reduce all enemies' [ATTRIBUTE_ICE_RESIST] for {0}% for {1} seconds
+TALENT_RENEWING_MIST_DESC=[LINK_SKILL_SPIRIT_RITUAL] has a {0}% chance of applying another stack at the end of its duration
+TALENT_FROZEN_TOUGH_VAMP_DESC=Each [LINK_SKILL_SPIRIT_ORB] also grants the affected target to heal for {0}% of [ATTRIBUTE_ICE_DAMAGE] they dealt
+TALENT_FROZEN_TOUGH_EXPLODE_DESC=When a [LINK_SKILL_SPIRIT_ORB] explodes, it will also reduce all enemies' [ATTRIBUTE_ICE_RESIST] for {0}% for {1} seconds
 TALENT_DEEP_MIND_REFUND_DESC={0}% chance to refund mana when casting a spell
 TALENT_DEEP_MIND_REFUND_MASTERY=% [TALENT_DEEP_MIND_NAME] mana refund chance
 
@@ -271,12 +282,12 @@ TALENT_VITALIZED_FLOW_LOSE_STACK_DESC=Lose 1 stack of Vitalized every 2 seconds 
 TALENT_VITALIZED_FLOW_MASTERY_DESC= Vitalized healpower per stack
 
 
-TALENT_CONVOCATION_MANA=Reduce the mana gained from LINK_SKILL_REJUVENATE by {0}
-TALENT_CONVOCATION_CD=Cooldown of LINK_SKILL_REJUVENATE is reduced to 1 second (Unaffected by other cooldown reduction effect)
-TALENT_CONVOCATION_CHANNEL=LINK_SKILL_REJUVENATE is now a channelling ability
-TALENT_ELEMENTAL_INFUSION_FIRE=LINK_SKILL_RESTORATION_TOTEM also increases [ATTRIBUTE_BASE_FIRE_DAMAGE] by {0}%
-TALENT_ELEMENTAL_INFUSION_ICE=LINK_SKILL_RESTORATION_TOTEM also increases [ATTRIBUTE_BASE_ICE_DAMAGE] by {0}%
-TALENT_ELEMENTAL_INFUSION_LIGHTNING=LINK_SKILL_RESTORATION_TOTEM also increases [ATTRIBUTE_BASE_LIGHTNING_DAMAGE] by {0}%
+TALENT_CONVOCATION_MANA=Reduce the mana gained from [LINK_SKILL_REJUVENATE] by {0}
+TALENT_CONVOCATION_CD=Cooldown of [LINK_SKILL_REJUVENATE] is reduced to 1 second (Unaffected by other cooldown reduction effect)
+TALENT_CONVOCATION_CHANNEL=[LINK_SKILL_REJUVENATE] is now a channelling ability
+TALENT_ELEMENTAL_INFUSION_FIRE=[LINK_SKILL_RESTORATION_TOTEM] also increases [ATTRIBUTE_BASE_FIRE_DAMAGE] by {0}%
+TALENT_ELEMENTAL_INFUSION_ICE=[LINK_SKILL_RESTORATION_TOTEM] also increases [ATTRIBUTE_BASE_ICE_DAMAGE] by {0}%
+TALENT_ELEMENTAL_INFUSION_LIGHTNING=[LINK_SKILL_RESTORATION_TOTEM] also increases [ATTRIBUTE_BASE_LIGHTNING_DAMAGE] by {0}%
 TALENT_BLOSSOM_CAST=[CONTEXT_PARTY_MEMBER_NAME_HEALER] will occasionally cast Blossom, healing all party members for {0}% of [ATTRIBUTE_INCREASE_HEALPOWER_FLAT_TEXT]
 TALENT_BLOSSOM_RESISTS=Blossom also increases [ATTRIBUTE_ALL_RESISTS_TEXT] by {0}% for a short duration
 TALENT_BLOSSOM_MASTERY=% Blossom healpower healing ratio
@@ -409,7 +420,7 @@ TALENT_BLESSED_SPIRIT_NAME=Blessed Spirit
 TALENT_BLESSED_SPIRIT_DESC=Increase the effect of all single target and non heal over time healing skills by {0}% <br><br>Increase the effect of all buff skills by {0}%
 
 TALENT_REDEMPTION_NAME=Redemption
-TALENT_REDEMPTION_DESC=Casting LINK_SKILL_DIVINE_MEND will increase the effect of all subsequent LINK_SKILL_DIVINE_MEND by {0}% <br><br>The bonuses is lost upon casting spells other than LINK_SKILL_DIVINE_MEND or LINK_SKILL_DIVINE_FOCUS
+TALENT_REDEMPTION_DESC=Casting [LINK_SKILL_DIVINE_MEND] will increase the effect of all subsequent [LINK_SKILL_DIVINE_MEND] by {0}% <br><br>The bonuses is lost upon casting spells other than [LINK_SKILL_DIVINE_MEND] or [LINK_SKILL_DIVINE_FOCUS]
 TALENT_REDEMPTION_POST_TEXT= [TALENT_REDEMPTION_NAME] maximum stack
 
 TALENT_ZEAL_NAME=Zeal
@@ -417,15 +428,15 @@ TALENT_ZEAL_DESC=[SKILL_CLEANSING_RAY_NAME] grants a Zeal stack to the target ev
 TALENT_ZEAL_MASTERY_DESC= [TALENT_ZEAL_NAME] maximum stack
 
 TALENT_FOCUSED_GLORY_NAME=Focused Glory
-TALENT_FOCUSED_GLORY_DESC=LINK_SKILL_RENEW now heals {0}% more per tick if there is only 1 party member affected by it
+TALENT_FOCUSED_GLORY_DESC=[LINK_SKILL_RENEW] now heals {0}% more per tick if there is only 1 party member affected by it
 
 TALENT_SWORD_AND_BOARD_NAME=Sword and Board
-TALENT_SWORD_AND_BOARD_DESC=While wearing at least 1 sword and at least 1 shield, +{0} to all [CONTEXT_TALENT_CLASS_PALADIN] skill level
+TALENT_SWORD_AND_BOARD_DESC=While wearing at least 1 sword and at least 1 shield, +{0} to all [CONTEXT_TALENT_CLASS_PALADIN] skill level<sprite=8>
 
 TALENT_TOUGH_AS_NAIL_NAME=Tough as Nail
 
 TALENT_GLIMMER_OF_HOPE_NAME=Glimmer of Hope
-TALENT_GLIMMER_OF_HOPE_DESC=LINK_SKILL_SEAL_OF_LIGHT leaves a LINK_SKILL_SPIRIT_ORB when triggered
+TALENT_GLIMMER_OF_HOPE_DESC=[LINK_SKILL_SEAL_OF_LIGHT] leaves a [LINK_SKILL_SPIRIT_ORB] when triggered
 TALENT_GLIMMER_OF_HOPE_MASTERY_DESC=[SKILL_HAMMER_OF_RECKONING_NAME] consumption will also trigger [TALENT_GLIMMER_OF_HOPE_NAME]
 
 TALENT_DIVINATION_AURA_NAME=Divination Aura
@@ -439,15 +450,15 @@ TALENT_DIVINE_DECREE_DESC=Whenever an enemy blocks or dodges an attack, they can
 TALENT_DIVINE_DECREE_MASTERY_DESC=+1 second [TALENT_DIVINE_DECREE_NAME] duration
 
 TALENT_PUNISH_NAME=Punish
-TALENT_PUNISH_DESC=LINK_SKILL_HAMMER_OF_RECKONING can now critically strikes
+TALENT_PUNISH_DESC=[LINK_SKILL_HAMMER_OF_RECKONING] can now critically strike
 TALENT_PUNISH_MASTERY_DESC=Focused [SKILL_HAMMER_OF_RECKONING_NAME] can now critically heal
 
 TALENT_BLESSING_OF_WARDING_NAME=Blessing of Warding
-TALENT_BLESSING_OF_WARDING_DESC=Increase the duration of LINK_SKILL_SANCTUARY by {0} seconds <br><br>Reduce the cooldown of LINK_SKILL_SANCTUARY by {1} seconds
+TALENT_BLESSING_OF_WARDING_DESC=Increase the duration of [LINK_SKILL_SANCTUARY] by {0} seconds <br><br>Reduce the cooldown of [LINK_SKILL_SANCTUARY] by {1} seconds
 TALENT_BLESSING_OF_WARDING_MASTERY_DESC=-5 seconds [SKILL_SANCTUARY_NAME] cooldown
 
 TALENT_SEIZE_THE_MOMENT_NAME=Seize the Moment
-TALENT_SEIZE_THE_MOMENT_DESC=LINK_SKILL_DIVINE_FOCUS now start its cooldown when it is casted instead of when it is consumed
+TALENT_SEIZE_THE_MOMENT_DESC=[LINK_SKILL_DIVINE_FOCUS] now start its cooldown when it is casted instead of when it is consumed
 
 TALENT_IMMOVABLE_FORTRESS_NAME=Immovable Fortress
 TALENT_IMMOVABLE_FORTRESS_DESC=Reduce the effect of all movement speed slowing effects by {0}% <br><br>Reduce the duration of all slience effects by {1}%
@@ -456,10 +467,10 @@ TALENT_RING_OF_INFLUENCE_NAME=Ring of Influence
 TALENT_RING_OF_INFLUENCE_DESC=[CONTEXT_PARTY_MEMBER_NAME_HEALER] gains an Influential Ring. <br><br>Other party memebers within the ring gain {0}% [ATTRIBUTE_HEALING_RECEIVED]
 
 TALENT_VENGEFUL_CRUSADE_NAME=Vengeful Crusade
-TALENT_VENGEFUL_CRUSADE_DESC=LINK_SKILL_HAMMER_OF_RECKONING now has 2 charges
+TALENT_VENGEFUL_CRUSADE_DESC=[LINK_SKILL_HAMMER_OF_RECKONING] now has 2 charges
 
 TALENT_INQUISITION_NAME=Inquisition
-TALENT_INQUISITION_DESC=Whenver LINK_SKILL_DIVINE_MEND , LINK_SKILL_LESSER_HEAL , LINK_SKILL_AMPLE_HEAL , LINK_SKILL_FLASH_HEAL critically heals, the cooldown of LINK_SKILL_DIVINE_FOCUS is reduced by {0} seconds
+TALENT_INQUISITION_DESC=Whenver [LINK_SKILL_DIVINE_MEND] , [LINK_SKILL_LESSER_HEAL] , [LINK_SKILL_CLEANSING_RAY] , [LINK_SKILL_FLASH_HEAL] critically heals, the cooldown of [LINK_SKILL_DIVINE_FOCUS] is reduced by {0} seconds
 TALENT_INQUISITION_MASTERY_DESC= second [TALENT_INQUISITION_NAME] cooldown reduction
 
 TALENT_TAUNT_NAME=Taunt
@@ -470,7 +481,7 @@ TALENT_INTO_THE_FRAY_NAME=Into the Fray
 TALENT_INTO_THE_FRAY_DESC=While being close to Tank, [CONTEXT_PARTY_MEMBER_NAME_HEALER] can auto attack while casting.
 
 TALENT_GLEAMING_FAITH_NAME=Gleaming Faith
-TALENT_GLEAMING_FAITH_DESC=LINK_SKILL_SACRED_INFUSION also increases target's [ATTRIBUTE_ELE_RESISTS_TEXT] by {0}% and [ATTRIBUTE_PHYSICAL_RESIST] by {1}%
+TALENT_GLEAMING_FAITH_DESC=[LINK_SKILL_SACRED_INFUSION] also increases target's [ATTRIBUTE_ELE_RESISTS_TEXT] by {0}% and [ATTRIBUTE_PHYSICAL_RESIST] by {1}%
 TALENT_GLEAMING_FAITH_MASTERY_DESC= second [SKILL_SACRED_INFUSION_NAME] duration
 
 TALENT_NO_ONE_LEFT_BEHIND_NAME=Leave No One Behind
@@ -482,26 +493,26 @@ TALENT_HEAVEN_AID_DESC=Whenever a party member drops below {0}% health, they gai
 TALENT_HEAVEN_AID_MASTERY_DESC=-7 seconds [TALENT_HEAVEN_AID_NAME] cooldown
 
 TALENT_ASCENSION_NAME=Ascension
-TALENT_ASCENSION_DESC=Grants LINK_SKILL_ASCENSION skill
+TALENT_ASCENSION_DESC=Grants [LINK_SKILL_ASCENSION] skill
 
 TALENT_INFUSED_LUMINOSITY_NAME=Infused Luminosity
-TALENT_INFUSED_LUMINOSITY_DESC=LINK_SKILL_DIVINE_MEND has a {0}% chance to cause the next LINK_SKILL_FLASH_HEAL to heal for {1}% more and deal {2}% of [ATTRIBUTE_INCREASE_HEALPOWER_FLAT_TEXT] as [ATTRIBUTE_FIRE_DAMAGE] to all enemies and reduce {3}% [ATTRIBUTE_ALL_RESISTS_TEXT] for {4} seconds
+TALENT_INFUSED_LUMINOSITY_DESC=[LINK_SKILL_DIVINE_MEND] has a {0}% chance to cause the next [LINK_SKILL_FLASH_HEAL] costs no mana, heal for {1}% more, and deal {2}% of [ATTRIBUTE_INCREASE_HEALPOWER_FLAT_TEXT] as [ATTRIBUTE_FIRE_DAMAGE] to all enemies and reduce {3}% [ATTRIBUTE_ALL_RESISTS_TEXT] for {4} seconds
 TALENT_INFUSED_LUMINOSITY_MASTERY_DESC=% [TALENT_INFUSED_LUMINOSITY_NAME] proc chance
 
 TALENT_ALACRITY_OF_THE_FAITHFUL_NAME=Alacrity of the Faithful
 
 TALENT_ANCIENT_ROOTS_NAME=Ancient Roots
-TALENT_ANCIENT_ROOTS_DESC=Grants LINK_SKILL_ANCIENT_ROOTS skill
+TALENT_ANCIENT_ROOTS_DESC=Grants [LINK_SKILL_ANCIENT_ROOTS] skill
 
 TALENT_WORSHIP_NAME=Worship
 TALENT_WORSHIP_DESC=All party members will gain a shield equal to {0}% of [ATTRIBUTE_INCREASE_HEALPOWER_FLAT_TEXT] for every {1} seconds channelled <br><br>The shield lasts {2} seconds
 TALENT_WORSHIP_MASTERY_DESC=-1 second needed to trigger [TALENT_WORSHIP_NAME]
 
 TALENT_TRAIL_OF_FATE_NAME=Trail of Fate
-TALENT_TRAIL_OF_FATE_DESC=LINK_SKILL_RADIANT_HEAL will apply Fate effect on the healed target for {0} seconds. When Fate effect expires, it will heal the target again for {1}% of healpower
+TALENT_TRAIL_OF_FATE_DESC=[LINK_SKILL_RADIANT_HEAL] will apply Fate effect on the healed target for {0} seconds. When Fate effect expires, it will heal the target again for {1}% of healpower
 TALENT_TRAIL_OF_FATE_MASTERY_DESC=-1 second Fate effect duration
 
 TALENT_REVIVE_NAME=Revive
-TALENT_REVIVE_DESC=Grants LINK_SKILL_REVIVE Skill
+TALENT_REVIVE_DESC=Grants [LINK_SKILL_REVIVE] Skill
 
 END

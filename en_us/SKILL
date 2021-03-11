@@ -119,7 +119,7 @@ SKILL_REVIVE_DESC=A very long cast to revive a party member to a certain health 
 SKILL_REVIVE_SHORT_DESC=A very long cast to revive a party member
 
 SKILL_SIPHON_LIFE_NAME=Siphon Life
-SKILL_SIPHON_LIFE_DESC=Place a curse on the selected enemy, dealing damage and healing the currently selected character for a portion of the damage dealt
+SKILL_SIPHON_LIFE_DESC=Place a curse on the selected enemy, dealing damage and healing the currently selected character for a small amount
 SKILL_SIPHON_LIFE_SHORT_DESC=A damage over time spell, also heals the selected party member over time
 
 SKILL_BANISH_NAME=Banish
@@ -142,12 +142,10 @@ SKILL_VOID_ZONE_NAME=Void Zone
 SKILL_VOID_ZONE_DESC=Create a dark zone below you, all party members within the zone will deal more damage but receives less healing.
 SKILL_VOID_ZONE_SHORT_DESC=A zone that increases [ATTRIBUTE_ALL_DAMAGE_DEALT] and decreases [ATTRIBUTE_HEALING_RECEIVED]
 
-
 SKILL_DIVINE_MEND_NAME=Divine Mend
 SKILL_DIVINE_MEND_DESC=A small single target heal that also increases the target's [ATTRIBUTE_PHYSICAL_RESIST] for a short duration
 SKILL_DIVINE_MEND_SHORT_DESC=Single target heal, also increases [ATTRIBUTE_PHYSICAL_RESIST]
 SKILL_DIVINE_MEND_PHYS_RES_INCREASE=[ATTRIBUTE_PHYSICAL_RESIST] increase: {0}
-
 
 SKILL_SEAL_OF_LIGHT_NAME=Seal of Light
 SKILL_SEAL_OF_LIGHT_DESC=Place a seal on the target, healing the target for a small amount. <br>Casting [SKILL_DIVINE_MEND_NAME] on the target will consume the seal and heal for a significant amount
@@ -178,8 +176,8 @@ SKILL_RADIANCE_DESC=Cast to toggle [TALENT_RING_OF_INFLUENCE_NAME] to heal all p
 SKILL_RADIANCE_SHORT_DESC=Toggle [TALENT_RING_OF_INFLUENCE_NAME] to heal but drains mana
 
 SKILL_DIVINE_FOCUS_NAME=Divine Focus
-SKILL_DIVINE_FOCUS_DESC=Go into a state of focus, the next Paladin spell cast will be significantly more powerful <br><br>The cooldown of [SKILL_DIVINE_FOCUS_NAME] starts when the buff is consumed
-SKILL_DIVINE_FOCUS_SHORT_DESC=The next Paladin spell cast will be significantly more powerful
+SKILL_DIVINE_FOCUS_DESC=Go into a state of focus, the next Paladin spell cast will be significantly more powerful and costs no mana <br><br>The cooldown of [SKILL_DIVINE_FOCUS_NAME] starts when the buff is consumed
+SKILL_DIVINE_FOCUS_SHORT_DESC=The next Paladin spell cast will be significantly more powerful <br> and has no [ATTRIBUTE_MANA_COST]
 
 SKILL_DIVINE_FOCUS_DIVINE_MEND_DESC=[SKILL_DIVINE_MEND_NAME] - Becomes instant cast and increase the healing done by {0}
 SKILL_DIVINE_FOCUS_SEAL_DESC=[SKILL_SEAL_OF_LIGHT_NAME] - Increase duration by {0} seconds as well as affecting all party members instead
@@ -462,7 +460,7 @@ SKILL_SHADOW_BLESSING_NAME=Shadow's Blessing
 SKILL_SHADOW_BLESSING_DESC=Blessed with the shadows, remove all debuffs as well as gaining massive [ATTRIBUTE_ELE_RESISTS_TEXT] for a short duration.
 SKILL_MIRRORED_LESSER_HEAL_NAME=Lesser Heal
 SKILL_MIRRORED_LESSER_HEAL_DESC=Heal a damaged party member
-SKILL_MIRRORED_RADIANT_HEAL_NAME=Radiant Heal
+SKILL_MIRRORED_RADIANT_HEAL_NAME=[SKILL_RADIANT_HEAL_NAME]
 SKILL_MIRRORED_RADIANT_HEAL_DESC=A significant AOE heal that heals all allies
 SKILL_LIGHTS_FAITH_N_B_NAME=Light's Faith
 SKILL_LIGHTS_FAITH_N_B_DESC=Reducing all party members' damage taken by a large amount

@@ -102,6 +102,7 @@ UI_ART_ATLAS_DROPPED_BY=Dropped by: {0}
 UI_ART_ATLAS_DIFFICULTY=Difficulty
 UI_ART_ATLAS_DROP_CHANCE=Drop chance: {0}%
 UI_ART_ATLAS_ZONE=Zone: {0}
+UI_ART_ATALS_PURCHASE_LOCK=Defeat the chaotic version of the boss to unlock
 
 UI_ART_ATLAS_TUT_TITLE=The <color=#B58300FF>Atlas</color> contains lots of information about all items in the game
 UI_ART_ATLAS_TUT_ART_ATLAS_DESC=The <color=#B58300FF>Artifact Atlas</color> displays all artifacts seen in the game, you can search for the artifacts you want here. As well as directly forge them here!
@@ -211,13 +212,31 @@ UI_BLACKSMITH_AUG_VIEW_DESC=Augmenting will add additional attributes to the art
 UI_BLACKSMITH_MUT_VIEW_TITLE=Mutate Artifact
 UI_BLACKSMITH_MUT_VIEW_DESC=Mutating will make some attributes become more powerful at the cost of some other attributes become less powerful
 UI_BLACKSMITH_ORRA_VIEW_TITLE=[BOSS_ORRA_SHORT_NAME] Crafting
-UI_BLACKSMITH_ORRA_VIEW_DESC=[BOSS_ORRA_SHORT_NAME] can help you improve your armors even further by enchanting it with additional attributes. Attributes improves as [BOSS_ORRA_SHORT_NAME]'s level gets higher
+UI_BLACKSMITH_ORRA_VIEW_DESC=[BOSS_ORRA_SHORT_NAME] can help you improve your armors even further by enchanting it with additional attributes. Attributes improve as you complete [BOSS_ORRA_SHORT_NAME]'s quests
 UI_BLACKSMITH_MEVOR_VIEW_TITLE=[BOSS_MEVOR_SHORT_NAME] Crafting
-UI_BLACKSMITH_MEVOR_VIEW_DESC=[BOSS_MEVOR_SHORT_NAME] can help you improve your weapons even further by enchanting it with additional attributes. Attributes improves as [BOSS_MEVOR_SHORT_NAME]'s level gets higher.
+UI_BLACKSMITH_MEVOR_VIEW_DESC=[BOSS_MEVOR_SHORT_NAME] can help you improve your weapons even further by enchanting it with additional attributes. Attributes improve as you complete [BOSS_MEVOR_SHORT_NAME]'s quests
 UI_BLACKSMITH_EDWIN_VIEW_TITLE=[BOSS_EDWIN_SHORT_NAME] Crafting
-UI_BLACKSMITH_EDWIN_VIEW_DESC=[BOSS_EDWIN_SHORT_NAME] can help you improve your accessories even further by enchanting it with additional attributes. Attributes improves as [BOSS_EDWIN_SHORT_NAME]'s level gets higher.
+UI_BLACKSMITH_EDWIN_VIEW_DESC=[BOSS_EDWIN_SHORT_NAME] can help you improve your accessories even further by enchanting it with additional attributes. Attributes improve as you complete [BOSS_EDWIN_SHORT_NAME]'s quests
 UI_BLACKSMITH_CURSED_VIEW_TITLE=Cursed Crafting
-UI_BLACKSMITH_CURSED_VIEW_DESC=Cursed crafting has some of the strongest crafting option in the game.
+UI_BLACKSMITH_CURSED_VIEW_DESC=Cursed crafting has some of the strongest crafting option in the game
+
+UI_BLACKSMITH_CURSED_CRAFT_OPTION_CAN_NOT_BE_USED=This crafting option can not be used on this item
+UI_BLACKSMITH_CURSED_CRAFT_MAX_SOCKETS_REACHED=Item already has maximum number of sockets
+UI_BLACKSMITH_CURSED_CRAFT_MAX_QUALITY_REACHED=Item is already at max quality
+
+UI_BLACKSMITH_CURSED_CRAFT_ADD_JEWEL_SOCKET_TITLE=Add a Jewel socket and remove a random attribute of a non Unique item
+UI_BLACKSMITH_CURSED_CRAFT_ADD_JEWEL_SOCKET_DESC=Add a Jewel socket to a non Unique item at the cost of a random attribute (upto a maximum of 3)
+
+UI_BLACKSMITH_CURSED_CRAFT_REROLL_TIER_TITLE=Reroll the tier of all base attributes of a non Unique item
+UI_BLACKSMITH_CURSED_CRAFT_REROLL_TIER_DESC=Reroll the tier of all base attributes of a non Unique item, the range is from 11 to 13
+
+UI_BLACKSMITH_CURSED_CRAFT_REROLL_BASE_ATTR_TITLE=Reroll all based attributes of a non Unique item
+UI_BLACKSMITH_CURSED_CRAFT_REROLL_BASE_ATTR_DESC=Reroll all based attributes of a non Unique item, keeping the tier
+
+UI_BLACKSMITH_CURSED_CRAFT_INCREASE_BASE_QUALITY_TITLE=Increase the base quality of an item
+UI_BLACKSMITH_CURSED_CRAFT_INCREASE_BASE_QUALITY_DESC=Increase the base quality of an item (upto a maximum of 15)
+
+
 UI_BLACKSMITH_MAT_UPGRADE_VIEW_TITLE=Upgrade Jewel
 UI_BLACKSMITH_MAT_UPGRADE_VIEW_DESC=You can craft high tier of the same jewels here
 UI_BLACKSMITH_UPGRADE_QUALITY_TITLE=Upgrade Overall Quality
@@ -234,7 +253,8 @@ UI_BLACKSMITH_MODIFY_AUGMENT_TITLE=Modify Augmentations
 UI_BLACKSMITH_MODIFY_AUGMENT_DESC=Reroll or lock the existing augmentations
 UI_BLACKSMITH_UPGRADE_AUGMENT_TITLE=Upgrade Augmentations
 UI_BLACKSMITH_UPGRADE_AUGMENT_DESC=Upgrade existing augmentations
-UI_BLACKSMITH_MUTATE_DESC=Upgrade existing augmentations
+UI_BLACKSMITH_MUTATE_TITLE=Adds mutation
+UI_BLACKSMITH_MUTATE_DESC=Adds mutation to the artifact
 UI_BLACKSMITH_CLEANSE_MUTATION_TITLE=Cleanse Mutations
 UI_BLACKSMITH_CLEANSE_MUTATION_DESC=Cleanse all mutations on the artifact
 UI_BLACKSMITH_HASNT_MUTATED=Artifact does not have mutations
@@ -303,6 +323,8 @@ UI_BETA_INFO_ENEMY_CURRENT_HP=Health: {0}
 UI_BETA_INFO_ENEMY_ATK=Attack Damage: <br><color=#{0}>Physical: {1}</color><br><color=#{2}>Fire: {3}</color><br><color=#{4}>Ice: {5}</color><br><color=#{6}>Lightning: {7}</color><br><color=#{8}>Nemesis: {9}</color>
 UI_BETA_INFO_TOTAL=Total
 UI_BETA_INFO_OTHER=Other
+
+UI_BATTLE_CHAOTIC_LEVEL=Chaotic Level
 
 UI_BATTLE_SUCCESS_NEW_RECORD=New Record!
 UI_BATTLE_SUCCESS_LEVEL_UP=Level up!
