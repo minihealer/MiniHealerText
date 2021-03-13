@@ -598,7 +598,7 @@ ARTIFACT_REMORSE_SPECIAL_DESC=[LINK_TALENT_DECAY_AURA] now stacks, applying 1 st
 ARTIFACT_REMORSE_ANOMALY_1_SPECIAL_DESC=[LINK_TALENT_DECAY_AURA] now stacks, applying 1 stack every 20 seconds <br><br>Stacks up to 30 times
 ARTIFACT_REMORSE_ANOMALY_2_SPECIAL_DESC=[LINK_TALENT_DECAY_AURA] now stacks, applying 1 stack every 5 seconds <br><br>[LINK_TALENT_DECAY_AURA] no longer increases enemies' damage taken <br><br>Stacks up to 10 times
 ARTIFACT_INSANITY_SPECIAL_DESC=Mana regeneration is 0
-ARTIFACT_ELEMENTAL_GREATSTAFF_SPECIAL_DESC=Whenever your shield absorbs elemental damage, it will also increase the shielded target's base damage of the same element by the absorbed amount
+ARTIFACT_ELEMENTAL_GREATSTAFF_SPECIAL_DESC=Whenever your shield absorbs elemental damage, it will also increase the shielded target's base damage of the same element by half of the absorbed amount
 ARTIFACT_WISDOM_SPECIAL_DESC=+{0}{1} per one point invested in {2} tree
 ARTIFACT_WISDOM_SPECIAL_FULL_DESC=+{0} to {1}{2} per one point invested in {3} tree
 ARTIFACT_VOODOO_TOTEM_SPECIAL_DESC=[LINK_TALENT_VOODOO_MAGIC] now has a 30 second cooldown
@@ -731,7 +731,7 @@ ARTIFACT_MAELSTROM_SPECIAL_DESC=Every mana spent casting spells will cause [CONT
 ARTIFACT_ADAPTATION_SPECIAL_DESC=Gain an additional [LINK_TALENT_HEIGHTENED_SENSES] stack per dodge
 ARTIFACT_PURIST_HEART_SPECIAL_DESC=[LINK_TALENT_SALVATION] damage reduction bonus is now doubled <br>[LINK_TALENT_SALVATION] also increases healing received by 20%
 ARTIFACT_TOWER_OF_FEAR_SPECIAL_DESC={0}% chance to reduce attacker's [ATTRIBUTE_PHYSICAL_DAMAGE] and [ATTRIBUTE_NEMESIS_DAMAGE] by {1}% for {2} seconds whenever [CONTEXT_PARTY_MEMBER_NAME_TANK] is hit
-ARTIFACT_DIVIDED_JUSTICE_SPECIAL_DESC-{0}% all other party members' damage taken
+ARTIFACT_DIVIDED_JUSTICE_SPECIAL_DESC=-{0}% all other party members' damage taken
 ARTIFACT_WICKED_WING_SPECIAL_DESC=All characters' [CONTEXT_ELEMENT_PHYSICAL] auto attack restores 0.2% of maximum mana <br>Lose 2% of maximum mana every second
 ARTIFACT_THUNDER_TORRENT_SPECIAL_DESC=[LINK_SKILL_SMITE] does {0}% less damage <br>[LINK_SKILL_SMITE] now also increases target's [ATTRIBUTE_LIGHTNING_DAMAGE] taken by {1}%
 ARTIFACT_DISPERSION_SPECIAL_DESC={0} now affects all party members <br>Increase the cast time of {1} by {2} second <br>All party members are stunned for {3} seconds after {4} ends or refreshed
@@ -864,7 +864,7 @@ ARTIFACT_THE_AVENGER_SPC_DESC=Whenever a party member dies, all other party memb
 ARTIFACT_INNER_FLAME_SPECIAL_DESC=[LINK_TALENT_INTO_THE_FRAY] also increases [ATTRIBUTE_BLOCK_CHANCE_TEXT] by {0}% and [ATTRIBUTE_ALL_RESISTS_TEXT] by {1}%
 
 ARTIFACT_LIGHTS_AND_SHADOWS_NAME=Lights and Shadows
-ARTIFACT_LIGHTS_AND_SHADOWS_SPC_DESC=Whenever [CONTEXT_PARTY_MEMBER_NAME_HEALER] casts [LINK_SKILL_HAMMER_OF_RECKONING], [CONTEXT_PARTY_MEMBER_NAME_BERZERKER] will cast a [LINK_TALENT_CHAOS_STRIKE] of the current level <br><br>Whenever [CONTEXT_PARTY_MEMBER_NAME_BERZERKER] casts [LINK_TALENT_CHAOS_STRIKE], [CONTEXT_PARTY_MEMBER_NAME_HEALER] will cast a [LINK_SKILL_HAMMER_OF_RECKONING] of the current level <br><br>[LINK_TALENT_CHAOS_STRIKE] and [LINK_SKILL_HAMMER_OF_RECKONING] triggered by [ARTIFACT_NAME_LIGHTS_AND_SHADOWS] won't cause it to trigger again
+ARTIFACT_LIGHTS_AND_SHADOWS_SPC_DESC=Whenever [CONTEXT_PARTY_MEMBER_NAME_HEALER] casts [LINK_SKILL_HAMMER_OF_RECKONING], [CONTEXT_PARTY_MEMBER_NAME_BERZERKER] will cast a [LINK_TALENT_CHAOS_STRIKE] of the current level <br>Whenever [CONTEXT_PARTY_MEMBER_NAME_BERZERKER] casts [LINK_TALENT_CHAOS_STRIKE], [CONTEXT_PARTY_MEMBER_NAME_HEALER] will cast a [LINK_SKILL_HAMMER_OF_RECKONING] of the current level <br>[LINK_TALENT_CHAOS_STRIKE] and [LINK_SKILL_HAMMER_OF_RECKONING] triggered by this item won't cause it to trigger again
 
 ARTIFACT_INFUSED_MANTLE_SPECIAL_DESC=Focused [LINK_SKILL_DIVINE_MEND] now heals all party members
 
