@@ -148,10 +148,11 @@ SKILL_DIVINE_MEND_SHORT_DESC=Single target heal, also increases [ATTRIBUTE_PHYSI
 SKILL_DIVINE_MEND_PHYS_RES_INCREASE=[ATTRIBUTE_PHYSICAL_RESIST] increase: {0}
 
 SKILL_SEAL_OF_LIGHT_NAME=Seal of Light
-SKILL_SEAL_OF_LIGHT_DESC=Place a seal on the target, healing the target for a small amount. <br>Casting [SKILL_DIVINE_MEND_NAME] on the target will consume the seal and heal for a significant amount
+SKILL_SEAL_OF_LIGHT_DESC=Place a seal on the target, healing the target for a small amount. <br>Casting [SKILL_DIVINE_MEND_NAME] on the target will consume the seal and heal for a significant amount as well as dealing [ATTRIBUTE_FIRE_DAMAGE] to all enemies for a small amount
 SKILL_SEAL_OF_LIGHT_SHORT_DESC=Place a seal that will explode when healed again
 SKILL_SEAL_OF_LIGHT_INITIAL_HEAL_DESC=Initial healing: {0}
 SKILL_SEAL_OF_LIGHT_CONSUMPTION_HEAL_DESC=Consumption healing: {0}
+SKILL_SEAL_OF_LIGHT_CONSUMPTION_DAMAGE_DESC=Consumption damage: {0}
 
 SKILL_SACRED_INFUSION_NAME=Sacred Infusion
 SKILL_SACRED_INFUSION_DESC=Infuse the target with the power of light, all direct single target healing done by you to other party members will cause the infusion to heal the infused party member for a portion of the healed amount. Only 1 party member can be infused at one time.
@@ -181,8 +182,8 @@ SKILL_DIVINE_FOCUS_SHORT_DESC=The next Paladin spell cast will be significantly 
 
 SKILL_DIVINE_FOCUS_DIVINE_MEND_DESC=[SKILL_DIVINE_MEND_NAME] - Becomes instant cast and increase the healing done by {0}
 SKILL_DIVINE_FOCUS_SEAL_DESC=[SKILL_SEAL_OF_LIGHT_NAME] - Increase duration by {0} seconds as well as affecting all party members instead
-SKILL_DIVINE_FOCUS_INFUSION_DESC=[SKILL_SACRED_INFUSION_NAME] - Causes all direct single target healing done to the infused target to also splash back to all party members. Using the same ratio as [SKILL_SACRED_INFUSION_NAME].
-SKILL_DIVINE_FOCUS_HAMMER_DESC=[SKILL_HAMMER_OF_RECKONING_NAME] - Restores {0} of missing mana and heal {1} of all party members' missing health instead
+SKILL_DIVINE_FOCUS_INFUSION_DESC=[SKILL_SACRED_INFUSION_NAME] - Causes all direct single target healing done to the infused target to also heal all other party members. Using 50% of [SKILL_SACRED_INFUSION_NAME]'s ratio.
+SKILL_DIVINE_FOCUS_HAMMER_DESC=[SKILL_HAMMER_OF_RECKONING_NAME] - Also restores {0} of missing mana and heal {1} of all party members' missing health
 
 SKILL_CATACLYSM_NAME=Cataclysm
 SKILL_CATACLYSM_DESC=None

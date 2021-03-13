@@ -163,7 +163,7 @@ TALENT_CATA_MASTERY_DESC=% Cataclysm Fireball's healpower ratio
 TALENT_NEMESIS_INFUSION_MORPH_DESC=Party member's basic attacks have a {0}% chance to deal the damage as [ATTRIBUTE_NEMESIS_DAMAGE] instead
 TALENT_NEMESIS_INFUSION_SAC_DESC=Increases the proc chance of [TALENT_NEMESIS_INFUSION_NAME] by {0}% per sacrificed talent point
 TALENT_NEMESIS_INFUSION_MASTERY_DESC=% Nemesis Infusion [ATTRIBUTE_NEMESIS_DAMAGE] chance
-TALENT_SHOCK_MASTERY_DESC=% Smite's damage increase percentage
+TALENT_SHOCK_MASTERY_DESC=% [LINK_SKILL_SMITE]'s damage increase percentage
 TALENT_PATHS_END_DESC=When a party member dies, increase [ATTRIBUTE_INCREASE_HEALPOWER_FLAT_TEXT] by {0}%
 TALENT_PATHS_END_MASTERY=% Path's End Healpower bonus
 

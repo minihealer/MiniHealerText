@@ -16,7 +16,8 @@ DEPTH_SELECT_UI_IC_TIER_X=Tier {0}
 DEPTH_SELECT_UI_IC_ENEMY_HEALTH=+{0}% enemy health <br>({1}% for bosses)<br><br>
 DEPTH_SELECT_UI_IC_ENEMY_AUTO_ATTACK_DMG=+{0}% enemy auto attack damage <br>({1}% for bosses)<br><br>
 DEPTH_SELECT_UI_IC_ENEMY_SPELLPOWER=+{0}% enemy spell power <br>({1}% for bosses)<br><br>
-
+DEPTH_SELECT_UI_POTENTIAL_ARTIFACTS=Potential Artifacts
+DEPTH_SELECT_UI_POTENTIAL_ARTIFACTS_DESC=All potential artifacts that can drop in this depth. <br><br>As you acquire them, they will be added to the Atlas as well
 DEPTH_UI_DEPTH_INFO=Display depth info
 DEPTH_UI_BACK_TO_HAVEN=Go back to Haven<br><color=#858585FF>You will be able to come back</color>
 DEPTH_UI_CLOSE_DEPTH=Close depth<br><color=#858585FF>You will not be able to come back</color>

@@ -41,6 +41,10 @@ TUTORIAL_CHAOS_GENERATION_UNLOCK=You will also now earn a <color=#FF911F>Chaos C
 
 TUTORIAL_MIDNIGHT_UNLOCK=The <color=#FF911F>Midnight Zone</color> is now unlocked! After defeating all bosses in a quarter/zone you can fight them 1 by 1 again at the <color=#FF911F>Midnight Zone</color> to challenge yourself and earn additional items!
 
+TUTORIAL_DININATION_SPHERE_UNLOCK=<color=#FF911F>[MATERIAL_DIVINATION_SPHERE_NAME]</color> is a very rare material that can only be found in [LOCATION_PANDEMONIC_DEPTH]
+TUTORIAL_DININATION_SPHERE_UNLOCK_DESC=Torram can use the sphere to significantly upgrade weaker unique artifacts to their <color=#FF911F>divine</color> versions
+TUTORIAL_DININATION_SPHERE_UNLOCK_ATLAS_DESC=<color=#FF911F>The Atlas</color> will now also display divine information of an artifact
+
 TUTORIAL_DICE_UNLOCK=The <color=#FF911F>Dice of Greed</color> is now unlocked at the Hidden Haven
 TUTORIAL_DICE_UNLOCK_DESC=The dice offers a variety of items at a cost. Some will be good, some will not
 

@@ -25,6 +25,7 @@ ARMORY_SORT_ITEMLVL=Item Level
 ARMORY_SORT_FAVORITE=<color=#FF911F>Favorite</color> - Favorited artifacts will not be included in the Sell All ... actions
 
 ARMORY_HOVER_DIVINE=<color=#FF911F>Divine Artifact</color> - This is a stronger version of {0}
+ARMORY_HOVER_DIVINABLE=<color=#FF911F>Can be Divined</color> - This artifact can become stronger when divined with [MATERIAL_DIVINATION_SPHERE_NAME]
 ARMORY_HOVER_CHAOTIC=<color=#FF911F>Chaotic Artifact</color> - This artifact will only drop when the boss is chaotic
 ARMORY_HOVER_ANOMALOUS=<color=#FF911F>Anomalous Artifact</color> - This is a slightly different version of {0}
 ARMORY_HOVER_PERFECT=<color=#FF911F>Perfect Artifact</color> - This artifact has a base quality of 10 or above

@@ -49,6 +49,7 @@ UI_AUGMENT=Augment
 UI_MUTATE=Mutate
 UI_ENCHANT=Enchant
 UI_CURSE=Curse
+UI_DIVINATION=Divination
 UI_REROLL_AUGMENT=Reroll Augments
 UI_BUYBACK=Buy back
 UI_OVERVIEW=Overview
@@ -102,6 +103,7 @@ UI_ART_ATLAS_DROPPED_BY=Dropped by: {0}
 UI_ART_ATLAS_DIFFICULTY=Difficulty
 UI_ART_ATLAS_DROP_CHANCE=Drop chance: {0}%
 UI_ART_ATLAS_ZONE=Zone: {0}
+UI_ART_ATLAS_DIVINE_ACQUIRE=Can be acquired by letting Torram divining {0} or purchase with [MATERIAL_DIVINATION_SPHERE_NAME] here
 UI_ART_ATALS_PURCHASE_LOCK=Defeat the chaotic version of the boss to unlock
 
 UI_ART_ATLAS_TUT_TITLE=The <color=#B58300FF>Atlas</color> contains lots of information about all items in the game
@@ -236,6 +238,12 @@ UI_BLACKSMITH_CURSED_CRAFT_REROLL_BASE_ATTR_DESC=Reroll all based attributes of 
 UI_BLACKSMITH_CURSED_CRAFT_INCREASE_BASE_QUALITY_TITLE=Increase the base quality of an item
 UI_BLACKSMITH_CURSED_CRAFT_INCREASE_BASE_QUALITY_DESC=Increase the base quality of an item (upto a maximum of 15)
 
+UI_BLACKSMITH_DIVINATION_VIEW_TITLE=Divination
+UI_BLACKSMITH_DIVINATION_VIEW_DESC=Use the [MATERIAL_DIVINATION_SPHERE_NAME] to significantly upgrade an item
+
+UI_BLACKSMITH_DIVINATION_TITLE=Divination
+UI_BLACKSMITH_DIVINATION_DESC=Divine the artifact, gaining significant stats boost
+UI_BLACKSMITH_DIVINATION_NO_DIVINE_DESC=This artifact can not be divined
 
 UI_BLACKSMITH_MAT_UPGRADE_VIEW_TITLE=Upgrade Jewel
 UI_BLACKSMITH_MAT_UPGRADE_VIEW_DESC=You can craft high tier of the same jewels here
@@ -333,6 +341,12 @@ UI_BATTLE_SUCCESS_FLAWLESS=Flawless Victory!
 UI_BATTLE_SUCCESS_FLAWLESS_XP={0}% more [CONTEXT_EXPERIENCE]
 
 UI_MODAL_FULL_ARMORY_ERROR=Your Armory is full, please make sure to have at least 1 empty slot in the Armory
+
+UI_TOOLTIP_OATH_NAME=Oath
+UI_TOOLTIP_OATH_DESC=Casting [SKILL_FLASH_HEAL_NAME] with [TALENT_INFUSED_LUMINOSITY_NAME] will also cast on this target
+
+UI_TOOLTIP_ACSEND_NAME=Ascend
+UI_TOOLTIP_ASCEND_DESC=Upon reaching {0} stacks, grants [SKILL_ASCENSION_NAME]
 
 UI_TOOLTIP_ENERGIZED_NAME=Energized
 UI_TOOLTIP_ENERGIZED_DESC=Gain extra [ATTRIBUTE_BASE_LIGHTNING_DAMAGE] equal to {0}% [ATTRIBUTE_PHYSICAL_DAMAGE]

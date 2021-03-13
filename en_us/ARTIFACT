@@ -497,6 +497,7 @@ ARTIFACT_RARITY_EPIC=Epic
 ARTIFACT_RARITY_LEGENDARY=Legendary
 ARTIFACT_RARITY_RUNIC=Runic
 ARTIFACT_RARITY_UNKNOWN=Unknown
+ARTIFACT_RARITY_UNIDENTIFIED=Unidentified
 
 ARTIFACT_SLOT_TYPE_WEAPON=Weapon
 ARTIFACT_SLOT_TYPE_ARMOR=Armor
@@ -534,17 +535,16 @@ ARTIFACT_TAG_ULTRA_RARE=Ultra Rare
 ARTIFACT_TAG_CHAOTIC=Chaotic
 ARTIFACT_TAG_RUNIC=Runic
 
-ARTIFACT_WINTER_EMBRACE_SPECIAL_DESC= <br>{0}% of all party members' {1} damage taken is taken as {2} damage instead
+ARTIFACT_WINTER_EMBRACE_SPECIAL_DESC=<br>{0}% of all party members' {1} damage taken is taken as {2} damage instead
 ARTIFACT_ICY_CORROSIVE_SPECIAL_DESC={0} now deals {1} damage instead
-ARTIFACT_VIVID_RECONSTRUCTION_SPECIAL_DESC= <br>Your single target healing spells will grant the healed target {0} effect for {1} seconds
-ARTIFACT_ENERGY_DEPOT_SPECIAL_DESC= <br>Moving will grant {0} stack based on distance moved, up to a maximum of {1} stacks. <br> <br>Standing still for {2} seconds will consume {1} {0} stacks and buff all party members with {3} for {4} seconds.
-ARTIFACT_APOCALYPSE_TOME_SPECIAL_DESC= <br>Channeling will automatically be interrupted after channelling for {0} seconds consecutively <br> <br>After channelling for {0} seconds, all party members will attack an additional time for {1} seconds
+ARTIFACT_VIVID_RECONSTRUCTION_SPECIAL_DESC=<br>Your single target healing spells will grant the healed target {0} effect for {1} seconds
+ARTIFACT_ENERGY_DEPOT_SPECIAL_DESC=<br>Moving will grant {0} stack based on distance moved, up to a maximum of {1} stacks. <br> <br>Standing still for {2} seconds will consume {1} {0} stacks and buff all party members with {3} for {4} seconds.
+ARTIFACT_APOCALYPSE_TOME_SPECIAL_DESC=<br>Channeling will automatically be interrupted after channelling for {0} seconds consecutively <br> <br>After channelling for {0} seconds, all party members will attack an additional time for {1} seconds
 ARTIFACT_SYMBOL_OF_HOPE_SPECIAL_DESC=<br>+{0}% shield effect per party member alive  <br><br>all party members gain {1}% more base damage per party member alive  <br><br>all party members gain {2}% [ATTRIBUTE_BLOCK_CHANCE_TEXT] and [ATTRIBUTE_DODGE_CHANCE_TEXT] per party member alive  <br><br>{3} now gives bonuses per party member that is alive instead  <br><br>{3} now has {4}% less effect
-ARTIFACT_MANA_CRYSTAL_SPECIAL_DESC=10% chance to gain 5 mana after casting a spell
 ARTIFACT_SKELETON_SWORD_SPECIAL_DESC=[CONTEXT_PARTY_MEMBER_NAME_BERZERKER]'s attacks have a 40% chance to make the target bleed for 5 seconds, dealing {0} [ATTRIBUTE_PHYSICAL_DAMAGE] per second
-ARTIFACT_GUMP_EYE_SPECIAL_DESC=Reduce 5% of boss's damage every 10 seconds for 5 seconds
+ARTIFACT_GUMP_EYE_SPECIAL_DESC=Reduce {0}% of boss's damage every 10 seconds for 5 seconds
 ARTIFACT_IMMORTALITY_SPECIAL_DESC=All Area of Effect skills will also increase {0}% [ATTRIBUTE_BLOCK_CHANCE_TEXT] while staying inside
-ARTIFACT_BOOK_OF_DREAD_SPECIAL_DESC=[CONTEXT_PARTY_MEMBER_NAME_HEALER] also deals [ATTRIBUTE_NEMESIS_DAMAGE] to the current enemy for {0}% of amount healed on [LINK_SKILL_LESSER_HEAL] heals <br>[CONTEXT_PARTY_MEMBER_NAME_HEALER] also deals [ATTRIBUTE_NEMESIS_DAMAGE] to the current enemy for {0}% of amount healed on [LINK_SKILL_AMPLE_HEAL] heals
+ARTIFACT_BOOK_OF_DREAD_SPECIAL_DESC=[CONTEXT_PARTY_MEMBER_NAME_HEALER] also deals [ATTRIBUTE_NEMESIS_DAMAGE] to the current enemy for {0}% of amount healed on [LINK_SKILL_LESSER_HEAL] heals <br><br>[CONTEXT_PARTY_MEMBER_NAME_HEALER] also deals [ATTRIBUTE_NEMESIS_DAMAGE] to the current enemy for {0}% of amount healed on [LINK_SKILL_AMPLE_HEAL] heals <br><br>[CONTEXT_PARTY_MEMBER_NAME_HEALER] also deals [ATTRIBUTE_NEMESIS_DAMAGE] to the current enemy for {0}% of amount healed on [LINK_SKILL_DIVINE_MEND] heals
 ARTIFACT_ANGUISH_SPECIAL_DESC=[CONTEXT_PARTY_MEMBER_NAME_BERZERKER] has a +{0}% chance to attack twice
 ARTIFACT_ANGUISH_SPECIAL_DESC_ANOMALY_1=[CONTEXT_PARTY_MEMBER_NAME_BERZERKER] has a +{0}% chance to attack twice, {1}% chance to miss an attack
 ARTIFACT_ANGUISH_SPECIAL_DESC_ANOMALY_2=[CONTEXT_PARTY_MEMBER_NAME_BERZERKER] has a +{0}% chance to attack twice, {1}% chance to attack 3 times
@@ -562,7 +562,7 @@ ARTIFACT_MOTIVATION_B_SPECIAL_DESC=[LINK_TALENT_LEADERSHIP] also increases party
 ARTIFACT_MOTIVATION_I_SPECIAL_DESC=[LINK_TALENT_LEADERSHIP] also increases party [ATTRIBUTE_CRITICAL_STRIKE_CHANCE_TEXT] by {0}%
 ARTIFACT_GENEROSITY_I_SPECIAL_DESC=Grants [LINK_BRUTALITY_AURA]
 ARTIFACT_THOR_I_SPECIAL_DESC=[CONTEXT_PARTY_MEMBER_NAME_TANK]'s auto attack critical strikes will also increase target's damage taken by {0}% for {1} seconds
-ARTIFACT_DEMONIC_CLOAK_SPECIAL_DESC= +{0} all Occultist skill level<sprite=8> <br>-{1} all other class skills levels
+ARTIFACT_DEMONIC_CLOAK_SPECIAL_DESC=+{0} all Occultist skill level<sprite=8> <br>-{1} all other class skills levels
 ARTIFACT_ARCANE_KNOWLEDGE_SPECIAL_DESC=+{0}% [ATTRIBUTE_INCREASE_HEALPOWER_FLAT_TEXT] per Arcane Knowledge equipped
 ARTIFACT_RAMPAGE_SPECIAL_DESC=[CONTEXT_PARTY_MEMBER_NAME_BERZERKER] gains one Rampage stack on every non-critical strike attack <br>Rampage stack gives {0}% [ATTRIBUTE_CRITICAL_STRIKE_DAMAGE_TEXT] per stack <br><br>Lose all Rampage stacks after dealing a critical strike
 ARTIFACT_FURY_I_SPECIAL_DESC=Reduce the cooldown of [LINK_TALENT_CHAOS_STRIKE] by {0} second
@@ -585,8 +585,8 @@ ARTIFACT_CELESTIA_SPECIAL_DESC=[LINK_SKILL_LESSER_HEAL] also shields the target 
 ARTIFACT_DRAGONHEART_SPECIAL_DESC=Every 20 seconds, [CONTEXT_PARTY_MEMBER_NAME_TANK] <br>takes {0}% less damage, deals {1}% less damage for 6 seconds <br>then takes {2}% more damage, deals {3}% more damage for 6 seconds
 ARTIFACT_SHIVERSPINE_SPECIAL_DESC=[LINK_SKILL_FLASH_HEAL] also deals [ATTRIBUTE_ICE_DAMAGE] to the target equal to {0}% of [ATTRIBUTE_INCREASE_HEALPOWER_FLAT_TEXT] <br>Increase the mana cost of [LINK_SKILL_FLASH_HEAL] by {1} <br>[LINK_SKILL_FLASH_HEAL] is now Offensive
 ARTIFACT_ETERNAL_WARS_SPECIAL_DESC=Everytime the [CONTEXT_PARTY_MEMBER_NAME_HEALER] takes damage, she has a {0}% chance of gaining {1}% damage reduction for {2} seconds
-ARTIFACT_GAUNTLETS_OF_HOLY_MIGHT_SPECIAL_DESC=[CONTEXT_PARTY_MEMBER_NAME_BERZERKER]'s critical strikes reduce the cooldown of [LINK_SKILL_FLASH_HEAL] by 1 second
-ARTIFACT_RIDDLE_SPECIAL_DESC=Whenever you cast a spell, there is a 15% chance to haunt the current enemy, making it deal 2% less damage for 10 seconds <br>Stacks up to 3 times
+ARTIFACT_GAUNTLETS_OF_HOLY_MIGHT_SPECIAL_DESC=[LINK_SKILL_SEAL_OF_LIGHT]'s damage will also increases all subsequent damage taken from [LINK_SKILL_SEAL_OF_LIGHT] by {0}%, stacks up to {1} times
+ARTIFACT_RIDDLE_SPECIAL_DESC=Whenever you cast a spell, there is a 15% chance to haunt the current enemy, making it deal {0}% less damage for 10 seconds <br>Stacks up to 3 times
 ARTIFACT_TOXIC_MAKER_SPECIAL_DESC=[CONTEXT_PARTY_MEMBER_NAME_TANK]'s attacks can also apply [LINK_TALENT_POISON] of the current level
 ARTIFACT_STORMBRINGER_SPECIAL_DESC=[CONTEXT_PARTY_MEMBER_NAME_TANK]'s attacks have a 20% chance to zap the target, dealing {0} [ATTRIBUTE_LIGHTNING_DAMAGE]
 ARTIFACT_FALLEN_FLAMES_SPECIAL_DESC=[CONTEXT_PARTY_MEMBER_NAME_TANK] deals {0}% of his maximum life to all enemies as {1} damage every second <br>[CONTEXT_PARTY_MEMBER_NAME_TANK] takes {2}% of his maximum life as {3} damage every second
@@ -594,24 +594,23 @@ ARTIFACT_SPELLSONG_SPECIAL_DESC=Gain {0} mana whenever [CONTEXT_PARTY_MEMBER_NAM
 ARTIFACT_FROZEN_SPIRIT_SPECIAL_DESC=Party members' [ATTRIBUTE_ICE_DAMAGE] has a 8% chance to chill the target, slowing their attack speed by 20% as well as reducing [ATTRIBUTE_ICE_RESIST] by 20% for 4 seconds
 ARTIFACT_NIGHTKISS_SPECIAL_DESC=Reduce the damage of [LINK_TALENT_RAPID_SHOT] by {0}% <br>[LINK_TALENT_RAPID_SHOT] deals [ATTRIBUTE_NEMESIS_DAMAGE] instead
 ARTIFACT_HELLSEDGE_SPECIAL_DESC=[LINK_TALENT_CHAOS_STRIKE] can not be dodged or blocked <br>[LINK_TALENT_CHAOS_STRIKE] also burns the target for {0}% of the damage dealt every second for {1} seconds <br>This effect stacks
-ARTIFACT_REMORSE_SPECIAL_DESC=[LINK_TALENT_DECAY_AURA] now stacks, applying 1 stack every 9 seconds <br>[LINK_TALENT_DECAY_AURA] no longer increases enemies' damage taken <br>Stacks up to 30 times
-ARTIFACT_REMORSE_ANOMALY_1_SPECIAL_DESC=[LINK_TALENT_DECAY_AURA] now stacks, applying 1 stack every 20 seconds <br>Stacks up to 30 times
-ARTIFACT_REMORSE_ANOMALY_2_SPECIAL_DESC=[LINK_TALENT_DECAY_AURA] now stacks, applying 1 stack every 5 seconds <br>[LINK_TALENT_DECAY_AURA] no longer increases enemies' damage taken <br>Stacks up to 10 times
+ARTIFACT_REMORSE_SPECIAL_DESC=[LINK_TALENT_DECAY_AURA] now stacks, applying 1 stack every 9 seconds <br><br>[LINK_TALENT_DECAY_AURA] no longer increases enemies' damage taken <br><br>Stacks up to 30 times
+ARTIFACT_REMORSE_ANOMALY_1_SPECIAL_DESC=[LINK_TALENT_DECAY_AURA] now stacks, applying 1 stack every 20 seconds <br><br>Stacks up to 30 times
+ARTIFACT_REMORSE_ANOMALY_2_SPECIAL_DESC=[LINK_TALENT_DECAY_AURA] now stacks, applying 1 stack every 5 seconds <br><br>[LINK_TALENT_DECAY_AURA] no longer increases enemies' damage taken <br><br>Stacks up to 10 times
 ARTIFACT_INSANITY_SPECIAL_DESC=Mana regeneration is 0
-ARTIFACT_ELEMENTAL_GREATSTAFF_SPECIAL_DESC=+{0} [CONTEXT_PARTY_MEMBER_NAME_HEALER]/[CONTEXT_PARTY_MEMBER_NAME_BERZERKER] [ATTRIBUTE_ICE_DAMAGE] per point invested in Druid tree <br>+{1} [CONTEXT_PARTY_MEMBER_NAME_HEALER]/[CONTEXT_PARTY_MEMBER_NAME_BERZERKER] [ATTRIBUTE_LIGHTNING_DAMAGE] per point invested in Priest tree <br>+{2} [CONTEXT_PARTY_MEMBER_NAME_HEALER]/[CONTEXT_PARTY_MEMBER_NAME_BERZERKER] [ATTRIBUTE_FIRE_DAMAGE] per point invested in Occultist tree
+ARTIFACT_ELEMENTAL_GREATSTAFF_SPECIAL_DESC=Whenever your shield absorbs elemental damage, it will also increase the shielded target's base damage of the same element by the absorbed amount
 ARTIFACT_WISDOM_SPECIAL_DESC=+{0}{1} per one point invested in {2} tree
 ARTIFACT_WISDOM_SPECIAL_FULL_DESC=+{0} to {1}{2} per one point invested in {3} tree
 ARTIFACT_VOODOO_TOTEM_SPECIAL_DESC=[LINK_TALENT_VOODOO_MAGIC] now has a 30 second cooldown
 ARTIFACT_STORM_WALKER_SPECIAL_DESC=Trigger [LINK_TALENT_TYPHOON] of the current level for every {0} seconds channelled
 ARTIFACT_FIRE_EMBLEM_SPECIAL_DESC=[CONTEXT_PARTY_MEMBER_NAME_HEALER]'s [CONTEXT_ELEMENT_FIRE] critical strikes will char the target, reducing their [ATTRIBUTE_FIRE_RESIST] by {0}% for {1} seconds
 ARTIFACT_TRIUNE_STONE_SPECIAL_DESC=Every 15 seconds, <br>reduce all enemies' [ATTRIBUTE_FIRE_RESIST] by {0}% for 5 seconds,  <br>then [ATTRIBUTE_ICE_RESIST] by {1}% for 5 seconds,  <br>then [ATTRIBUTE_LIGHTNING_RESIST] by {2}% for 5 seconds, 
-ARTIFACT_INNER_FLAME_SPECIAL_DESC=-{0}% all party members' [ATTRIBUTE_ELE_RESISTS_TEXT] per second <br>+{0}% all party members' healing received per second
 ARTIFACT_STARS_RECURVE_SPECIAL_DESC=All party members gain {0}% of [CONTEXT_PARTY_MEMBER_NAME_RANGER]'s [ATTRIBUTE_PHYSICAL_DAMAGE] as extra [ATTRIBUTE_ICE_DAMAGE]
 ARTIFACT_THE_BUTCHER_SPECIAL_DESC=When equipped with only axes as weapons, +{0}% all party members' [ATTRIBUTE_CRITICAL_STRIKE_DAMAGE_TEXT]
 ARTIFACT_THE_PURIFIER_SPECIAL_DESC=[CONTEXT_PARTY_MEMBER_NAME_TANK]'s attacks have a {0}% chance to trigger a Level {1} [LINK_SKILL_SMITE]
 ARTIFACT_MEDITATION_SPECIAL_DESC=Instantly casts [LINK_SKILL_RADIANT_HEAL] on the skill bar whenever a party member falls below 50% health <br>You can no longer cast [LINK_SKILL_RADIANT_HEAL] <br>(10 seconds cooldown)
 ARTIFACT_DARK_INTENT_SPECIAL_DESC=[LINK_SKILL_BANISH] has a 25% chance to refresh its duration
-ARTIFACT_PENANCE_SPECIAL_DESC=[LINK_SKILL_LESSER_HEAL] reduces [LINK_TALENT_LEADERSHIP] cooldown by 1 second
+ARTIFACT_PENANCE_SPECIAL_DESC=[LINK_SKILL_LESSER_HEAL] and [LINK_SKILL_DIVINE_MEND] reduces [LINK_TALENT_LEADERSHIP] cooldown by 1 second
 ARTIFACT_MANA_EATER_SPECIAL_DESC=[CONTEXT_PARTY_MEMBER_NAME_HEALER] will cast [LINK_TALENT_SALVATION] and [LINK_TALENT_BLOSSOM] of current level per 200 mana spent
 ARTIFACT_SOUL_THUNDER_SPECIAL_DESC=50% of other damage element is converted to [ATTRIBUTE_LIGHTNING_DAMAGE]
 ARTIFACT_EQUILIBRIUM_SPECIAL_DESC=Dealing Elemental damage will increase Enemies' Resists by 15% to that element while decrease other Resists by 15% for 5 seconds
@@ -625,7 +624,6 @@ ARTIFACT_SCALES_OF_THE_DEEP_SPECIAL_DESC=% health increase effect from class tal
 ARTIFACT_SKELETON_SWORD_DIVINE_SPECIAL_DESC=[ARTIFACT_SKELETON_SWORD_SPECIAL_DESC]
 ARTIFACT_BONE_CHILL_SPECIAL_DESC=Party members' [ATTRIBUTE_ICE_DAMAGE] has a 10% chance to add a numb stack to the target <br><br>Automatically consumes 7 numb stacks set target's [ATTRIBUTE_ICE_RESIST] to 0% 5 seconds
 ARTIFACT_TWISTER_SPECIAL_DESC=[LINK_TALENT_TYPHOON] now deals {0}% of [CONTEXT_PARTY_MEMBER_NAME_RANGER]'s [ATTRIBUTE_ICE_DAMAGE] as [ATTRIBUTE_ICE_DAMAGE] to all enemies <br><br>Trigger current level of [LINK_TALENT_TYPHOON] on [CONTEXT_PARTY_MEMBER_NAME_RANGER]'s non-skill critical strikes
-ARTIFACT_INFUSED_MANTLE_SPECIAL_DESC=+20% [ATTRIBUTE_ELE_RESISTS_TEXT] when health is above 50% <br>-20% [ATTRIBUTE_ELE_RESISTS_TEXT] when health is below 50%
 ARTIFACT_STONE_OF_MADNESS_SPECIAL_DESC=+{0} minimum item drop quality (default drop quality is from 1-10)
 ARTIFACT_STORMBRINGER_DIVINE_SPECIAL_DESC=[ARTIFACT_STORMBRINGER_SPECIAL_DESC]
 ARTIFACT_HELLSEDGE_DIVINE_SPECIAL_DESC=[ARTIFACT_HELLSEDGE_SPECIAL_DESC]
@@ -641,7 +639,7 @@ ARTIFACT_PROLONGED_PAIN_SPECIAL_DESC=[LINK_TALENT_POISON] now lasts {0} seconds 
 ARTIFACT_SPRINTER_OF_THE_FOREST_SPECIAL_DESC=All party members gain {0}% dodge chance during [LINK_SKILL_REJUVENATE] Effect
 ARTIFACT_TEMPEST_FURY_SPECIAL_DESC=[LINK_TALENT_RAPID_SHOT] and [LINK_TALENT_CHAOS_STRIKE] reduces the cooldown of each other by 1 second
 ARTIFACT_INFINITY_SPECIAL_DESC=This item's attributes can be enhanced 100 times <br>Costs to enhance this item is reduced
-ARTIFACT_SWORD_SUN_MOON_SPECIAL_DESC=[CONTEXT_PARTY_MEMBER_NAME_TANK]'s attacks have a 15% chance to deal {0} [ATTRIBUTE_FIRE_DAMAGE] to all enemies <br>[CONTEXT_PARTY_MEMBER_NAME_HEALER]'s attacks have a 15% chance to deal {1} [ATTRIBUTE_ICE_DAMAGE] to all enemies
+ARTIFACT_SWORD_SUN_MOON_SPECIAL_DESC=[CONTEXT_PARTY_MEMBER_NAME_TANK]'s attacks have a 15% chance to deal {0} [ATTRIBUTE_FIRE_DAMAGE] to all enemies <br><br>[CONTEXT_PARTY_MEMBER_NAME_HEALER]'s attacks have a 15% chance to deal {1} [ATTRIBUTE_ICE_DAMAGE] to all enemies
 ARTIFACT_QUEEN_TRIBUTE_SPECIAL_DESC=[LINK_TALENT_CHAOS_STRIKE] also increases caster's base [ATTRIBUTE_LIGHTNING_DAMAGE] by {0}% for 6 seconds
 ARTIFACT_RUNE_FORGED_BLADE_SPECIAL_DESC=Whenever [CONTEXT_PARTY_MEMBER_NAME_TANK] Blocks, he gains {0} extra [ATTRIBUTE_FIRE_DAMAGE] for 5 seconds
 ARTIFACT_ASHWOOD_SPECIAL_DESC=[CONTEXT_PARTY_MEMBER_NAME_RANGER]'s attacks have a {0}% chance to burn the target, dealing {1}% of [CONTEXT_PARTY_MEMBER_NAME_RANGER]'s total damage per second as [ATTRIBUTE_FIRE_DAMAGE] for {2} seconds
@@ -667,10 +665,10 @@ ARTIFACT_BLACK_ICE_SPECIAL_DESC=[CONTEXT_PARTY_MEMBER_NAME_RANGER]'s auto attack
 ARTIFACT_BLACK_ICE_DIVINE_SPECIAL_DESC=[ARTIFACT_BLACK_ICE_SPECIAL_DESC]
 ARTIFACT_RADIANT_PRIDE_SPECIAL_DESC=Increase all Aura Effect by {0}% of [CONTEXT_PARTY_MEMBER_NAME_RANGER]'s Dodge Chance
 ARTIFACT_SOULESS_BEACON_SPECIAL_DESC=% increase/decrease in [LINK_SKILL_LESSER_HEAL] Effect also affect % [LINK_SKILL_STAR_CALL] damage
-ARTIFACT_FLOURISH_SPECIAL_DESC=[LINK_TALENT_BLOSSOM] also places a seed on to healed party member <br>The next [LINK_SKILL_LESSER_HEAL] or [LINK_SKILL_FLASH_HEAL] will consume all seeds and increase healing by 50% per seed <br>Stacks up to 5 times
-ARTIFACT_RECKONING_LANTERN_SPECIAL_DESC= -45 seconds [LINK_SKILL_ANGELIC_INFUSION] and [LINK_SKILL_REJUVENATE] cooldown <br><br>[CONTEXT_PARTY_MEMBER_NAME_HEALER]'s attack also reduces the cooldown of [LINK_SKILL_ANGELIC_INFUSION] and [LINK_SKILL_REJUVENATE] by 1 second
+ARTIFACT_FLOURISH_SPECIAL_DESC=[LINK_TALENT_BLOSSOM] also places a seed on to healed party member <br>The next [LINK_SKILL_LESSER_HEAL] or [LINK_SKILL_DIVINE_MEND] will consume all seeds and increase healing by 50% per seed <br>Stacks up to 5 times
+ARTIFACT_RECKONING_LANTERN_SPECIAL_DESC=-45 seconds [LINK_SKILL_ANGELIC_INFUSION] and [LINK_SKILL_REJUVENATE] cooldown <br><br>[CONTEXT_PARTY_MEMBER_NAME_HEALER]'s attack also reduces the cooldown of [LINK_SKILL_ANGELIC_INFUSION] and [LINK_SKILL_REJUVENATE] by 1 second
 ARTIFACT_CHILLED_MAUL_SPECIAL_DESC=Whenever [CONTEXT_PARTY_MEMBER_NAME_BERZERKER] attacks, there is a {0}% chance to deal extra {1} [ATTRIBUTE_ICE_DAMAGE] to all enemies
-ARTIFACT_SCULPTOR_OF_SUN_SPECIAL_DESC=[LINK_SKILL_LESSER_HEAL] also increases target's [ATTRIBUTE_FIRE_DAMAGE] by {0} for {1} seconds
+ARTIFACT_SCULPTOR_OF_SUN_SPECIAL_DESC=All single target non heal overtime healing skills also increases target's [ATTRIBUTE_FIRE_DAMAGE] by {0} for {1} seconds
 ARTIFACT_PEACESONG_SPECIAL_DESC=[CONTEXT_PARTY_MEMBER_NAME_RANGER]'s attacks increases [ATTRIBUTE_INCREASE_HEALPOWER_FLAT_TEXT] by {0} for {1} seconds <br>Stacks up to {2} times <br><br>Lose all stacks when you or any party member casts a spell
 ARTIFACT_MALICE_SPECIAL_DESC=Whenever [CONTEXT_PARTY_MEMBER_NAME_TANK] takes damage from the enemy, he will deal {0}% of the damage taken back to the attacker as [ATTRIBUTE_PHYSICAL_DAMAGE]
 ARTIFACT_REACTIVE_ARMOR_SPECIAL_DESC=Increase health regeneration by {0} every time a party member takes damage, lasts {1} seconds <br>Stacks up to {2} times
@@ -733,7 +731,7 @@ ARTIFACT_MAELSTROM_SPECIAL_DESC=Every mana spent casting spells will cause [CONT
 ARTIFACT_ADAPTATION_SPECIAL_DESC=Gain an additional [LINK_TALENT_HEIGHTENED_SENSES] stack per dodge
 ARTIFACT_PURIST_HEART_SPECIAL_DESC=[LINK_TALENT_SALVATION] damage reduction bonus is now doubled <br>[LINK_TALENT_SALVATION] also increases healing received by 20%
 ARTIFACT_TOWER_OF_FEAR_SPECIAL_DESC={0}% chance to reduce attacker's [ATTRIBUTE_PHYSICAL_DAMAGE] and [ATTRIBUTE_NEMESIS_DAMAGE] by {1}% for {2} seconds whenever [CONTEXT_PARTY_MEMBER_NAME_TANK] is hit
-ARTIFACT_DIVIDED_JUSTICE_SPECIAL_DESC= -{0}% all other party members' damage taken
+ARTIFACT_DIVIDED_JUSTICE_SPECIAL_DESC-{0}% all other party members' damage taken
 ARTIFACT_WICKED_WING_SPECIAL_DESC=All characters' [CONTEXT_ELEMENT_PHYSICAL] auto attack restores 0.2% of maximum mana <br>Lose 2% of maximum mana every second
 ARTIFACT_THUNDER_TORRENT_SPECIAL_DESC=[LINK_SKILL_SMITE] does {0}% less damage <br>[LINK_SKILL_SMITE] now also increases target's [ATTRIBUTE_LIGHTNING_DAMAGE] taken by {1}%
 ARTIFACT_DISPERSION_SPECIAL_DESC={0} now affects all party members <br>Increase the cast time of {1} by {2} second <br>All party members are stunned for {3} seconds after {4} ends or refreshed
@@ -811,7 +809,7 @@ ARTIFACT_THUNDERCLOUD_SPECIAL_DESC=[LINK_TALENT_TYPHOON] now causes [CONTEXT_PAR
 ARTIFACT_THUNDERCLOUD_DIVINE_SPECIAL_DESC=[LINK_TALENT_TYPHOON] now causes [CONTEXT_PARTY_MEMBER_NAME_HEALER] to deal {0}% of [ATTRIBUTE_INCREASE_HEALPOWER_FLAT_TEXT] as [ATTRIBUTE_LIGHTNING_DAMAGE] to all enemies per second <br>[LINK_TALENT_TYPHOON] now has a {1}-{2} second trigger cooldown instead <br>[LINK_TALENT_TYPHOON] can now stack <br>[LINK_TALENT_TYPHOON] no longer reduces enemies' attack speed or increases enemies' damage taken
 ARTIFACT_VISAGE_OF_TRUTH_SPECIAL_DESC=[LINK_SKILL_LESSER_HEAL] also increases target's healing received from subsequent [LINK_SKILL_LESSER_HEAL] by {0}% for {1} seconds, stacking up to {2} time
 ARTIFACT_VISAGE_OF_TRUTH_DIVINE_SPECIAL_DESC=[ARTIFACT_VISAGE_OF_TRUTH_SPECIAL_DESC]
-ARTIFACT_HARBINGER_SPECIAL_DESC= +1 [LINK_TALENT_RAPID_SHOT] arrow per {0} Sacrificed Points <br>+1 maximum [LINK_TALENT_POISON] Stack per {1} Sacrificed Points <br +1 maximum [LINK_SKILL_SPIRIT_ORB] Stack per {2} Sacrificed Points
+ARTIFACT_HARBINGER_SPECIAL_DESC=+1 [LINK_TALENT_RAPID_SHOT] arrow per {0} Sacrificed Points <br>+1 maximum [LINK_TALENT_POISON] Stack per {1} Sacrificed Points <br> +1 maximum [LINK_SKILL_SPIRIT_ORB] Stack per {2} Sacrificed Points
 ARTIFACT_INTERROGATOR_SPECIAL_DESC=[CONTEXT_PARTY_MEMBER_NAME_BERZERKER]'s attacks also reduce the target's [ATTRIBUTE_PHYSICAL_RESIST] by {0}% for {1} seconds, stacking up to {2} times
 ARTIFACT_TAINTED_SPECIAL_DESC=When a [LINK_SKILL_SPIRIT_ORB] explodes, [CONTEXT_PARTY_MEMBER_NAME_HEALER] will deal {0}% of amount healed as [ATTRIBUTE_FIRE_DAMAGE] to all enemies
 ARTIFACT_TAINTED_DIVINE_SPECIAL_DESC=[ARTIFACT_TAINTED_SPECIAL_DESC]
@@ -825,10 +823,10 @@ ARTIFACT_FESTER_SPECIAL_DESC=Whenever an enemy get a [LINK_TALENT_POISON] stack,
 ARTIFACT_FESTER_DIVINE_SPECIAL_DESC=[ARTIFACT_FESTER_SPECIAL_DESC]
 ARTIFACT_THE_SAINT_SPECIAL_DESC=+{0} to all skill level<sprite=8> when wearing all Staffs or Wands as weapon
 ARTIFACT_THE_SAINT_DIVINE_SPECIAL_DESC=[ARTIFACT_THE_SAINT_SPECIAL_DESC]
-ARTIFACT_SERPANT_HUNGER_SPECIAL_DESC=[LINK_SKILL_LESSER_HEAL] , [LINK_SKILL_AMPLE_HEAL] , [LINK_SKILL_RADIANT_HEAL] , [LINK_SKILL_FLASH_HEAL] now scales with maximum mana instead of [ATTRIBUTE_INCREASE_HEALPOWER_FLAT_TEXT]
+ARTIFACT_SERPANT_HUNGER_SPECIAL_DESC=[LINK_SKILL_LESSER_HEAL], [LINK_SKILL_DIVINE_MEND], [LINK_SKILL_AMPLE_HEAL], [LINK_SKILL_RADIANT_HEAL] ,[LINK_SKILL_FLASH_HEAL] now scales with maximum mana instead of [ATTRIBUTE_INCREASE_HEALPOWER_FLAT_TEXT]
 ARTIFACT_CLEMENCY_SPECIAL_DESC=Grants {0} [LINK_VOID_AURA]
 ARTIFACT_CLEMENCY_DIVINE_SPECIAL_DESC=[ARTIFACT_CLEMENCY_SPECIAL_DESC]
-ARTIFACT_FLEETING_AID_SPECIAL_DESC=[LINK_SKILL_LESSER_HEAL] and [LINK_SKILL_FLASH_HEAL] heals for {0}% more when the target is below {1}% health
+ARTIFACT_FLEETING_AID_SPECIAL_DESC=[LINK_SKILL_LESSER_HEAL], and [LINK_SKILL_DIVINE_MEND] heals for {0}% more when the target is below {1}% health
 ARTIFACT_FLEETING_AID_DIVINE_SPECIAL_DESC=[ARTIFACT_FLEETING_AID_SPECIAL_DESC]
 ARTIFACT_RESONANCE_SPECIAL_DESC=[LINK_TALENT_ENERGY_AURA] now also grants [LINK_FLAME_AURA] and [LINK_FROST_AURA] , increasing [ATTRIBUTE_FIRE_DAMAGE] and [ATTRIBUTE_ICE_DAMAGE] by the same amount
 ARTIFACT_THE_CORRUPTED_DIVINE_SPECIAL_DESC=[ARTIFACT_THE_CORRUPTED_SPECIAL_DESC]
@@ -848,4 +846,32 @@ ARTIFACT_REMORSE_DIVINE_SPECIAL_DESC=[ARTIFACT_REMORSE_SPECIAL_DESC]
 ARTIFACT_FAITHKEEPER_DIVINE_SPECIAL_DESC=[ARTIFACT_FAITHKEEPER_SPECIAL_DESC]
 ARTIFACT_FROZEN_HELL_DIVINE_SPECIAL_DESC=[ARTIFACT_FROZEN_HELL_SPECIAL_DESC]
 ARTIFACT_PARTNERSHIP_DIVINE_SPECIAL_DESC=[ARTIFACT_PARTNERSHIP_SPECIAL_DESC]
+
+ARTIFACT_GIFT_OF_MOON_SPECIAL_DESC=Gain additional {0} [ATTRIBUTE_MANA_REGEN_FLAT_TEXT] if the [CONTEXT_PARTY_MEMBER_NAME_HEALER] is at full health
+ARTIFACT_GHOST_SPECIAL_DESC=[LINK_SKILL_RENEW] also increases [ATTRIBUTE_DODGE_CHANCE_TEXT] by {0}%
+ARTIFACT_IQSIOR_CAPE_SPC_DESC=Every {0} seconds, gain {1}% [ATTRIBUTE_CRITICAL_HEAL_CHANCE] for {2} seconds
+ARTIFACT_MANA_CRYSTAL_SPECIAL_DESC={0}% chance to gain {1} mana after casting a spell
+
+ARTIFACT_HOLY_WOOL_SPECIAL_DESC=[LINK_TALENT_ASCENSION] is now a targetable ability
+ARTIFACT_NORRIX_FLUTE_SPECIAL_DESC=Whenever [LINK_SKILL_RENEW] expires, it automatically applies a [LINK_SKILL_SEAL_OF_LIGHT] effect
+
+ARTIFACT_KINGS_LEGACY_NAME=King's Legacy
+ARTIFACT_KINGS_LEGACY_SPC_DESC=[LINK_SKILL_DIVINE_FOCUS] also reduces the cooldown of [LINK_SKILL_ASCENSION], [LINK_SKILL_REJUVENATE], and [LINK_SKILL_ANGELIC_INFUSION] by {0} seconds <br><br>[LINK_SKILL_DIVINE_FOCUS] reduces the cooldown of [LINK_SKILL_SANCTUARY] by {1} seconds
+
+ARTIFACT_THE_AVENGER_NAME=The Avenger
+ARTIFACT_THE_AVENGER_SPC_DESC=Whenever a party member dies, all other party members gain [LINK_SKILL_ASCENSION] for half the duration
+
+ARTIFACT_INNER_FLAME_SPECIAL_DESC=[LINK_TALENT_INTO_THE_FRAY] also increases [ATTRIBUTE_BLOCK_CHANCE_TEXT] by {0}% and [ATTRIBUTE_ALL_RESISTS_TEXT] by {1}%
+
+ARTIFACT_LIGHTS_AND_SHADOWS_NAME=Lights and Shadows
+ARTIFACT_LIGHTS_AND_SHADOWS_SPC_DESC=Whenever [CONTEXT_PARTY_MEMBER_NAME_HEALER] casts [LINK_SKILL_HAMMER_OF_RECKONING], [CONTEXT_PARTY_MEMBER_NAME_BERZERKER] will cast a [LINK_TALENT_CHAOS_STRIKE] of the current level <br><br>Whenever [CONTEXT_PARTY_MEMBER_NAME_BERZERKER] casts [LINK_TALENT_CHAOS_STRIKE], [CONTEXT_PARTY_MEMBER_NAME_HEALER] will cast a [LINK_SKILL_HAMMER_OF_RECKONING] of the current level <br><br>[LINK_TALENT_CHAOS_STRIKE] and [LINK_SKILL_HAMMER_OF_RECKONING] triggered by [ARTIFACT_NAME_LIGHTS_AND_SHADOWS] won't cause it to trigger again
+
+ARTIFACT_INFUSED_MANTLE_SPECIAL_DESC=Focused [LINK_SKILL_DIVINE_MEND] now heals all party members
+
+ARTIFACT_TEMPLARS_RESOLVE_NAME=Templar's Resolve
+ARTIFACT_TEMPLARS_RESOLVE_SPECIAL_DESC=[CONTEXT_PARTY_MEMBER_NAME_HEALER] gains a [LINK_ASCEND] stack on every critical strikes, upon reaching {0} [LINK_ASCEND] stacks [CONTEXT_PARTY_MEMBER_NAME_HEALER] will automatically cast [LINK_SKILL_ASCENSION] on herself
+
+ARTIFACT_OATH_KEEPER_NAME=Oathkeeper
+ARTIFACT_OATH_KEEPER_SPC_DESC=[LINK_SKILL_AMPLE_HEAL] will also grant an [LINK_OATH] stack to all party members for {0} seconds. Casting [LINK_SKILL_FLASH_HEAL] with [LINK_TALENT_INFUSED_LUMINOSITY] will automatically cast on all party members affected by [LINK_OATH] effect
+
 END

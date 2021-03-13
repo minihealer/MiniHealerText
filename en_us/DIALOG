@@ -111,6 +111,8 @@ DIALOG_QUEST_FINISH_LOWMORE_START_2=After all these years I have figured out a w
 DIALOG_QUEST_FINISH_LOWMORE_START_3=Behind me is the <color=#B58300FF>Depth Door</color> of the Vault, it can open to anywhere as long as you have a key.
 DIALOG_QUEST_FINISH_LOWMORE_START_4=I have a key of <color=#B58300FF>Lowmore</color>, I know that the next map fragment is within it for sure.
 DIALOG_QUEST_FINISH_LOWMORE_START_5=Travel to <color=#B58300FF>Lowmore</color> and find the map fragment. Be careful that things in <color=#B58300FF>Depth Door</color> move around and is never the same everytime.
+DIALOG_QUEST_FINISH_LOWMORE_START_6=Enemies in <color=#B58300FF>[LOCATION_PANDEMONIC_DEPTH]</color> are also very strong, take this sphere, it should help you dealing with stronger enemies!
+
 DIALOG_QUEST_FINISH_LOWMORE_PENDING_0=Travel to <color=#B58300FF>Lowmore</color>, the next map fragment should be in one of the rooms in the very end.
 DIALOG_QUEST_FINISH_LOWMORE_END_0=I have added the Inner Courtyard to your map.
 

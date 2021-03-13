@@ -30,8 +30,14 @@ EFFECT_DECREPIFICATION_AURA_NAME=Decrepification Aura [0]
 EFFECT_DIVINE_MEND_NAME=[SKILL_DIVINE_MEND_NAME] Effect [0]
 EFFECT_DIVINE_MEND_DESC_0=[ATTRIBUTE_PHYSICAL_RESIST] increased
 
+EFFECT_ASCEND_NAME=Ascend Effect [0]
+EFFECT_ASCEND_DESC_OVERRIDE=Upon reaching {0} stacks, grants [SKILL_ASCENSION_NAME]
+
+EFFECT_OATH_NAME=Oath Effect [0]
+EFFECT_OATH_DESC_0=Casting [SKILL_FLASH_HEAL_NAME] with [TALENT_INFUSED_LUMINOSITY_NAME] will also cast on this target
+
 EFFECT_SEAL_OF_LIGHT_NAME=[SKILL_SEAL_OF_LIGHT_NAME] Effect [0]
-EFFECT_SEAL_OF_LIGHT_DESC_0=Upon receving another direct single target heal <br>The seal will explode, healing the target significantly
+EFFECT_SEAL_OF_LIGHT_DESC_0=When healed by [SKILL_DIVINE_MEND_NAME] <br>The seal will explode, healing the target significantly <br>as well as dealing [ATTRIBUTE_FIRE_DAMAGE] too all enemies
 
 EFFECT_DIVINE_FOCUS_NAME=[SKILL_DIVINE_FOCUS_NAME] Effect [0]
 EFFECT_DIVINE_FOCUS_DESC_0=Focused, the next Paladin spell cast will be more powerful
@@ -52,6 +58,15 @@ EFFECT_SACRED_INFUSION_NAME=[SKILL_SACRED_INFUSION_NAME] Effect [0]
 EFFECT_SACRED_INFUSION_DESC_0=All single target non heal over time 
 EFFECT_SACRED_INFUSION_DESC_1=healing done to other party members
 EFFECT_SACRED_INFUSION_DESC_2=will also heal this party member
+
+EFFECT_ASCENSION_NAME=[SKILL_ASCENSIONI_NAME] Effect [0]
+EFFECT_ASCENSION_NAME_DESC_0=[ATTRIBUTE_HEALING_DONE] increased
+EFFECT_ASCENSION_NAME_DESC_1=[ATTRIBUTE_ALL_DAMAGE_DEALT] increased
+EFFECT_ASCENSION_NAME_DESC_2=[ATTRIBUTE_SHIELDING_EFFECT] increased
+EFFECT_ASCENSION_NAME_DESC_3=[ATTRIBUTE_MOVEMENT_SPEED] increased
+
+EFFECT_IQSIOR_CAPE_NAME=Iqsior's Cape Effect [0]
+EFFECT_IQSIOR_CAPE_DESC_0=[ATTRIBUTE_CRITICAL_HEAL_CHANCE] increased
 
 EFFECT_TANK_NAME=[CONTEXT_PARTY_MEMBER_NAME_TANK] Effect [0]
 EFFECT_TANK_DESC_0=Drawing the most attention from the boss
@@ -138,14 +153,14 @@ EFFECT_FLARE_NAME=Flare Effect [1]
 EFFECT_FLARE_DESC_0=Taking increased damage
 EFFECT_ORB_OF_NIGHT_NAME=Orb of Night Effect [1]
 EFFECT_ORB_OF_NIGHT_DESC_0=Taking [ATTRIBUTE_NEMESIS_DAMAGE] every second
-EFFECT_MANA_VOID_NAME=Mana Void Effect [1]
-EFFECT_MANA_VOID_DESC_0=Environmental [5]
-EFFECT_MANA_VOID_DESC_1=Mana regen is 0
-EFFECT_MANA_VOID_DESC_2=You have 40% less maximum mana
-EFFECT_MANA_VOID_DESC_3=Attacking the crystal will restore mana
-EFFECT_MANA_VOID_DESC_4=Attacking the crystal will heal all other enemies
+EFFECT_MANAVOID_NAME=Mana Void Effect [1]
+EFFECT_MANAVOID_DESC_0=Environmental [5]
+EFFECT_MANAVOID_DESC_1=Mana regen is 0
+EFFECT_MANAVOID_DESC_2=You have 40% less maximum mana
+EFFECT_MANAVOID_DESC_3=Attacking the crystal will restore mana
+EFFECT_MANAVOID_DESC_4=Attacking the crystal will heal all other enemies
 
-EFFECT_MANA_VOID_SKILL_DESC=You have no mana regeneration. \n\nHitting the crystal will regain a small bit of mana back but healing all other enemies by a small amount.
+EFFECT_MANAVOID_SKILL_DESC=Mana regeneration is 0. <br><br>Attacking the crystal will regain a small bit of mana back but healing all other enemies by a small amount.
 
 EFFECT_CRYSTALIZE_NAME=Crystalize Effect [0]
 EFFECT_CRYSTALIZE_DESC_0=Dealing more damage
@@ -186,6 +201,12 @@ EFFECT_SOUL_REVENGE_DESC_2=Souls can be killed by clicking on them
 EFFECT_SOUL_REVENGE_DESC_3=Killing a soul will deal [ATTRIBUTE_ICE_DAMAGE] to all party members
 
 EFFECT_SOUL_REVEGE_SKILL_DESC=Souls will periodically spawn and can be killed by clicking on them. \n\nKilling a soul will deal [ATTRIBUTE_ICE_DAMAGE] to all party members. \n\nNorrix is more powerful when there are souls on the field. \n\nNorrix deals and take more damage the more souls he absorbs
+
+EFFECT_SPARK_BLAST_NAME=[SKILL_SPARK_BLAST_NAME] Effect [1]
+EFFECT_SPARK_BLAST_DESC_0=[ATTRIBUTE_INCREASE_HEALPOWER_FLAT_TEXT] decreased
+
+EFFECT_GAUNTLETS_OF_HOLY_MIGHT_NAME=[ARTIFACT_GAUNTLETS_OF_HOLY_MIGHT_NAME] Effect [1]
+EFFECT_GAUNTLETS_OF_HOLY_MIGHT_DESC_0=Damage taken from [SKILL_SEAL_OF_LIGHT_NAME] increased
 
 EFFECT_MIND_BLAST_NAME=Mind Blast Effect [1]
 EFFECT_MIND_BLAST_DESC_0=Cast speed greatly reduced
@@ -505,9 +526,9 @@ EFFECT_STONESKIN_DESC_0=Taking heavily reduced [ATTRIBUTE_PHYSICAL_DAMAGE]
 EFFECT_STONESKIN_DESC_1=Taking slightly reduced [ATTRIBUTE_NEMESIS_DAMAGE]
 EFFECT_SPECTRESKIN_NAME=SpectreSkin Effect [0]
 EFFECT_SPECTRESKIN_DESC_0=Taking heavily reduced [ATTRIBUTE_ELE_DAMAGE_TEXT]
-EFFECT_NO_MAGIC!_NAME=No Magic! Effect [1]
-EFFECT_NO_MAGIC!_DESC_0=You lose additional 50 mana everytime
-EFFECT_NO_MAGIC!_DESC_1=any party member casts a spell
+EFFECT_NO_MAGIC_NAME=No Magic! Effect [1]
+EFFECT_NO_MAGIC_DESC_0=You lose additional 50 mana everytime
+EFFECT_NO_MAGIC_DESC_1=any party member casts a spell
 EFFECT_HYPERDRIVE_NAME=Hyperdrive Effect [0]
 EFFECT_HYPERDRIVE_DESC_0=Attack speed is significantly increased
 EFFECT_HYPERDRIVE_DESC_1=[ATTRIBUTE_PHYSICAL_DAMAGE] is significantly increased
@@ -876,11 +897,11 @@ EFFECT_SEAL_OF_FLAME_DESC_1=Increase all party members'
 EFFECT_SEAL_OF_FLAME_DESC_2=[ATTRIBUTE_FIRE_DAMAGE] taken by 1%
 EFFECT_SEAL_OF_FLAME_TAKEN_NAME=Seal of Flame Taken Effect [1]
 EFFECT_SEAL_OF_FLAME_TAKEN_DESC_0=[ATTRIBUTE_FIRE_DAMAGE] taken increased
-EFFECT_TURNED_UP!_NAME=Turned up! Effect [0]
-EFFECT_TURNED_UP!_DESC_0=All damage increased
-EFFECT_TURNED_UP!_DESC_1=All resistances increased
-EFFECT_TURNED_UP!_DESC_2=[ATTRIBUTE_BLOCK_CHANCE_TEXT] increased
-EFFECT_TURNED_UP!_DESC_3=[ATTRIBUTE_DODGE_CHANCE_TEXT] increased
+EFFECT_TURNED_UP_NAME=Turned up! Effect [0]
+EFFECT_TURNED_UP_DESC_0=All damage increased
+EFFECT_TURNED_UP_DESC_1=All resistances increased
+EFFECT_TURNED_UP_DESC_2=[ATTRIBUTE_BLOCK_CHANCE_TEXT] increased
+EFFECT_TURNED_UP_DESC_3=[ATTRIBUTE_DODGE_CHANCE_TEXT] increased
 EFFECT_HEIGHTENED_SENSES_NAME=Heightened Senses Effect [0]
 EFFECT_HEIGHTENED_SENSES_DESC_0=[ATTRIBUTE_ICE_DAMAGE] increased
 EFFECT_HEIGHTENED_SENSES_DESC_1=[ATTRIBUTE_INCREASE_HEALPOWER_FLAT_TEXT] increased
@@ -928,8 +949,8 @@ EFFECT_PUPPET_DOLL_DESC_1=If the doll dies before the effect expires
 EFFECT_PUPPET_DOLL_DESC_2=the soul is returned to the body
 EFFECT_PUPPET_DOLL_DESC_3=Puppet Doll's stats are scaled 
 EFFECT_PUPPET_DOLL_DESC_4=with the party member's stat
-EFFECT_THUNDER_ASSULT_NAME=Thunder Assult Effect [0]
-EFFECT_THUNDER_ASSULT_DESC_0=Charging up
+EFFECT_THUNDER_ASSAULT_NAME=Thunder Assult Effect [0]
+EFFECT_THUNDER_ASSAULT_DESC_0=Charging up
 EFFECT_TARGET_DUMMY_NAME=Target Dummy Effect [0]
 EFFECT_TARGET_DUMMY_DESC_0=Recovers all damage taken
 EFFECT_TARGET_DUMMY_DESC_1=Displaying DPS/HPS information
@@ -1195,8 +1216,10 @@ EFFECT_DEVOTION_DESC_2=Damage increased
 EFFECT_SOUL_CONDUIT_NAME=Soul Conduit Effect [0]
 EFFECT_SOUL_CONDUIT_DESC_0=[ATTRIBUTE_ATTACK_SPEED] increased
 EFFECT_SOUL_CONDUIT_DESC_1=Base damage increased
-EFFECT_VOID_AURA_NAME=Void Aura Effect [0]
-EFFECT_VOID_AURA_DESC_0=Aura of the void, does nothing
+EFFECT_VOID_AURA_0_NAME=Void Aura Effect [0]
+EFFECT_VOID_AURA_1_NAME=Void Aura Effect [0]
+EFFECT_VOID_AURA_2_NAME=Void Aura Effect [0]
+EFFECT_VOID_AURA_DESC=Aura of the void, does nothing
 EFFECT_INFECTED_STRIKER_NAME=Infected Striker Effect [0]
 EFFECT_INFECTED_STRIKER_DESC_0=The bow is infected,
 EFFECT_INFECTED_STRIKER_DESC_1=dealing extra [ATTRIBUTE_NEMESIS_DAMAGE] on the next attack
