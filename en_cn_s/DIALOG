@@ -111,6 +111,8 @@ DIALOG_QUEST_FINISH_LOWMORE_START_2=度过了许多年以后，我找到了净�
 DIALOG_QUEST_FINISH_LOWMORE_START_3=我身后的是<color=#B58300FF>秘境大门</color>。无论是哪个秘境，只要有对应的钥匙，它就可以通向那里。
 DIALOG_QUEST_FINISH_LOWMORE_START_4=我手里的钥匙通往<color=#B58300FF>幽壑</color>，我确信下一块地图碎片就在那里。
 DIALOG_QUEST_FINISH_LOWMORE_START_5=进入<color=#B58300FF>幽壑</color>寻找地图残片。在<color=#B58300FF>秘境大门</color>里，空间是流动的，每次开门进去的路不一样。
+DIALOG_QUEST_FINISH_LOWMORE_START_6=在<color=#B58300FF>[LOCATION_PANDEMONIC_DEPTH]</color>的敌人非常强大，拿着这个宝物，它会帮你灭敌的！
+
 DIALOG_QUEST_FINISH_LOWMORE_PENDING_0=进入<color=#B58300FF>幽壑</color>，地图碎片就在最深处的一个房间里。
 DIALOG_QUEST_FINISH_LOWMORE_END_0=我已经把内部庭院加到地图了。
 

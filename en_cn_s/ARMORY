@@ -25,6 +25,7 @@ ARMORY_SORT_ITEMLVL=物品等级
 ARMORY_SORT_FAVORITE=<color=#FF911F>最爱</color> - 最爱标记的物品不会被卖掉所有...卖掉
 
 ARMORY_HOVER_DIVINE=<color=#FF911F>神圣装备</color> - 这是一个强化版本的{0}
+ARMORY_HOVER_DIVINABLE=<color=#FF911F>可升级神圣装备</color> - 这件装备可以升级为神圣装备，需要[MATERIAL_DIVINATION_SPHERE_NAME]
 ARMORY_HOVER_CHAOTIC=<color=#FF911F>混沌装备</color> - 这件装备只在混沌难度掉落
 ARMORY_HOVER_ANOMALOUS=<color=#FF911F>异常装备</color> - 这是一件属性略有不同的{0}
 ARMORY_HOVER_PERFECT=<color=#FF911F>完美装备</color> - 这件装备的品质大于10

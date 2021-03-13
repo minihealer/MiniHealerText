@@ -16,7 +16,8 @@ DEPTH_SELECT_UI_IC_TIER_X=第{0}层
 DEPTH_SELECT_UI_IC_ENEMY_HEALTH=+{0}%敌人生命 <br>({1}%BOSS生命)<br><br>
 DEPTH_SELECT_UI_IC_ENEMY_AUTO_ATTACK_DMG=+{0}%敌人自动攻击伤害 <br>({1}%BOSS自动攻击伤害)<br><br>
 DEPTH_SELECT_UI_IC_ENEMY_SPELLPOWER=+{0}%敌人法术强度 <br>({1}%BOSS法术强度)<br><br>
-
+DEPTH_SELECT_UI_POTENTIAL_ARTIFACTS=装备掉落
+DEPTH_SELECT_UI_POTENTIAL_ARTIFACTS_DESC=这层所有可能掉落的装备。<br><br>随着拾取，会被加入装备图鉴
 DEPTH_UI_DEPTH_INFO=显示深渊信息
 DEPTH_UI_BACK_TO_HAVEN=回到避难所<br><color=#858585FF>你可以再回到这里</color>
 DEPTH_UI_CLOSE_DEPTH=关闭深渊<br><color=#858585FF>你无法再回到这里</color>
