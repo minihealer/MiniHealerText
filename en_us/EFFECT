@@ -126,7 +126,7 @@ EFFECT_DAY_DESC_1=It is day time
 EFFECT_DAY_DESC_2=Solaria is stronger
 EFFECT_DAY_DESC_3=Lunaria is weaker
 
-EFFECT_DAY_SKILL_DESC=It is day time, Solaria is stronger and Lunaria is weaker. \n\nKilling Lunaria will cause day time to stay forever.
+EFFECT_DAY_SKILL_DESC=It is day time, Solaria is stronger and Lunaria is weaker. <br><br>Killing Lunaria will cause day time to stay forever.
 
 EFFECT_NIGHT_NAME=Night Effect [0]
 EFFECT_NIGHT_DESC_0=Environmental [5]
@@ -134,7 +134,7 @@ EFFECT_NIGHT_DESC_1=It is night time
 EFFECT_NIGHT_DESC_2=Lunaria is stronger
 EFFECT_NIGHT_DESC_3=Solaria is weaker
 
-EFFECT_NIGHT_SKILL_DESC=It is night time, Lunaria is stronger and Solaria is weaker. \n\nKilling Solaria will cause night time to stay forever.
+EFFECT_NIGHT_SKILL_DESC=It is night time, Lunaria is stronger and Solaria is weaker. <br><br>Killing Solaria will cause night time to stay forever.
 
 EFFECT_DAY_SOLARIA_NAME=Day Solaria Effect [0]
 EFFECT_DAY_SOLARIA_DESC_0=Dealing 20% more damage
@@ -200,7 +200,7 @@ EFFECT_SOUL_REVENGE_DESC_1=Souls will periodically spawn
 EFFECT_SOUL_REVENGE_DESC_2=Souls can be killed by clicking on them
 EFFECT_SOUL_REVENGE_DESC_3=Killing a soul will deal [ATTRIBUTE_ICE_DAMAGE] to all party members
 
-EFFECT_SOUL_REVEGE_SKILL_DESC=Souls will periodically spawn and can be killed by clicking on them. \n\nKilling a soul will deal [ATTRIBUTE_ICE_DAMAGE] to all party members. \n\nNorrix is more powerful when there are souls on the field. \n\nNorrix deals and take more damage the more souls he absorbs
+EFFECT_SOUL_REVEGE_SKILL_DESC=Souls will periodically spawn and can be killed by clicking on them. <br><br>Killing a soul will deal [ATTRIBUTE_ICE_DAMAGE] to all party members. <br><br>Norrix is more powerful when there are souls on the field. <br><br>Norrix deals and take more damage the more souls he absorbs
 
 EFFECT_SPARK_BLAST_NAME=[SKILL_SPARK_BLAST_NAME] Effect [1]
 EFFECT_SPARK_BLAST_DESC_0=[ATTRIBUTE_INCREASE_HEALPOWER_FLAT_TEXT] decreased
@@ -751,7 +751,7 @@ EFFECT_ORRA_REQUEST_DESC_0=[BOSS_ORRA_SHORT_NAME] can be damaged by the Golem
 EFFECT_ORRA_REQUEST_DESC_1=[BOSS_ORRA_SHORT_NAME] can also be healed when selected
 EFFECT_ORRA_REQUEST_DESC_2=Lose if [BOSS_ORRA_SHORT_NAME]'s health reaches 0
 
-EFFECT_ORRA_REQUEST_SKILL_DESC=[BOSS_ORRA_SHORT_NAME] will help you tank and fight the golem. \n\nOrra can be damaged by the golem but can also be healed by you if he is selected. \n\nLose if [BOSS_ORRA_SHORT_NAME]'s health reaches 0.
+EFFECT_ORRA_REQUEST_SKILL_DESC=[BOSS_ORRA_SHORT_NAME] will help you tank and fight the golem. <br><br>Orra can be damaged by the golem but can also be healed by you if he is selected. <br><br>Lose if [BOSS_ORRA_SHORT_NAME]'s health reaches 0.
 
 EFFECT_SHADOW_STEP_NAME=Shadow Step Effect [0]
 EFFECT_SHADOW_STEP_DESC_0=Immune to all damage
@@ -1268,7 +1268,7 @@ EFFECT_BLOOD_SACRIFICE_DESC_2=charge it with blood.
 EFFECT_BLOOD_SACRIFICE_DESC_3=Blood Vessel will slowly lose blood overtime.
 EFFECT_BLOOD_SACRIFICE_DESC_4=Vagut is much more dangerous if the Blood Vessel is empty
 
-EFFECT_BLOOD_SAC_SKILL_DESC=Vagut's lust for blood makes him much more dangerous if the Blood Vessel is empty. \n\nStanding in the Blood Vessel will sacrifice all party members' [ATTRIBUTE_MAXIMUM_HEALTH] per second and charge it with blood. \n\nBlood Vessel will slowly lose blood overtime.
+EFFECT_BLOOD_SAC_SKILL_DESC=Vagut's lust for blood makes him much more dangerous if the Blood Vessel is empty. <br><br>Standing in the Blood Vessel will sacrifice all party members' [ATTRIBUTE_MAXIMUM_HEALTH] per second and charge it with blood. <br><br>Blood Vessel will slowly lose blood overtime.
 
 EFFECT_BLOOD_THIRST_NAME=Blood Thirst Effect [0]
 EFFECT_BLOOD_THIRST_DESC_0=Thirsty for blood, damage is massively increased
