@@ -6,6 +6,8 @@ UI_SAVE_SLOTS_TITLE=Save Slots
 UI_SAVE_SLOTS_DESC=Choose a save slot to continue
 UI_SAVE_SLOTS_DELETE=Are you sure you want to delete this save?
 UI_TALENT_LOADOUT_SLOTS_EDIT=Edit Loadout Name
+UI_EQUIPMENTS_LOADOUT_SLOTS_EDIT=Edit Loadout Name
+UI_EQUIPMENTS_LOADOUT_X=Loadout {0}
 UI_TALENT_LOADOUT_SLOTS_DELETE=Are you sure you want to delete this loadout?
 UI_SAVE_SLOTS_EDIT_NAME=Enter save slot name
 UI_SAVE_SLOTS_NEW_GAME=< New Game >
@@ -152,6 +154,7 @@ UI_SKILL_SETUP_TITLE=Skills Setup
 UI_SKILL_SETUP_DESC=Learn and set up your skills here before you venture into the darkness
 UI_SKILL_CAN_CRITICALLY_HEAL=Can critically heal
 
+UI_SKILL_SETUP_REACH_LEVEL_X_TO_UNLOCK=Reach level {0} to unlock
 
 UI_SKILL_SETUP_CURRENT_HEAL=Current healing: {0}
 UI_SKILL_SETUP_CURRENT_HEAL_PER_SEC=Current healing: {0} per second
@@ -345,6 +348,8 @@ UI_BATTLE_SUCCESS_FLAWLESS_XP={0}% more [CONTEXT_EXPERIENCE]
 UI_LANGUAGE_SPECIAL_THANKS_TO=Special thanks to discord community member(s) {0}
 
 UI_MODAL_FULL_ARMORY_ERROR=Your Armory is full, please make sure to have at least 1 empty slot in the Armory
+
+UI_TOOLTIP_ARMORY_SOCKETING=Drag a <color=#FF911F>{0}</color> into this socket to gain its power
 
 UI_TOOLTIP_OATH_NAME=Oath
 UI_TOOLTIP_OATH_DESC=Casting [SKILL_FLASH_HEAL_NAME] with [TALENT_INFUSED_LUMINOSITY_NAME] will also cast on this target

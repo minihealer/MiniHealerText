@@ -9,6 +9,8 @@ TALENT_GAIN_AN_AURA_THAT=Gain an aura that
 TALENT_THIS_TALENT_HAS_X_to_Y_SECONDS_CD=Has {0}-{1} seconds cooldown
 TALENT_LASTS_X_SECONDS=Lasts {0} seconds
 
+TALENT_UNLOCK_AT_LEVEL_X=Unlock at level {0}
+
 TALENT_RESET=Reset
 TALENT_RESET_TITLE=Talent Reset
 
