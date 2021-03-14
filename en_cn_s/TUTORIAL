@@ -16,7 +16,7 @@ TUTORIAL_FAV_DESC=最爱装备永远不会被自动卖出
 
 TUTORIAL_FIRST_ARTIFACT=看起来你找到了一件装备，快回<color=#B58300FF>避难所</color>的<color=#B58300FF>装备库</color>看看能不能穿上
 TUTORIAL_SKILL_ROOM=<color=#B58300FF>避难所</color>的<color=#B58300FF>技能屋</color>已解锁！你可以在那里学习新法术/技能，调整法术栏！
-TUTORIAL_ATLAS_UNLOCK=<color=#B58300FF>避难所</color>的<color=#B58300FF>图鉴</color>已解锁！<br><br>The <color=#B58300FF>图鉴</color>里可以找到所有已知装备和符文的信息
+TUTORIAL_ATLAS_UNLOCK=<color=#B58300FF>避难所</color>的<color=#B58300FF>图鉴</color>已解锁！<br><br><color=#B58300FF>图鉴</color>里可以找到所有已知装备和符文的信息
 
 TUTORIAL_ORRA_INTRO=托拉姆现在可以附魔<color=#B58300FF>护甲</color>了！
 TUTORIAL_ORRA_ATTRIBUTES=托拉姆附魔种类增加了！
