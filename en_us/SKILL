@@ -164,7 +164,7 @@ SKILL_ASCENSION_DESC=Ascend into greater heights, granting massively increased d
 SKILL_ASCENSION_SHORT_DESC=Grant massively increased damage and healing capabilities
 
 SKILL_HAMMER_OF_RECKONING_NAME=Hammer of Reckoning
-SKILL_HAMMER_OF_RECKONING_DESC=Healer will judge the target, dealing [ATTRIBUTE_PHYSICAL_DAMAGE]. [SKILL_HAMMER_OF_RECKONING_NAME] will also consume all existing [SKILL_SEAL_OF_LIGHT_NAME] on the battlefield to increase its damage and effect
+SKILL_HAMMER_OF_RECKONING_DESC=Healer will judge the target, dealing [ATTRIBUTE_PHYSICAL_DAMAGE]. [SKILL_HAMMER_OF_RECKONING_NAME] will also trigger all existing [SKILL_SEAL_OF_LIGHT_NAME] on the battlefield to increase its damage and effect
 SKILL_HAMMER_OF_RECKONING_SHORT_DESC=Deal [ATTRIBUTE_PHYSICAL_DAMAGE] to the target<br>Consumes [SKILL_SEAL_OF_LIGHT_NAME] to increase its effect
 SKILL_HAMMER_OF_RECKONING_EFFECT_DESC=Effect increase per [SKILL_SEAL_OF_LIGHT_NAME] consumed: {0}
 
@@ -654,9 +654,9 @@ SKILL_EXTERMINATION_PUNCH_DESC=Prepares and execute a punch that will exterminat
 SKILL_REGENERATE_NAME=Regenerate
 SKILL_REGENERATE_DESC=Heals for a small amount
 SKILL_WEAKEN_SPIRIT_NAME=Weaken Spirit
-SKILL_WEAKEN_SPIRIT_DESC=Weaken the target's spirit, reducing healpower until the target is healed to full
+SKILL_WEAKEN_SPIRIT_DESC=Weaken the target's spirit, setting the target's health to 50%, as well as reducing healpower until the target is healed to full
 SKILL_WEAKEN_MUSCLE_NAME=Weaken Muscle
-SKILL_WEAKEN_MUSCLE_DESC=Weaken the target's muscle, stunning the target until the target is healed to full
+SKILL_WEAKEN_MUSCLE_DESC=Weaken the target's muscle, setting the target's health to 50%, as well as stunning them until the target is healed to full
 SKILL_ROCK_SOLID_NAME=Rock Solid
 SKILL_ROCK_SOLID_DESC=Makes the body hard as a rock, increasing block and dodge chance as well as [ATTRIBUTE_ALL_RESISTS_TEXT].
 SKILL_SHADOW_SLASH_NAME=Shadow Slash
