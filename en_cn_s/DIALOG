@@ -1,10 +1,10 @@
 
 DIALOG_QUEST_FREE_TORRAM_START_0=我的名字是托拉姆，他们把我关在这个笼子里，强迫我制造武器和护甲。
-DIALOG_QUEST_FREE_TORRAM_START_1=帮我逃出去，我可以给你制造更好的装备。
+DIALOG_QUEST_FREE_TORRAM_START_1=帮我逃出去，我可以给你改造出更好的装备。
 DIALOG_QUEST_FREE_TORRAM_START_2=你需要找到钥匙才能打开这个笼子，击败<color=#B58300FF>灵魂区</color>的<color=#B58300FF>普通难度魔镜</color>，他们有钥匙！
 DIALOG_QUEST_FREE_TORRAM_END_0=谢谢你！我们在避难所见！
-DIALOG_QUEST_TORRAM_INTRO_END_0=再次感谢你救我出来。如果想要升级装备，随时欢迎来找我。
-DIALOG_ORRA_QUEST_1_START_0=你好，我是奥拉！可以帮我稳定这个传送门吗？如果你帮我，我可以升级你的护甲！
+DIALOG_QUEST_TORRAM_INTRO_END_0=再次感谢你救我出来。如果想要改造升级装备，随时欢迎来找我。
+DIALOG_ORRA_QUEST_1_START_0=你好，我是奥拉！可以帮我稳定这个传送门吗？如果你帮我，我可以附魔你的护甲！
 DIALOG_ORRA_QUEST_1_START_1=在楼上<color=#B58300FF>无情传送门</color>附近的<color=#B58300FF>异化的白骨骑士</color>身上应该有我需要的碎片。
 DIALOG_ORRA_QUEST_1_END_0=有了这块碎片，就可以稳定传送门了。谢谢你！
 DIALOG_ORRA_QUEST_2_START_0=噢不，这支来自其他位面的陨落队伍正通过传送门来到我们的世界。小心他们的腐化力量和装备。
@@ -19,7 +19,7 @@ DIALOG_ORRA_QUEST_4_END_0=这下他们就知道这是谁的地盘了。我很多
 DIALOG_ORRA_QUEST_5_START_0=我的胡子...那个从传送门走出来的...竟是我自己？这下我帮不了你了，上吧勇士！
 DIALOG_ORRA_QUEST_5_IN_PROGRESS_0=看起来你需要干掉那个从<color=#B58300FF>无情传送门</color>出来的我！
 DIALOG_ORRA_QUEST_5_END_0=鹅妹子嘤！传送门已经稳定了，对面的生物已经不会再穿越过来了!
-DIALOG_MEVOR_QUEST_1_START_0=在下美沃，如果你帮我摆平传送门的怪物，我可以帮你打造更强的武器。
+DIALOG_MEVOR_QUEST_1_START_0=在下美沃，如果你帮我摆平传送门的怪物，我可以帮你附魔出更强的武器。
 DIALOG_MEVOR_QUEST_1_START_1=在楼上<color=#B58300FF>无望传送门</color>附近的<color=#B58300FF>异化的托尔蒙</color>身上应该有我需要的碎片。
 DIALOG_MEVOR_QUEST_1_END_0=哎呀呀，我还以为你会失败呢，感谢帮助。我很多年前找到了这块碎片，送给你作为奖励。
 DIALOG_MEVOR_QUEST_2_START_0=看来其他位面的人想要侵入这里
@@ -34,7 +34,7 @@ DIALOG_MEVOR_QUEST_4_END_0=唉...这些人永远不长记性。这是一块来�
 DIALOG_MEVOR_QUEST_5_START_0=有意思...传送门里走出来的那个不是我吗？
 DIALOG_MEVOR_QUEST_5_START_1=去<color=#B58300FF>无望传送门</color>吧，这是我给你的最终任务。击败那个腐败的我。 
 DIALOG_MEVOR_QUEST_5_END_0=完美，朋友。
-DIALOG_EDWIN_QUEST_1_START_0=初次见面，我的名字是埃德温。你愿意帮我稳定楼上的传送门吗？我可以教你饰品强化的知识。
+DIALOG_EDWIN_QUEST_1_START_0=初次见面，我的名字是埃德温。你愿意帮我稳定楼上的传送门吗？我可以教你饰品附魔的知识。
 DIALOG_EDWIN_QUEST_1_START_1=<color=#B58300FF>无魂传送门</color>前<color=#B58300FF>异化的卡桑德拉</color>应该有我需要的东西。
 DIALOG_EDWIN_QUEST_1_END_0=非常感谢。这些传送门最近总有些奇怪的毛病。
 DIALOG_EDWIN_QUEST_2_START_0=臣服于堕落的其他队伍出现了！
