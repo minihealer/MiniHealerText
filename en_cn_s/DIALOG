@@ -5,59 +5,59 @@ DIALOG_QUEST_FREE_TORRAM_START_2=你需要找到钥匙才能打开这个笼子�
 DIALOG_QUEST_FREE_TORRAM_END_0=谢谢你！我们在避难所见！
 DIALOG_QUEST_TORRAM_INTRO_END_0=再次感谢你救我出来。如果想要改造升级装备，随时欢迎来找我。
 DIALOG_ORRA_QUEST_1_START_0=你好，我是奥拉！可以帮我稳定这个传送门吗？如果你帮我，我可以附魔你的护甲！
-DIALOG_ORRA_QUEST_1_START_1=在楼上<color=#B58300FF>无情传送门</color>附近的<color=#B58300FF>异化的白骨骑士</color>身上应该有我需要的碎片。
+DIALOG_ORRA_QUEST_1_START_1=在楼上<color=#B58300FF>无情传送门</color>出现的<color=#B58300FF>异化的白骨骑士</color>身上应该有我需要的材料。
 DIALOG_ORRA_QUEST_1_END_0=有了这块碎片，就可以稳定传送门了。谢谢你！
 DIALOG_ORRA_QUEST_2_START_0=噢不，这支来自其他位面的陨落队伍正通过传送门来到我们的世界。小心他们的腐化力量和装备。
-DIALOG_ORRA_QUEST_2_START_1=在楼上<color=#B58300FF>无情传送门</color>附近击败<color=#B58300FF>陨落的队伍</color>。
+DIALOG_ORRA_QUEST_2_START_1=在楼上<color=#B58300FF>无情传送门</color>击败<color=#B58300FF>陨落的队伍</color>。
 DIALOG_ORRA_QUEST_2_END_0=干得漂亮！他们会安静一阵子了。
 DIALOG_ORRA_QUEST_3_START_0=卧槽？居然连魔像也腐化了？我会亲自上阵，别让我挂了！
-DIALOG_ORRA_QUEST_3_START_1=击败<color=#B58300FF>无情魔像</color>来自<color=#B58300FF>无情传送门</color>。
+DIALOG_ORRA_QUEST_3_START_1=击败<color=#B58300FF>无情传送门</color>出现的<color=#B58300FF>无情魔像</color>。
 DIALOG_ORRA_QUEST_3_END_0=刚才好险，治疗得不错！
 DIALOG_ORRA_QUEST_4_START_0=看起来陨落队伍又回来了，这次人手更多，装备也更强。防御！
-DIALOG_ORRA_QUEST_4_START_1=前往并击败<color=#B58300FF>陨落的队伍</color>来自<color=#B58300FF>无情传送门</color>。
+DIALOG_ORRA_QUEST_4_START_1=前往并击败<color=#B58300FF>无情传送门</color>出现的<color=#B58300FF>陨落的队伍</color>。
 DIALOG_ORRA_QUEST_4_END_0=这下他们就知道这是谁的地盘了。我很多年前找到了这块碎片，送给你作为奖励。
 DIALOG_ORRA_QUEST_5_START_0=我的胡子...那个从传送门走出来的...竟是我自己？这下我帮不了你了，上吧勇士！
 DIALOG_ORRA_QUEST_5_IN_PROGRESS_0=看起来你需要干掉那个从<color=#B58300FF>无情传送门</color>出来的我！
 DIALOG_ORRA_QUEST_5_END_0=鹅妹子嘤！传送门已经稳定了，对面的生物已经不会再穿越过来了!
 DIALOG_MEVOR_QUEST_1_START_0=在下美沃，如果你帮我摆平传送门的怪物，我可以帮你附魔出更强的武器。
-DIALOG_MEVOR_QUEST_1_START_1=在楼上<color=#B58300FF>无望传送门</color>附近的<color=#B58300FF>异化的托尔蒙</color>身上应该有我需要的碎片。
+DIALOG_MEVOR_QUEST_1_START_1=在楼上<color=#B58300FF>无望传送门</color>出现的<color=#B58300FF>异化的托尔蒙</color>身上应该有我需要的材料。
 DIALOG_MEVOR_QUEST_1_END_0=哎呀呀，我还以为你会失败呢，感谢帮助。我很多年前找到了这块碎片，送给你作为奖励。
 DIALOG_MEVOR_QUEST_2_START_0=看来其他位面的人想要侵入这里
-DIALOG_MEVOR_QUEST_2_START_1=前往并击败<color=#B58300FF>陨落的队伍</color>来自<color=#B58300FF>无望传送门</color>。
+DIALOG_MEVOR_QUEST_2_START_1=前往并击败<color=#B58300FF>无望传送门</color>出现的<color=#B58300FF>陨落的队伍</color>。
 DIALOG_MEVOR_QUEST_2_END_0=我们让他们尝到教训了，干得不错。
-DIALOG_MEVOR_QUEST_3_START_0=魔像失控了！这个家伙皮太厚，你伤不到它。帮我坦克，我来想办法杀掉它。
-DIALOG_MEVOR_QUEST_3_START_1=击败<color=#B58300FF>无望魔像</color>来自<color=#B58300FF>无望传送门</color>。
-DIALOG_MEVOR_QUEST_3_END_0=你活下来了，点赞！
+DIALOG_MEVOR_QUEST_3_START_0=魔像失控了！这个家伙皮太厚，你伤不到它。帮我吸引他的攻击，我来想办法杀掉它。
+DIALOG_MEVOR_QUEST_3_START_1=击败<color=#B58300FF>无望传送门</color>出现的<color=#B58300FF>无望魔像</color>。
+DIALOG_MEVOR_QUEST_3_END_0=你活下来了，给你点赞三连！
 DIALOG_MEVOR_QUEST_4_START_0=看，陨落的队伍又回来了，看起来比上次强了很多啊。
-DIALOG_MEVOR_QUEST_4_START_1=前往并击败<color=#B58300FF>陨落的队伍</color>来自<color=#B58300FF>无望传送门</color>。
-DIALOG_MEVOR_QUEST_4_END_0=唉...这些人永远不长记性。这是一块来自星辰的碎片，如果凑齐拼起来肯定有强悍的法力。我这块送你了，也许奥拉和埃德温有其他碎片。
+DIALOG_MEVOR_QUEST_4_START_1=前往并击败<color=#B58300FF>无望传送门</color>出现的<color=#B58300FF>陨落的队伍</color>。
+DIALOG_MEVOR_QUEST_4_END_0=唉...有些人永远不长记性。这是一块来自星辰的碎片，如果凑齐三块拼起来肯定有强悍的法力。我这块送你了，也许奥拉和埃德温有其他碎片。
 DIALOG_MEVOR_QUEST_5_START_0=有意思...传送门里走出来的那个不是我吗？
 DIALOG_MEVOR_QUEST_5_START_1=去<color=#B58300FF>无望传送门</color>吧，这是我给你的最终任务。击败那个腐败的我。 
-DIALOG_MEVOR_QUEST_5_END_0=完美，朋友。
+DIALOG_MEVOR_QUEST_5_END_0=奥利给，挚友。
 DIALOG_EDWIN_QUEST_1_START_0=初次见面，我的名字是埃德温。你愿意帮我稳定楼上的传送门吗？我可以教你饰品附魔的知识。
 DIALOG_EDWIN_QUEST_1_START_1=<color=#B58300FF>无魂传送门</color>前<color=#B58300FF>异化的卡桑德拉</color>应该有我需要的东西。
 DIALOG_EDWIN_QUEST_1_END_0=非常感谢。这些传送门最近总有些奇怪的毛病。
 DIALOG_EDWIN_QUEST_2_START_0=臣服于堕落的其他队伍出现了！
-DIALOG_EDWIN_QUEST_2_START_1=前往并阻止<color=#B58300FF>陨落的队伍</color>来自<color=#B58300FF>无魂传送门</color>。
+DIALOG_EDWIN_QUEST_2_START_1=前往并阻止<color=#B58300FF>无魂传送门</color>出现的<color=#B58300FF>陨落的队伍</color>。
 DIALOG_EDWIN_QUEST_2_END_0=表现优秀。这样传送门就有时间稳定下来了。
 DIALOG_EDWIN_QUEST_3_START_0=我们以前捕捉的魔像也被腐化了。我来保护你，但是抓紧时间，你必须在我法力用尽前杀掉它！
-DIALOG_EDWIN_QUEST_3_START_1=击败<color=#B58300FF>无魂魔像</color>来自<color=#B58300FF>无魂传送门</color>。
+DIALOG_EDWIN_QUEST_3_START_1=击败<color=#B58300FF>无魂传送门</color>出现的<color=#B58300FF>无魂魔像</color>。
 DIALOG_EDWIN_QUEST_3_END_0=感激之至。
 DIALOG_EDWIN_QUEST_4_START_0=这些陨落的队伍似乎不懂知难而退，他们又回来了，比上次强了很多。
-DIALOG_EDWIN_QUEST_4_START_1=前往并击败<color=#B58300FF>陨落的队伍</color>来自<color=#B58300FF>无魂传送门</color>。
+DIALOG_EDWIN_QUEST_4_START_1=前往并击败<color=#B58300FF>无魂传送门</color>出现的<color=#B58300FF>陨落的队伍</color>。
 DIALOG_EDWIN_QUEST_4_END_0=谢谢你，没有你的帮助我这次就拦不住这些家伙了。
 DIALOG_EDWIN_QUEST_5_START_0=我的天...难道已经发生了吗...看起来是的...
 DIALOG_EDWIN_QUEST_5_START_1=你的最终任务，是击败来自<color=#B58300FF>无魂传送门</color>的腐化的我。
 DIALOG_EDWIN_QUEST_5_END_0=你成功了！愿圣光护佑你。
 
 DIALOG_ENTER_VAULT_TANK_0=这应该是村民传说的那个古老的宝库了。
-DIALOG_ENTER_VAULT_HEALER_0=这里居住的古文明，在100多年前，被一次陨石袭击彻底摧毁了。
+DIALOG_ENTER_VAULT_HEALER_0=原本在这里居住的古文明，在100多年前，被一次陨石袭击彻底摧毁了。
 DIALOG_ENTER_VAULT_RANGER_0=陨石里蕴藏的力量十分神秘，甚至影响了宝库里的生物，我们必须小心。
 DIALOG_ENTER_VAULT_BERZERKER_0=....
 
 DIALOG_BONE_KNIGHT_TANK_0=看起来想进去没那么简单。
 DIALOG_BONE_KNIGHT_RANGER_0=让我们三个来应付敌人。<color=#B58300FF>治疗者</color>！看好我们，别让我们死了！
-DIALOG_BONE_KNIGHT_BERZERKER_0=择日不如撞日，我们上了！
+DIALOG_BONE_KNIGHT_BERZERKER_0=冲锋！我们上了！
 
 DIALOG_HIDDEN_HAVEN_TANK_0=这是什么？看起来像是这里的地图。
 DIALOG_HIDDEN_HAVEN_RANGER_0=不过大部分地点缺损了。
@@ -79,7 +79,7 @@ DIALOG_MUZ_MAP_FRAG_MIDNIGHT_COMPLETE_0=漂亮！让我来修复它...好了！�
 
 DIALOG_MUZ_MAP_FRAG_BIO_QUARTER_START_0=在灵魂区深处，有一面魔镜，它会复制面前的人，生成镜像生物攻击他们。下一块地图残片就在那里。
 DIALOG_MUZ_MAP_FRAG_BIO_QUARTER_PENDING_0=去吧，下一块地图就在灵魂区的疯狂镜像手里。
-DIALOG_MUZ_MAP_FRAG_BIO_QUARTER_COMPLETE_0=鹅妹子嘤！生物区在地图解锁！
+DIALOG_MUZ_MAP_FRAG_BIO_QUARTER_COMPLETE_0=鹅妹子嘤！生物区地图解锁！
 
 DIALOG_MUZ_MAP_FRAG_DINING_HALL_START_0=宝库里有个秘密地点，只有我知道。等你变强些再来找我，会给你地图位置。
 DIALOG_MUZ_MAP_FRAG_DINING_HALL_PENDING_0=你还太弱，变强了再回来。
@@ -89,7 +89,7 @@ DIALOG_MUZ_QUEST_OUTER_COURTYARD_START_0=下一块地图应该是在生物区的
 DIALOG_MUZ_QUEST_OUTER_COURTYARD_PENDING_0=去吧，下一块地图就在生物区的残暴难度阿蒂尔 黑影手里。
 DIALOG_MUZ_QUEST_OUTER_COURTYARD_END_0=干得好！外部庭院区加入地图！
 
-DIALOG_MUZ_QUEST_DEPTH_START_0=为了下一块地图，我们必须进入 <color=#B58300FF>午夜区</color>，清除寄居在 <color=#B58300FF>午夜外部庭院</color>里的怪物。
+DIALOG_MUZ_QUEST_DEPTH_START_0=为了下一块地图，我们必须进入<color=#B58300FF>午夜区</color>，清除寄居在<color=#B58300FF>午夜外部庭院</color>里的怪物。
 DIALOG_MUZ_QUEST_DEPTH_PENDING_0=去吧，等我们清除了<color=#B58300FF>午夜区</color>里的<color=#B58300FF>午夜外部庭院</color>，就可以找到地图残片。
 DIALOG_MUZ_QUEST_DEPTH_END_0=干得好！混沌深渊在地图上解锁了！我只能帮到这了，我知道的地点都在地图里的。
 
