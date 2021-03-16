@@ -59,7 +59,7 @@ EFFECT_SACRED_INFUSION_DESC_0=All single target non heal over time
 EFFECT_SACRED_INFUSION_DESC_1=healing done to other party members
 EFFECT_SACRED_INFUSION_DESC_2=will also heal this party member
 
-EFFECT_ASCENSION_NAME=[SKILL_ASCENSIONI_NAME] Effect [0]
+EFFECT_ASCENSION_NAME=[SKILL_ASCENSION_NAME] Effect [0]
 EFFECT_ASCENSION_NAME_DESC_0=[ATTRIBUTE_HEALING_DONE] increased
 EFFECT_ASCENSION_NAME_DESC_1=[ATTRIBUTE_ALL_DAMAGE_DEALT] increased
 EFFECT_ASCENSION_NAME_DESC_2=[ATTRIBUTE_SHIELDING_EFFECT] increased
@@ -168,8 +168,8 @@ EFFECT_SILENT_NAME=Silent Effect [1]
 EFFECT_SILENT_DESC_0=Cannot cast any healing skills
 EFFECT_NOXIOUS_WIND_NAME=Noxious Wind Effect [1]
 EFFECT_NOXIOUS_WIND_DESC_0=Attack Speed Decreased
-EFFECT_MIRROR_OF_THE_MOON_NAME=Mirror of the Moon Effect [0]
-EFFECT_MIRROR_OF_THE_MOON_DESC_0=Reflecting a portion of damage back to attacker
+EFFECT_MOON_MIRROR_NAME=Mirror of the Moon Effect [0]
+EFFECT_MOON_MIRROR_DESC_0=Reflecting a portion of damage back to attacker
 EFFECT_HAUNT_NAME=Haunt Effect [1]
 EFFECT_HAUNT_DESC_0=Taking [ATTRIBUTE_ICE_DAMAGE] every second
 EFFECT_HAUNT_DESC_1=Return to Despair when dispelled  [1]
@@ -194,12 +194,12 @@ EFFECT_GUMP_EYE_DESC_0=Damage reduced
 EFFECT_SHAKLE_NAME=Shackle Effect [1]
 EFFECT_SHAKLE_DESC_0=Attack speed greatly reduced
 EFFECT_SHAKLE_DESC_1=Summon a soul when dispelled
+
 EFFECT_SOUL_REVENGE_NAME=Soul's Revenge Effect [1]
 EFFECT_SOUL_REVENGE_DESC_0=Environmental [5]
 EFFECT_SOUL_REVENGE_DESC_1=Souls will periodically spawn
 EFFECT_SOUL_REVENGE_DESC_2=Souls can be killed by clicking on them
 EFFECT_SOUL_REVENGE_DESC_3=Killing a soul will deal [ATTRIBUTE_ICE_DAMAGE] to all party members
-
 EFFECT_SOUL_REVEGE_SKILL_DESC=Souls will periodically spawn and can be killed by clicking on them. <br><br>Killing a soul will deal [ATTRIBUTE_ICE_DAMAGE] to all party members. <br><br>Norrix is more powerful when there are souls on the field. <br><br>Norrix deals and take more damage the more souls he absorbs
 
 EFFECT_SPARK_BLAST_NAME=[SKILL_SPARK_BLAST_NAME] Effect [1]
@@ -1046,8 +1046,8 @@ EFFECT_FROST_AURA_NAME=Frost Aura Effect [0]
 EFFECT_FROST_AURA_DESC_0=Adding additional [ATTRIBUTE_ICE_DAMAGE] on hit
 EFFECT_FLAME_AURA_NAME=Flame Aura Effect [0]
 EFFECT_FLAME_AURA_DESC_0=Adding additional [ATTRIBUTE_FIRE_DAMAGE] on hit
-EFFECT_REFLECTIVE_SHIELD_PREPARING_NAME=Reflective Shield Preparing Effect [0]
-EFFECT_REFLECTIVE_SHIELD_PREPARING_DESC_0=Gain an reflective shield when this expires
+EFFECT_REFLECTIVE_SHIELD_PREP_NAME=Reflective Shield Preparing Effect [0]
+EFFECT_REFLECTIVE_SHIELD_PREP_DESC_0=Gain an reflective shield when this expires
 EFFECT_VOID_ZONE_NAME=Void Zone Effect [0]
 EFFECT_VOID_ZONE_DESC_0=Damage increased
 EFFECT_VOID_ZONE_DESC_1=Healing received reduced

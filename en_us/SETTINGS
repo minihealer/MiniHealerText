@@ -3,6 +3,7 @@ SETTINGS_CONTROL=Controls
 SETTINGS_GAMEPLAY=Gamplay
 SETTINGS_BACKTOMENU=Back to menu
 SETTINGS_LANGUAGE=Language
+SETTINGS_DIFFICULTY=Difficulty
 SETTINGS_EXIT=Exit game
 
 SETTINGS_EXPORT_SAVE=Export Save
@@ -93,5 +94,7 @@ SETTINGS_VERTICAL_DMG_TEXT_DESC=Enabling this option cause the damage text on bo
 
 SETTINGS_ALWAYS_SHOW_SKILL_CD=Always show skill cooldown
 SETTINGS_ALWAYS_SHOW_SKILL_CD_DESC=Enabling this option cause the skill cooldown overlay to display even if a skill has one or more charges remaining
+
+SETTINGS_CHANGE_DIFFICULTY_TITLE=Change Difficulty
 
 END

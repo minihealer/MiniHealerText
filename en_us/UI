@@ -41,6 +41,7 @@ UI_SELL=Sell
 UI_SELL_ALL=Sell all
 UI_SELL_ALL_BAG=Sell all bag
 UI_BACK_TO_HAVEN=Back to Haven
+UI_BACK_TO_MENU=Back to Menu
 UI_PAUSED=Paused
 UI_RESUME=Resume
 UI_BACK=Back
@@ -56,6 +57,7 @@ UI_DIVINATION=Divination
 UI_REROLL_AUGMENT=Reroll Augments
 UI_BUYBACK=Buy back
 UI_OVERVIEW=Overview
+UI_DEFEAT=Defeat
 UI_ON=On
 UI_OFF=Off
 UI_OPENED=Opened
@@ -63,29 +65,36 @@ UI_UNKNOWN_X=Unknown {0}
 UI_GOLEM_ATTACK=Golem attack?
 UI_X_OR_Y={0} or {1}
 UI_X_Y_OR_Z={0}, {1}, or {2}
+UI_A_QUICK_TIP=Did you know
 
-UI_MENU_GAME_MODE=Game Mode
-UI_MENU_GAME_MODE_DESC=Choose a game mode that you want to experience
+UI_MENU_DIFFICULTY=Choose a Difficulty
+UI_MENU_DIFFICULTY_DESC=You can change them later!
+UI_MENU_DIFFICULTY_TITLE=Difficulty
 
-UI_MENU_GAME_MODE_NORMAL_TITLE=Normal Mode
-UI_MENU_GAME_MODE_NORMAL_DESC=Experience Mini Healer as is. <br><br>This is the suggested mode for first time players
+UI_MENU_GAME_MODE_ENEMY_HAS_MORE_HEALTH=- Enemy has {0}% more health<br>
+UI_MENU_GAME_MODE_ENEMY_HAS_MORE_ATTACK=- Enemy has {0}% more attack damage<br>
+UI_MENU_GAME_MODE_ENEMY_HAS_MORE_SPELLPOWER=- Enemy has {0}% more spellpower<br>
+UI_MENU_GAME_MODE_ENEMY_HAS_LESS_HEALTH=- Enemy has {0}% less health<br>
+UI_MENU_GAME_MODE_ENEMY_HAS_LESS_ATTACK=- Enemy has {0}% less attack damage<br>
+UI_MENU_GAME_MODE_ENEMY_HAS_LESS_SPELLPOWER=- Enemy has {0}% less spellpower<br>
 
-UI_MENU_GAME_MODE_HARDCORE_TITLE=Hardcore Mode
-UI_MENU_GAME_MODE_HARDCORE_DESC_0=For experienced healers only<br><br>
-UI_MENU_GAME_MODE_HARDCORE_DESC_1=- Level up faster (but low level bosses give less experience)<br><br>
-UI_MENU_GAME_MODE_ENEMY_HAS_MORE_HEALTH=- Enemy has {0}% more health<br><br>
-UI_MENU_GAME_MODE_ENEMY_HAS_MORE_ATTACK=- Enemy has {0}% more attack damage<br><br>
-UI_MENU_GAME_MODE_ENEMY_HAS_MORE_SPELLPOWER=- Enemy has {0}% more spellpower<br><br>
-UI_MENU_GAME_MODE_ENEMY_HAS_LESS_HEALTH=- Enemy has {0}% less health<br><br>
-UI_MENU_GAME_MODE_ENEMY_HAS_LESS_ATTACK=- Enemy has {0}% less attack damage<br><br>
-UI_MENU_GAME_MODE_ENEMY_HAS_LESS_SPELLPOWER=- Enemy has {0}% less spellpower<br><br>
-UI_MENU_GAME_MODE_HARDCORE_DESC_2=- Turns into Normal mode if you die<br><br>
-UI_MENU_GAME_MODE_HARDCORE_DESC_3=- Contains an additional achievement<br><br>
-UI_MENU_GAME_MODE_HARDCORE_DESC_4=- Highly recommended that you finished a normal playthrough before starting a hardcore run
-UI_MENU_GAME_MODE_EXPLORER_TITLE=Explorer Mode
-UI_MENU_GAME_MODE_EXPLORER_DESC_0=Just want to have a more casual experience?<br><br>
-UI_MENU_GAME_MODE_EXPLORER_DESC_1=- Level up significantly faster<br><br>
-UI_MENU_GAME_MODE_EXPLORER_DESC_2=- Does not contain achievements
+UI_MENU_NIGHTMARE_MORE_XP_GAIN=- Gain {0}% more experience<br>
+UI_MENU_NIGHTMARE_MORE_GOLD_GAIN=- Gain {0}% more gold<br>
+
+UI_MENU_GAME_MODE_NORMAL_TITLE=Normal
+UI_MENU_GAME_MODE_NORMAL_DESC=This is the suggested difficulty for first time players
+
+UI_MENU_GAME_MODE_NIGHTMARE_TITLE=Nightmare
+UI_MENU_GAME_MODE_NIGHTMARE_DESC_0=For experienced healers only<br>
+
+UI_MENU_GAME_MODE_EXPLORER_TITLE=Explorer
+UI_MENU_GAME_MODE_EXPLORER_DESC_0=Just want to have a more casual experience?<br>
+
+UI_MENU_GAME_MODE_HARDCORE_TITLE=Hardcore
+UI_MENU_GAME_MODE_HARDCORE_DESC_0=- Level up faster (but low level bosses give less experience)<br>
+UI_MENU_GAME_MODE_HARDCORE_DESC_1=- Can not change difficulty once selected, the hardcore flag is removed if the party dies<br>
+UI_MENU_GAME_MODE_HARDCORE_DESC_2=- Contains an additional achievement<br>
+UI_MENU_GAME_MODE_HARDCORE_DESC_3=- Highly recommended that you finished the game on normal before starting a hardcore run
 
 
 UI_CHAOS_CRYSTAL_IDLE_TTILE=Chaos Shrine
@@ -155,6 +164,8 @@ UI_SKILL_SETUP_DESC=Learn and set up your skills here before you venture into th
 UI_SKILL_CAN_CRITICALLY_HEAL=Can critically heal
 
 UI_SKILL_SETUP_REACH_LEVEL_X_TO_UNLOCK=Reach level {0} to unlock
+
+
 
 UI_SKILL_SETUP_CURRENT_HEAL=Current healing: {0}
 UI_SKILL_SETUP_CURRENT_HEAL_PER_SEC=Current healing: {0} per second
@@ -317,7 +328,7 @@ UI_LEVEL_DESC_ENERY_ITEMS=Enemy Items
 UI_LEVEL_DESC_DEFEAT_NORMAL=Defeat the boss at [CONTEXT_DIFFICULTY_NORMAL] difficulty to unlock
 UI_LEVEL_DESC_DEFEAT_BRUTAL=Defeat the boss at [CONTEXT_DIFFICULTY_BRUTAL] difficulty to unlock
 UI_LEVEL_DESC_ONLY_CHAOTIC=Only drops when chaotic
-
+UI_LEVEL_DESC_NO_ENV_EFFECT=This boss has no other effects
 UI_LEVEL_DESC_TOTAL_DAMAGE_TEXT={0}[ATTRIBUTE_TOTAL_DAMAGE_TEXT]: {1}{2}
 UI_LEVEL_DESC_SPELLPOWER_TEXT={0}[ATTRIBUTE_SPELLPOWER_TEXT]: {1}{2}
 UI_LEVEL_DESC_ATTACKSPEED_TEXT={0}[ATTRIBUTE_ATTACK_SPEED]: {1}{2}
@@ -398,5 +409,14 @@ UI_TOOLTIP_FLAME_AURA_DESC=[ATTRIBUTE_BASE_FIRE_DAMAGE] increased
 
 UI_TOOLTIP_FROST_AURA_NAME=Frost Aura
 UI_TOOLTIP_FROST_AURA_DESC=[ATTRIBUTE_BASE_ICE_DAMAGE] increased
+
+UI_TIP_TALENT_STRONG=Generally the deeper the talent, the stronger it is
+UI_TIP_READ_ABILITY=You can read and understand a boss by checking out their boss journal before going into a fight
+
+UI_TIP_CHAOTIC=Fighting a chaotic boss is a very nice way of gaining a ton of experience and gold
+UI_TIP_HIGH_LVL_XP=At higher level, upgrading your items is a much better way than gaining more levels
+UI_TIP_HIGH_LVL_DIVINE_ITEM=Using [MATERIAL_DIVINATION_SPHERE_NAME] on an unique item is a great way upgrading it
+UI_TIP_HIGH_LVL_CRAFT_ITEM=Augmenting with [CONTEXT_NPC_SHORT_NAME_TORRAM] is a very nice way of gaining quick improvements 
+UI_TIP_HIGH_LVL_UPGRADE_AUGMENT=Augments can be upgrade with [MATERIAL_THE_MAKER_NAME]
 
 END
