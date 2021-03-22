@@ -784,10 +784,10 @@ SKILL_TRANSFUSION_NAME=Transfusion
 SKILL_TRANSFUSION_DESC=Place a transfusion ring on the [CONTEXT_PARTY_MEMBER_NAME_HEALER] that prevents all healing done to the [CONTEXT_PARTY_MEMBER_NAME_HEALER] and deals small [ATTRIBUTE_FIRE_DAMAGE] every second. <br><br>Other party members within the transfusion ring will transfer a small portion of their [ATTRIBUTE_MAXIMUM_HEALTH] to the [CONTEXT_PARTY_MEMBER_NAME_HEALER] every second
 
 SKILL_BLESSING_OF_BLOOD_NAME=Blessing of Blood
-SKILL_BLESSING_OF_BLOOD_DESC=[BOSS_VALLOIS_SHORT_NAME] shields himself and become immune to all damage. <br><br>Also summons an untargetable Blood Crystal that replicates all healing done to all party member to itself. <br><br>When the crystal reaches full health, [BOSS_VALLOIS_SHORT_NAME]'s will lose his shield and become stunned for a moderate duration
+SKILL_BLESSING_OF_BLOOD_DESC=[BOSS_VALLOIS_SHORT_NAME] shields himself and become immune to all damage. <br><br>Also summons an untargetable Blood Crystal that replicates all healing done to all party member to itself. <br><br>When the crystal reaches full health, [BOSS_VALLOIS_SHORT_NAME] will lose his shield and become stunned for a moderate duration
 
 SKILL_SANGUINE_BLADE_NAME=Sanguine Blade
-SKILL_SANGUINE_BLADE_DESC=[BOSS_VALLOIS_SHORT_NAME]'s auto attacks heals him for a percentage of his maximum life. Each subsequent auto attacks within 5 seconds will increase [SKILL_SANGUINE_BLADE_NAME]'s healing. <br><br>[SKILL_SANGUINE_BLADE_NAME] is only active when Blood Crystal is on the field
+SKILL_SANGUINE_BLADE_DESC=[BOSS_VALLOIS_SHORT_NAME]'s auto attacks heals him for a percentage of his maximum life. Each subsequent auto attacks within a short duration will increase [SKILL_SANGUINE_BLADE_NAME]'s healing. <br><br>[SKILL_SANGUINE_BLADE_NAME] is only active when Blood Crystal is on the field
 
 SKILL_PIERCING_THRUST_NAME=Piercing Thrust
 SKILL_PIERCING_THRUST_DESC=Thrust the target, dealing heavy [ATTRIBUTE_PHYSICAL_DAMAGE] and causes the target to lose 200% more health with [SKILL_TRANSFUSION_NAME], this damage can not be blocked or dodged
