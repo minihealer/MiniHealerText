@@ -690,8 +690,6 @@ SKILL_SEAL_OF_FLAME_NAME=Seal of Flame
 SKILL_SEAL_OF_FLAME_DESC=Summons a seal of flame, making every spell cast more dangerous
 SKILL_LIVING_BOMB_NAME=Living Bomb
 SKILL_LIVING_BOMB_DESC=Ignite the target's body, making the target a living bomb, if the bomb expires it will explode, dealing massive damage to the target and all party members. Dispelling the bomb will pass the bomb to another random party member
-SKILL_WE_ARE_ONE_NAME=We are one
-SKILL_WE_ARE_ONE_DESC=Dream and reality, reality and dream
 SKILL_LESSER_HEAL_HOLY_ENCHANTED_NAME=Holy Light
 SKILL_LESSER_HEAL_HOLY_ENCHANTED_DESC=A small but effective heal
 SKILL_WELCOME_TO_THE_SHOW_NAME=Welcome to the Show
@@ -778,14 +776,25 @@ SKILL_SOUL_BURN_NAME=Soul Burn
 SKILL_SOUL_BURN_DESC=Burns the soul of the targets, dealing heavy [ATTRIBUTE_FIRE_DAMAGE]
 SKILL_RUNIC_WARD_NAME=Runic Ward
 SKILL_RUNIC_WARD_DESC=Summons a runic ward that chases the healer for a short duration, the ward will deal significant [ATTRIBUTE_NEMESIS_DAMAGE] to the healer
-SKILL_SUMMON_ZEALOT_NAME=Summon Zealot
-SKILL_SUMMON_ZEALOT_DESC=Summons a zealot that dies after a short period of time
 SKILL_OBLITERATING_CURSE_NAME=Obliterating Curse
 SKILL_OBLITERATING_CURSE_DESC=Goulron curses the entire party, dealing massive [ATTRIBUTE_NEMESIS_DAMAGE] every second throughout the duration. Gourlron is stunned for 8 seconds after casting this spell.
-SKILL_FRAGILE_BODY_NAME=Fragile Body
-SKILL_FRAGILE_BODY_DESC=The zealot's body is too fragile for it to exsit for too long. It will automatically perish after a couple of seconds after summoned.
-SKILL_SACRIFICE_NAME=Sacrifice
-SKILL_SACRIFICE_DESC=Sacrifice itself to instantly deal massive damage to all enemies as well as massively healing Goulron
+
+
+SKILL_TRANSFUSION_NAME=Transfusion
+SKILL_TRANSFUSION_DESC=Place a transfusion ring on the [CONTEXT_PARTY_MEMBER_NAME_HEALER] that prevents all healing done to the [CONTEXT_PARTY_MEMBER_NAME_HEALER] and deals small [ATTRIBUTE_FIRE_DAMAGE] every second. <br><br>Other party members within the transfusion ring will transfer a small portion of their [ATTRIBUTE_MAXIMUM_HEALTH] to the [CONTEXT_PARTY_MEMBER_NAME_HEALER] every second
+
+SKILL_BLESSING_OF_BLOOD_NAME=Blessing of Blood
+SKILL_BLESSING_OF_BLOOD_DESC=[BOSS_VALLOIS_SHORT_NAME] shields himself and become immune to all damage. <br><br>Also summons an untargetable Blood Crystal that replicates all healing done to all party member to itself. <br><br>When the crystal reaches full health, [BOSS_VALLOIS_SHORT_NAME]'s will lose his shield and become stunned for a moderate duration
+
+SKILL_SANGUINE_BLADE_NAME=Sanguine Blade
+SKILL_SANGUINE_BLADE_DESC=[BOSS_VALLOIS_SHORT_NAME]'s auto attacks heals him for a percentage of his maximum life. Each subsequent auto attacks within 5 seconds will increase [SKILL_SANGUINE_BLADE_NAME]'s healing. <br><br>[SKILL_SANGUINE_BLADE_NAME] is only active when Blood Crystal is on the field
+
+SKILL_PIERCING_THRUST_NAME=Piercing Thrust
+SKILL_PIERCING_THRUST_DESC=Thrust the target, dealing heavy [ATTRIBUTE_PHYSICAL_DAMAGE] and causes the target to lose 200% more health with [SKILL_TRANSFUSION_NAME], this damage can not be blocked or dodged
+
+SKILL_BLOOD_LEECH_NAME=Blood Leech
+SKILL_BLOOD_LEECH_DESC=Every few seconds a leech will spawn on a party member that reduces [ATTRIBUTE_HEALING_RECEIVED]. <br><br>The leech can only be dispeled on the [CONTEXT_PARTY_MEMBER_NAME_HEALER] <br><br>The leech can be transferred via [SKILL_TRANSFUSION_NAME]
+
 
 SKILL_SOUL_REVENGE_NAME=Soul's Revenge
 SKILL_SWAP_NAME=Swap

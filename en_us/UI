@@ -215,13 +215,19 @@ UI_SKILL_SETUP_REQUIRED_POINTS=Require {0} points invested in {1} talents to use
 UI_BUYBACK_TITLE=Buy back
 UI_BUYBACK_DESC=Buy back the last {0} items sold this session
 
+UI_MALEVOLENT_SHRINE_EMPTY_TEXT=Select an artifact to lock its attributes
+UI_MALEVOLENT_SHRINE_NON_UNIQUE_TEXT=Only non unique artifacts can be locked
+UI_MALEVOLENT_SHRINE_MAX_LOCK_TEXT=Item already has maximum locked attributes
+UI_MALEVOLENT_SHRINE_TITLE=[DEPTH_ROOM_NAME_MALEVOLENT_SHRINE]
+UI_MALEVOLENT_SHRINE_DESC=The [DEPTH_ROOM_NAME_MALEVOLENT_SHRINE] can lock an attirbute of an non unique artifact. Locked attribute will not change when rerolled from Torram's Cursed Crafting
+
 UI_BLACKSMITH_INVENTORY=Equipped items & Inventory
 UI_BLACKSMITH_EMPTY_TEXT=Select an artifact to view its crafting options
 UI_BLACKSMITH_MAT_USED=Material used on this artifact
 UI_BLACKSMITH_ENCHANT_LOCKED_TEXT=Complete more {0} quests to unlock
 UI_BLACKSMITH_NO_OPTION_TEXT=This material can not be upgraded
 UI_BLACKSMITH_OVERVIEW_TITLE=Crafting Overview
-UI_BLACKSMITH_OVERVIEW_DESC=Crafting can increase the power of an artifact. Select a way to change the artifact on the left to get started!
+UI_BLACKSMITH_OVERVIEW_DESC=Crafting can increase the power of an artifact. Select a way to change the artifact on the right to get started!
 UI_BLACKSMITH_UPGRADE_VIEW_TITLE=Upgrade Artifact
 UI_BLACKSMITH_UPGRADE_VIEW_DESC=Upgrading will increase the stats of the artifact, making it more powerful
 UI_BLACKSMITH_AUG_VIEW_TITLE=Augment Artifact
@@ -412,6 +418,8 @@ UI_TOOLTIP_FROST_AURA_DESC=[ATTRIBUTE_BASE_ICE_DAMAGE] increased
 
 UI_TIP_TALENT_STRONG=Generally the deeper the talent, the stronger it is
 UI_TIP_READ_ABILITY=You can read and understand a boss by checking out their boss journal before going into a fight
+UI_TIP_PAUSE_READ=You can hover and read what each effect does while the game is paused
+UI_TIP_RESISTS=Increasing resistances is a great way of being able to survive longer
 
 UI_TIP_CHAOTIC=Fighting a chaotic boss is a very nice way of gaining a ton of experience and gold
 UI_TIP_HIGH_LVL_XP=At higher level, upgrading your items is a much better way than gaining more levels

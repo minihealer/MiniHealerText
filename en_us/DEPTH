@@ -5,6 +5,9 @@ DEPTH_NAME_SACRIFICAL_CHAMBER=Sacrifical Ground
 DEPTH_NAME_CHAMBER_OF_PLENTY=Chamber of Plenty
 DEPTH_NAME_CONCEALED_UTOPIA=Concealed Utopia
 
+DEPTH_NAME_MALEVOLENT_CHAMBER=Malevolent Chamber
+DEPTH_DESCRIPTION_MALEVOLENT_CHAMBER=A chamber with a malevolent aura
+
 DEPTH_DESCRIPTION_STRONG_BOSSES=Only the strongest can survive here
 DEPTH_DESCRIPTION_NO_MONSTER=No monsters here, you are free to move around
 DEPTH_COMPLETE_DESCRIPTION=Find and defeat the boss room here to clear the depth
@@ -130,6 +133,8 @@ DEPTH_ROOM_ALTAR_COMPLETED=Touched
 DEPTH_ROOM_NAME_CURSED_POTION=Cursed Potion
 DEPTH_ROOM_DESC_CURSED_POTION=Replaces all monster rooms with a single cursed room on this level
 
+DEPTH_ROOM_NAME_MALEVOLENT_SHRINE=Malevolent Shrine
+DEPTH_ROOM_DESC_MALEVOLENT_SHRINE=A powerful shrine that can permanently lock an attribute of an item
 
 DEPTH_ROOM_NAME_ORRA=[BOSS_ORRA_SHORT_NAME]'s Challenge
 DEPTH_ROOM_DESC_ORRA=Defeat [BOSS_ORRA_SHORT_NAME] to acquire an anomalous armor

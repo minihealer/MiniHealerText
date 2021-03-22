@@ -80,4 +80,8 @@ BOSS_VAGUT_NAME=Vagut the Butcher
 BOSS_GOULRON_NAME=Goulron the Abomination
 BOSS_GOULRON_ZEALOT_NAME=Goulron's Zealot
 
+BOSS_VALLOIS_NAME=Vallois Lifehook
+BOSS_VALLOIS_SHORT_NAME=Vallois
+BOSS_BLOOD_CRYSTAL_NAME=Blood Crystal
+
 END
