@@ -1364,4 +1364,7 @@ EFFECT_BLOOD_LEECH_DESC_0=Every few seconds a blood leech will spawn on a random
 EFFECT_LEECH_NAME=Leech Effect [1]
 EFFECT_LEECH_DESC_0=Reduce [ATTRIBUTE_HEALING_RECEIVED] by 15%
 
+EFFECT_SANGUINE_BLADE_NAME=[SKILL_SANGUINE_BLADE_NAME] Effect [0]
+EFFECT_SANGUINE_BLADE_DESC_0=Every attack will heal for a moderate amount <br>This effect stacks
+
 END
