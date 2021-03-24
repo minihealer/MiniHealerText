@@ -420,6 +420,7 @@ UI_TIP_TALENT_STRONG=Generally the deeper the talent, the stronger it is
 UI_TIP_READ_ABILITY=You can read and understand a boss by checking out their boss journal before going into a fight
 UI_TIP_PAUSE_READ=You can hover and read what each effect does while the game is paused
 UI_TIP_RESISTS=Increasing resistances is a great way of being able to survive longer
+UI_TIP_CHANGE_DIFFICULTY=You can change the game's difficulty in the settings as well
 
 UI_TIP_CHAOTIC=Fighting a chaotic boss is a very nice way of gaining a ton of experience and gold
 UI_TIP_HIGH_LVL_XP=At higher level, upgrading your items is a much better way than gaining more levels

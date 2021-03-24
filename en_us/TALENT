@@ -1,7 +1,7 @@
-TALENT_CLASS_DRUID_DESC=-Uses powerful heal over time <br><br>-Has powerful mana regeneration
-TALENT_CLASS_PRIEST_DESC=-Uses shields to absorb damage taken <br><br>-Has powerful auras <br><br>-Has excellent area of effect healing
-TALENT_CLASS_OCCULTIST_DESC=-Uses curses to weaken the enemies <br><br>-Has powerful offensive abilities
-TALENT_CLASS_PALADIN_DESC=-Has powerful single target healing <br><br>-Has great defensive abilities
+TALENT_CLASS_DRUID_DESC=-Has powerful heal over time spells <br><br>-Has powerful mana regeneration <br><br>-Uses regeneration and passive healing <br><br>-[CONTEXT_PARTY_MEMBER_NAME_RANGER] focused
+TALENT_CLASS_PRIEST_DESC=-Has shields that can absorb damage <br><br>-Has powerful area of effect healing <br><br>-Has aura related talents
+TALENT_CLASS_OCCULTIST_DESC=-Has powerful offensive talents <br><br>-Can weaken enemies' abilities <br><br>-[CONTEXT_PARTY_MEMBER_NAME_BERZERKER] focused
+TALENT_CLASS_PALADIN_DESC=-Has powerful single target healing <br><br>-Spells can combo with each other to create powerful effects <br><br>-Has more defensive talents
 
 TALENT_TIER_DESC=Tier {0} {1} talent
 TALENT_ALL_SKILLS=All skills
@@ -422,12 +422,15 @@ TALENT_BLESSED_SPIRIT_NAME=Blessed Spirit
 TALENT_BLESSED_SPIRIT_DESC=Increase the effect of all single target and non heal over time healing skills by {0}% <br><br>Increase the effect of all buff skills by {0}%
 
 TALENT_REDEMPTION_NAME=Redemption
-TALENT_REDEMPTION_DESC=Casting [LINK_SKILL_DIVINE_MEND] will increase the effect of all subsequent [LINK_SKILL_DIVINE_MEND] by {0}% <br><br>The bonuses is lost upon casting spells other than [LINK_SKILL_DIVINE_MEND] or [LINK_SKILL_DIVINE_FOCUS]
+TALENT_REDEMPTION_DESC=Casting [LINK_SKILL_DIVINE_MEND] will increase the effect of all subsequent [LINK_SKILL_DIVINE_MEND] by {0}% <br><br>The bonuses is lost upon casting spells other than [LINK_SKILL_DIVINE_MEND], [LINK_SKILL_DIVINE_FOCUS], [LINK_SKILL_DISPEL], [LINK_SKILL_NEGATE]
 TALENT_REDEMPTION_POST_TEXT= [TALENT_REDEMPTION_NAME] maximum stack
 
 TALENT_ZEAL_NAME=Zeal
 TALENT_ZEAL_DESC=[SKILL_CLEANSING_RAY_NAME] grants a Zeal stack to the target every second, up to a maximum of {0} stacks <br><br>Each Zeal stack increases base damage by {1}% and attack speed by {2}% for {3} seconds  <br><br>Each Zeal stack also reduces healing received from [SKILL_CLEANSING_RAY_NAME] by {4}%
 TALENT_ZEAL_MASTERY_DESC= [TALENT_ZEAL_NAME] maximum stack
+
+TALENT_FULLFILLMENT_NAME=Fullfillment
+TALENT_FULLFILLMENT_DESC=At level 1, [LINK_SKILL_SEAL_OF_LIGHT] can critically heal. <br><br>At level 2, [LINK_SKILL_SEAL_OF_LIGHT] can critically strike. <br><br>At level 3, [LINK_SKILL_SEAL_OF_LIGHT] can now stacks to a maximum of 2 times
 
 TALENT_FOCUSED_GLORY_NAME=Focused Glory
 TALENT_FOCUSED_GLORY_DESC=[LINK_SKILL_RENEW] now heals {0}% more per tick if there is only 1 party member affected by it
@@ -439,10 +442,8 @@ TALENT_TOUGH_AS_NAIL_NAME=Tough as Nail
 
 TALENT_GLIMMER_OF_HOPE_NAME=Glimmer of Hope
 TALENT_GLIMMER_OF_HOPE_DESC=[LINK_SKILL_SEAL_OF_LIGHT] leaves a [LINK_SKILL_SPIRIT_ORB] when triggered
-TALENT_GLIMMER_OF_HOPE_MASTERY_DESC=[SKILL_HAMMER_OF_RECKONING_NAME] consumption will also trigger [TALENT_GLIMMER_OF_HOPE_NAME]
 
 TALENT_DIVINATION_AURA_NAME=Divination Aura
-TALENT_DIVINATION_AURA_DESC=Phys res, nem res, mana regen
 
 TALENT_EBB_AND_FLOW_NAME=Ebb and Flow
 TALENT_EBB_AND_FLOW_DESC=Every {0} seconds<br><br>All party members gain {1}% [ATTRIBUTE_ALL_RESISTS_TEXT] but takes {2}% less [ATTRIBUTE_HEALING_RECEIVED] for {3} seconds. <br><br>Then all party members takes {2}% more [ATTRIBUTE_HEALING_RECEIVED] but lose {1}% [ATTRIBUTE_ALL_RESISTS_TEXT] for {3} seconds
@@ -463,7 +464,7 @@ TALENT_SEIZE_THE_MOMENT_NAME=Seize the Moment
 TALENT_SEIZE_THE_MOMENT_DESC=[LINK_SKILL_DIVINE_FOCUS] now start its cooldown when it is casted instead of when it is consumed
 
 TALENT_IMMOVABLE_FORTRESS_NAME=Immovable Fortress
-TALENT_IMMOVABLE_FORTRESS_DESC=Reduce the effect of all movement speed slowing effects by {0}% <br><br>Reduce the duration of all slience effects by {1}%
+TALENT_IMMOVABLE_FORTRESS_DESC=Reduce the effect of all movement speed slowing effects by {0}% <br><br>Reduce the duration of all slience effects by {1}% <br><br>When the [CONTEXT_PARTY_MEMBER_NAME_HEALER] stands still for {2} seconds, she will take {3}% less all damage 
 
 TALENT_RING_OF_INFLUENCE_NAME=Ring of Influence
 TALENT_RING_OF_INFLUENCE_DESC=[CONTEXT_PARTY_MEMBER_NAME_HEALER] gains an Influential Ring. <br><br>Other party memebers within the ring gain {0}% [ATTRIBUTE_HEALING_RECEIVED]
@@ -483,8 +484,12 @@ TALENT_INTO_THE_FRAY_NAME=Into the Fray
 TALENT_INTO_THE_FRAY_DESC=While being close to Tank, [CONTEXT_PARTY_MEMBER_NAME_HEALER] can auto attack while casting.
 
 TALENT_GLEAMING_FAITH_NAME=Gleaming Faith
-TALENT_GLEAMING_FAITH_DESC=[LINK_SKILL_SACRED_INFUSION] also increases target's [ATTRIBUTE_ELE_RESISTS_TEXT] by {0}% and [ATTRIBUTE_PHYSICAL_RESIST] by {1}%
+TALENT_GLEAMING_FAITH_DESC=[LINK_SKILL_SACRED_INFUSION] also increases target's [ATTRIBUTE_ELE_RESISTS_TEXT] by {0}%, [ATTRIBUTE_HEALTH_REGENERATION] by {1}, and [ATTRIBUTE_PHYSICAL_RESIST] by {2}%
 TALENT_GLEAMING_FAITH_MASTERY_DESC= second [SKILL_SACRED_INFUSION_NAME] duration
+
+TALENT_BLESSED_COMPANY_NAME=Blessed Company
+TALENT_BLESSED_COMPANY_DESC=[CONTEXT_PARTY_MEMBER_NAME_TANK]'s attacks have a {0}% chance to increase his [ATTRIBUTE_PHYSICAL_RESIST] by {1}% for {2} seconds <br><br>[CONTEXT_PARTY_MEMBER_NAME_BERZERKER] and [CONTEXT_PARTY_MEMBER_NAME_RANGER]'s attacks have a {3}% chance to deal extra [ATTRIBUTE_FIRE_DAMAGE] equal to {4}% of their [ATTRIBUTE_BASE_DAMAGE_TEXT]. <br><br>[CONTEXT_PARTY_MEMBER_NAME_HEALER]'s attacks have a {5}% chance to heal all party members for {6}% of [ATTRIBUTE_INCREASE_HEALPOWER_FLAT_TEXT].  
+TALENT_BLESSED_COMPANY_MASTERY_DESC=% [TALENT_BLESSED_COMPANY_NAME] trigger chance for all party members
 
 TALENT_NO_ONE_LEFT_BEHIND_NAME=Leave No One Behind
 TALENT_NO_ONE_LEFT_BEHIND_DESC=Every {0} seconds, the party member with the lowest health is healed to the [CONTEXT_PARTY_MEMBER_NAME_HEALER]'s current health 
