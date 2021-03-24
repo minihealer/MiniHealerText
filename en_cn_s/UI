@@ -420,6 +420,7 @@ UI_TIP_TALENT_STRONG=天赋所在的层越深，就越强
 UI_TIP_READ_ABILITY=开打前建议阅读BOSS手册，熟悉敌人技能和战斗机制
 UI_TIP_PAUSE_READ=暂停下来阅读法术效果会造成什么影响
 UI_TIP_RESISTS=增加抗性是个不错的增加生存能力的方法
+UI_TIP_CHANGE_DIFFICULTY=在设置界面可以更改游戏难度
 
 UI_TIP_CHAOTIC=击败混沌难度BOSS是获取大量经验和金币的致富之路
 UI_TIP_HIGH_LVL_XP=当人物等级较高，升级装备比升级更有效果
