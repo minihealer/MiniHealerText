@@ -181,7 +181,7 @@ TALENT_ENERGY_AURA_T_L_DMG=[CONTEXT_PARTY_MEMBER_NAME_TANK] by {0} * current lev
 TALENT_ENERGY_AURA_B_L_DMG=[CONTEXT_PARTY_MEMBER_NAME_BERZERKER] by {0} * current level
 TALENT_ENERGY_AURA_R_L_DMG=[CONTEXT_PARTY_MEMBER_NAME_RANGER] by {0} * current level
 TALENT_ENERGY_AURA_H_L_DMG=[CONTEXT_PARTY_MEMBER_NAME_HEALER] by {0} * current level
-TALENT_SHIELD_BASH_DESC=[CONTEXT_PARTY_MEMBER_NAME_TANK]'s attacks have a 15% chance to deal {0}% of [CONTEXT_PARTY_MEMBER_NAME_TANK]'s total damage as [ATTRIBUTE_PHYSICAL_DAMAGE] to the attacker
+TALENT_SHIELD_BASH_DESC=[CONTEXT_PARTY_MEMBER_NAME_TANK]'s attacks have a 15% chance to deal {0}% of [CONTEXT_PARTY_MEMBER_NAME_TANK]'s [ATTRIBUTE_BASE_DAMAGE_TEXT] as [ATTRIBUTE_PHYSICAL_DAMAGE] to the attacker
 TALENT_SHIELD_BASH_TRIGGER_DESC=Trigger [TALENT_SHIELD_BASH_NAME] every time [CONTEXT_PARTY_MEMBER_NAME_TANK] blocks an attack
 TALENT_SHIELD_BASH_LIMIT_DESC=[TALENT_SHIELD_BASH_NAME] only works when equipped with at least one shield
 TALENT_HEROISM_DESC=Redirect {0}% all damage taken by all other party members to [CONTEXT_PARTY_MEMBER_NAME_TANK] as health loss
@@ -230,7 +230,7 @@ TALENT_THUNDER_ASSAULT_DESC=Every [CONTEXT_PARTY_MEMBER_NAME_HEALER]'s 3rd attac
 TALENT_ABUNDANT_GROWTH_MANA_DESC=Everytime [LINK_SKILL_RENEW] heals a target, there's a {0}% chance to restore {1} mana
 TALENT_SPIRIT_CONNECTION_DESC=[LINK_SKILL_SPIRIT_RITUAL] also increases healing received by {0}% per stack
 TALENT_POISION_DESC=[CONTEXT_PARTY_MEMBER_NAME_RANGER]'s attack have a {0}% chance to poison enemy, dealing {1} [CONTEXT_ELEMENT_NEMESIS] damage over {2} seconds
-TALENT_POISION_RANGER_SCALING_DESC={0} + ({1}% [CONTEXT_PARTY_MEMBER_NAME_RANGER]'s total damage)
+TALENT_POISION_RANGER_SCALING_DESC={0} + ({1}% [CONTEXT_PARTY_MEMBER_NAME_RANGER]'s [ATTRIBUTE_BASE_DAMAGE_TEXT])
 TALENT_STAR_CALL_DESC=[LINK_SKILL_STAR_CALL] has a {0}% chance to hit all enemies, dealing {1}% of the damage to all secondary targets
 TALENT_IRON_VINE_DESC=[LINK_SKILL_IRON_VINES] also increases [ATTRIBUTE_INCREASE_HEALPOWER_FLAT_TEXT] by {0}%
 TALENT_IRON_VINE_MASTERY_DESC= additional [SKILL_IRON_VINES_NAME] random target
@@ -247,7 +247,7 @@ TALENT_BOTANIST_DMG_TAKEN=[LINK_SKILL_RESTORATION_TOTEM] also reduces [ATTRIBUTE
 TALENT_SHADE_DESC=If a party member has not taken damage for {0} second, they will gain the Shade Effect
 TALENT_SHADE_EFFECT_DESC=Shade Effect regenerates {0}% of maximum health per second
 TALENT_RAPID_SHOT_OCCASIONALLY_CAST=[CONTEXT_PARTY_MEMBER_NAME_RANGER] will occasionally cast [SKILL_RAPID_SHOT_NAME]
-TALENT_RAPID_SHOT_DESC=[SKILL_RAPID_SHOT_NAME] fires 6 arrows and has a 80% [ATTRIBUTE_CRITICAL_STRIKE_CHANCE_TEXT] <br><br>Each arrow will deal {0}% of [CONTEXT_PARTY_MEMBER_NAME_RANGER]'s total damage as [ATTRIBUTE_PHYSICAL_DAMAGE]
+TALENT_RAPID_SHOT_DESC=[SKILL_RAPID_SHOT_NAME] fires 6 arrows and has a 80% [ATTRIBUTE_CRITICAL_STRIKE_CHANCE_TEXT] <br><br>Each arrow will deal {0}% of [CONTEXT_PARTY_MEMBER_NAME_RANGER]'s [ATTRIBUTE_BASE_DAMAGE_TEXT] as [ATTRIBUTE_PHYSICAL_DAMAGE]
 
 TALENT_NEW_SPRING_MANA_GAIN=Increase the mana gained from [LINK_SKILL_REJUVENATE] by {0} per tick
 TALENT_NEW_SPRING_MANA_GAIN_MASTERY= of [SKILL_REJUVENATE_NAME]
@@ -426,7 +426,7 @@ TALENT_REDEMPTION_DESC=Casting [LINK_SKILL_DIVINE_MEND] will increase the effect
 TALENT_REDEMPTION_POST_TEXT= [TALENT_REDEMPTION_NAME] maximum stack
 
 TALENT_ZEAL_NAME=Zeal
-TALENT_ZEAL_DESC=[SKILL_CLEANSING_RAY_NAME] grants a Zeal stack to the target every second, up to a maximum of {0} stacks <br><br>Each Zeal stack increases base damage by {1}% and attack speed by {2}% for {3} seconds  <br><br>Each Zeal stack also reduces healing received from [SKILL_CLEANSING_RAY_NAME] by {4}%
+TALENT_ZEAL_DESC=[LINK_SKILL_CLEANSING_RAY] grants a Zeal stack to the target every second, up to a maximum of {0} stacks <br><br>Each Zeal stack increases base damage by {1}% and attack speed by {2}% for {3} seconds  <br><br>Each Zeal stack also reduces healing received from [SKILL_CLEANSING_RAY_NAME] by {4}%
 TALENT_ZEAL_MASTERY_DESC= [TALENT_ZEAL_NAME] maximum stack
 
 TALENT_FULLFILLMENT_NAME=Fullfillment
@@ -521,5 +521,9 @@ TALENT_TRAIL_OF_FATE_MASTERY_DESC=-1 second Fate effect duration
 
 TALENT_REVIVE_NAME=Revive
 TALENT_REVIVE_DESC=Grants [LINK_SKILL_REVIVE] Skill
+
+TALENT_CONVICTION_NAME=Conviction
+TALENT_CONVICTION_DESC=Whenever [CONTEXT_PARTY_MEMBER_NAME_TANK] or [CONTEXT_PARTY_MEMBER_NAME_HEALER] is damaged by an enemy's auto attack. There is a {0}% chance they will deal {1}% of their [ATTRIBUTE_BASE_DAMAGE_TEXT] as [ATTRIBUTE_FIRE_DAMAGE] back to the attacker, as well as reducing the attacker's [ATTRIBUTE_ALL_DAMAGE_DEALT] by {2}% for {3} seconds
+TALENT_CONVICTION_MASTERY_DESC=% [TALENT_CONVICTION_NAME] trigger chance
 
 END

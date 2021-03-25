@@ -103,8 +103,8 @@ SKILL_HEAVEN_MELODY_DESC=Heals all party members for a small amount and also inc
 SKILL_HEAVEN_MELODY_SHORT_DESC=An AOE heal that also increases healing received
 
 SKILL_TOUGHEN_NAME=Toughen
-SKILL_TOUGHEN_DESC=Buff up all party members, increasing their maximum health as well as [ATTRIBUTE_PHYSICAL_RESIST] for a short duration
-SKILL_TOUGHEN_SHORT_DESC=Buff that increases [ATTRIBUTE_PHYSICAL_RESIST] and maximum health
+SKILL_TOUGHEN_DESC=Buff up all party members, increasing their [ATTRIBUTE_MAXIMUM_HEALTH] as well as [ATTRIBUTE_ALL_RESISTS_TEXT] for a short duration. <br><br>Stacks up to 2 times
+SKILL_TOUGHEN_SHORT_DESC=Buff that increases [ATTRIBUTE_ALL_RESISTS_TEXT] and [ATTRIBUTE_MAXIMUM_HEALTH]
 
 SKILL_SMITE_NAME=Smite
 SKILL_SMITE_DESC=Smite the target, dealing moderate [ATTRIBUTE_LIGHTNING_DAMAGE] based on caster's attack damage and increases target's damage received
@@ -183,7 +183,7 @@ SKILL_DIVINE_FOCUS_SHORT_DESC=The next Paladin spell cast will be significantly 
 SKILL_DIVINE_FOCUS_DIVINE_MEND_DESC=[SKILL_DIVINE_MEND_NAME] - Becomes instant cast and increase the healing done by {0}
 SKILL_DIVINE_FOCUS_SEAL_DESC=[SKILL_SEAL_OF_LIGHT_NAME] - Increase duration by {0} seconds as well as affecting all party members instead
 SKILL_DIVINE_FOCUS_INFUSION_DESC=[SKILL_SACRED_INFUSION_NAME] - Causes all direct single target healing done to the infused target to also heal all other party members. Using 50% of [SKILL_SACRED_INFUSION_NAME]'s ratio.
-SKILL_DIVINE_FOCUS_HAMMER_DESC=[SKILL_HAMMER_OF_RECKONING_NAME] - Also restores {0} of missing mana and heal {1} of all party members' missing health
+SKILL_DIVINE_FOCUS_HAMMER_DESC=[SKILL_HAMMER_OF_RECKONING_NAME] - Also restores {0} of missing mana
 
 SKILL_CATACLYSM_NAME=Cataclysm
 SKILL_CATACLYSM_DESC=None
