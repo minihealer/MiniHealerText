@@ -91,5 +91,7 @@ TUTORIAL_SKILL_ROOM_TITLE=Welcome to the Skill room!
 TUTORIAL_SKILL_ROOM_DESC=Bringing the right skills into a battle is a key to success and you can set up your skills here<br><br>Check back here often to see what skills you have unlocked.
 TUTORIAL_SKILL_ROOM_UPGRADE_DESC=You will also find <color=#B58300FF>Angelic Crystals</color> throughout your adventure. You can use those crystals to upgrade your skills
 
+TUTORIAL_BOSS_JOURNAL=The <color=#ea8631>Boss Journal</color> contains very useful information about the boss. <br><br>You can find out everything about the boss here!
+TUTORIAL_BOSS_LOOT_CHEST=The <color=#ea8631>Loot Chest</color> contains information about the boss's unique items pool!
 
 END

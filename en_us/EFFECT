@@ -156,7 +156,7 @@ EFFECT_ORB_OF_NIGHT_DESC_0=Taking [ATTRIBUTE_NEMESIS_DAMAGE] every second
 EFFECT_MANAVOID_NAME=Mana Void Effect [1]
 EFFECT_MANAVOID_DESC_0=Environmental [5]
 EFFECT_MANAVOID_DESC_1=Mana regen is 0
-EFFECT_MANAVOID_DESC_2=You have 40% less maximum mana
+EFFECT_MANAVOID_DESC_2=You have 70% less maximum mana
 EFFECT_MANAVOID_DESC_3=Attacking the crystal will restore mana
 EFFECT_MANAVOID_DESC_4=Attacking the crystal will heal all other enemies
 
@@ -702,7 +702,7 @@ EFFECT_SEALED_FATE_DESC_1=Can only be dispeled if the [CONTEXT_PARTY_MEMBER_NAME
 EFFECT_INTIMIDATING_HOWL_NAME=Intimidating Howl Effect [1]
 EFFECT_INTIMIDATING_HOWL_DESC_0=All damage reduced
 EFFECT_FULL_MOON_NAME=Full Moon Effect [0]
-EFFECT_FULL_MOON_DESC_0=Rushrrox imbue itself with the power of the moon
+EFFECT_FULL_MOON_DESC_0=[BOSS_RUNSHERROX_SHORT_NAME] imbue itself with the power of the moon
 EFFECT_FULL_MOON_DESC_1=Significantly increase ability damage
 EFFECT_FULL_MOON_DESC_2=Ability cooldown decreased
 EFFECT_FULL_MOON_DESC_3=All [ATTRIBUTE_ELE_RESISTS_TEXT] decreased
