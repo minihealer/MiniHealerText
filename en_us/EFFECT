@@ -160,7 +160,7 @@ EFFECT_MANAVOID_DESC_2=You have 70% less maximum mana
 EFFECT_MANAVOID_DESC_3=Attacking the crystal will restore mana
 EFFECT_MANAVOID_DESC_4=Attacking the crystal will heal all other enemies
 
-EFFECT_MANAVOID_SKILL_DESC=Mana regeneration is 0. <br><br>Attacking the crystal will regain a small bit of mana back but healing all other enemies by a small amount.
+EFFECT_MANAVOID_SKILL_DESC=Mana regeneration is 0 and maximum mana is reduced. <br><br>Attacking the crystal will regain a small bit of mana back but healing all other enemies by a small amount.
 
 EFFECT_CRYSTALIZE_NAME=Crystalize Effect [0]
 EFFECT_CRYSTALIZE_DESC_0=Dealing more damage
@@ -1185,9 +1185,9 @@ EFFECT_STATIC_FIELD_DESC_3=[ATTRIBUTE_LIGHTNING_DAMAGE] per second
 EFFECT_ACTIVATE_TOTEM_NAME=Activate Totem Effect [1]
 EFFECT_SUFFOCATION_ARROW_NAME=Suffocation Arrow Effect [1]
 EFFECT_SUFFOCATION_ARROW_DESC_0=stunned
-EFFECT_DIVINE_PROTECTION_NAME=[BOSS_EDWIN_SHORT_NAME]'s Divine Protection Effect [0]
-EFFECT_DIVINE_PROTECTION_DESC_0=Immune to all damage
-EFFECT_DIVINE_PROTECTION_DESC_1=The protection is removed when the 2 golems are killed
+EFFECT_EDWIN_DIVINE_PROTECTION_NAME=[BOSS_EDWIN_SHORT_NAME]'s Divine Protection Effect [0]
+EFFECT_EDWIN_DIVINE_PROTECTION_DESC_0=Immune to all damage
+EFFECT_EDWIN_DIVINE_PROTECTION_DESC_1=The protection is removed when the 2 golems are killed
 EFFECT_ATONE_NAME=Atone Effect [1]
 EFFECT_ATONE_DESC_0=Only 1 of the Atone debuff has the real sin. 
 EFFECT_ATONE_DESC_1=Dispelling the wrong Atone debuff will deal

@@ -288,6 +288,7 @@ UI_BLACKSMITH_MUTATE_DESC=Adds mutation to the artifact
 UI_BLACKSMITH_CLEANSE_MUTATION_TITLE=Cleanse Mutations
 UI_BLACKSMITH_CLEANSE_MUTATION_DESC=Cleanse all mutations on the artifact
 UI_BLACKSMITH_HASNT_MUTATED=Artifact does not have mutations
+UI_BLACKSMITH_DIVINATION_ORB_TUT=What's a [MATERIAL_DIVINATION_SPHERE_NAME]
 
 UI_MUTZ_HEAVEN_DESC=Keeper of Haven
 UI_SETTINGS_HEAVEN_DESC=Change and setup your preferences
@@ -427,5 +428,6 @@ UI_TIP_HIGH_LVL_XP=At higher level, upgrading your items is a much better way th
 UI_TIP_HIGH_LVL_DIVINE_ITEM=Using [MATERIAL_DIVINATION_SPHERE_NAME] on an unique item is a great way upgrading it
 UI_TIP_HIGH_LVL_CRAFT_ITEM=Augmenting with [CONTEXT_NPC_SHORT_NAME_TORRAM] is a very nice way of gaining quick improvements 
 UI_TIP_HIGH_LVL_UPGRADE_AUGMENT=Augments can be upgrade with [MATERIAL_THE_MAKER_NAME]
+
 
 END

@@ -859,7 +859,7 @@ ARTIFACT_KINGS_LEGACY_NAME=King's Legacy
 ARTIFACT_KINGS_LEGACY_SPC_DESC=[LINK_SKILL_DIVINE_FOCUS] also reduces the cooldown of [LINK_SKILL_ASCENSION], [LINK_SKILL_REJUVENATE], and [LINK_SKILL_ANGELIC_INFUSION] by {0} seconds <br><br>[LINK_SKILL_DIVINE_FOCUS] reduces the cooldown of [LINK_SKILL_SANCTUARY] by {1} seconds
 
 ARTIFACT_THE_AVENGER_NAME=The Avenger
-ARTIFACT_THE_AVENGER_SPC_DESC=Whenever a party member dies, all other party members gain [LINK_SKILL_ASCENSION] for half the duration
+ARTIFACT_THE_AVENGER_SPC_DESC=Whenever a party member dies, all other party members gain [LINK_SKILL_ASCENSION] of the current level for half the duration
 
 ARTIFACT_INNER_FLAME_SPECIAL_DESC=[LINK_TALENT_INTO_THE_FRAY] also increases [ATTRIBUTE_BLOCK_CHANCE_TEXT] by {0}% and [ATTRIBUTE_ALL_RESISTS_TEXT] by {1}%
 
