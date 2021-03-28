@@ -874,6 +874,15 @@ ARTIFACT_TEMPLARS_RESOLVE_SPECIAL_DESC=[CONTEXT_PARTY_MEMBER_NAME_HEALER] gains 
 ARTIFACT_OATH_KEEPER_NAME=Oathkeeper
 ARTIFACT_OATH_KEEPER_SPC_DESC=[LINK_SKILL_AMPLE_HEAL] will also grant an [LINK_OATH] stack to all party members for {0} seconds. Casting [LINK_SKILL_FLASH_HEAL] with [LINK_TALENT_INFUSED_LUMINOSITY] will automatically cast on all party members affected by [LINK_OATH] effect
 
-ARTIFACT_ENDLESS_GLORY_SPC_DESC=[CONTEXT_PARTY_MEMBER_NAME_TANK] and [CONTEXT_PARTY_MEMBER_NAME_HEALER] also trigger [LINK_TALENT_BLESSED_COMPANY]'s [CONTEXT_PARTY_MEMBER_NAME_BERZERKER] and [CONTEXT_PARTY_MEMBER_NAME_RANGER] effect
+ARTIFACT_ENDLESS_GLORY_SPC_DESC=[CONTEXT_PARTY_MEMBER_NAME_TANK] and [CONTEXT_PARTY_MEMBER_NAME_HEALER] also trigger [LINK_TALENT_BLESSED_COMPANY]'s [CONTEXT_PARTY_MEMBER_NAME_BERZERKER] and [CONTEXT_PARTY_MEMBER_NAME_RANGER] effect. <br><br>[LINK_TALENT_BLESSED_COMPANY] can now critically strike
+
+ARTIFACT_THE_END_NAME=The End
+ARTIFACT_THE_END_SPC_DESC=[LINK_TALENT_PUNISH] will also cause [LINK_SKILL_HAMMER_OF_RECKONING] to always critically strike if more than {0} [LINK_SKILL_SEAL_OF_LIGHT] are consumed
+
+ARTIFACT_DAWN_NAME=Dawn
+ARTIFACT_DAWN_SPC_DESC=Channeling will automatically be interrupted after channelling for {0} seconds consecutively <br> <br>After channelling for {0} seconds, all party members will be affected by [LINK_SKILL_SEAL_OF_LIGHT] of the current level
+
+ARTIFACT_WILL_BREAKER_NAME=Will Breaker
+ARTIFACT_WILL_BREAKER_SPC_DESC=When [LINK_TALENT_ZEAL] expires, it will transfer itself to a random party member and refresh its duration. <br><br>This effect can only happen once
 
 END
