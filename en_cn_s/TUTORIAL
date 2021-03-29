@@ -81,8 +81,8 @@ TUTORIAL_ENV_EFFECT=注意，有时候场地上会有<color=#B58300FF>环境效�
 
 TUTORIAL_DISPEL_WATCH_OUT=注意队员身上的有害效果DEBUFF
 TUTORIAL_DISPEL_HOVER=<color=#ea8631>鼠标悬停在DEBUFF图标上查看它的作用</color>
-TUTORIAL_DISPEL_CAN_BE_DISPEL=<color=#ea8631>-> 可以被净化术去除</color>
-TUTORIAL_DISPEL_CAN_NOT_BE_DISPEL=<color=#ea8631>-> 不可去除</color>
+TUTORIAL_DISPEL_CAN_BE_DISPEL=<color=#ea8631>-> 一般法术可以被净化术去除</color>
+TUTORIAL_DISPEL_CAN_NOT_BE_DISPEL=<color=#ea8631>-> 有些强大法术不可净化，需要你留心BOSS战斗机制，制定对策</color>
 TUTORIAL_DISPEL_UNLOCK=<color=#ea8631>解锁净化术！</color> <br><br>净化术可以移除队员身上的有害效果
 
 
