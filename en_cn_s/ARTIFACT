@@ -885,5 +885,4 @@ ARTIFACT_DAWN_SPC_DESC=引导施法连续{0}秒后会自动被打断<br><br>在�
 ARTIFACT_WILL_BREAKER_NAME=意志毁灭者
 ARTIFACT_WILL_BREAKER_SPC_DESC=当[LINK_TALENT_ZEAL]持续时间结束，会转移到随机队员身上，并刷新持续时间。<br><br>这个效果只能发生一次。
 
-
 END

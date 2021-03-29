@@ -92,6 +92,6 @@ TUTORIAL_SKILL_ROOM_DESC=用合适的法术应战是胜利诀窍，你可以在�
 TUTORIAL_SKILL_ROOM_UPGRADE_DESC=在冒险时获得的<color=#B58300FF>天使水晶</color>可以在这里升级法术等级。
 
 TUTORIAL_BOSS_JOURNAL=<color=#ea8631>BOSS手册</color>里有关于BOSS的情报。<br><br>你可以找到关于BOSS的一切！
-TUTORIAL_BOSS_LOOT_CHEST=<color=#ea8631>掉落宝箱</color>包含可能掉落的所有唯一物品！
+TUTORIAL_BOSS_LOOT_CHEST=<color=#ea8631>掉落宝箱</color>包含这个BOSS所有唯一物品的掉落列表！
 
 END
