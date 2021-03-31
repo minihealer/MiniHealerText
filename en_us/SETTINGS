@@ -9,9 +9,18 @@ SETTINGS_EXIT=Exit game
 SETTINGS_EXPORT_SAVE=Export Save
 SETTINGS_EXPORT_SAVE_HARDCORE=Can not export save in hardcore
 SETTINGS_EXPORT_SAVE_DESC=You can export your progress for transfer
+SETTINGS_EXPORT_USAGE_DESC=Use the code on load to restore game state
+SETTINGS_EXPORT_COPY=Copy to Clipboard
+SETTINGS_EXPORT_COPY_SUCCESS=Copied Successfully!
+
 SETTINGS_IMPORT_SAVE=Import Save
 SETTINGS_IMPORT_SAVE_HARDCORE=Can not import save in hardcore
 SETTINGS_IMPORT_SAVE_DESC=Import your exported save file and continue your journey
+SETTINGS_IMPORT_USAGE_DESC=Load game from save file
+SETTINGS_IMPORT_WARNING=Warning, this will overwrite the existing save
+
+SETTINGS_IMPORT_PASTE_FROM_CLIPBOARD=Paste from clipboard
+
 
 SETTINGS_RESOLUTIONS=Resolutions
 SETTINGS_RESOLUTIONS_DESC=Adjust the resolution of the game

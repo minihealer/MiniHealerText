@@ -1257,6 +1257,10 @@ EFFECT_NIGHTMARE_CURTAIN_NAME=Nightmare Curtain Effect [1]
 EFFECT_NIGHTMARE_CURTAIN_I_NAME=Nightmare Curtain Effect [1]
 EFFECT_NIGHTMARE_CURTAIN_II_NAME=Nightmare Curtain Effect [1]
 EFFECT_NIGHTMARE_CURTAIN_III_NAME=Nightmare Curtain Effect [1]
+
+EFFECT_NIGHTMARE_CURTAIN_DESC_LESS_HEAL=Party members in the dark receives {0}% less healing
+EFFECT_NIGHTMARE_CURTAIN_DESC_LOSE_HP=Party members in the dark will lose {0}% of their maximum health every second
+
 EFFECT_THE_CURTAIN_FALLS_NAME=The Curtain Falls Effect [1]
 EFFECT_BLOOD_EXTRACTOR_NAME=Blood Extractor Effect [1]
 EFFECT_BLOOD_EXTRACTOR_DESC_0=Sacrificing health to the extractor every second
