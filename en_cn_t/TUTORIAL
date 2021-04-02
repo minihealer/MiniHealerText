@@ -81,8 +81,8 @@ TUTORIAL_ENV_EFFECT=注意，有時候場地上會有<color=#B58300FF>環境效�
 
 TUTORIAL_DISPEL_WATCH_OUT=注意隊員身上的有害效果DEBUFF
 TUTORIAL_DISPEL_HOVER=<color=#ea8631>鼠標懸停在DEBUFF圖標上查看它的作用</color>
-TUTORIAL_DISPEL_CAN_BE_DISPEL=<color=#ea8631>-> 可以被淨化術去除</color>
-TUTORIAL_DISPEL_CAN_NOT_BE_DISPEL=<color=#ea8631>-> 不可去除</color>
+TUTORIAL_DISPEL_CAN_BE_DISPEL=<color=#ea8631>-> 一般法術可以被淨化術去除</color>
+TUTORIAL_DISPEL_CAN_NOT_BE_DISPEL=<color=#ea8631>-> 有些強大法術不可淨化，需要你留心BOSS戰鬥機制，制定對策</color>
 TUTORIAL_DISPEL_UNLOCK=<color=#ea8631>解鎖淨化術！</color> <br><br>淨化術可以移除隊員身上的有害效果
 
 
@@ -92,6 +92,6 @@ TUTORIAL_SKILL_ROOM_DESC=用合適的法術應戰是勝利訣竅，你可以在�
 TUTORIAL_SKILL_ROOM_UPGRADE_DESC=在冒險時獲得的<color=#B58300FF>天使水晶</color>可以在這裏升級法術等級。
 
 TUTORIAL_BOSS_JOURNAL=<color=#ea8631>BOSS手冊</color>裏有關于BOSS的情報。<br><br>你可以找到關于BOSS的一切！
-TUTORIAL_BOSS_LOOT_CHEST=<color=#ea8631>掉落寶箱</color>包含可能掉落的所有唯一物品！
+TUTORIAL_BOSS_LOOT_CHEST=<color=#ea8631>掉落寶箱</color>包含這個BOSS所有唯一物品的掉落列表！
 
 END
