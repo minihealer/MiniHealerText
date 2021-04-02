@@ -588,7 +588,7 @@ ARTIFACT_ETERNAL_WARS_SPECIAL_DESC=Everytime the [CONTEXT_PARTY_MEMBER_NAME_HEAL
 ARTIFACT_GAUNTLETS_OF_HOLY_MIGHT_SPECIAL_DESC=[LINK_SKILL_SEAL_OF_LIGHT]'s damage will also increases all subsequent damage taken from [LINK_SKILL_SEAL_OF_LIGHT] by {0}%, stacks up to {1} times
 ARTIFACT_RIDDLE_SPECIAL_DESC=Whenever you cast a spell, there is a 15% chance to haunt the current enemy, making it deal {0}% less damage for 10 seconds <br>Stacks up to 3 times
 ARTIFACT_TOXIC_MAKER_SPECIAL_DESC=[CONTEXT_PARTY_MEMBER_NAME_TANK]'s attacks can also apply [LINK_TALENT_POISON] of the current level
-ARTIFACT_STORMBRINGER_SPECIAL_DESC=[CONTEXT_PARTY_MEMBER_NAME_TANK]'s attacks have a 20% chance to zap the target, dealing {0} [ATTRIBUTE_LIGHTNING_DAMAGE]
+ARTIFACT_STORMBRINGER_SPECIAL_DESC=[CONTEXT_PARTY_MEMBER_NAME_TANK]'s attacks have a 20% chance to zap the target, dealing {0} [ATTRIBUTE_LIGHTNING_DAMAGE] <br><br>This damage can critically strike
 ARTIFACT_FALLEN_FLAMES_SPECIAL_DESC=[CONTEXT_PARTY_MEMBER_NAME_TANK] deals {0}% of his maximum life to all enemies as {1} damage every second <br>[CONTEXT_PARTY_MEMBER_NAME_TANK] takes {2}% of his maximum life as {3} damage every second
 ARTIFACT_SPELLSONG_SPECIAL_DESC=Gain {0} mana whenever [CONTEXT_PARTY_MEMBER_NAME_TANK] blocks. <br><br>This effect can only happen once every {1} seconds
 ARTIFACT_FROZEN_SPIRIT_SPECIAL_DESC=Party members' [ATTRIBUTE_ICE_DAMAGE] has a 8% chance to chill the target, slowing their attack speed by 20% as well as reducing [ATTRIBUTE_ICE_RESIST] by 20% for 4 seconds
@@ -798,7 +798,7 @@ ARTIFACT_NETHERLIGHT_ANOMALY_1_DESC=Casting [LINK_SKILL_NEGATE] will also trigge
 ARTIFACT_NETHERLIGHT_HEAL_DESC=Heal all party members for {0}% of [ATTRIBUTE_INCREASE_HEALPOWER_FLAT_TEXT] per stack
 ARTIFACT_NETHERLIGHT_DMG_DESC=[CONTEXT_PARTY_MEMBER_NAME_RANGER] will deal additional [ATTRIBUTE_NEMESIS_DAMAGE] to the target equal to {0}% of [CONTEXT_PARTY_MEMBER_NAME_RANGER]'s damage per stack
 
-ARTIFACT_THOR_DIVINE_SPECIAL_DESC=[ARTIFACT_THOR_I_SPECIAL_DESC] <br>Stacks up to {0} times
+ARTIFACT_THOR_DIVINE_SPECIAL_DESC=[ARTIFACT_THOR_I_SPECIAL_DESC] <br>Stacks up to {2} times
 ARTIFACT_ADAPTATION_DIVINE_SPECIAL_DESC=Gain an additional [LINK_TALENT_HEIGHTENED_SENSES] stack per dodge
 ARTIFACT_ADAPTATION_DIVINE_ANOMALY_1_SPECIAL_DESC=Gain 2 additional [LINK_TALENT_HEIGHTENED_SENSES] stack per dodge
 ARTIFACT_MALICE_DIVINE_SPECIAL_DESC=Whenever party members take damage from the enemy, they will deal {0}% of the damage taken back to the attacker as [ATTRIBUTE_PHYSICAL_DAMAGE]
