@@ -1,0 +1,108 @@
+SETTINGS_GENERAL=Общие
+SETTINGS_CONTROL=Управление
+SETTINGS_GAMEPLAY=Игра
+SETTINGS_BACKTOMENU=Возврат в меню
+SETTINGS_LANGUAGE=Язык
+SETTINGS_DIFFICULTY=Сложность
+SETTINGS_EXIT=Выход из игры
+
+SETTINGS_EXPORT_SAVE=Експорт сохранения
+SETTINGS_EXPORT_SAVE_HARDCORE=Эта функция недоступка в режиме хардкора
+SETTINGS_EXPORT_SAVE_DESC=Вы можете перенести ваш прогресс на другое устройство
+SETTINGS_EXPORT_USAGE_DESC=Используйте код при загрузке, что бы восстановить игровую сессию
+SETTINGS_EXPORT_COPY=Скопировать в буффер
+SETTINGS_EXPORT_COPY_SUCCESS=Скопировано Успешно!
+
+SETTINGS_IMPORT_SAVE=Импорт сохранения
+SETTINGS_IMPORT_SAVE_HARDCORE=Эта функция недоступка в режиме хардкора
+SETTINGS_IMPORT_SAVE_DESC=Импорт сохранения позволяет продолжить Ваше путешествие
+SETTINGS_IMPORT_USAGE_DESC=Загрузка игры с файл сохранения
+SETTINGS_IMPORT_WARNING=Внимание, это перезапишет текущее сохранение
+
+SETTINGS_IMPORT_PASTE_FROM_CLIPBOARD=Вставить из буффера
+
+SETTINGS_RESOLUTIONS=Разрешение
+SETTINGS_RESOLUTIONS_DESC=Соответствует разрешению игры
+
+SETTINGS_WINDOWED=Оконный режим
+SETTINGS_WINDOWED_DESC=Переключение между оконным режимом и полноэкранным. Полноэкранный режим сейчас испывается.
+
+SETTINGS_MUSIC=Музыка
+SETTINGS_SOUND=Звуки
+
+SETTINGS_MUTE_AUDIO_IN_BKG=Заглушить звуки, когда игра свёрнута
+SETTINGS_MUTE_AUDIO_IN_BKG_DESC=Включение этой опции заглушить игре когда она свернута или Вы не сфокусированы на ней
+
+SETTINGS_TARGET_FPS=Выбранный FPS
+SETTINGS_TARGET_FPS_DESC=Настройте количество кадров в секунду. Рекомендуем 60 FPS.
+
+SETTINGS_MILISEC=Лучшее время показывает милисекунды
+SETTINGS_MILISEC_DESC=Даёт более точную информацию о том, как быстро Вы убили босаа
+
+SETTINGS_TALENT_HOVER=Выбор таланта или навыка при наведении
+SETTINGS_TALENT_HOVER_DESC=Включение этой функции будет автоматически выбирать талант или навык при наведении мышки на него
+
+SETTINGS_DISABLE_ITEM_HOVER=Выключить информацию при наведении для предметов
+SETTINGS_DISABLE_ITEM_HOVER_DESC=Включение этой функции позволит получать информацию о предмете только после нажатия на него
+
+SETTINGS_ADDTIONAL_ARTIFACT_INFO=Показывать дополнительную информацию об артефактах
+SETTINGS_ADDTIONAL_ARTIFACT_INFO_DESC=Будет показывать итоговое качество так же как и характеристики предмета
+
+SETTINGS_ONLY_DMG_NUM=Показывать только большие числа урона
+SETTINGS_ONLY_DMG_NUM_DESC=Показывает только тот урон, которые превышает часть максимального здоровья босса
+
+SETTINGS_ADDITIONAL_COMBAT_INFO=Показывать дополнительную информацию о бое
+SETTINGS_ADDITIONAL_COMBAT_INFO_DESC=Показывает текущие характеристики выбранного члена группы и выбранного противника
+
+SETTINGS_AUTO_RESTART=Автоматический перезапуск
+SETTINGS_AUTO_RESTART_DESC=Включение этой функции будет автоматически перезапускать бой после 5 секунд, не будет работать если инвенталь переполнен
+SETTINGS_AUTO_RESTART_WITH_CHAOS=Автоматический перезапуск с Хаосом
+SETTINGS_AUTO_RESTART_WITH_CHAOS_DESC=Включение этой функции будет подвергать Хаосу каждый автоматический бой. Количество кристаллов Хаоса равно тому количеству, что было на момент первого боя
+
+SETTINGS_QUICK_CAST=Быстрое использование
+SETTINGS_QUICK_CAST_DESC=Включение этой функции будет автоматически выбирать членов группы по наведению на них мышкой
+
+SETTINGS_KEYBINDINGS=Значения клавиш
+SETTINGS_KEYBINDINGS_MOVE_LEFT=Движение влево
+SETTINGS_KEYBINDINGS_MOVE_RIGHT=Движение вправао
+SETTINGS_KEYBINDINGS_SKILL_CAST=Использование умений
+SETTINGS_KEYBINDINGS_CHARACTER_SELECT=Выбор персонажа
+
+SETTINGS_KEYBINDINGS_ENGAGE=Начать бой
+SETTINGS_KEYBINDINGS_ENGAGE_DESC=Начинает бой
+SETTINGS_KEYBINDINGS_CANCEL_CAST=Отменить применение
+SETTINGS_KEYBINDINGS_CANCEL_CAST_DESC=Отменение заклинания, которое сейчас подготавливается
+SETTINGS_KEYBINDINGS_SWITCH_TARGET=Смена цели
+SETTINGS_KEYBINDINGS_SWITCH_TARGET_DESC=Изменяет Вашего текущего противника
+
+SETTINGS_SELECT_HOTKEYS_TO_CHANGE=Выберите клавишу, которую желаниете изменить...
+SETTINGS_SELECT_HOTKEYS_ENTER_KEY=Выберите клавишу, на которую желаниете изменить...
+
+
+SETTINGS_AUTO_ENGAGE=Автоматически начинать бой
+SETTINGS_AUTO_ENGAGE_DESC=Автоматическое начало боя после загрузки
+
+SETTINGS_DISABLE_SCREENSHAKE=Выключение дрожание экрана
+SETTINGS_DISABLE_SCREENSHAKE_DESC=Выключает всё дрожание экрана
+
+SETTINGS_DISPLAY_MAX_HEALTH=Показывать максимальное здоровье
+SETTINGS_DISPLAY_MAX_HEALTH_DESC=Будет показывать как текущее, так и максимальное здоровье
+
+SETTINGS_DETAILED_RESTART=Детализированный перезапуск
+SETTINGS_DETAILED_RESTART_DESC=Будет показывать более подробную информацию об уровне, когда вы выбираете функцию перезапуска боя
+
+SETTINGS_FASTER_ANIMATION=Быстрые анимации
+SETTINGS_FASTER_ANIMATION_DESC=Включение этой функции позволяет ускорить экран победы над боссом
+
+SETTINGS_MINIMAL_PARTICLES=Минимум частиц
+SETTINGS_MINIMAL_PARTICLES_DESC=Включение этой функции выключит почти все частицы эффектов в игре
+
+SETTINGS_VERTICAL_DMG_TEXT=Вертикальное отображение урона
+SETTINGS_VERTICAL_DMG_TEXT_DESC=Включение этой функции будет отображать урон вертикально над боссом
+
+SETTINGS_ALWAYS_SHOW_SKILL_CD=Всегда показывать перезарядку
+SETTINGS_ALWAYS_SHOW_SKILL_CD_DESC=Включение этой функции будет всегда отображать перезарядку, даже если заклинание имеет один или более зарядов
+
+SETTINGS_CHANGE_DIFFICULTY_TITLE=Изменение сложности
+SETTINGS_LANGUAGE_IN_TESTING=Это локализая сейчас испытывается, некоторое описание может быть изменено
+END

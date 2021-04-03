@@ -106,4 +106,5 @@ SETTINGS_ALWAYS_SHOW_SKILL_CD_DESC=Enabling this option cause the skill cooldown
 
 SETTINGS_CHANGE_DIFFICULTY_TITLE=Change Difficulty
 
+SETTINGS_LANGUAGE_IN_TESTING=This localization is current in testing, some texts may be unstable
 END

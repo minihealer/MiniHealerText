@@ -1,0 +1,151 @@
+DEPTH_NAME_LOWMORE=Лоурмор
+DEPTH_NAME_ABYSS=Бездна
+DEPTH_NAME_INFINITE_CORRIDOR=Бесконечный Коридор
+DEPTH_NAME_SACRIFICAL_CHAMBER=Жертвенная Земля
+DEPTH_NAME_CHAMBER_OF_PLENTY=Палата Изобилия
+DEPTH_NAME_CONCEALED_UTOPIA=Скрытая Утопия
+
+DEPTH_NAME_MALEVOLENT_CHAMBER=Злобная Палата
+DEPTH_DESCRIPTION_MALEVOLENT_CHAMBER=Палата с злобной аурой
+
+DEPTH_DESCRIPTION_STRONG_BOSSES=Только сильнейшие выживут здесь
+DEPTH_DESCRIPTION_NO_MONSTER=Здесь нет врагов, можете свободно перемещатся
+DEPTH_COMPLETE_DESCRIPTION=Найжите и убейте босса, что бы очистить этот уровень
+DEPTH_SELECT_UI_SELECT_KEY=Выберите ключ и перетащите его в пасть двери
+DEPTH_SELECT_UI_EMPTY_KEY_DETAIL=Положите ключ в голове, что бы узнать информацию о нём
+DEPTH_SELECT_UI_ENTER_DEPTH=Войти в глубину
+DEPTH_SELECT_UI_EMPTY_INFUSIONS=Нет влияния
+DEPTH_SELECT_UI_INFUSIONS=Под влиянием
+DEPTH_SELECT_UI_INFUSIONS_TUT=Вы можете выбрать до 4 влияний, которые будут действовать на ключ
+DEPTH_SELECT_UI_EMPTY_INFUSION_SELECT=Положите ключ в голову, что бы воздействовать на него
+DEPTH_SELECT_UI_INFUSIONS_LOCK=Закончите первый этаж [DEPTH_NAME_INFINITE_CORRIDOR], что бы открыть
+DEPTH_SELECT_UI_INFUSIONS_CANT_BE_APPLIED=Это влияние не может быть применено на этот ранг
+DEPTH_SELECT_UI_COMPLETE_T_X_IC_TO_UNLOCK=Закончите ранн {0} [DEPTH_NAME_INFINITE_CORRIDOR], что бы открыть
+DEPTH_SELECT_UI_IC_SELECT_TIER=Выберите ранг ключа
+DEPTH_SELECT_UI_IC_TIER_X=Ранг {0}
+DEPTH_SELECT_UI_IC_ENEMY_HEALTH=+{0}% Здоровье врагов<br>({1}% Для боссов)<br><br>
+DEPTH_SELECT_UI_IC_ENEMY_AUTO_ATTACK_DMG=+{0}% урон автоматических атак <br>({1}% Для боссов)<br><br>
+DEPTH_SELECT_UI_IC_ENEMY_SPELLPOWER=+{0}% Вражеская сила заклинаний <br>({1}% Для боссов)<br><br>
+DEPTH_SELECT_UI_POTENTIAL_ARTIFACTS=Потенциальные Артефакты
+DEPTH_SELECT_UI_POTENTIAL_ARTIFACTS_DESC=Все возможные артефакты, которые могут выпасть на этой глубине. <br><br>Когда вы их получите, они будут добавлены так же в ваш Атлас
+DEPTH_UI_DEPTH_INFO=Показать информацию о глубине
+DEPTH_UI_BACK_TO_HAVEN=Назад в Цбежище<br><color=#858585FF>Вы сможете вернуться назад</color>
+DEPTH_UI_CLOSE_DEPTH=Закрыть глубину<br><color=#858585FF>Вы не сможеие вернуться назад</color>
+DEPTH_UI_CLEAR_MESSAGE_DEFEAT_MONSTER=Одолейте 1 мкомнату с монстром, что бы продвинутся в соседние комнаты
+
+DEPTH_UI_NO_POTENTIAL_ARTIFACTS=Не имеет уникальных артефактов
+
+DEPTH_CONSUME_KEY=Путешествие на эту глубину потребует ключ
+DEPTH_ERROR_MAX_INFUSION=Максимальное количество влияний
+
+DEPTH_ABANDONED_WEALTH_OPEN=Вы открыли сундут и получили следующиее
+
+DEPTH_DEPTH_ROOM=Глубинная Комната
+
+
+DEPTH_NAME_SPECIAL_DESC_NO_MONSTERS=Не содержит врагов
+DEPTH_NAME_SPECIAL_DESC_ONLY_BATTLE=Содержит только комнаты с битвами
+DEPTH_NAME_SPECIAL_DESC_NO_ART_MAT=Из врагов не выпадают материалы или артефакты
+DEPTH_NAME_SPECIAL_DESC_INCREASED_EXP=Враги дают на 100% больше базового опыта
+
+DEPTH_NAME_RANDOM_POSTFIX_ENCAMPMENT=Лагерь
+DEPTH_NAME_RANDOM_POSTFIX_ACROPOLIS=Акрополь
+DEPTH_NAME_RANDOM_POSTFIX_STRONGHOLD=Крепость
+DEPTH_NAME_RANDOM_POSTFIX_WATCH=Смотреть
+DEPTH_NAME_RANDOM_POSTFIX_HOLD=Удерживать
+DEPTH_NAME_RANDOM_POSTFIX_KEEP=Сохранить
+DEPTH_NAME_RANDOM_POSTFIX_PALACE=Дворец
+DEPTH_NAME_RANDOM_POSTFIX_CITADEL=Цитадель
+DEPTH_NAME_RANDOM_POSTFIX_CASTLE=Замок
+DEPTH_NAME_RANDOM_POSTFIX_STOCKADE=Частокол
+DEPTH_NAME_RANDOM_POSTFIX_SANCTUARY=Святилище
+DEPTH_NAME_RANDOM_POSTFIX_LAIR=Берлога
+DEPTH_NAME_RANDOM_POSTFIX_SANCTUM=Святилище
+DEPTH_NAME_RANDOM_POSTFIX_GARRISON=Гарнизон
+DEPTH_NAME_RANDOM_POSTFIX_DEN=Логово
+DEPTH_NAME_RANDOM_POSTFIX_NEST=Гнездо
+DEPTH_NAME_RANDOM_POSTFIX_HALLWAY=Коридор
+DEPTH_NAME_RANDOM_POSTFIX_HOLLOW=Полый
+
+
+DEPTH_NAME_RANDOM_PREFIX_SUNWEB=Солнечная Паутина
+DEPTH_NAME_RANDOM_PREFIX_NIGHTMARE=Кошмар
+DEPTH_NAME_RANDOM_PREFIX_EXALTED=Превознесение
+DEPTH_NAME_RANDOM_PREFIX_SILVERHOWL=Серебряный Вой
+DEPTH_NAME_RANDOM_PREFIX_ARID=Засушливый
+DEPTH_NAME_RANDOM_PREFIX_RUNAWAY=Бегство
+DEPTH_NAME_RANDOM_PREFIX_WATCHER=Наблюдатель
+DEPTH_NAME_RANDOM_PREFIX_DREAMSPINE=Хребет грез
+DEPTH_NAME_RANDOM_PREFIX_DUSTY=Пыльный
+DEPTH_NAME_RANDOM_PREFIX_EHCHANTED=Зачаровано
+DEPTH_NAME_RANDOM_PREFIX_WINDLESS=Безветренный
+DEPTH_NAME_RANDOM_PREFIX_HAUNTED=С привидениями
+DEPTH_NAME_RANDOM_PREFIX_ABANDONED=Заброшен
+DEPTH_NAME_RANDOM_PREFIX_DREADFUL=Ужасно
+
+DEPTH_INFUSION_CHAOTIC_TITLE=Подвержено Хаосу
+DEPTH_INFUSION_CHAOTIC_DESC=Добавляет хаотические свойства врагам
+
+DEPTH_INFUSION_MAZELIKE_TITLE=Лабиринт
+DEPTH_INFUSION_MAZELIKE_DESC=Будет имет больше комнат, чем обычно
+DEPTH_INFUSION_MAZELIKE_ATTR_DESC=Содержит дополнительные комнаты
+
+DEPTH_INFUSION_TRANSPARENT_TITLE=Прозрачный
+DEPTH_INFUSION_TRANSPARENT_DESC=Карта открыта
+DEPTH_INFUSION_TRANSPARENT_ATTR_DESC=Карта открыта
+
+DEPTH_INFUSION_TRIAL_TITLE=Пробный
+DEPTH_INFUSION_TRIAL_DESC=Гарантирует событие с Оррой/Мевором/Едвином, так же падает на один аномальный предмет больше
+DEPTH_INFUSION_TRIAL_ATTR_DESC=Содержит Трио
+
+DEPTH_INFUSION_PLENTIFUL_TITLE=Богатый
+DEPTH_INFUSION_PLENTIFUL_DESC=Из комнаты с боссом выпадет дополнительный уникальный ключ
+DEPTH_INFUSION_PLENTIFUL_ATTR_DESC=Из босса гарантированно выпадет хотя бы один уникальный ключ
+
+DEPTH_WEALTH_ATTR_EXTRA_CHAOS_CRYSTALS=Содержит жополнительные Кристаллы Хаоса
+DEPTH_WEALTH_ATTR_EXTRA_MUTATION_CRYSTALS=Содержит дополнительные Кристаллы Мутации
+DEPTH_WEALTH_ATTR_EXTRA_ANGELIC_CRYSTALS=Содержит дополнительные Ангельские Кристаллы
+DEPTH_WEALTH_ATTR_EXTRA_ORES=Содержит дополнительную руду
+DEPTH_WEALTH_ATTR_UNIQUE=Содержит один или больше уникальных предметов
+DEPTH_WEALTH_ATTR_EXTRA_WEAPONS=Содержит дополнительное оружие
+DEPTH_WEALTH_ATTR_EXTRA_ARMORS=Содержит дополнительную броню
+DEPTH_WEALTH_ATTR_EXTRA_ACCESSORIES=Содержит дополнительные аксессуары
+
+DEPTH_ROOM_COMPLETED=Завершено
+
+DEPTH_ROOM_NAME_MONSTER=Комната Монстра
+DEPTH_ROOM_DESC_MONSTER=Одолейте комнату монстра, что бы продвинуться дальше
+DEPTH_ROOM_DESC_MONSTER_BOSS=Одолейте монстров, что бы завершить глубину
+
+DEPTH_ROOM_DESC_MORE_MONSTERS=Содержит больше врагов
+DEPTH_ROOM_DESC_STRONGER_MONSTERS=Содержит более сильных врагов
+DEPTH_ROOM_DESC_ENHANCED_MONSTERS=Содержит усиленных врагов
+DEPTH_ROOM_DESC_ENCHANTED_MONSTERS=Содержит зачарованных монстров
+DEPTH_ROOM_HAS_X_ENVIRONMENTAL_EFFECT=Имеет {0} эффектов окружения
+DEPTH_ROOM_CONTAINS_X=Содержит {0}
+
+DEPTH_ROOM_NAME_ABANDONED_WEALTH=Заброшенные Сокровища
+DEPTH_ROOM_DESC_ABANDONED_WEALTH=Содержит потерянные сокровища
+
+DEPTH_ROOM_NAME_ALTAR=Алтарь
+DEPTH_ROOM_DESC_ALTAR=Даёт положительный и негативный эффект до конца глубины
+DEPTH_ROOM_ALTAR_COMPLETED=Тронутый
+
+DEPTH_ROOM_NAME_CURSED_POTION=Проклятое Зелье
+DEPTH_ROOM_DESC_CURSED_POTION=Заменяет все комнаты монстров на одну проклятую комнату тукещего уровня
+
+DEPTH_ROOM_NAME_MALEVOLENT_SHRINE=Злобное Святилище
+DEPTH_ROOM_DESC_MALEVOLENT_SHRINE=Сильное святилище, которое может навсегда закрепить характеристику на предмете
+
+
+
+DEPTH_ROOM_NAME_ORRA=Испытание [BOSS_ORRA_SHORT_NAME]
+DEPTH_ROOM_DESC_ORRA=Одолейте [BOSS_ORRA_SHORT_NAME], что бы получить аномальную броню
+DEPTH_ROOM_NAME_MEVOR=Испытание [BOSS_MEVOR_SHORT_NAME]
+DEPTH_ROOM_DESC_MEVOR=Одолейте [BOSS_MEVOR_SHORT_NAME], что бы получить аномальное оружие
+DEPTH_ROOM_NAME_EDWIN=Испытание [BOSS_EDWIN_SHORT_NAME]
+DEPTH_ROOM_DESC_EDWIN=Одолейте [BOSS_EDWIN_SHORT_NAME], что бы получить аномальный аксуссуар
+
+
+
+END

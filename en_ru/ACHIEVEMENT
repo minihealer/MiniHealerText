@@ -1,0 +1,78 @@
+ACHIEVEMENT_TITLE=Достижения
+ACHIEVEMENT_DESC=Получение различных наград и бонусов за Ваши действия во время путешествия
+
+ACHIEVEMENT_COMPLETION={0}/{1} Достижений получено
+
+ACHIEVEMENT_CATEGORY_TRIO=Трио
+ACHIEVEMENT_CATEGORY_HARDCORE=Хардкор
+ACHIEVEMENT_CATEGORY_OTHER=Другое
+
+ACHIEVEMENT_SELECT=Выберите достижение для просмотра дополнительной информации
+
+ACHIEVEMENT_NAME_GROWTH=Рост {0}
+ACHIEVEMENT_DESC_GROWTH=Достигните уровня {0}
+
+ACHIEVEMENT_NAME_MASTERY={0} Мастерство {1}
+ACHIEVEMENT_DESC_MASTERY=Достигните уровня мастерства в {0}  {1}
+
+ACHIEVEMENT_NAME_FIRST_ENCOUNTER=Первая встреча
+ACHIEVEMENT_NAME_FIRST_VICTORY=Первая победа
+ACHIEVEMENT_NAME_FIRST_PERFECT_VICTORY=Первая идеальная победа
+ACHIEVEMENT_NAME_FIRST_CHAOTIC_VICTORY=Первая Хаотичная победа
+ACHIEVEMENT_NAME_FIRST_FULL_CLEAR=Полная зачистка
+
+ACHIEVEMENT_DESC_DEFEAT_NORMAL=Одержите победу на нормальной сложности над {0}
+ACHIEVEMENT_DESC_DEFEAT_BRUTAL=Одержите победу на брутальной сложности над {0}
+
+ACHIEVEMENT_DESC_DEFEAT_INSANE=Одержите победу на [CONTEXT_DIFFICULTY_INSANE] над {0}
+ACHIEVEMENT_DESC_DEFEAT_INSANE_EVERYONE_ALIVE=Одержите победу на [CONTEXT_DIFFICULTY_INSANE] над {0} так, что бы все члены группы остались живы
+ACHIEVEMENT_DESC_DEFEAT_CHAOS_INSANE=Одержите победу на [CONTEXT_DIFFICULTY_INSANE] над {0} под влиянием Хаоса 5 ранга
+ACHIEVEMENT_DESC_DEFEAT_CHAOS_INSANE_EVERYONE_ALIVE=Одержите победу на [CONTEXT_DIFFICULTY_INSANE] над {0} под влиянием Хаоса 5 ранга так, что бы все члены группы остались живы на [UI_MENU_GAME_MODE_NIGHTMARE_TITLE] сложности игры
+
+ACHIEVEMENT_DESC_DEFEAT_GENERAL=Одолейте {0}
+ACHIEVEMENT_DESC_DEFEAT_GENERAL_EVERYONE_ALIVE=Одолейте {0} так, чтоб ы все члены группы остались живы
+ACHIEVEMENT_DESC_DEFEAT_CHAOS_GENERAL=Одолейте {0} под влиянием Хаоса 5 ранга
+ACHIEVEMENT_DESC_DEFEAT_CHAOS_GENERAL_EVERYONE_ALIVE=Одолейте {0} под влиянием Хаоса 5 ранга так, что бы все члены группы остались живы
+
+ACHIEVEMENT_DESC_DEFEAT_GENERAL_TWO_AUG=Одолейте {0} {1}
+ACHIEVEMENT_DESC_DEFEAT_GENERAL_EVERYONE_ALIVE_TWO_AUG=Одолейте{0} {1} так, что бы все члены группы остались живы
+ACHIEVEMENT_DESC_DEFEAT_CHAOS_GENERAL_TWO_AUG=Одолейте {0} под влиянием Хаоса 5 ранга {1}
+ACHIEVEMENT_DESC_DEFEAT_CHAOS_GENERAL_EVERYONE_ALIVE_TWO_AUG=Одолейте {0} {1} под влиянием Хаоса 5 ранга так, что бы все члены группы остались живы
+ACHIEVEMENT_DESC_MIDNIGHT_FULL_CLEAR=Одолейте {0} {1} под влиянием Хаоса 5 ранга так, что бы все члены группы остались живы на [UI_MENU_GAME_MODE_NIGHTMARE_TITLE] сложности игры
+
+ACHIEVEMENT_NAME_SPECIAL_EXPLORER_OF_DEPTH=Исследователь глубин
+ACHIEVEMENT_DESC_DEFEAT_IN_DEPTH=Одолейте {0}
+
+ACHIEVEMENT_NAME_SPECIAL_AUTOMATOR=Автоматизатор
+ACHIEVEMENT_DESC_SPECIAL_AUTOMATOR=Одолейте всех хранителей
+ACHIEVEMENT_DESC_SPECIAL_AUTOMATOR_REWARD=Включает возможность автоматического перезапуска в настройках
+
+ACHIEVEMENT_NAME_SPECIAL_MEGAHEALER=МЕГА Целитель
+ACHIEVEMENT_DESC_SPECIAL_MEGAHEALER=Получите все достижения( Возможно только в хардкоре )
+ACHIEVEMENT_DESC_SPECIAL_MEGAHEALER_REWARD=Награда ждёт вас в дискорд канале в виде специальной роли
+
+ACHIEVEMENT_NAME_SPECIAL_HEALER_LAST=Привелегия целителя
+ACHIEVEMENT_DESC_SPECIAL_HEALER_LAST=Одолейте [CONTEXT_DIFFICULTY_INSANE] {0} оставив целителя на последок
+
+ACHIEVEMENT_NAME_SPECIAL_GUMP_NO_HEAL=Исцеление не для тебя
+ACHIEVEMENT_DESC_SPECIAL_GUMP_NO_HEAL=Одолейте [CONTEXT_DIFFICULTY_INSANE] {0}  не дав ему исцелиться
+
+ACHIEVEMENT_NAME_SPECIAL_HATE_THE_SUN=Ненависть к Солнцу
+ACHIEVEMENT_DESC_SPECIAL_HATE_THE_SUN=Одолейте [CONTEXT_DIFFICULTY_INSANE] {0} в ночное время
+ACHIEVEMENT_NAME_SPECIAL_HATE_THE_MOON=Нанасть к Луне
+ACHIEVEMENT_DESC_SPECIAL_HATE_THE_MOON=Одолейте [CONTEXT_DIFFICULTY_INSANE] {0} в дневное время
+
+ACHIEVEMENT_NAME_SPECIAL_MANACRYSTAL=Избыток маны
+ACHIEVEMENT_DESC_SPECIAL_MANACRYSTAL=Уничтожте [BOSS_SEPITUS_CRYSTAL_NAME]
+
+ACHIEVEMENT_NAME_SPECIAL_NO_ARMOR=У меня тоже нет брони
+ACHIEVEMENT_DESC_SPECIAL_NO_ARMOR=Одолейте [CONTEXT_DIFFICULTY_INSANE] {0} без надетой брони
+
+ACHIEVEMENT_NAME_SPECIAL_NO_SOUL=Души не для Тебя
+ACHIEVEMENT_DESC_SPECIAL_NO_SOUL=Одолейте [CONTEXT_DIFFICULTY_INSANE] {0} не дав ему поглотить ни единой души
+ACHIEVEMENT_NAME_SPECIAL_ALL_SOUL=Все Души
+ACHIEVEMENT_DESC_SPECIAL_ALL_SOUL=Одолейте [CONTEXT_DIFFICULTY_INSANE] {0} не уничтожив ни единой души
+
+ACHIEVEMENT_DESC_NO_BONUS=Бонус не доступен
+
+END

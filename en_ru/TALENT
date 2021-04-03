@@ -1,0 +1,533 @@
+TALENT_CLASS_DRUID_DESC=-Использует мощные исцеления продолжительного действия <br><br>-Имеет сильную регенерацию маны
+TALENT_CLASS_PRIEST_DESC=-Использует щиты для поглощения входящего урона<br><br>-Имеет сильные аурыH <br><br>-Имеет отличное лечение по области
+TALENT_CLASS_OCCULTIST_DESC=-Использует проклятия для ослабления врагов <br><br>-Имеет мощные атакующие способности
+TALENT_CLASS_PALADIN_DESC=-Имеет мощное исцеление в единичную цель <br><br>-Имеет отличные защитные способности
+
+TALENT_TIER_DESC=Ранг {0} {1} таланты
+TALENT_ALL_SKILLS=Все умения
+TALENT_GAIN_AN_AURA_THAT=Те, что дают ауру
+TALENT_THIS_TALENT_HAS_X_to_Y_SECONDS_CD=Имеет {0}-{1} секунду перезарядки
+TALENT_LASTS_X_SECONDS=Длиться {0} секунд
+
+TALENT_UNLOCK_AT_LEVEL_X=Открывается на уровне {0}
+
+TALENT_RESET=Сброс
+TALENT_RESET_TITLE=Сбросить таланты
+
+TALENT_RESET_ONLY_TALENT_TITLE=Сбросить ВСЕ таланты
+TALENT_RESET_ONLY_DRUID_TALENT_TITLE=Сбросить [CONTEXT_TALENT_CLASS_DRUID] таланты
+TALENT_RESET_ONLY_PRIEST_TALENT_TITLE=Сбросить [CONTEXT_TALENT_CLASS_PRIEST] таланты
+TALENT_RESET_ONLY_OCCULTIST_TALENT_TITLE=Сбросить[CONTEXT_TALENT_CLASS_OCCULTIST] таланты
+TALENT_RESET_ONLY_PALADIN_TALENT_TITLE=Сбросить [CONTEXT_TALENT_CLASS_PALADIN] таланты
+TALENT_RESET_ONLY_TALENT_DESC=Бесплатно! Сбросить сколько захочешь
+
+TALENT_RESET_MASTERY_TITLE=Сбросить ВСЕ мастерства
+TALENT_RESET_DRUID_MASTERY_TITLE=Сбросить [CONTEXT_TALENT_CLASS_DRUID] мастерства
+TALENT_RESET_PREIST_MASTERY_TITLE=Сбросить [CONTEXT_TALENT_CLASS_PRIEST] мастерства
+TALENT_RESET_OCCULTIST_MASTERY_TITLE=Сбросить[CONTEXT_TALENT_CLASS_OCCULTIST] мастерства
+TALENT_RESET_PALADIN_MASTERY_TITLE=Сбросить [CONTEXT_TALENT_CLASS_PALADIN] мастертсва
+
+TALENT_RESET_MASTERY_DESC=Стоимость увеличивается с каждым сбрасыванием. Ограничено Вашим текущим уровнем
+TALENT_RESET_DESC=Не нравится Ваша сборка? Вы можете всегда изменить его здесь!
+TALENT_TALENT_LOADOUT=Загрузка талантов
+TALENT_TALENT_LOADOUT_DESC=Называйте, сохраняйте, и загружайте ваши любимые сборки здесь!
+TALENT_SEARCH_PLACEHOLDER=Введите названия сборки, описание...и тд.
+
+TALENT_AVAILABLE_TALENT_POINTS=Доступно очков талантов: {0}
+TALENT_AVAILABLE_MASTERY_POINTS=Доступно очков мастерства: {0}
+TALENT_POINTS_INVESTED=Вложено очков талантов: {0}
+TALENT_MASTERY_POINTS_INVESTED=Вложено очков мастерства: {0}
+TALENT_MASTERY_POINTS_COST=Стоит {0} очков мастерства
+TALENT_MASTERY_POINTS_REQUIREMENT=Требуется {0} вложенных очков мастерства в {1}
+
+TALENT_MASTERY_NO_MASTERY=Мастерство не доступно
+
+TALENT_CLASS_MASTERY_BONUS_TITLE={0} бонус мастерства
+TALENT_MASTERY_BONUS_TITLE=Бонус мастерства<br><color=#555555>{0}</color>
+TALENT_MASTERY_BONUS_DESC=Каждый уровень мастерства в {0} даст 
+
+TALENT_REQUIREMENT_DESC=Требует {0} вложенных очков в {1}
+TALENT_MAX_LEVEL_DESC=Максимум {0} уровней
+
+TALENT_PLUS_X_EFFECT_BY_Y=+{0} Эффективности {1}
+TALENT_PLUS_X_EFFECT_BY_Y_PERCENTAGE=+{0}% Эффективности {1}
+TALENT_MINUS_X_EFFECT_BY_Y_PERCENTAGE=-{0}% Эффективности {1}
+TALENT_PLUS_X_DAMAGE_BY_Y_PERCENTAGE=+{0}% Урона {1}
+TALENT_PLUS_X_RAPID_SHOT_ARROW=+{0} стрел[LINK_TALENT_RAPID_SHOT] 
+TALENT_PLUS_X_ATTRIBUTE_BY_Y=+{0} {1}
+TALENT_PLUS_X_ATTRIBUTE_BY_Y_NO_SPACE=+{0}{1}
+TALENT_PLUS_ALL_PARTY_MEMBER_X_ATTRIBUTE_BY_Y=+{0} Все члены группы {1}
+TALENT_PLUS_ALL_PARTY_MEMBER_X_ATTRIBUTE_BY_Y_PERCENTAGE=+{0}% Все члены группы {1}
+
+TALENT_REDUCE_X_OF_Y_BY_Z=Умньшает {0} от {1} на {2}
+TALENT_REDUCE_X_BY_Y=Уменьшает {0} на {1}
+TALENT_REDUCE_X_BY_Y_PERCENTAGE=Уменьшает {0} на {1}%
+TALENT_X_NOW_HAS_Y_CHARGES={0} теперь имеет {1} зарядов
+
+
+TALENT_REDUCE_X_CD_BY_Y_PERCENTAGE=Уменьшает перезарядку {0} на {1}%
+TALENT_REDUCE_X_CD_BY_Y_SECONDS=Уменьшает перезарядку {0} на {1} секунду
+TALENT_REDUCE_X_CASTTIME_BY_Y_SECONDS=Уменьшает время применения {0} на {1} секунду
+TALENT_REDUCE_MANA_COST_OF_CHANNEL_BY_X=Уменьшает [ATTRIBUTE_MANA_COST] всех поддерживаемых заклинаний {0}
+
+TALENT_X_PERSON_BY_Y={0} на {1}
+TALENT_INCREASE_DAMAGE_OF_X_BY_Y_PERCENT=Увеличивает урон {0} на {1}%
+TALENT_INCREASE_HEALING_OF_X_BY_Y_PERCENT=Увеличивает исцеление {0} на {1}%
+TALENT_INCREASE_COOLDOWN_OF_X_BY_Y=Увеличивает время перезарядки {0} на {1} секунд
+TALENT_INCREASE_CAST_TIME_OF_X_BY_Y=Увеличивает время применения {0} на {1} секунд
+TALENT_INCREASE_DURATION_OF_X_BY_Y=Увеличивает длительность {0} на {1} секунд
+TALENT_INCREASE_MANA_COST_OF_X_BY_Y=Увеличивает потребление маны {0} на {1}
+TALENT_INCREASE_MANA_COST_OF_X_BY_Y_PERCENT=Увеличивает потребление маны {0} на {1}%
+TALENT_INCREASE_CRIT_HEAL_OF_X_BY_Y=Увеличивает [ATTRIBUTE_CRITICAL_HEAL_CHANCE] {0} на {1}%
+TALENT_ADDS_X_ELEMENTAL_DMG_TO_ALL_PARTY_MEMBERS_ATTACKS=Добавляет {0} к атакам всех членов группы
+
+TALENT_HYPOCRISY_MASTERY_DESC=% Множитель исцеления от [LINK_SKILL_Siphon_Life]
+TALENT_ERADICATION_DESC=Все враги получают {0}% больше урона за каждые 20% потерянного здоровья
+TALENT_ERADICATION_SAC_DESC=Дальнейшее усиление увеличит вражеское [ATTRIBUTE_ALL_DAMAGE_TAKEN] на {0}% за каждые 20% потерянного здоровья за каждый пожертвованное очко талантов
+TALENT_ERADICATION_MASTERY_DESC=% Порог потерянного здоровья искоренения
+TALENT_SACRIFICE_DESC=Пожертвование очком таланта(Что?)
+TALENT_DEMONIFY_ATK_SPD_DESC=[LINK_SKILL_MIND_RUSH] Так же увеличивает [ATTRIBUTE_ATTACK_SPEED] на {0}%
+TALENT_DEMONIFY_NEM_RES_DESC=[LINK_SKILL_MIND_RUSH] Так же увеличивает [ATTRIBUTE_NEMESIS_RESIST] на {0}%
+TALENT_SOUL_BOOS_PHYS_DMG_DESC=[LINK_SKILL_LESSER_HEAL] , [LINK_SKILL_RADIANT_HEAL] , [LINK_SKILL_FLASH_HEAL] Так же увеличивают [ATTRIBUTE_PHYSICAL_DAMAGE] цели на {0}% на 3 секунды
+TALENT_SOUL_BOOS_FIRE_DMG_DESC=[LINK_SKILL_LESSER_HEAL] , [LINK_SKILL_RADIANT_HEAL] , [LINK_SKILL_FLASH_HEAL] Так же увеличивают [ATTRIBUTE_FIRE_DAMAGE] цели на {0}% на 3 секунды
+TALENT_SOUL_BOOS_FIRE_MASTERY_DESC=% Души увеличивают бонус [ATTRIBUTE_FIRE_DAMAGE] 
+TALENT_SOUL_BOOS_PHYS_MASTERY_DESC=% Души увеличивают бонус [ATTRIBUTE_PHYSICAL_DAMAGE]
+TALENT_VAMPIRISM_DESC=Все автоматические атаки каждого из членов группы восстанавливают здоровье равное {0}% от нанесённого [ATTRIBUTE_PHYSICAL_DAMAGE]
+TALENT_VAMPIRISM_MASTERY_DESC=% Множитель вампиризма от урона
+TALENT_VAMPIRISM_FLAT_DESC=Все автоматические атаки каждого из членов группы восстанавливают им здоровье
+TALENT_VAMPIRISM_FLAT_DESC_TANK=[CONTEXT_PARTY_MEMBER_NAME_TANK] восстанавливает {0} здоровья
+TALENT_VAMPIRISM_FLAT_DESC_BERZERKER=[CONTEXT_PARTY_MEMBER_NAME_BERZERKER] восстанавливает {0} здоровья
+TALENT_VAMPIRISM_FLAT_DESC_RANGER=[CONTEXT_PARTY_MEMBER_NAME_RANGER] восстанавливает {0} здоровья
+TALENT_VAMPIRISM_FLAT_DESC_HEALER=[CONTEXT_PARTY_MEMBER_NAME_HEALER] восстанавлиавет {0} здоровья
+TALENT_VAMPIRISM_SAC_DESC=Дальнейшее усиление увеличит восстановленное здоровье на {0}% за пожертвованное очко таланта
+TALENT_DECAY_AURA_MASTERY_DESC=% Множитель урона от силы исцеления ауры разложения
+TALENT_DECAY_AURA_DESC=[CONTEXT_PARTY_MEMBER_NAME_HEALER] наносит ({0}% от [ATTRIBUTE_INCREASE_HEALPOWER_FLAT_TEXT]) [ATTRIBUTE_NEMESIS_DAMAGE] всем врагам каждую секунду
+TALENT_DECAY_AURA_DMG_TAKEN_DESC= Уведичиваеь вражеское [ATTRIBUTE_ALL_DAMAGE_TAKEN] на {0}%
+TALENT_DECAY_AURA_SAC_DESC=Дальнейшее усиление увеличит[CONTEXT_PARTY_MEMBER_NAME_HEALER] [ATTRIBUTE_ALL_DAMAGE_DEALT] на {0}% за каждый пожертвованное очко таланта
+TALENT_UNSTABLE_MAGIC_DESC=Уменьшает [ATTRIBUTE_HEALING_RECEIVED] всех членов группы на {0}%
+TALENT_SHADOW_ENTROPY_STORE_DESC=[LINK_SKILL_VOID_ZONE] Теперь сохраняет до 100% от всего количества исцеления внутри области на протяжении её длительности
+TALENT_SHADOW_ENTROPY_EXPIRE_DESC=Когда [LINK_SKILL_VOID_ZONE] заканчивается, [CONTEXT_PARTY_MEMBER_NAME_HEALER] нанесёт [ATTRIBUTE_FIRE_DAMAGE] всем врагам равным {0}%  от всего сохранённого исцеления
+TALENT_SHADOW_ENTROPY_SAC_DESC=Дальнейшее усиление увеличит множитель урона на {0}% за пожертвованное очко таланта
+TALENT_SHADOW_ENTROPY_MASTERY_DESC=% множитель урона тёмной энтропии
+TALENT_MARK_OF_DEATH_HIT_DESC=Атаки [CONTEXT_PARTY_MEMBER_NAME_TANK] имеют {0}% шанс отметить цель, нанося ({1}% * [ATTRIBUTE_INCREASE_HEALPOWER_FLAT_TEXT]) [ATTRIBUTE_NEMESIS_DAMAGE]
+TALENT_MARK_OF_DEATH_DMG_DESC=Помеченные цели так же получают на {0}% больше [ATTRIBUTE_NEMESIS_DAMAGE] в течении 5 секунд
+TALENT_MARK_OF_DEATH_MASTERY_DESC=% Шанс срабатывания метки смерти
+TALENT_CHAOS_STRIKE_ZERKER_CAST_DESC=[CONTEXT_PARTY_MEMBER_NAME_BERZERKER] Иногда будет использовать [SKILL_CHAOS_STRIKE_NAME]
+TALENT_CHAOS_STRIKE_DMG_DESC=[SKILL_CHAOS_STRIKE_NAME] наносит {0}% от [ATTRIBUTE_TOTAL_DAMAGE_TEXT] как [ATTRIBUTE_NEMESIS_DAMAGE]
+TALENT_CHAOS_STRIKE_CRIT_DESC=[SKILL_CHAOS_STRIKE_NAME] гарантированно наносит критический удар
+TALENT_CHAOS_STRIKE_MASTERY_DESC=% Множитель урона удара хаоса [CONTEXT_PARTY_MEMBER_NAME_BERZERKER]
+TALENT_VOODOO_MAGIC_DESC=Когда член группы впервые должен умереть во время боя, вместо этого<br>его здоровье становиться равным {0}% от [ATTRIBUTE_MAXIMUM_HEALTH]
+TALENT_VOODOO_MASTERY_DESC=% Процент восстановленного здоровья с помощью магии вуду
+TALENT_AGONY_DESC=Когда [LINK_SKILL_SHADOW_RIPPLE] приводит к избыточному исцелению, [CONTEXT_PARTY_MEMBER_NAME_HEALER] будет исцелён на {0}%  от количества избыточного исцеления
+TALENT_AGONY_SAC_DESC=Дальнейшее усиление увеличит множитель исцеления на {0}% за пожертвованное очко таланта
+TALENT_AGONY_MASTERY_DESC=% Множитель теневой ряби от силы исцеления 
+TALENT_BANISH_DESC=[LINK_SKILL_BANISH] Теперь так же уменьшает [ATTRIBUTE_ELE_RESISTS_TEXT] на {0}%
+TALENT_HEXING_MASTERY_DESC=% Уменьшение скорости атаки проклятых
+TALENT_HEXING_ATK_SPD_DESC=[LINK_SKILL_BANISH] теперь так же уменьшает [ATTRIBUTE_ATTACK_SPEED] на {0}%
+TALENT_HEXING_SAC_DESC=[LINK_SKILL_BANISH] Дальнейшее усиление уменьшит скорость атаки на 0.5% за пожертвованное очко таланта
+TALENT_DECEPTION_MASTERY_DESC=% Порог здоровья обмана
+TALENT_DECEPTION_UP_DESC=Все члены группы получат {0}% [ATTRIBUTE_ALL_RESISTS_TEXT] когда здоровье больше {1}% 
+TALENT_DECEPTION_DOWN_DESC=Все члены группы потеряют {0}% [ATTRIBUTE_ALL_RESISTS_TEXT] когда здоровье меньше {1}% 
+TALENT_DECEPTION_SAC_DESC=Дальнейшее усиление увеличит [ATTRIBUTE_MAXIMUM_HEALTH] всех членов группы на 0.8% за пожертвованное очко таланта
+TALENT_MISERY_SAC_DESC=Увеличение [ATTRIBUTE_MAXIMUM_MANA] на {0} за пожертвованное очко таланта
+TALENT_SOUL_CONDUIT_ATK_SPD_DESC=[LINK_SKILL_CLEANSING_RAY] теперь так же увеличивет [ATTRIBUTE_ATTACK_SPEED] цели на {0}% и весь [ATTRIBUTE_BASE_DAMAGE_TEXT] на {1}%
+TALENT_SOUL_CONDUIT_DMG_DESC=[LINK_SKILL_CLEANSING_RAY] теперь наносит [ATTRIBUTE_ICE_DAMAGE] члену группы равное {0}% от его [ATTRIBUTE_MAXIMUM_HEALTH], вместо исцеления
+TALENT_SOUL_CONDUIT_SAC_DESC=Дальнейшее усиление увеличит [TALENT_SOUL_CONDUIT_NAME] [ATTRIBUTE_BASE_DAMAGE_TEXT] бонус на {0}% за пожертвованное очко таланта
+TALENT_UNHOLY_MIGHT_CD_DESC=Критические атаки [CONTEXT_PARTY_MEMBER_NAME_BERZERKER]уменьшают перезарядку [TALENT_CHAOS_STRIKE_NAME] на {0} секунд
+TALENT_UNHOLY_MIGHT_SAC_DESC=Увеличивает [CONTEXT_PARTY_MEMBER_NAME_BERZERKER] [ATTRIBUTE_ATTACK_SPEED] на 1% за пожертвованное очко таланта
+TALENT_REAPER_OF_SOULS_ADDITIONAL_DESC=[LINK_SKILL_SIPHON_LIFE] теперь исцеляет дополнительно одного члена группы
+TALENT_REAPER_OF_SOULS_SAC_DESC=Увеличивает урон от [LINK_SKILL_SIPHON_LIFE] на 1% за пожертвованное очко таланта
+TALENT_REAPER_OF_SOULS_MASTERY_DESC= Дополнительная цель исцеленрия от [LINK_SKILL_SIPHON_LIFE]
+TALENT_VOID_CHAINS_ENEMY_HEAL_DESC=Уменьшит [ATTRIBUTE_HEALING_RECEIVED] всех врагов на {0}%
+TALENT_VOID_CHAINS_SAC_DESC=Дальнейшее усиление уменьшит [ATTRIBUTE_HEALING_RECEIVED] всех врагов на {0}% за пожертвованное очко таланта
+TALENT_VOID_CHAINS_MASTERY_DESC=% бонус уменьшения исцеления врагов от цепей пустоты
+TALENT_BLOOD_RITUAL_HEALPOWER_SAC_DESC= увеличение [ATTRIBUTE_INCREASE_HEALPOWER_FLAT_TEXT] на 1.5% за пожертвованное очко таланта
+TALENT_BLOOD_RITUAL_HEALTH_SAC_DESC=Увеличение [ATTRIBUTE_MAXIMUM_HEALTH] всех членов группы на 1.5% за пожертвованное очко таланта
+TALENT_SHADOW_FURY_ELE_REDUCTION_DESC=Уменьшение [ATTRIBUTE_ELE_DAMAGE_TEXT] всех членов группы на {0}%
+TALENT_SHADOW_FURY_BASE_ELE_REDUCTION_DESC=Уменьшение [ATTRIBUTE_BASE_ELE_DAMAGE_TEXT] всех членов группы на {0}%
+TALENT_SHADOW_FURY_MASTERY_DESC=% Пенальти к урону от теневой яростиs
+TALENT_IMMOLATE_DESC=Каждые 8 секунд каждый член группы получит {0}% от их [ATTRIBUTE_PHYSICAL_DAMAGE] как дополнительный [ATTRIBUTE_FIRE_DAMAGE]
+TALENT_IMMOLATE_MASTERY_DESC=% Множитель [ATTRIBUTE_PHYSICAL_DAMAGE] Сжигания 
+TALENT_WICKED_BLOOM_HEALER_ATK_DESC=Атаки [CONTEXT_PARTY_MEMBER_NAME_HEALER] имеют {0}% шанс оюновить существующие [LINK_SKILL_RENEW]
+TALENT_WICKED_BLOOM_BERZERKER_ATK_DESC=Атаки [CONTEXT_PARTY_MEMBER_NAME_BERZERKER]а имеют {0}% шанс того, что Ваш следующий [LINK_SKILL_SHADOW_RIPPLE] не будет иметь пенальти за избыточное исцеление
+TALENT_WICKED_BLOOM_SAC_DESC=Дальнейшее усиление увеличит шанс срабатывания [TALENT_WICKED_BLOOM_NAME] на {0}% для [CONTEXT_PARTY_MEMBER_NAME_HEALER] и [CONTEXT_PARTY_MEMBER_NAME_BERZERKER] за пожертвованное очко таланта
+TALENT_VOID_INFLUENCE_DESC=Увеличивает время применения способностей врагам на {0}%
+TALENT_VOID_INFLUENCE_MASTERY_DESC=% Множитель влияния пустоты на увеличения время применения
+TALENT_DEAD_WHISPER_MASTERY_DESC=% Шёпот мёртвых уменьшает вражеский шанс блокировки и уклонения
+TALENT_DEAD_WHISPER_BLOCK_DESC=Уменьшает для всех врагов [ATTRIBUTE_BLOCK_CHANCE_TEXT] на {0}%
+TALENT_DEAD_WHISPER_DODGE_DESC=Уменьшает для всех врагов [ATTRIBUTE_DODGE_CHANCE_TEXT] на {0}%
+TALENT_DEAD_WHISPER_SAC_DESC=Увеличивает для всех членов группы [ATTRIBUTE_BLOCK_CHANCE_TEXT] и [ATTRIBUTE_DODGE_CHANCE_TEXT] на {0}% за пожертвованное очко таланта
+TALENT_DEMON_SKIN_SAC_DESC=Увеличивает для всех членов группы [ATTRIBUTE_DODGE_CHANCE_TEXT] на {0}% за пожертвованное очко таланта
+TALENT_CATA_CAST_DESC=[CONTEXT_PARTY_MEMBER_NAME_HEALER] Иногда будет использовать [TALENT_CATACLYSM_NAME], призывая 8 огненных шаров, которые наносят [ATTRIBUTE_FIRE_DAMAGE] всем персонажам
+TALENT_CATA_CAST_DMG_DESC=Каждый огненный шар наносит ({0}% * [ATTRIBUTE_INCREASE_HEALPOWER_FLAT_TEXT]) [ATTRIBUTE_FIRE_DAMAGE] всем врагам и 2% от этого урона всем членам группы
+TALENT_CATA_CAST_SAC_DESC=Каждый огненный шар наносит на 1% за пожертвованное очко таланта
+TALENT_CATA_MASTERY_DESC=% Процент от силы исцеления переходящий в урон огненных шаров
+TALENT_NEMESIS_INFUSION_MORPH_DESC=Базовые атаки членов группы имеют {0}% шанс нанести вместо этого этот урок как [ATTRIBUTE_NEMESIS_DAMAGE] 
+TALENT_NEMESIS_INFUSION_SAC_DESC=Увеличивает шанс срабатывания [TALENT_NEMESIS_INFUSION_NAME] на {0}% за пожертвованное очко таланта
+TALENT_NEMESIS_INFUSION_MASTERY_DESC=% Iанс срабатывания [TALENT_NEMESIS_INFUSION_NAME]
+TALENT_SHOCK_MASTERY_DESC=% Процентов увеличения урона от [LINK_SKILL_SMITE]
+TALENT_PATHS_END_DESC=Когда член группы умирает, увеличивает [ATTRIBUTE_INCREASE_HEALPOWER_FLAT_TEXT] на {0}%
+TALENT_PATHS_END_MASTERY=% бонус силы исцеления от [TALENT_PATHS_END_NAME] 
+
+TALENT_VIRTUOUS_SPIRIT_DESC=Использование [LINK_SKILL_RADIANT_HEAL] может уменьшить перезарядку [LINK_SKILL_HEAVEN_MELODY] на {0} секунд
+TALENT_VIRTUOUS_SPIRIT_MASTERY_DESC= Множитель полученного исцеления от[LINK_SKILL_HEAVEN'S_MELODY]
+TALENT_RAMPART_DESC=[LINK_SKILL_TOUGHEN] Так же [ATTRIBUTE_ALL_DAMAGE_TAKEN] на {0}%
+TALENT_HELPING_HANDS_DESC=[LINK_SKILL_LESSER_HEAL] так же исцеляет 1 дополнительную случайную цель на {0}% от количества исцеления основной цели
+TALENT_HELPING_HANDS_MASTERY_DESC=% Исцеление от [LINK_TALENT_HELPING_HANDS_NAME]
+TALENT_LIGHTS_GUIDANCE_DESC=[LINK_SKILL_LESSER_HEAL] , [LINK_SKILL_RADIANT_HEAL] , [LINK_SKILL_AMPLE_HEAL] , [LINK_SKILL_FLASH_HEAL] так же уменьшает получаемый урон целью на {0}% в течении 7 секунд
+TALENT_LIGHTS_GUIDANCE_MASTERY_DESC=% Бонус уменьшения получаемого урона от [LINK_TALENT_LIGHTS_GUIDANCE_NAME]
+
+TALENT_ENERGY_AURA_T_L_DMG=[CONTEXT_PARTY_MEMBER_NAME_TANK] на {0} * текущий уровень
+TALENT_ENERGY_AURA_B_L_DMG=[CONTEXT_PARTY_MEMBER_NAME_BERZERKER] на {0} * текущий уровень
+TALENT_ENERGY_AURA_R_L_DMG=[CONTEXT_PARTY_MEMBER_NAME_RANGER] на {0} * текущий уровень
+TALENT_ENERGY_AURA_H_L_DMG=[CONTEXT_PARTY_MEMBER_NAME_HEALER] на {0} * текущий уровень
+TALENT_SHIELD_BASH_DESC=Атаки [CONTEXT_PARTY_MEMBER_NAME_TANK] имеют 15% шанс нанести {0}% от [ATTRIBUTE_BASE_DAMAGE_TEXT] [CONTEXT_PARTY_MEMBER_NAME_TANK] как[ATTRIBUTE_PHYSICAL_DAMAGE] атакующему
+TALENT_SHIELD_BASH_TRIGGER_DESC=[TALENT_SHIELD_BASH_NAME] Срабатывает каждый раз, когда [CONTEXT_PARTY_MEMBER_NAME_TANK] блокирует атаку
+TALENT_SHIELD_BASH_LIMIT_DESC=[TALENT_SHIELD_BASH_NAME] работает только тогда, когда надет хотя бы один щит
+TALENT_HEROISM_DESC=Перенаправляет {0}% от всего полученного урона другими членами группы на [CONTEXT_PARTY_MEMBER_NAME_TANK] как потерю здоровья
+TALENT_HEROISM_MASTERY_DESC=% Процент перенаправляемого урона от[LINK_TALENT_HEROISM_NAME]
+TALENT_AURA_MASTERY_MANA_DESC=Уменьшает потребление маны аурами на {0}%
+TALENT_AURA_MASTERY_DMG_DESC=Все члены группы наносят на {0}% больше урона за каждую ауру на них
+TALENT_FORTUNATE_FAITH_DESC=[LINK_SKILL_LESSER_HEAL] имеет {0}% шанс сделать ваш следующий [LINK_SKILL_AMPLE_HEAL] не имеющим время использования
+TALENT_TIME_IN_NEED_DESC=[CONTEXT_PARTY_MEMBER_NAME_TANK] исцеляется на {0}% от его [ATTRIBUTE_MAXIMUM_HEALTH] каждый 7 секунд
+TALENT_TIME_IN_NEED_MASTERY_DESC=% Бонус исцеления максимального здоровья от[LINK_TALENT_TIME_IN_NEED_NAME]
+TALENT_INSPIRE_TANK_CAST_DESC=[CONTEXT_PARTY_MEMBER_NAME_TANK] иногда будет использовать [SKILL_INSPIRE_NAME]
+TALENT_INSPIRE_REGEN_DESC=[SKILL_INSPIRE_NAME] регенерирует {0} + ({1}% * [ATTRIBUTE_INCREASE_HEALPOWER_FLAT_TEXT]) здоровья в секунду для всех членов группы. <br><br>[SKILL_INSPIRE_NAME] так же увеличивает [ATTRIBUTE_ALL_DAMAGE_DEALT] на {2}% для всех членов группы
+TALENT_INSPIRE_MASTERY_DESC=% Бонус урона от [SKILL_INSPIRE_NAME]
+TALENT_DIVINE_AEGIS_DESC=[CONTEXT_PARTY_MEMBER_NAME_TANK] исцеляется на {0}% от его [ATTRIBUTE_MAXIMUM_HEALTH] при каждом его блоке
+TALENT_DIVINE_AEGIS_MASTERY_DESC=% Бонус исцеления при блоке от [LINK_TALENT_DIVINE_AEGIS]
+
+TALENT_LAST_STAND_DMG_TAKEN_DESC=[CONTEXT_PARTY_MEMBER_NAME_TANK] получает на {0}% меньше урона, когда меньше {1}% здоровья
+TALENT_LAST_STAND_DMG_DEALT_DESC=[CONTEXT_PARTY_MEMBER_NAME_TANK] наносит на {0}% больше урона, когда меньше {1}% здоровья
+TALENT_LAST_STAND_MASTERY_DESC=%Бонус урона от [LINK_TALENT_LAST_STAND_NAME]
+TALENT_ANGELIC_INFUSION_CD_DESC=Умения имеют на {0}% меньше перезарядки, под действием [LINK_SKILL_ANGELIC_INFUSION]
+TALENT_ANGELIC_INFUSION_MANACOST_DESC=Вместо этого [LINK_SKILL_ANGELIC_INFUSION] теперь увеличивает стоимость заклинаний на {0}% 
+TALENT_ANGELIC_INFUSION_MASTERY_DESC= [LINK_SKILL_ANGELIC_INFUSION]
+TALENT_BODY_AND_MIND_DMG_DEALT_DESC=Члены группы наносят на {0}% больше урона, когда находятся под действием щитов
+TALENT_BODY_AND_MIND_DMG_TAKEN_DESC=Члены группы получают на {0}% меньше урона, когда находятся прод действием щитов
+TALENT_TWIST_OF_FATE_CD_DESC=Критические удары [CONTEXT_PARTY_MEMBER_NAME_HEALER] уменьшают время перезарядки [LINK_SKILL_SMITE] на {0} секунд
+TALENT_TWIST_OF_FATE_DMG_DESC=Критические удары [CONTEXT_PARTY_MEMBER_NAME_HEALER] могут сделать так, что ваш следующий [LINK_SKILL_SMITE] нанесёт на {0}% больше урона
+TALENT_RAPTURE_DESC=Когда щит исчезает, [CONTEXT_PARTY_MEMBER_NAME_HEALER] нанесёт {0}% от поглощенного урона как [ATTRIBUTE_LIGHTNING_DAMAGE] всем врагам
+TALENT_RAPTURE_MASTERY_DESC=% Бонус урона от [TALENT_RAPTURE_NAME]
+TALENT_FEATHERED_FOOTWORK_MOVE_DESC=Теперь вы можете двигатся во время поддержания заклинания
+TALENT_FEATHERED_FOOTWORK_REDUCE_MS_DESC=Скорость передвежения уменьшена на {0}%, во время поддержания заклинания
+TALENT_FEATHERED_FOOTWORK_MANACOST_INCREASE_DESC=Увеличивает стоимость маны на {0}% во время поддержания заклинания во время передвежения
+TALENT_HOLY_HALO_DESC=[LINK_SKILL_RADIANT_HEAL] теперь так же защищает всех членов группы на {0}% от [ATTRIBUTE_INCREASE_HEALPOWER_FLAT_TEXT] на {1} секунду
+TALENT_HOLY_HALO_MASTERY_DESC=% Бонус от силы исцеления от [TALENT_HOLY_HALO_NAME]
+TALENT_HOLY_FURY_DESC=[LINK_SKILL_CLEANSING_RAY] так же наносит {0}% от [ATTRIBUTE_INCREASE_HEALPOWER_FLAT_TEXT] как неблокируемый/неуворачиваемый [ATTRIBUTE_FIRE_DAMAGE] выбраной цели каждую секунду
+TALENT_DEVOTION_DESC=Все другие члены группы получают эффект [TALENT_DEVOTION_NAME], пока вы поддерживаете заклинание
+TALENT_DEVOTION_EFFECT_DESC=Эффект [TALENT_DEVOTION_NAME] увеличивает [ATTRIBUTE_PHYSICAL_RESIST] и [ATTRIBUTE_NEMESIS_RESIST] на {0}%, [ATTRIBUTE_BLOCK_CHANCE_TEXT] на {1}%, и [ATTRIBUTE_ALL_DAMAGE_DEALT] на {2}%
+TALENT_PURE_IN_HEART_EFFECT_DESC=Ваше критическое исцеление так же защищает цель на {0}% от количества исцеления на {1} секунду
+TALENT_PURE_IN_HEART_MASTERY_DESC=% Бонус щита От количества исцеления от [TALENT_PURE_IN_HEART_NAME]
+TALENT_DIVINE_PURPOSE_DESC=Увеличивает [ATTRIBUTE_INCREASE_HEALPOWER_FLAT_TEXT] на {0}% когда [CONTEXT_PARTY_MEMBER_NAME_TANK] и [CONTEXT_PARTY_MEMBER_NAME_HEALER] оба имеют больше {1}% здоровья
+TALENT_DIVINE_PURPOSE_MASTERY_DESC=% Порог здоровья от [TALENT_DIVINE_PURPOSE_NAME]
+TALENT_UNITY_CRIT_CHANCE_DESC=Увеличивает [ATTRIBUTE_CRITICAL_HEAL_CHANCE] на {0}% за каждую ауру, влияющую на [CONTEXT_PARTY_MEMBER_NAME_HEALER]
+TALENT_UNITY_CRIT_MULTI_DESC=Увеличивает [ATTRIBUTE_CRITICAL_HEAL_MULTI] на {0}% за каждую ауру, влияющую  на [CONTEXT_PARTY_MEMBER_NAME_HEALER]
+TALENT_SALVATION_DESC=[CONTEXT_PARTY_MEMBER_NAME_HEALER] будет иногда использовать [SKILL_SALVATION_NAME], уменьшая [ATTRIBUTE_ALL_DAMAGE_TAKEN] на {0}% и увеличивает весь [ATTRIBUTE_LIGHTNING_DAMAGE] и наносимый [ATTRIBUTE_FIRE_DAMAGE] на {1}%
+TALENT_SALVATION_MASTERY_DESC=% Бонус уменьшения урона от[TALENT_SALVATION_NAME]
+TALENT_THUNDER_ASSAULT_DESC=Каждая 3 автоматическая атака [CONTEXT_PARTY_MEMBER_NAME_HEALER] будет наносить {0} + ({1}% * [ATTRIBUTE_INCREASE_HEALPOWER_FLAT_TEXT]) всем врагам [ATTRIBUTE_LIGHTNING_DAMAGE] 
+
+TALENT_ABUNDANT_GROWTH_MANA_DESC=Каждый раз, когда [LINK_SKILL_RENEW] исцеляет цельr, имеется {0}% шанс восстановить {1} ману
+TALENT_SPIRIT_CONNECTION_DESC=[LINK_SKILL_SPIRIT_RITUAL] так же увеличивает получаемое исцеление на {0}% ща каждое наложение
+TALENT_POISION_DESC=Атаки [CONTEXT_PARTY_MEMBER_NAME_RANGER]имеют {0}% шанс отравить противника, нанося {1} [CONTEXT_ELEMENT_NEMESIS] в течении {2} секунд
+TALENT_POISION_RANGER_SCALING_DESC={0} + ({1}% [ATTRIBUTE_BASE_DAMAGE_TEXT] [CONTEXT_PARTY_MEMBER_NAME_RANGER])
+TALENT_STAR_CALL_DESC=[LINK_SKILL_STAR_CALL] имеет {0}% шанс поразить всех врагов, нанося {1}% от урона всем второстепенным целям
+TALENT_IRON_VINE_DESC=[LINK_SKILL_IRON_VINES] так же увеличивает [ATTRIBUTE_INCREASE_HEALPOWER_FLAT_TEXT] на {0}%
+TALENT_IRON_VINE_MASTERY_DESC= [SKILL_IRON_VINES_NAME] дополнительно срабатывает на случайного члены группы
+
+TALENT_REGEN_AURA_DESC=Регенерирует {0} + {1} Всем членам группы здоровье каждоую секунду
+TALENT_REGEN_AURA_SCALING_DESC=({0}% от [ATTRIBUTE_INCREASE_HEALPOWER_FLAT_TEXT])
+TALENT_TYPHOON_DESC=Иногда будет появлятся шторм, замедляющий [ATTRIBUTE_ATTACK_SPEED] врагов на {0}% и увеличивает весь [ATTRIBUTE_PHYSICAL_DAMAGE] и [ATTRIBUTE_ICE_DAMAGE], который они получают на {1}%
+TALENT_FOREST_BLESSING_DESC=Каждые {0} секунд, все члены группы исцеляются на {1}% от недостающего здоровья
+TALENT_FOREST_BLESSING_MASTERY_DESC=% Восстановление недостающего здоровья от [TALENT_FOREST_BLESSING_NAME] 
+
+
+TALENT_BOTANIST_HEAL_RECEIVED=[LINK_SKILL_RESTORATION_TOTEM] так же увеличивает [ATTRIBUTE_HEALING_RECEIVED] на {0}%
+TALENT_BOTANIST_DMG_TAKEN=[LINK_SKILL_RESTORATION_TOTEM] так же уменьшает [ATTRIBUTE_ALL_DAMAGE_TAKEN] на {0}%
+TALENT_SHADE_DESC=Если член группы не получает урон в течении {0} секунд, он получает эффект[LINK_TALENT_SHADE_NAME]
+TALENT_SHADE_EFFECT_DESC=[TALENT_SHADE_NAME] восстанавливает {0}% от максимального здоровья каждую секунду
+TALENT_RAPID_SHOT_OCCASIONALLY_CAST=[CONTEXT_PARTY_MEMBER_NAME_RANGER] иногда будет использовать [SKILL_RAPID_SHOT_NAME]
+TALENT_RAPID_SHOT_DESC=[SKILL_RAPID_SHOT_NAME] выстреливает 6 стрел и имеет 80% [ATTRIBUTE_CRITICAL_STRIKE_CHANCE_TEXT] <br><br> Каждая стрела наносит {0}% от [ATTRIBUTE_BASE_DAMAGE_TEXT] [CONTEXT_PARTY_MEMBER_NAME_RANGER] как [ATTRIBUTE_PHYSICAL_DAMAGE]
+
+TALENT_NEW_SPRING_MANA_GAIN=Увеличивает полученную ману от [LINK_SKILL_REJUVENATE] на {0} за каждое срабатывание
+TALENT_NEW_SPRING_MANA_GAIN_MASTERY= от [SKILL_REJUVENATE_NAME]
+
+TALENT_NEW_SPRING_HEAL=[LINK_SKILL_REJUVENATE] теперь исцеляет всех членов группы на ({0}% от [ATTRIBUTE_INCREASE_HEALPOWER_FLAT_TEXT]) за каждое срабатывание
+TALENT_NEW_SPRING_HEALER_CRIT_CD=Критические удары [CONTEXT_PARTY_MEMBER_NAME_HEALER] уменьшают время перезарядки [LINK_SKILL_REJUVENATE] на {0} секунд
+TALENT_NEW_SPRING_SR_CD=[LINK_SKILL_SPIRIT_RITUAL] так же уменьшает перезарядку [LINK_SKILL_REJUVENATE] на {0} секунд за каждое срабатывание
+TALENT_POISON_MASTERY_DESC=[LINK_TALENT_POISON] урон теперь может быть критическим с {0}% от показателя [ATTRIBUTE_CRITICAL_STRIKE_CHANCE_TEXT] и [ATTRIBUTE_CRITICAL_STRIKE_DAMAGE_TEXT][CONTEXT_PARTY_MEMBER_NAME_RANGER]
+TALENT_JUNGLE_SURVIVAL_DODGE_DESC=Все члены группы получают +{0}% [ATTRIBUTE_DODGE_CHANCE_TEXT] когда имеют меньше {1}% здоровья
+TALENT_JUNGLE_SURVIVAL_HEAL_RECEIVE_DESC=Все члены группы получают +{0}% [ATTRIBUTE_HEALING_RECEIVED] когда имеют меньше {1}% здоровья
+TALENT_HEIGHTENED_SENSES_DESC=Когда член группы уворачивается, все члены группы получают [TALENT_HEIGHTENED_SENSE_NAME] эффект на {0} секунд
+TALENT_HEIGHTENED_SENSES_STACK_DESC=Каждый эффект [TALENT_HEIGHTENED_SENSE_NAME] добавляет {0} [ATTRIBUTE_INCREASE_HEALPOWER_FLAT_TEXT] и {1} [ATTRIBUTE_ICE_DAMAGE] на {2} секунд.
+TALENT_FROST_BITE_ICE_DMG_DESC=[LINK_SKILL_REJUVENATE] так же добавляет {0} [ATTRIBUTE_BASE_ICE_DAMAGE] всем членам группы в течении своего действия
+TALENT_FROST_BITE_BASE_ICE_DMG_DESC=[LINK_SKILL_REJUVENATE] так же увеличивает {0}% [ATTRIBUTE_BASE_ICE_DAMAGE] всех членов группы в течении своего действия
+TALENT_FROST_BITE_MASTERY_PRE_TEXT=[SKILL_REJUVENATE_NAME] дополнительно добавляет 
+TALENT_FROST_BITE_MASTERY_POST_TEXT= [ATTRIBUTE_ICE_DAMAGE]
+
+TALENT_TRANQUILITY_LVL1_DESC=На первом уровне, Ваши [LINK_SKILL_RENEW] могут быть критическими
+TALENT_TRANQUILITY_LVL2_DESC=На втором уровне, Ваши [LINK_SKILL_SPIRIT_RITUAL] могут быть критическими
+TALENT_TRANQUILITY_LVL3_DESC=На третьем уровне, Ваши [LINK_SKILL_NATURE_GIFT] могут быть критичесикими
+TALENT_REACTIVE_INSTINCT_DESC=Все члены группы получат {0}% [ATTRIBUTE_DODGE_CHANCE_TEXT] на 3 секуны после того, как враг использовал заклинание
+TALENT_REACTIVE_INSTINCT_MASTERY=% [TALENT_REACTIVE_INSTINCT_NAME] [ATTRIBUTE_DODGE_CHANCE_TEXT]
+
+TALENT_ASTRAL_SHIFT_DESC=Каждые {0} секундs<br><br>Получите {1}% [ATTRIBUTE_INCREASE_HEALPOWER_FLAT_TEXT] на 5 секунд, после [CONTEXT_PARTY_MEMBER_NAME_HEALER] получита {2}% [ATTRIBUTE_CAST_SPEED] на 5 секунд
+TALENT_RENEWING_MIST_DESC=[LINK_SKILL_SPIRIT_RITUAL] имеет {0}% шанс наложить [LINK_SKILL_SPIRIT_RITUAL] после окончания своего действия
+TALENT_FROZEN_TOUGH_VAMP_DESC=Каждая [LINK_SKILL_SPIRIT_ORB] так же исцеляет цель на {0}% от [ATTRIBUTE_ICE_DAMAGE], который они наноят
+TALENT_FROZEN_TOUGH_EXPLODE_DESC=Когда [LINK_SKILL_SPIRIT_ORB] взрывается, она уменьшает вражеское [ATTRIBUTE_ICE_RESIST] на {0}% в течении {1} секунд
+TALENT_DEEP_MIND_REFUND_DESC={0}% Шанс восстановить потраченную маны, после применения заклинания
+TALENT_DEEP_MIND_REFUND_MASTERY=% шанс восстановления маны от [LINK_TALENT_DEEP_MIND_NAME] 
+
+TALENT_VITALIZED_FLOW_GAIN_STACK_DESC=Вы будете получать эффект оживления каждую секунду, пока поддерживаете закнинание и живы
+TALENT_VITALIZED_FLOW_STACK_DESC=Каждый эффект оживления увеличивает [ATTRIBUTE_INCREASE_HEALPOWER_FLAT_TEXT] на {0}
+TALENT_VITALIZED_FLOW_LOSE_STACK_DESC=Вы теряете 1 эффект каждые 2 секунды, пока не поддерживаете заклинание
+TALENT_VITALIZED_FLOW_MASTERY_DESC=Сила лечения за эффект оживления
+
+
+TALENT_CONVOCATION_MANA=Уменьшает полученную ману от [LINK_SKILL_REJUVENATE] на {0}
+TALENT_CONVOCATION_CD=Уменьшает время перезарядки [LINK_SKILL_REJUVENATE] до 1 секунды (Больше не уменьшается)
+TALENT_CONVOCATION_CHANNEL=[LINK_SKILL_REJUVENATE] Теперь поддерживаемая способность
+TALENT_ELEMENTAL_INFUSION_FIRE=[LINK_SKILL_RESTORATION_TOTEM] Так же увеличивает [ATTRIBUTE_BASE_FIRE_DAMAGE] на {0}%
+TALENT_ELEMENTAL_INFUSION_ICE=[LINK_SKILL_RESTORATION_TOTEM] Так же увеличивает [ATTRIBUTE_BASE_ICE_DAMAGE] на {0}%
+TALENT_ELEMENTAL_INFUSION_LIGHTNING=[LINK_SKILL_RESTORATION_TOTEM] Так же увеличивает [ATTRIBUTE_BASE_LIGHTNING_DAMAGE] на {0}%
+TALENT_BLOSSOM_CAST=[CONTEXT_PARTY_MEMBER_NAME_HEALER] Иногда будет использовать Цветение, исцеляя всех членов группы на {0}% от [ATTRIBUTE_INCREASE_HEALPOWER_FLAT_TEXT]
+TALENT_BLOSSOM_RESISTS=Цветение так же увеличивает [ATTRIBUTE_ALL_RESISTS_TEXT] на {0}% на непродолжительное время
+TALENT_BLOSSOM_MASTERY=% Множитель исцелния от Цветения
+
+
+TALENT_NATURES_BLESSING_NAME=Дар Природы
+TALENT_ABUNDANT_GROWTH_NAME=Обильный рост
+TALENT_CONJURATION_NAME=Колдовство
+TALENT_HARMONY_NAME=Гармония
+TALENT_ECLIPSE_NAME=Затмение
+TALENT_NATURE_GIFT_NAME=Процветание
+TALENT_POISON_NAME=Отравление
+TALENT_TREEFOLK_ASPECT_NAME=Дух Лесного Народа
+TALENT_SPIRIT_RITUAL_NAME=Духовная Связь
+TALENT_NIMBLE_AURA_NAME=Аура проворства
+TALENT_HYMN_NAME=Гимн
+TALENT_FOREST_BLESSING_NAME=Благословение леса
+TALENT_REGEN_AURA_NAME=Аура регенерации
+TALENT_BOTANIST_NAME=Ботаник
+TALENT_TYPHOON_NAME=Тайфун
+TALENT_RAPID_SHOT_NAME=Быстрый Выстрел
+TALENT_SHADE_NAME=Тень
+TALENT_EVERGREEN_NAME=Вечнозелёный
+TALENT_NEW_SPRING_NAME=Новая Весна
+TALENT_POISON_MASTERY_NAME=Ядоделие
+TALENT_TROLL_BLOOD_NAME=Подарок от Матери
+TALENT_JUNGLE_SURVIVAL_NAME=Инстинкт Выживания
+TALENT_HEIGHTENED_SENSES_NAME=Обострённые чувства
+TALENT_FROST_BITE_NAME=Ледяной Укус
+TALENT_STAR_CALL_NAME=Построение Планет
+TALENT_TRANQUILITY_NAME=Спокойствие
+TALENT_REACTIVE_INSTINCT_NAME=Реактивные нстинкты
+TALENT_ASTRAL_SHIFT_NAME=Астральный сдвиг
+TALENT_OSMOSIS_NAME=Осмос
+TALENT_STONE_FORM_NAME=Каменная Форма
+TALENT_RENEWING_MIST_NAME=Обновляющий туман
+TALENT_CAREFUL_AIM_NAME=Точное Прицеливание
+TALENT_DEEP_MIND_NAME=Глубокий Разум
+TALENT_CONVOCATION_NAME=Созыв
+TALENT_VITALIZED_FLOW_NAME=Оживляющий поток
+TALENT_INVIGORATE_NAME=Подбадривание
+TALENT_FROZEN_TOUCH_NAME=Ледяная Сфера
+TALENT_ELEMENTAL_INFUSION_NAME=Елинство с природой
+TALENT_BLOSSOM_NAME=Цветение
+TALENT_PATHS_END_NAME=Конец Пути
+TALENT_PATH_OF_LIGHT_NAME=Путь Света
+TALENT_HOLY_SHIELD_NAME=Освобождение
+TALENT_STRENGTHEN_NAME=Усиление
+TALENT_HELPING_HANDS_NAME=Руки Помощи
+TALENT_UNDEFILED_NAME=Незагрязнённый
+TALENT_LIGHTS_GUIDANCE_NAME=Руководство Света
+TALENT_VIRTUOUS_SPIRIT_NAME=Дух Добродеятеля
+TALENT_SHIELD_BASH_NAME=Удар Щитом
+TALENT_ENERGY_AURA_NAME=Аура Энергии
+TALENT_PROTECTION_AURA_NAME=Аура Зашиты
+TALENT_HEROISM_NAME=Героизм
+TALENT_AURA_MASTERY_NAME=Мастертсво Аур
+TALENT_FORTUNATE_FAITH_NAME=Счастливая Вера
+TALENT_RAMPART_NAME=Бастион
+TALENT_FORTIFICATION_AURA_NAME=Аура Укрепления
+TALENT_TIME_IN_NEED_NAME=Нужда Времени
+TALENT_LEADERSHIP_NAME=Лидерство
+TALENT_ORACLE_NAME=Провидец
+TALENT_LAST_STAND_NAME=Последний Бой
+TALENT_SMITE_NAME=Шок
+TALENT_PIETY_NAME=Благочестие
+TALENT_HOLY_FURY_NAME=Приговор
+TALENT_BODY_AND_MIND_NAME=Тело и Разум
+TALENT_RAPTURE_NAME=Упоение
+TALENT_FEATHERED_FOOTWORK_NAME=Крылатые Ноги
+TALENT_TWIST_OF_FATE_NAME=Ирония Судьбы
+TALENT_DIVINE_AEGIS_NAME=Божественная Эгида
+TALENT_RETRIBUTION_NAME=Чистый сердцем
+TALENT_FINAL_VERDICT_NAME=Последний Вердикт
+TALENT_BURNING_JUSTICE_NAME=Пылающее Правосудие
+TALENT_HOLY_HALO_NAME=Святой Ореол
+TALENT_ANGELIC_INFUSION_NAME=Благословенные Крылья
+TALENT_DIVINE_PURPOSE_NAME=Божественная Цель
+TALENT_DEVOTION_NAME=Преданность
+TALENT_THUNDER_ASSAULT_NAME=Громовая Осада
+TALENT_UNITY_NAME=Единство
+TALENT_FOCUSED_PRAYER_NAME=Состедочённая Молитва
+TALENT_SALVATION_NAME=Спасение
+TALENT_DARK_MAGIC_NAME=Тёмная Магия
+TALENT_SACRIFICE_NAME=Жертвоприношение
+TALENT_SURGE_NAME=Всплеск
+TALENT_DEMON_KNOWLEDGE_NAME=Знания Демона
+TALENT_ERADICATION_NAME=Искоренение
+TALENT_SOUL_BOOST_NAME=Повышение Души
+TALENT_SIPHON_LIFE_NAME=Лицемерие
+TALENT_VAMPIRISM_NAME=Вампиризм
+TALENT_DECAY_AURA_NAME=Аура Разложения
+TALENT_BANISH_NAME=Руна Отчаянья
+TALENT_HAVOC_AURA_NAME=Аура Опустошения
+TALENT_HEXING_NAME=Проклятье
+TALENT_DECEPTION_NAME=Обман
+TALENT_MISERY_NAME=Страдания
+TALENT_AGONY_NAME=Упокоение тайной Магии
+TALENT_IMMOLATE_NAME=Жертвование
+TALENT_CHAOS_STRIKE_NAME=Удар Хаоса
+TALENT_VOODOO_MAGIC_NAME=Магия Вуду
+TALENT_NEMESIS_INFUSION_NAME=Наполнение Немезисом
+TALENT_SOUL_CONDUIT_NAME=Проводник Души
+TALENT_UNHOLY_MIGHT_NAME=Нечестивая Мощь
+TALENT_DEMONIFY_NAME=Водоворот
+TALENT_VOID_CHAINS_NAME=Цепи Пустоты
+TALENT_DEMON_SKIN_NAME=Кожа Демона
+TALENT_REAPER_OF_SOULS_NAME=Жнец Душ
+TALENT_DEMONIC_RING_NAME=Демоническое Кольцо
+TALENT_BLOOD_RITUAL_NAME=Кровавый Ритуал
+TALENT_VOID_INFLUENCE_NAME=Наполнение Пустотой
+TALENT_MARK_OF_DEATH_NAME=Метка Смерти
+TALENT_UNSTABLE_MAGIC_NAME=Нестабильная Магия
+TALENT_SHADOW_ENTROPY_NAME=Тёмная Энтропия
+TALENT_OBLITERATE_NAME=Стирание
+TALENT_FORBIDDEN_CHAPTER_NAME=Забытый Эпизод
+TALENT_SHADOW_FURY_NAME=Тёмная Буря
+TALENT_CHAOTIC_INFUSION_NAME=Наполнение Хаосом
+TALENT_WICKED_BLOOM_NAME=Грешное Цветение
+TALENT_DEAD_WHISPER_NAME=Шёпот Мёртвых
+TALENT_CATACLYSM_NAME=Катаклизм
+
+
+
+TALENT_RESILIENCE_NAME=Устойчивость
+
+TALENT_BULWARK_NAME=Оплот
+
+TALENT_BLESSED_SPIRIT_NAME=Благословенный Дух
+TALENT_BLESSED_SPIRIT_DESC=Увеличивает эффективностьIncrease the effect of all single target and non heal over time healing skills by {0}% <br><br>Increase the effect of all buff skills by {0}%
+
+TALENT_REDEMPTION_NAME=Искупление
+TALENT_REDEMPTION_DESC=Использование [LINK_SKILL_DIVINE_MEND] Будет усиливать эффективность последующих [LINK_SKILL_DIVINE_MEND] на {0}% <br><br>Это бонусы теряются при использовании других заклинаний, кроме [LINK_SKILL_DIVINE_MEND], [LINK_SKILL_DIVINE_FOCUS], [LINK_SKILL_DISPEL], [LINK_SKILL_NEGATE]
+TALENT_REDEMPTION_POST_TEXT= Максимальное количество наложений [TALENT_REDEMPTION_NAME]
+
+TALENT_ZEAL_NAME=Рвение
+TALENT_ZEAL_DESC=[LINK_SKILL_CLEANSING_RAY] даёт цели эффект Рвения каждую секунду, Вплоть до максимума в {0} наложений <br><br>Каждый эффект увеличивает базовый урон на {1}% и скорость атаки на {2}% на {3} секунды  <br><br>Так же  каждый эффект так же уменьшает получаемое исцеление от [SKILL_CLEANSING_RAY_NAME] на {4}%
+TALENT_ZEAL_MASTERY_DESC= Максимальное количество наложений [TALENT_ZEAL_NAME]
+
+TALENT_FULLFILLMENT_NAME=Исполнение
+TALENT_FULLFILLMENT_DESC=На уровне 1, [LINK_SKILL_SEAL_OF_LIGHT] может быть критическим. <br><br>На уровне 2, [LINK_SKILL_SEAL_OF_LIGHT] может быть критическим. <br><br>На уровне 3, [LINK_SKILL_SEAL_OF_LIGHT] может складыватся до 2 раз
+
+
+TALENT_FOCUSED_GLORY_NAME=Сосредоточенная слава
+TALENT_FOCUSED_GLORY_DESC=[LINK_SKILL_RENEW] исцеляет на {0}% больше за каждое срабатываение, когда находится только на 1 учаснике группы
+
+TALENT_SWORD_AND_BOARD_NAME=Меч и Доска
+TALENT_SWORD_AND_BOARD_DESC=Когда вы носите как  минимум 1 меч и как минимум 1 щит, Вы получаете +{0} уровня ко всем [CONTEXT_TALENT_CLASS_PALADIN] умениям<sprite=8>
+
+TALENT_TOUGH_AS_NAIL_NAME=Крутой как Гвозь
+
+TALENT_GLIMMER_OF_HOPE_NAME=Проблеск надежды
+TALENT_GLIMMER_OF_HOPE_DESC=[LINK_SKILL_SEAL_OF_LIGHT] оставляет на цели [LINK_SKILL_SPIRIT_ORB] когда срабатывает
+
+
+TALENT_DIVINATION_AURA_NAME=Аура Гадания
+
+
+TALENT_EBB_AND_FLOW_NAME=Приливы и отливы
+TALENT_EBB_AND_FLOW_DESC=Каждые {0} секунд<br><br>Все члены группы получают на {1}% [ATTRIBUTE_ALL_RESISTS_TEXT], но получают на {2}% меньше [ATTRIBUTE_HEALING_RECEIVED] на {3} секунды. <br><br>После этого все члены группы получают на {2}% больше [ATTRIBUTE_HEALING_RECEIVED], но теряют {1}% [ATTRIBUTE_ALL_RESISTS_TEXT] на {3} секунды
+
+TALENT_DIVINE_DECREE_NAME=Божественный Указ
+TALENT_DIVINE_DECREE_DESC=Каждый раз, когда враг блокирует или уклоняется от атаки, они не могу блокировать или уклонятся от атак снов в течении {0} секунд <br><br>Каждый раз, когда враг исцеляется, он не может исцелятся в течении {1} секунд
+TALENT_DIVINE_DECREE_MASTERY_DESC=+1 Секунда длительности [TALENT_DIVINE_DECREE_NAME]
+
+TALENT_PUNISH_NAME=Наказание
+TALENT_PUNISH_DESC=[LINK_SKILL_HAMMER_OF_RECKONING] теперь может иметь критический эффект
+TALENT_PUNISH_MASTERY_DESC=Сфокусированный [SKILL_HAMMER_OF_RECKONING_NAME] Тоже может быть критическим
+
+TALENT_BLESSING_OF_WARDING_NAME=Благословение Защиты
+TALENT_BLESSING_OF_WARDING_DESC=Увеличивает длительность [LINK_SKILL_SANCTUARY] на {0} секунд <br><br>Уменьшает время перезадрядки [LINK_SKILL_SANCTUARY] на {1} секунд
+TALENT_BLESSING_OF_WARDING_MASTERY_DESC=-5 секунл перезарядки [SKILL_SANCTUARY_NAME] 
+
+TALENT_SEIZE_THE_MOMENT_NAME=Воспользуйся Моментом
+TALENT_SEIZE_THE_MOMENT_DESC=[LINK_SKILL_DIVINE_FOCUS] теперь начинает перезарядку как только был использован, вместо того, когда эффект сработал
+
+TALENT_IMMOVABLE_FORTRESS_NAME=Неподвижная Крепость
+TALENT_IMMOVABLE_FORTRESS_DESC=Уменьшает все эффекты замедления на {0}% <br><br>Уменьшает длительность немоты на {1}% <br><br>Когда [CONTEXT_PARTY_MEMBER_NAME_HEALER]  не сходит с места на протяжении {2} секунд, она будет получать на {3}% меньше урона 
+
+TALENT_RING_OF_INFLUENCE_NAME=Кольцо Влияния
+TALENT_RING_OF_INFLUENCE_DESC=[CONTEXT_PARTY_MEMBER_NAME_HEALER] получает кольцо влияния. <br><br>Другие члены группы внитри кольца получают на {0}% [ATTRIBUTE_HEALING_RECEIVED]
+
+TALENT_VENGEFUL_CRUSADE_NAME=Мстительных Поход
+TALENT_VENGEFUL_CRUSADE_DESC=[LINK_SKILL_HAMMER_OF_RECKONING] теперь имеет два заряда
+
+TALENT_INQUISITION_NAME=Инквизиция
+TALENT_INQUISITION_DESC=Каждый раз, когда [LINK_SKILL_DIVINE_MEND] , [LINK_SKILL_LESSER_HEAL] , [LINK_SKILL_CLEANSING_RAY] , [LINK_SKILL_FLASH_HEAL] имеет критический эффект, перезарядка [LINK_SKILL_DIVINE_FOCUS] уменьшается на {0} секунд
+TALENT_INQUISITION_MASTERY_DESC= секунд уменьшения перезарядки [TALENT_INQUISITION_NAME]
+
+TALENT_TAUNT_NAME=Провокация
+TALENT_TAUNT_DESC=Каждые {0} секунд, всел враги будут автоматически атаковать [CONTEXT_PARTY_MEMBER_NAME_HEALER] вместо [CONTEXT_PARTY_MEMBER_NAME_TANK] на протяжении {1} секунд. <br><br>Во время этого враги наносят на {2}% меньше урона и получают на {3}% больше урона
+TALENT_TAUNT_MASTERY_DESC= Длительности [TALENT_TAUNT_NAME] 
+
+TALENT_INTO_THE_FRAY_NAME=В Драку
+TALENT_INTO_THE_FRAY_DESC=Когда Вы находитесь близко к Танку, [CONTEXT_PARTY_MEMBER_NAME_HEALER] может автоатаковать во время использования заклинаний.
+
+TALENT_GLEAMING_FAITH_NAME=Сияющая Вера
+TALENT_GLEAMING_FAITH_DESC=[LINK_SKILL_SACRED_INFUSION] Так же увеличивает [ATTRIBUTE_ELE_RESISTS_TEXT] цели на {0}%, [ATTRIBUTE_HEALTH_REGENERATION] на {1} и [ATTRIBUTE_PHYSICAL_RESIST] на {2}%
+TALENT_GLEAMING_FAITH_MASTERY_DESC= секунл длительности [SKILL_SACRED_INFUSION_NAME]
+
+TALENT_BLESSED_COMPANY_NAME=Blessed Company
+TALENT_BLESSED_COMPANY_DESC=[CONTEXT_PARTY_MEMBER_NAME_TANK]'s attacks have a {0}% chance to increase his [ATTRIBUTE_PHYSICAL_RESIST] by {1}% for {2} seconds <br><br>[CONTEXT_PARTY_MEMBER_NAME_BERZERKER] and [CONTEXT_PARTY_MEMBER_NAME_RANGER]'s attacks have a {3}% chance to deal extra [ATTRIBUTE_FIRE_DAMAGE] equal to {4}% of their [ATTRIBUTE_BASE_DAMAGE_TEXT]. <br><br>[CONTEXT_PARTY_MEMBER_NAME_HEALER]'s attacks have a {5}% chance to heal all party members for {6}% of [ATTRIBUTE_INCREASE_HEALPOWER_FLAT_TEXT].  
+TALENT_BLESSED_COMPANY_MASTERY_DESC=% [TALENT_BLESSED_COMPANY_NAME] trigger chance for all party members
+
+
+TALENT_NO_ONE_LEFT_BEHIND_NAME=Не Оставлять Никого Позади
+TALENT_NO_ONE_LEFT_BEHIND_DESC=Каждые {0} секунд, член группы с наименьшим здоровьем исцеляется на значение равное текущему здоровью [CONTEXT_PARTY_MEMBER_NAME_HEALER] 
+TALENT_NO_ONE_LEFT_BEHIND_MASTERY_DESC=-1 секунда перезарядки [TALENT_NO_ONE_LEFT_BEHIND_NAME]
+
+TALENT_HEAVEN_AID_NAME=Небесная Помощь
+TALENT_HEAVEN_AID_DESC=Когда здоровья членов группы падает ниже {0}% , они получают щит равный {1}% от [ATTRIBUTE_INCREASE_HEALPOWER_FLAT_TEXT] на {2} секунды <br><br>Этот эффект имеет {3} секунды перезарядки
+TALENT_HEAVEN_AID_MASTERY_DESC=-7 секунд перезарядки [TALENT_HEAVEN_AID_NAME]
+
+TALENT_ASCENSION_NAME=Вознесение
+TALENT_ASCENSION_DESC=Даёт навык [LINK_SKILL_ASCENSION]
+
+TALENT_INFUSED_LUMINOSITY_NAME=Наполнение Светом
+TALENT_INFUSED_LUMINOSITY_DESC=[LINK_SKILL_DIVINE_MEND] Имеет {0}% шанс сделать ваш следующий [LINK_SKILL_FLASH_HEAL] не требующим маны, исцеляющим на {1}% больше, и наносящим {2}% от [ATTRIBUTE_INCREASE_HEALPOWER_FLAT_TEXT] как [ATTRIBUTE_FIRE_DAMAGE] всем врагам и снижающий {3}% [ATTRIBUTE_ALL_RESISTS_TEXT] на {4} секунды
+TALENT_INFUSED_LUMINOSITY_MASTERY_DESC=% Щанс срабатывания [TALENT_INFUSED_LUMINOSITY_NAME]
+
+TALENT_ALACRITY_OF_THE_FAITHFUL_NAME=Рвение Верных
+
+TALENT_ANCIENT_ROOTS_NAME=Древние Корни
+TALENT_ANCIENT_ROOTS_DESC=Даёт навык [LINK_SKILL_ANCIENT_ROOTS]
+
+TALENT_WORSHIP_NAME=Поклонение
+TALENT_WORSHIP_DESC=Все члены группы получают щит равный {0}% от [ATTRIBUTE_INCREASE_HEALPOWER_FLAT_TEXT] за каждые {1} секунд поддержания умений <br><br>Щит длится {2} секунд
+TALENT_WORSHIP_MASTERY_DESC=-1 секунд нужно для срабатывания [TALENT_WORSHIP_NAME]
+
+TALENT_TRAIL_OF_FATE_NAME=След Судьбы
+TALENT_TRAIL_OF_FATE_DESC=[LINK_SKILL_RADIANT_HEAL] добавляет эффект Судьбы на члена группы на {0} секунд. Когда этот эффект исчезает, цель будет исцелена на {1}% от силы исцеления
+TALENT_TRAIL_OF_FATE_MASTERY_DESC=-1 длительность эффекта Судьбы
+
+TALENT_REVIVE_NAME=Воскрешение
+TALENT_REVIVE_DESC=Даёт навык [LINK_SKILL_REVIVE] 
+
+TALENT_CONVICTION_NAME=Убеждение
+TALENT_CONVICTION_DESC=Каждый раз, когда [CONTEXT_PARTY_MEMBER_NAME_TANK] или [CONTEXT_PARTY_MEMBER_NAME_HEALER] получет урон от автоматических атак босса. Имеется {0}%  шанс нанести {1}% от их [ATTRIBUTE_BASE_DAMAGE_TEXT] как [ATTRIBUTE_FIRE_DAMAGE] атакующему, при этом уменьшая [ATTRIBUTE_ALL_DAMAGE_DEALT] на {2}% на {3} секунды
+TALENT_CONVICTION_MASTERY_DESC=% Шанс срабатывания [TALENT_CONVICTION_NAME]
+
+END

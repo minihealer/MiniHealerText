@@ -1,0 +1,434 @@
+UI_MENU_BUTTON_START=Начать
+UI_MENU_BUTTON_SETTINGS=Настройки
+UI_MENU_BUTTON_EXIT=Выход
+
+UI_SAVE_SLOTS_TITLE=Ячейки сохранения
+UI_SAVE_SLOTS_DESC=Выберите ячейку, что бы продолжить
+UI_SAVE_SLOTS_DELETE=Вы уверены, что хотите удалить сохранение
+UI_TALENT_LOADOUT_SLOTS_EDIT=Редактировать название набора
+UI_EQUIPMENTS_LOADOUT_SLOTS_EDIT=Редактировать название набора
+UI_EQUIPMENTS_LOADOUT_X=Набор номер {0}
+UI_TALENT_LOADOUT_SLOTS_DELETE=Вы уверены, что хотите удалить набор талантов?
+UI_SAVE_SLOTS_EDIT_NAME=Введите название сохранения
+UI_SAVE_SLOTS_NEW_GAME=< Новая игра >
+UI_NEW_SAVE_RECOMMENDATION=Многое было изменено с момента вашей последней игры<br><br>Вы рекомендуем начать сначала<br><br><color=#555555>Конечное же, Вы можете продолжить с использованием этого сохранения, если Вы этого хотите.
+
+UI_YES=Да
+UI_NO=Нет
+UI_OK=Ок
+UI_GOT_IT=Принято
+UI_CONTINUE=Продолжить
+UI_START=Начать
+UI_RESTART=Перезапустить
+UI_CANCEL=Отменя
+UI_AUTO_RESTART=Перезапуск в {0:F0}
+UI_CLOSE=Закрыть
+UI_NONE=Ничего
+UI_CONFIRM=Подтвердить
+UI_UPGRADE=Улучшить
+UI_ENTER_TEXT=Введите текст
+UI_LEVEL=Уровень
+UI_MASTERY=Мастерство
+UI_PURCHASE=Купить
+UI_PURCHASE_ALL=Купить всё
+UI_PURCHASE_HINT=Подсказка покупки
+UI_FEED=Добавить
+UI_CLEANSE=Очистить
+UI_CRAFT=Создать
+UI_TRAVEL_TO=Переместиться в
+UI_LOADING=Загрузка...
+UI_SELL=Продать
+UI_SELL_ALL=Продать всё
+UI_SELL_ALL_BAG=Продать весь рюкзак
+UI_BACK_TO_HAVEN=Вернуться в Убежище
+UI_BACK_TO_MENU=Выйти в меню
+UI_PAUSED=Пауза
+UI_RESUME=Продолжить
+UI_BACK=Назад
+UI_SAVE=Сохранение
+UI_LOAD=Загрузка
+UI_REFERSH=Обновить
+UI_NOT_ENOUGH_X=Недостаточно {0}
+UI_AUGMENT=Присвоение
+UI_MUTATE=Мутация
+UI_ENCHANT=Зачарование
+UI_CURSE=Проклятие
+UI_DIVINATION=Предсказание
+UI_REROLL_AUGMENT=Перебросить присвоенные характеристики
+UI_BUYBACK=Выкуп
+UI_OVERVIEW=Предпросмотр
+UI_DEFEAT=Поражение
+UI_ON=Вкл.
+UI_OFF=Выкл.
+UI_OPENED=Открыто
+UI_UNKNOWN_X=Неизвестно {0}
+UI_GOLEM_ATTACK=Атаки голема?
+UI_X_OR_Y={0} или {1}
+UI_X_Y_OR_Z={0}, {1}, или {2}
+UI_A_QUICK_TIP=Вы знали?
+
+UI_MENU_DIFFICULTY=Выберите сложность
+UI_MENU_DIFFICULTY_DESC=Вы можете изменить это позже!
+UI_MENU_DIFFICULTY_TITLE=Сложность
+
+UI_MENU_GAME_MODE_ENEMY_HAS_MORE_HEALTH=- Враги имеют на {0}% больше здоровья<br>
+UI_MENU_GAME_MODE_ENEMY_HAS_MORE_ATTACK=- Враги имеют на {0}% больше урона<br>
+UI_MENU_GAME_MODE_ENEMY_HAS_MORE_SPELLPOWER=- Враги имеют на {0}% больше силы заклинаний<br>
+UI_MENU_GAME_MODE_ENEMY_HAS_LESS_HEALTH=- Враги имеют на {0}% меньше здоровья<br>
+UI_MENU_GAME_MODE_ENEMY_HAS_LESS_ATTACK=- Враги имеют на {0}% меньше урона<br>
+UI_MENU_GAME_MODE_ENEMY_HAS_LESS_SPELLPOWER=- Враги имеют на {0}% меньше силы заклилнаний<br>
+
+UI_MENU_NIGHTMARE_MORE_XP_GAIN=- Вы получаете на {0}% больше опыта<br>
+UI_MENU_NIGHTMARE_MORE_GOLD_GAIN=- Вы получаете на {0}% больше золота<br>
+
+UI_MENU_GAME_MODE_NORMAL_TITLE=Нормальная
+UI_MENU_GAME_MODE_NORMAL_DESC=Это рекомендуемая сложность для новичков
+
+UI_MENU_GAME_MODE_NIGHTMARE_TITLE=Кошмарная
+UI_MENU_GAME_MODE_NIGHTMARE_DESC_0=Для опытных целителей только<br>
+
+UI_MENU_GAME_MODE_EXPLORER_TITLE=Путешественник
+UI_MENU_GAME_MODE_EXPLORER_DESC_0=Хотите еще легче?<br>
+
+UI_MENU_GAME_MODE_HARDCORE_TITLE=Хардкор
+UI_MENU_GAME_MODE_HARDCORE_DESC_0=- Поднимайте уровень быстрее (низкоуровневые боссы дают меньше опыта)<br>
+UI_MENU_GAME_MODE_HARDCORE_DESC_1=- Не можете изменять сложность, после выбора, значок и все изменения хардкора пропадают после смерти всей группы<br>
+UI_MENU_GAME_MODE_HARDCORE_DESC_2=- Содержит допольнительное достижение<br>
+UI_MENU_GAME_MODE_HARDCORE_DESC_3=- Строго рекомендуется только после завершения игры на нормальной сложности
+
+
+UI_CHAOS_CRYSTAL_IDLE_TTILE=Святилище хаоса
+UI_CHAOS_CRYSTAL_IDLE_DESC=Святилище хаоса будет автоматически генерировать кристаллы хаоса каждые {0} минут
+UI_CHAOS_CRYSTAL_IDLE_OFFLINE_DESC=Святилище хаоса будет продолжать генерировать кристаллы хаоса даже если игра выключена вплоть до максимума в {0} 8 часов
+
+UI_ATLAS_TITLE=Атлас
+UI_ART_ATLAS_TITLE=Атлас Артефактов
+UI_ART_ATLAS_DESC=Ищите и охотьтесь за артефактами, которые Вы желаете
+UI_ART_ATLAS_SEARCH_PLACEHOLDER=Введите название артефакта, характеристики, эффекты...и тд.
+UI_ART_ATLAS_EMPTY_DESC=Выберите артефакт для просмотра информации
+UI_ART_ATLAS_NOT_DISCOVERED_DESC=Это артефакт еще не был найден
+UI_ART_ATLAS_NOT_FOUND_DESC=Не найдено артефактов или Вы не нашли этот артефакт еще
+UI_ART_ATLAS_DIVINE_VERSION_BTN_DESC=Божественная версия
+UI_ART_ATLAS_NO_DIVINE_VERSION_BTN_DESC=Этот артефакт не имеет божественной версии
+UI_ART_ATLAS_PURCHAST_QUALITY_BTN_DESC=Качество в пределах от 1 до 10
+UI_ART_ATLAS_DROPPED_BY=Выпадает из: {0}
+UI_ART_ATLAS_DIFFICULTY=Сложность
+UI_ART_ATLAS_DROP_CHANCE=Шанс выпадения: {0}%
+UI_ART_ATLAS_ZONE=Зона: {0}
+UI_ART_ATLAS_DIVINE_ACQUIRE=Может быть получен у Торрама предоставив ему гадание {0} или приобретён здесь с помощью [MATERIAL_DIVINATION_SPHERE_NAME] 
+UI_ART_ATALS_PURCHASE_LOCK=Одолейте хаотичную версию босса для открытия
+
+UI_ART_ATLAS_TUT_TITLE=The <color=#B58300FF>Atlas</color> Содержит большое количество информации обо всех предметах в игре
+UI_ART_ATLAS_TUT_ART_ATLAS_DESC=<color=#B58300FF>Атлас Артефактов</color> Показывает все артефакты, что Вы видели в игре, Вы можете искать отдельные артефакты либо сделать их прямо здесь!
+UI_ART_ATLAS_TUT_RUNE_ATLAS_DESC=<color=#B58300FF>Атлас Рун</color> Показывает информацию о разных сочетаниях рун, Вы так же можете приобрести подсказки здесь
+
+UI_RUNE_ATLAS_TITLE=Атлас Рун
+UI_RUNE_ATLAS_DESC=Узнавайте разные сочетания рун здесь
+
+UI_STATS_INFO_TUT_TITLE=<color=#B58300FF>Характеристики и информация</color>Содержит характеристики Ваших членов группы, а так же FAQ об игре
+UI_STATS_INFO_TUT_STATS_TITLE=<color=#B58300FF>Характеристики</color> Содержит все текущие характерики всех членов группы
+UI_STATS_INFO_TUT_FAQ_TITLE=<color=#B58300FF>FAQ</color> Содержит подсказки и хитрости, которые помогут улучшить вашу группу
+
+UI_STATS_INFO_OFFENSE=Атакующие
+UI_STATS_INFO_DEFENSE=Защитные
+
+UI_FAQ_TITLE=FAQ
+UI_FAQ_DESC=Чувствую, что застряли или что-то не получается?
+
+UI_ARMORY_TITLE=Оружейная
+UI_STATS_INFO_TITLE=Характеристики и информация
+UI_TALENTS_TITLE=Таланты
+UI_VAULT_WAYPOINTS_TITLE=Путь в склеп
+UI_CHAOS_SHRINE_TITLE=Святилище хаоса
+
+UI_DICE_TITLE=Кубики Жадности
+UI_DICE_DESC=Улыбнётся ли леди Удача Вам сегодня?
+UI_DICE_SELECT_PLACEHOLDER=Купите предмет, что бы увидеть его характеристики и добавить его в оружейную
+UI_DICE_ROLL_WEAPONS_ONLY=Искать только [ARMORY_FILTERS_WEAPON] 
+UI_DICE_ROLL_ARMORS_ONLY=Искать только [ARMORY_FILTERS_ARMOR]
+UI_DICE_ROLL_ACCESSORIES_ONLY=Искать только [ARMORY_FILTERS_ACCESSORY] 
+
+UI_DISCORD_FEEDBACK_DESC=Нашли ошибку? Понравилась игра? Имеете пожелания? <br>Заходите в наш дискорд сервер!
+
+UI_COMBATLOG_TITLE=<color=#B58300FF>Сводка боя</color>
+UI_COMBATLOG_DESC=Выберите члена группы, что бы увидеть более детальную информацию
+UI_COMBATLOG_DMG_DONE=Нанесённый урон
+UI_COMBATLOG_TOTAL_DMG_DONE=Итоговый нанесённый урон: {0}<br>({1}% От всего нанесённого урона)
+UI_COMBATLOG_HEALING_DONE=Исцелено
+UI_COMBATLOG_TOTAL_HEALING_DONE=Итоговое исцеление: {0}<br>({1}% от всего исцеления)
+UI_COMBATLOG_HEALING_RECEIVED=Полученное исцеление
+UI_COMBATLOG_TOTAL_HEALING_RECEIVED=Итоговое полученное исцеление: {0}<br>({1}% от всего полученного исцеления)
+
+UI_SKILL_SETUP_TITLE=Настройка навыков
+UI_SKILL_SETUP_DESC=Изучайте и настраивайте навыки перед путешествием во тьму
+UI_SKILL_CAN_CRITICALLY_HEAL=Может быть критическим
+
+UI_SKILL_SETUP_REACH_LEVEL_X_TO_UNLOCK=Достигните уровня {0} для открытия
+
+
+
+UI_SKILL_SETUP_CURRENT_HEAL=Текущее исцеление: {0}
+UI_SKILL_SETUP_CURRENT_HEAL_PER_SEC=Текущее исцеление: {0} в секунду
+UI_SKILL_CLEANSING_RAY_STRENGTH_INCREASE=Увеличение силы: {0}% в секунду вплоть до максимума в {1}%
+
+UI_SKILL_SETUP_BASE_HEALING=Базовое лечение: {0}
+
+UI_SKILL_SETUP_OVERTIME_BASE_HEALING=Продолжительное базовое лечение: {0} в секунду
+UI_SKILL_SETUP_OVERTIME_HEALING=Продолжительное лечение: {0} в секунду
+
+UI_SKILL_SETUP_EFFECT_START_BASE_HEALING=Начальное базовое лечение: {0}
+UI_SKILL_SETUP_EFFECT_START_HEALING=Начальное лечение: {0}
+
+UI_SKILL_SETUP_EFFECT_END_BASE_HEALING=Конечное базовое лечение: {0}
+UI_SKILL_SETUP_EFFECT_END_HEALING=Конечное лечение: {0}
+
+UI_SKILL_SETUP_ATTRIBUTE_INCREASE={0} увеличение:<br>{1}
+UI_SKILL_SETUP_ATTRIBUTE_REDUCTION={0} уменьшение: {1}
+UI_SKILL_SETUP_ATTRIBUTE_BONUS={0} бонус: {1}
+UI_SKILL_SETUP_BASE_DMG=Базовый урон: {0}
+UI_SKILL_SETUP_BASE_DMG_PER_SECOND=Базовый урон: {0} в секунду
+UI_SKILL_SETUP_CURRENT_DMG=Текущий урон: {0}
+UI_SKILL_SETUP_CURRENT_DMG_PER_SECOND=Текущий урон: {0} в секунду
+UI_SKILL_SETUP_DMG_REDUCTION=Уменьшение урона: {0}
+UI_SKILL_SETUP_HEALTH_RESTORED=Здоровья восстановлено: {0}
+
+UI_SKILL_SETUP_BASE_HEALTH_REGEN=Базовая регенерация здоровья: {0} в секунду
+UI_SKILL_SETUP_TOTAL_HEALTH_REGEN=Итоговая регенерация здоровья: {0} в секунду
+
+UI_SKILL_SETUP_BASE_SHIELD_VALUE=Базовое значение щита: {0}
+UI_SKILL_SETUP_CURRENT_SHIELD_VALUE=Текущее значение щита: {0}
+
+UI_SKILL_SETUP_HEALS_FOR_HEALPOWER=Лечит на {0} от силы исцеления
+UI_SKILL_SETUP_SIPHON_LIFT_SAC_BONUS={0} наносит {1}% больше урона и лечит на {1}% больше за пожертвованное очко таланта
+
+UI_SKILL_SETUP_DURATION=Длительность: {0} секунд
+UI_SKILL_SETUP_CASTTIME_SECONDS=Время применения: {0} секунд
+UI_SKILL_SETUP_CASTTIME=Время применения: {0}
+UI_SKILL_SETUP_DURATION_INSTANT_CAST=Мгновенное использование
+
+UI_SKILL_SETUP_COOLDOWN_SECONDS=Перезарядка: {0} секунд
+UI_SKILL_SETUP_MANA_COST=Потребление маны: {0}
+UI_SKILL_SETUP_MANA_COST_PER_SECOND=Потребление маны: {0} в секунду
+
+UI_SKILL_SETUP_REQUIRED_POINTS=Требует {0} очков таланта вложенных в {1} для использования
+
+UI_BUYBACK_TITLE=Выкуп
+UI_BUYBACK_DESC=выпут последних {0} Предметов, проданных за  эту сессию
+
+UI_MALEVOLENT_SHRINE_EMPTY_TEXT=Выберите артефакт, что бы закрепить его характеристики
+UI_MALEVOLENT_SHRINE_NON_UNIQUE_TEXT=Это может быть использовано только для не уникальных артефактов
+UI_MALEVOLENT_SHRINE_MAX_LOCK_TEXT=Предмет уже имеет максимум закреплённых характеристик
+UI_MALEVOLENT_SHRINE_TITLE=[DEPTH_ROOM_NAME_MALEVOLENT_SHRINE]
+UI_MALEVOLENT_SHRINE_DESC=[DEPTH_ROOM_NAME_MALEVOLENT_SHRINE] может закреплять характеристики не уникальных артефактов. Эти характеристики не будут изменяется под  действием Проклятого Ремесра Торрама
+
+UI_BLACKSMITH_INVENTORY=Надетые предметы и инвентарь
+UI_BLACKSMITH_EMPTY_TEXT=Выберите артефакт для просмотра возможности его улучшения
+UI_BLACKSMITH_MAT_USED=Материалы, потраченные на этот артефакт
+UI_BLACKSMITH_ENCHANT_LOCKED_TEXT=Закончите еще {0} заданий, что бы открыть
+UI_BLACKSMITH_NO_OPTION_TEXT=Этот материал не может быть улучшен
+UI_BLACKSMITH_OVERVIEW_TITLE=Предпросмотр ремесла
+UI_BLACKSMITH_OVERVIEW_DESC=Ремесло может увеличить мощь артефакта. Выберите путь изменения артефакта справа!
+UI_BLACKSMITH_UPGRADE_VIEW_TITLE=Улучшение Артефакта
+UI_BLACKSMITH_UPGRADE_VIEW_DESC=Улучшение улучшит характеристики артефакта, делая его более мощным
+UI_BLACKSMITH_AUG_VIEW_TITLE=Привоенные характеристик к артефакту
+UI_BLACKSMITH_AUG_VIEW_DESC=Присвоение добавит дополнительные характеристики к артефакту
+UI_BLACKSMITH_MUT_VIEW_TITLE=Мутация Артефакта
+UI_BLACKSMITH_MUT_VIEW_DESC=Мутация сделает одни свойства сильнее ценой других свойств, которые станут слабее
+UI_BLACKSMITH_ORRA_VIEW_TITLE=Ремесло [BOSS_ORRA_SHORT_NAME] 
+UI_BLACKSMITH_ORRA_VIEW_DESC=[BOSS_ORRA_SHORT_NAME] может помочь вам улучшить вашу броню еще сильнее, зачаровывая её с помощью дополнительных характеристик. Характеристики улучшаются по мере выполнения заданий [BOSS_ORRA_SHORT_NAME]
+UI_BLACKSMITH_MEVOR_VIEW_TITLE=Ремесло [BOSS_MEVOR_SHORT_NAME] 
+UI_BLACKSMITH_MEVOR_VIEW_DESC=[BOSS_MEVOR_SHORT_NAME] может помочь вам улучшить ваше оружие еще сильнее, зачаровывая её с помощью дополнительных характеристик. Характеристики улучшаются по мере выполнения заданий [BOSS_MEVOR_SHORT_NAME]
+UI_BLACKSMITH_EDWIN_VIEW_TITLE=Ремесло [BOSS_EDWIN_SHORT_NAME]
+UI_BLACKSMITH_EDWIN_VIEW_DESC=[BOSS_EDWIN_SHORT_NAME] может помочь вам улучшить ваши аксессуары еще сильнее, зачаровывая её с помощью дополнительных характеристик. Характеристики улучшаются по мере выполнения заданий [BOSS_EDWIN_SHORT_NAME]
+UI_BLACKSMITH_CURSED_VIEW_TITLE=Проклятое Ремесло
+UI_BLACKSMITH_CURSED_VIEW_DESC=Проклятое ремесло - одно из сильнейших возможностей в игре
+
+UI_BLACKSMITH_CURSED_CRAFT_OPTION_CAN_NOT_BE_USED=Эта возможность не может быть использована на этом предмете
+UI_BLACKSMITH_CURSED_CRAFT_MAX_SOCKETS_REACHED=Предмет уже имеет максимальное количество гнёзд
+UI_BLACKSMITH_CURSED_CRAFT_MAX_QUALITY_REACHED=Предмет уже максимального качества
+
+UI_BLACKSMITH_CURSED_CRAFT_ADD_JEWEL_SOCKET_TITLE=Добавляет гнездо под самоцвет и убивает случайную характеристуку не унимального предмета
+UI_BLACKSMITH_CURSED_CRAFT_ADD_JEWEL_SOCKET_DESC=Добавляет гнездо под самоцвет для не уникального предмета цено случайной характерики(максимум до 3)
+
+UI_BLACKSMITH_CURSED_CRAFT_REROLL_TIER_TITLE=Перераспределяет ранг всех базовых характерик не уникального предмета
+UI_BLACKSMITH_CURSED_CRAFT_REROLL_TIER_DESC=Прераспределяет ранг всех базовых характерик не уникального предмета, в диапазоте от 11 до 13
+
+UI_BLACKSMITH_CURSED_CRAFT_REROLL_BASE_ATTR_TITLE=Перераспределяет все базовые характерики не уникального предмета
+UI_BLACKSMITH_CURSED_CRAFT_REROLL_BASE_ATTR_DESC=Перераспределяет все базовые характерики не уникального предмета, сохраняя их ранг
+
+UI_BLACKSMITH_CURSED_CRAFT_INCREASE_BASE_QUALITY_TITLE=Увеличивает базовое качество предмета
+UI_BLACKSMITH_CURSED_CRAFT_INCREASE_BASE_QUALITY_DESC=Увеличивает базовое качество предмета(Максимум до 15)
+
+UI_BLACKSMITH_DIVINATION_VIEW_TITLE=Гадание
+UI_BLACKSMITH_DIVINATION_VIEW_DESC=Использование [MATERIAL_DIVINATION_SPHERE_NAME] для небольшого усиления предмета
+
+UI_BLACKSMITH_DIVINATION_TITLE=Гадание
+UI_BLACKSMITH_DIVINATION_DESC=Обожествление артефакта, даёт небольшой прирост характеристик
+UI_BLACKSMITH_DIVINATION_NO_DIVINE_DESC=Этот артефакт не может быть обожествлён
+UI_BLACKSMITH_DIVINATION_ALREADY_DIVINE_DESC=Этот артефакт уже божественного ранга
+
+UI_BLACKSMITH_MAT_UPGRADE_VIEW_TITLE=Улучшить самоцвет
+UI_BLACKSMITH_MAT_UPGRADE_VIEW_DESC=Вы можете сделать более высококачественные самоцветы здесь
+UI_BLACKSMITH_UPGRADE_QUALITY_TITLE=Улучшить общее качество
+UI_BLACKSMITH_UPGRADE_QUALITY_DESC=Улучшить общее качество этогоартефакта
+UI_BLACKSMITH_MAXIMUM_UPGRADE_REACHED=Достигнуто максимальное количество улучшений
+UI_BLACKSMITH_UPGRADE_RANDOM_ATTR_TITLE=Улучшить случайную характеристику
+UI_BLACKSMITH_UPGRADE_RANDOM_ATTR_DESC=Улучшает случайную характеристику артефакта, некоторые характеристики не могут быть улучшены
+UI_BLACKSMITH_UPGRADE_JEWEL_DESC=Улучшить самоцвет до более высокого качества
+UI_BLACKSMITH_ADDS_AUGMENT_TITLE=Добавить присвоенную характеристику
+UI_BLACKSMITH_ADDS_AUGMENT_DESC=Добавить 3 случайные присваиваемые характерики к этому артефакту
+UI_BLACKSMITH_ALREADY_AUGMENTED=Артефакт не может иметь больше присваиваемых свойств
+UI_BLACKSMITH_HASNT_AUGMENTED=Артефакт еще не имеет присвоенных свойств
+UI_BLACKSMITH_MODIFY_AUGMENT_TITLE=Модификация присвоенных свойств
+UI_BLACKSMITH_MODIFY_AUGMENT_DESC=Перераспределение или удержание уже существующих присвоенных свойств
+UI_BLACKSMITH_UPGRADE_AUGMENT_TITLE=Улучшение присвоенных свойств
+UI_BLACKSMITH_UPGRADE_AUGMENT_DESC=Улучшение существующих присвоенных свойств
+UI_BLACKSMITH_MUTATE_TITLE=Добавление мутации
+UI_BLACKSMITH_MUTATE_DESC=Добавить мутацию на этот артефакт
+UI_BLACKSMITH_CLEANSE_MUTATION_TITLE=Очищение мутации
+UI_BLACKSMITH_CLEANSE_MUTATION_DESC=Очищение всех мутаций на этом артефакте
+UI_BLACKSMITH_HASNT_MUTATED=Артефакт не имеет мутаций
+UI_BLACKSMITH_DIVINATION_ORB_TUT=Что за [MATERIAL_DIVINATION_SPHERE_NAME]
+
+UI_MUTZ_HEAVEN_DESC=Хранитель убежища
+UI_SETTINGS_HEAVEN_DESC=Изменения и настройки для Вашего удобства
+UI_ACHIEVEMENTS_HEAVEN_DESC=Просмотр Ваших достижений и прогресса
+UI_ATALS_HEAVEN_DESC=Содержит информацию про все предметы и руны
+UI_ARMORY_HEAVEN_DESC=Организируйте и продавайте артефакты
+UI_STATS_INFO_HEAVEN_DESC=Просматривайте ваши групповые характеристики и FAQ
+UI_SKILL_ROOM_HEAVEN_DESC=Улучшайте и настраивайте Ваши навыки
+UI_TALENT_ROOM_HEAVEN_DESC=Изучайте и настраивайте Ваши таланты
+UI_VAULT_WAYPOINTS_HEAVEN_DESC=Осмелишься ли спуститься в склеп?
+UI_CHAOS_SHRINE_HEAVEN_DESC=Генерирует Кристаллы Хаоса в течении времени
+UI_DICE_OF_GREED_HEAVEN_DESC=Мистические артефакты ценой в пару золотых
+UI_TORROM_HEAVEN_DESC=Улучшение артефактов
+
+UI_DIALOG_SKIP=Нажмите ESC для пропуска
+UI_DIALOG_CONTINUE=Нажмите, что бы продолжить
+
+UI_LEVEL_DESC_MODAL_CHAOTIC=Хаотичный
+UI_LEVEL_DESC_MODAL_BEST_TIME=Лучшее время
+UI_LEVEL_DESC_MODAL_KILL_COUNT=Количество убийств
+
+UI_LEVEL_DESC_BOSS_JOURNAL_DESC=<color=#FF911F>Журналл босса</color> - Содержит информацию об боссе или уровне
+UI_LEVEL_DESC_CHAOS_PILLAR_DESC=<color=#FF911F>Шпиль Хаоса</color> - Используйте для усиления сложности или уровня
+UI_LEVEL_DESC_LOOT_DESC=<color=#FF911F>Добыча</color> - Содержит информацию про добычу с босса или с уровня
+UI_LEVEL_DESC_MODAL_EMPTY=Выберите объект снизу справа для просмотра информации о боссе
+UI_LEVEL_DESC_MODAL_LOCKED_LOOT_VIEW=Победите босса на этой сложности, что бы открыть
+UI_LEVEL_DESC_MODAL_EMPTY_LOOT_VIEW=Этот босс не имеет добычи
+UI_LEVEL_DESC_MODAL_HOK_TEXT=Бессмертные имееют только одну сложность. Они сложнее, чем обычные боссы, будьте аккуратны!
+UI_LEVEL_DESC_MODAL_GUARDIANS_TEXT=Хранители имеют только 1 не Хаос сложность. Они - древние, которые были созданны вместе с самим склепом, что бы охранять самые ценные сокровища.
+UI_LEVEL_DESC_MODAL_MIDNIGHT_ZONE_ITEMS_TEXT=Закончите все этажи по очереди, что бы обрести сокрытые в полнолунии специфичные предметы. <br>Завершение каждого этажа может иметь предметы этого этажа.
+UI_LEVEL_DESC_MODAL_MIDNIGHT_ZONE_TEXT=Примите испытание против волны боссов. Чем больше боссов вы победите, тем больше будет награда!
+UI_LEVEL_DESC_MODAL_ARMORY_FULL_TEXT=Ваша [UI_ARMORY_TITLE] переполнена!
+UI_LEVEL_DESC_MODAL_FEED_IT_A_X=Скормить 
+UI_LEVEL_DESC_MODAL_CHAOS_ENCOUNTER_DESC=Слудующая встреча будет содержать следующее
+UI_LEVEL_DESC_MODAL_CHAOS_LOCKED_DESC=Приобретите [MATERIAL_CHAOS_CRYSTAL_NAME], что бы открыть
+UI_LEVEL_DESC_MODAL_EMPTY_SKILL_VIEW=Этот босс не имеет умений
+UI_LEVEL_DESC_MODAL_OTHER_EFFECTS=Другие эффекты
+UI_LEVEL_DESC_DIFFICULTY_LEVEL=Сложность уровня
+UI_LEVEL_DESC_BOSS_DAMAGE_TOOLTIP=Насколько сильны автоматические атаки босса
+UI_LEVEL_DESC_BOSS_DAMAGE_ELEMENTS_TOOLTIP=Атаки босса иногда наносят дополнительный урон элементами
+UI_LEVEL_DESC_BOSS_SPELLPOWER_TOOLTIP=Насколько сильны умения босса
+UI_LEVEL_DESC_BOSS_ATTACKSPD_TOOLTIP=Как быстро босс атакует
+UI_LEVEL_DESC_ENERY_ITEMS=Вражеские предметы
+UI_LEVEL_DESC_DEFEAT_NORMAL=Победите босса на [CONTEXT_DIFFICULTY_NORMAL] сложности, что бы открыть
+UI_LEVEL_DESC_DEFEAT_BRUTAL=Победите босса на [CONTEXT_DIFFICULTY_BRUTAL] сложности, что бы открыть
+UI_LEVEL_DESC_ONLY_CHAOTIC=Выпадает когда босс хаотичен
+UI_LEVEL_DESC_NO_ENV_EFFECT=Этот босс не имеет  других эффектов
+UI_LEVEL_DESC_TOTAL_DAMAGE_TEXT={0}[ATTRIBUTE_TOTAL_DAMAGE_TEXT]: {1}{2}
+UI_LEVEL_DESC_SPELLPOWER_TEXT={0}[ATTRIBUTE_SPELLPOWER_TEXT]: {1}{2}
+UI_LEVEL_DESC_ATTACKSPEED_TEXT={0}[ATTRIBUTE_ATTACK_SPEED]: {1}{2}
+UI_LEVEL_DESC_MAX_HEALTH_TEXT={0}[ATTRIBUTE_MAXIMUM_HEALTH]: {1}{2}
+UI_LEVEL_DESC_HEALTH_REGENERATION_TEXT={0}[ATTRIBUTE_HEALTH_REGENERATION]: {1}{2} в секунду
+UI_LEVEL_DESC_BLOCKCHANCE_TEXT={0}[ATTRIBUTE_BLOCK_CHANCE_TEXT]: {1}%{2}
+UI_LEVEL_DESC_DODGECHANCE_TEXT={0}[ATTRIBUTE_DODGE_CHANCE_TEXT]: {1}%{2}
+
+UI_LEVEL_DESC_CHAOS_DROP_X_TO_Y_CC=<color=#FF911F>Падает от {0} до {1} Кристаллов Хаоса </color>
+UI_LEVEL_DESC_CHAOS_X_MORE_QUALITY=<color=#FF911F>Выпавшие предметы будут иметь +{0} качества</color>
+UI_LEVEL_DESC_CHAOS_AUG_CHANCE_ONE_TIER=<color=#FF911F>Выпавшие предметы имеют шанс приобрести свойства {0}  ранга</color>
+UI_LEVEL_DESC_CHAOS_AUG_CHANCE_TWO_TIERS=<color=#FF911F>Выпавшие предметы имеют шанс приобрести свойства  {0} или {1} ранга</color>
+
+UI_BETA_INFO_ENEMY_NAME=Имя врага: {0}
+UI_BETA_INFO_ENEMY_CURRENT_HP=Здоровье: {0}
+UI_BETA_INFO_ENEMY_ATK=Урон: <br><color=#{0}>Физический: {1}</color><br><color=#{2}>Огненный: {3}</color><br><color=#{4}>Ледяной: {5}</color><br><color=#{6}>Электрический: {7}</color><br><color=#{8}>Немезидой: {9}</color>
+UI_BETA_INFO_TOTAL=Итого
+UI_BETA_INFO_OTHER=Другое
+
+UI_BATTLE_CHAOTIC_LEVEL=Уровень хаотичности
+
+UI_BATTLE_SUCCESS_NEW_RECORD=Новый рекорд!
+UI_BATTLE_SUCCESS_LEVEL_UP=Новый уровень!
+UI_BATTLE_SUCCESS_LEVEL_UP_STATS=Все характеристики увеличены!
+UI_BATTLE_SUCCESS_FLAWLESS=Безупречная победа!
+UI_BATTLE_SUCCESS_FLAWLESS_XP=На {0}% больше [CONTEXT_EXPERIENCE]
+
+UI_LANGUAGE_SPECIAL_THANKS_TO=Особое спасибо комьюнити дискорда {0}
+
+UI_MODAL_FULL_ARMORY_ERROR=Ваша оружейная переполнена, пожалуйста, убедитесь, что вы имеете хотя бы 1 свободную ячейку в инвенторе
+
+UI_TOOLTIP_ARMORY_SOCKETING=Перетащите <color=#FF911F>{0}</color> В это гнездо, что бы получить его силу
+
+UI_TOOLTIP_OATH_NAME=Клятва
+UI_TOOLTIP_OATH_DESC=Использует [SKILL_FLASH_HEAL_NAME] С [TALENT_INFUSED_LUMINOSITY_NAME] будет так же использованно на эту цель
+
+UI_TOOLTIP_ACSEND_NAME=Возесённый
+UI_TOOLTIP_ASCEND_DESC=При достижении {0} наложений получает [SKILL_ASCENSION_NAME]
+
+UI_TOOLTIP_ENERGIZED_NAME=Под напряжением
+UI_TOOLTIP_ENERGIZED_DESC=Получает дополнительный [ATTRIBUTE_BASE_LIGHTNING_DAMAGE] равный {0}% [ATTRIBUTE_PHYSICAL_DAMAGE]
+
+UI_TOOLTIP_ENERGY_CHARGE_NAME=Заряды энергии
+UI_TOOLTIP_ENERGY_CHARGE_DESC=Накапливает энергию
+
+UI_TOOLTIP_VIVID_NAME=Живой
+UI_TOOLTIP_VIVID_DESC=Увеличение количества всего постепенного исцеления на {0}%
+
+UI_TOOLTIP_GATHERED_WIND_NAME=Собиратель ветров
+UI_TOOLTIP_GATHERED_WIND_DESC=Собирает немного ветра, движение поглотит накопленный ветер
+
+UI_TOOLTIP_GUST_NAME=Порыв ветра
+UI_TOOLTIP_GUST_DESC=Получите {0}% [ATTRIBUTE_MOVEMENT_SPEED] и {1}% [ATTRIBUTE_CAST_SPEED]
+
+UI_TOOLTIP_BLOODLUST_NAME=Жажда крови
+UI_TOOLTIP_BLOODLUST_DESC=Получите {0}% [ATTRIBUTE_BASE_PHYSICAL_DAMAGE] и возобновляет исцеление с помощью [TALENT_VAMPIRISM_NAME]
+
+UI_TOOLTIP_CRAVE_NAME=Жаждать
+UI_TOOLTIP_CRAVE_DESC=Жаждите крови
+
+UI_TOOLTIP_VOID_AURA_NAME=Аура Пустоты
+UI_TOOLTIP_VOID_AURA_DESC=Аура Пустоты, эта аура не делает ничего
+
+UI_TOOLTIP_DECREPIFICATION_AURA_NAME=Аура обесцвечивания
+UI_TOOLTIP_DECREPIFICATION_AURA_DESC=Уменьшите для всех врагов [ATTRIBUTE_BLOCK_CHANCE_TEXT], [ATTRIBUTE_DODGE_CHANCE_TEXT], и [ATTRIBUTE_ELE_RESISTS_TEXT] на 10%
+
+UI_TOOLTIP_SANGUINE_AURA_NAME=Аура Жизнерадости
+UI_TOOLTIP_SANGUINE_AURA_DESC=Увеличивает [ATTRIBUTE_PHYSICAL_DAMAGE] на 8% <br>Увеличивает [ATTRIBUTE_PHYSICAL_RESIST] на 2%
+
+UI_TOOLTIP_VIGOR_AURA_NAME=Аура Энергичности
+UI_TOOLTIP_VIGOR_AURA_DESC=Увеличивает [ATTRIBUTE_HEALING_RECEIVED] на 5%
+
+UI_TOOLTIP_BRUTALITY_AURA_NAME=Аура Брутальности
+UI_TOOLTIP_BRUTALITY_AURA_DESC=Увеличивает [ATTRIBUTE_ALL_DAMAGE_DEALT] на 5%
+
+UI_TOOLTIP_FLAME_AURA_NAME=Огненная Аура
+UI_TOOLTIP_FLAME_AURA_DESC=[ATTRIBUTE_BASE_FIRE_DAMAGE] увеличен
+
+UI_TOOLTIP_FROST_AURA_NAME=Ледяная Аура
+UI_TOOLTIP_FROST_AURA_DESC=[ATTRIBUTE_BASE_ICE_DAMAGE] увеличен
+
+UI_TIP_TALENT_STRONG=Зачастую, чем глубже талант, тем он сильнее
+UI_TIP_READ_ABILITY=Вы можете читать и понимать босса просматривая сведенья о нём в журнале перед тем, как идти в бой
+
+UI_TIP_PAUSE_READ=Пока игра на паузе, Вы можете навести мышкой на любой действующий эффект и прочитать, что он делает
+UI_TIP_RESISTS=Увеличение сопротивлений это отличный путь, что бы выживать дольше
+UI_TIP_CHANGE_DIFFICULTY=Вы так же можете изменить сложность игры в настройках
+
+
+UI_TIP_CHAOTIC=Бой с хаотичным боссом это очень хороший путь заработать много денег и опыта
+UI_TIP_HIGH_LVL_XP=На более высоких уровнях, улучшения предметов это более выгодный путь, чем получение новых уровней
+UI_TIP_HIGH_LVL_DIVINE_ITEM=Использование [MATERIAL_DIVINATION_SPHERE_NAME] На уникальном предмете - отличный способ улучшить его
+UI_TIP_HIGH_LVL_CRAFT_ITEM=Приобретение свойств у [CONTEXT_NPC_SHORT_NAME_TORRAM] - быстрый путь получения усилений 
+UI_TIP_HIGH_LVL_UPGRADE_AUGMENT=Приобретённые свойства могут быть улучшены с помощью [MATERIAL_THE_MAKER_NAME]
+
+END

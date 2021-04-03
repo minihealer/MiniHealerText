@@ -1,0 +1,33 @@
+LOCATION_MAP_OF_VAULT=Карта Свода
+LOCATION_DESC_MAP_OF_VAULT=Нажмите, что бы путешествовать внутри Свода
+
+LOCATION_HIDDEN_HAVEN=Тайное Убещиже
+LOCATION_VAULT_ENTRANCE=Вход Свода
+LOCATION_SOUL_QUARTER=Квартал Душ
+LOCATION_BIO_QUARTER=Квартал Био
+LOCATION_MIDNIGHT=Полуночная Зона
+LOCATION_OUTER_COURTYARD=Наружный Двор
+LOCATION_INNER_COURTYARD=Внутренний Двор
+LOCATION_PANDEMONIC_DEPTH=Пандемоническая глубина
+LOCATION_GUARIDANS=Пещера Хранителей
+LOCATION_DINING_HALL=Столовая
+LOCATION_INFINITE_CORRIDOR=[DEPTH_NAME_INFINITE_CORRIDOR]
+
+LOCATION_MIDNIGHT_NO_ZONE=Полночь
+LOCATION_MIDNIGHT_WITH_AUG=Полночь {0}
+
+LOCATION_DESC_HIDDEN_HAVEN=Остановись и отдохни
+LOCATION_DESC_VAULT_ENTRANCE=Ваше приключение начнёться здесь
+LOCATION_DESC_SOUL_QUARTER=Место, куда души попадают души павших героев
+LOCATION_DESC_BIO_QUARTER=Переполнено разными экспериментами и мутантами
+LOCATION_DESC_MIDNIGHT=Нет света, только бесконечные мучения
+LOCATION_DESC_OUTER_COURTYARD=Элитные воины Свода
+LOCATION_DESC_INNER_COURTYARD=Элитные воины Свода
+LOCATION_DESC_PANDEMONIC_DEPTH=Дверь заперта некими чарами, возможно нужен специальный ключ
+LOCATION_DESC_GUARIDANS=В этих пещерах обитают самые страшные твари Свода
+LOCATION_DESC_DINING_HALL=Секретная столовая Свода, возможно вы найдёте здесь неожиданное приключение
+
+LOCATION_UNLOCK_PRE_TEXT=Вы получили фрагмент карты
+LOCATION_UNLOCK_POST_TEXT=теперь открыто на карте
+
+END

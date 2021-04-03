@@ -39,6 +39,7 @@ TALENT_POINTS_INVESTED=Talent points invested: {0}
 TALENT_MASTERY_POINTS_INVESTED=Mastery points invested: {0}
 TALENT_MASTERY_POINTS_COST=Costs {0} Mastery point
 TALENT_MASTERY_POINTS_REQUIREMENT=Requires {0} Mastery points invested in {1}
+TALENT_MASTERY_UNLOCK_REQUIREMENT=Reach level 10 to unlock talent mastery
 
 TALENT_MASTERY_NO_MASTERY=No Mastery Availiable
 

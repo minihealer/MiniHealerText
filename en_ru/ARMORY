@@ -1,0 +1,53 @@
+ARMORY_QUICKSELL=Ctrl + ПКМ для быстрой продажи
+ARMORY_LOADOUT=Сохранённые пресеты
+
+ARMORY_POSSIBLE_AUGMENTATIONS=Возможные присваиваемые характеристики
+ARMORY_POSSIBLE_MUTATIONS=Возможные мутаци
+
+ARMORY_UNEQUIP_ALL=Снять <br>Все предметы
+ARMORY_SELL_ALL_UNCOMMON=Продать все <br>Необычные
+ARMORY_SELL_ALL_NON_FAV=Продать все <br>Не любимые предметы
+ARMORY_SELL_ALL_NON_PERFECT=Продать все<br>Не идеальные
+
+ARMORY_SELL_CONFIRMATION=Вы уверенны, что хотите продать этот предмет?
+ARMORY_SELL_ALL_UNCOMMON_CONFIRMATION=Вы уверенны, что хотите продать все необычные предметы?
+ARMORY_SELL_ALL_NON_PERFECT_CONFIRMATION=Вы уверенны, что хотите продать все не идеальные предметы?
+ARMORY_SELL_ALL_NON_FAV_CONFIRMATION=Вы уверенны, что хотите продать все не любимые предметы?
+
+
+ARMORY_CHAOS_SLOT_UNLOCK_REQ=Открывается путём собирания 3 кусочков <color=#B58300FF>[MATERIAL_ASTRAL_FRAGMENT_NAME]</color>
+
+ARMORY_SORT_TITLE=Сортировка
+ARMORY_SORT_LATEST=Последние
+ARMORY_SORT_RARITY=Редкость
+ARMORY_SORT_ITEMLVL=Уровень предмета
+
+ARMORY_SORT_FAVORITE=<color=#FF911F>Любимые</color> - Любимые предметы не продаются с помощью "Продать все предметы"
+
+ARMORY_HOVER_DIVINE=<color=#FF911F>Божественный артефакт</color> - Это улучшенная версия {0}
+ARMORY_HOVER_DIVINABLE=<color=#FF911F>Может быть обожествлён</color> - Этот артефакт может быть усилен с помощью [MATERIAL_DIVINATION_SPHERE_NAME]
+ARMORY_HOVER_CHAOTIC=<color=#FF911F>Хаотичный артефакт</color> - Этот артефакт выпадает только когда босс подвержен влиянию Хаоса
+ARMORY_HOVER_ANOMALOUS=<color=#FF911F>Аномальный артефакт</color> - Это версия отличается от {0}
+ARMORY_HOVER_PERFECT=<color=#FF911F>Идеальный артефакт</color> - Этот артефакт имеет базовое качество 10 или больше
+
+ARMORY_FILTERS_TITLE=Фильтры
+ARMORY_FILTERS_WEAPON=Оружие
+ARMORY_FILTERS_ARMOR=Броня
+ARMORY_FILTERS_ACCESSORY=Аксессуар
+ARMORY_FILTERS_GEM=Материал
+ARMORY_FILTERS_OTHER=Другое
+ARMORY_FILTERS_AUGMENTED=Имеет присвоенное свойство
+ARMORY_FILTERS_HAS_SOCKETS=Имеет гнёзда
+ARMORY_FILTERS_UPGRADED=Улучшено
+ARMORY_FILTERS_MUTATED=Мутированое
+
+ARMORY_REROLL_AUGMENT_DESC=Выберите свойство, которое не желаете менять. <br>Это увеличит стоимость. <br>Заблокированные свойства не будут изменены
+ARMORY_UPGRADE_AUGMENT_DESC=Потратьте [MATERIAL_THE_MAKER_NAME] для улучшения присвоенного свойства до следующего ранга
+ARMORY_UPGRADE_ERROR_MAX_TIER_REACHED=Достигнут максимальный ранг
+ARMORY_TRIO_REAUG_SELECT_OLD=Выберите сужествующее свойтсво
+ARMORY_TRIO_REAUG_SELECT_NEW=Выберите новое свойство
+
+ARMORY_ITEM_ACQUIRED_X=<br>Приобретено: {0}
+ARMORY_ITEM_MAX_STACK_X=<color=#{0}>Максимальное количество: {1}</color>
+
+END
