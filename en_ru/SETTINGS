@@ -15,7 +15,7 @@ SETTINGS_EXPORT_COPY_SUCCESS=Скопировано Успешно!
 
 SETTINGS_IMPORT_SAVE=Импорт сохранения
 SETTINGS_IMPORT_SAVE_HARDCORE=Эта функция недоступка в режиме хардкора
-SETTINGS_IMPORT_SAVE_DESC=Импорт сохранения позволяет продолжить Ваше путешествие
+SETTINGS_IMPORT_SAVE_DESC=Импорт сохранения позволяет продолжить ваше путешествие
 SETTINGS_IMPORT_USAGE_DESC=Загрузка игры с файл сохранения
 SETTINGS_IMPORT_WARNING=Внимание, это перезапишет текущее сохранение
 
@@ -31,13 +31,13 @@ SETTINGS_MUSIC=Музыка
 SETTINGS_SOUND=Звуки
 
 SETTINGS_MUTE_AUDIO_IN_BKG=Заглушить звуки, когда игра свёрнута
-SETTINGS_MUTE_AUDIO_IN_BKG_DESC=Включение этой опции заглушить игре когда она свернута или Вы не сфокусированы на ней
+SETTINGS_MUTE_AUDIO_IN_BKG_DESC=Включение этой опции заглушить игре когда она свернута или вы не сфокусированы на ней
 
 SETTINGS_TARGET_FPS=Выбранный FPS
 SETTINGS_TARGET_FPS_DESC=Настройте количество кадров в секунду. Рекомендуем 60 FPS.
 
 SETTINGS_MILISEC=Лучшее время показывает милисекунды
-SETTINGS_MILISEC_DESC=Даёт более точную информацию о том, как быстро Вы убили босаа
+SETTINGS_MILISEC_DESC=Даёт более точную информацию о том, как быстро вы убили босаа
 
 SETTINGS_TALENT_HOVER=Выбор таланта или навыка при наведении
 SETTINGS_TALENT_HOVER_DESC=Включение этой функции будет автоматически выбирать талант или навык при наведении мышки на него
@@ -73,7 +73,7 @@ SETTINGS_KEYBINDINGS_ENGAGE_DESC=Начинает бой
 SETTINGS_KEYBINDINGS_CANCEL_CAST=Отменить применение
 SETTINGS_KEYBINDINGS_CANCEL_CAST_DESC=Отменение заклинания, которое сейчас подготавливается
 SETTINGS_KEYBINDINGS_SWITCH_TARGET=Смена цели
-SETTINGS_KEYBINDINGS_SWITCH_TARGET_DESC=Изменяет Вашего текущего противника
+SETTINGS_KEYBINDINGS_SWITCH_TARGET_DESC=Изменяет вашего текущего противника
 
 SETTINGS_SELECT_HOTKEYS_TO_CHANGE=Выберите клавишу, которую желаниете изменить...
 SETTINGS_SELECT_HOTKEYS_ENTER_KEY=Выберите клавишу, на которую желаниете изменить...
@@ -104,5 +104,4 @@ SETTINGS_ALWAYS_SHOW_SKILL_CD=Всегда показывать перезаря
 SETTINGS_ALWAYS_SHOW_SKILL_CD_DESC=Включение этой функции будет всегда отображать перезарядку, даже если заклинание имеет один или более зарядов
 
 SETTINGS_CHANGE_DIFFICULTY_TITLE=Изменение сложности
-SETTINGS_LANGUAGE_IN_TESTING=Это локализая сейчас испытывается, некоторое описание может быть изменено
 END

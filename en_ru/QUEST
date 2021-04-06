@@ -1,6 +1,6 @@
 QUEST_UI_TITLE=Задания
 
-QUEST_MAP_FRAG_MIDNIGHT_TITLE=Проход в Полуночную Зону
+QUEST_MAP_FRAG_MIDNIGHT_TITLE=Проход в Полуночную Область
 QUEST_MAP_FRAG_MIDNIGHT_DESC=Одолейте Безумного Сепитуса и получита обрывок карты
 QUEST_MAP_FRAG_SOUL_QUARTER_TITLE=Проход в Квартал Душ
 QUEST_MAP_FRAG_SOUL_QUARTER_DESC=Одолейте Брутального Сепитуса и получита обрывок карты
@@ -33,7 +33,7 @@ QUEST_ORRA_3_DESC=Одолейте Бессердечного Голема
 QUEST_ORRA_4_TITLE=Одолейте Падшую Группу
 QUEST_ORRA_4_DESC=Одолейте Падшую Группу, которая вышла из Портала Бессердечности
 QUEST_ORRA_5_TITLE=Одолейте Аномального Орру
-QUEST_ORRA_5_DESC=Одолейте Аномального Орру Камееный Молот
+QUEST_ORRA_5_DESC=Одолейте Аномального Орру Каменный Молот
 QUEST_MEVOR_1_TITLE=Стабилизируйте Портал Безнадежности
 QUEST_MEVOR_1_DESC=Одолейте Аномального Толмона из Портала Безнадежности и принесите фрагмент Мевору
 QUEST_MEVOR_2_TITLE=Одолейте Падшую Группу

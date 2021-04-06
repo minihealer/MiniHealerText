@@ -1,6 +1,6 @@
 BOSS_SOL_LUN=Солярия и Лунария
 BOSS_THE_MIRROR=Отражение
-BOSS_ARNEY_BRNEY=Арни м Брни
+BOSS_ARNEY_BRNEY=Арни и Брни
 BOSS_THOGG_MHOGG=Трогг и Моггг
 BOSS_AURDON_BODY_NAME=Запечатанное Тело Аурдона
 
@@ -21,7 +21,7 @@ BOSS_LUNARIA_NAME=Лунария
 BOSS_IQSIOR_NAME=Великий Магнус Иксиор
 BOSS_SEPITUS_NAME=Сепитус
 BOSS_SEPITUS_CRYSTAL_NAME=Кристалл Маны
-BOSS_DESPAIR_NAME=Отчаянье
+BOSS_DESPAIR_NAME=Отчаяние
 BOSS_CASSANDRA_NAME=Кассандра
 BOSS_NORRIX_NAME=Норрикс
 BOSS_NORRIX_PIPE_NAME=Трубка Норрикса
@@ -35,7 +35,7 @@ BOSS_IZKI_NAME=Изки
 BOSS_IZKI_MINION_NAME=Подчинённый Изки
 BOSS_SARGARIS_NAME=Саргарис
 BOSS_DROTO_NAME=Дрото Вечно смотрящий
-BOSS_LOCKJAW_NAME=Столбняк(?)
+BOSS_LOCKJAW_NAME=Локджоу
 BOSS_ATIEL_NAME=Атиэль Чёрная тень 
 BOSS_ORRA_HAMMERSTONE_NAME=Орра Каменный молот
 BOSS_ANOMALOUS_ORRA_HAMMERSTONE_NAME=Аномальный [BOSS_ORRA_HAMMERSTONE_NAME]
@@ -83,5 +83,4 @@ BOSS_GOULRON_ZEALOT_NAME=Фанатик Гоулрона
 BOSS_VALLOIS_NAME=Валлоис Жизненный крюк
 BOSS_VALLOIS_SHORT_NAME=Валлоис
 BOSS_BLOOD_CRYSTAL_NAME=Кровавый Кристалл
-
 END

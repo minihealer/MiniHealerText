@@ -1,5 +1,5 @@
 ACHIEVEMENT_TITLE=Достижения
-ACHIEVEMENT_DESC=Получение различных наград и бонусов за Ваши действия во время путешествия
+ACHIEVEMENT_DESC=Получение различных наград и бонусов за ваши действия во время путешествия
 
 ACHIEVEMENT_COMPLETION={0}/{1} Достижений получено
 
@@ -7,7 +7,7 @@ ACHIEVEMENT_CATEGORY_TRIO=Трио
 ACHIEVEMENT_CATEGORY_HARDCORE=Хардкор
 ACHIEVEMENT_CATEGORY_OTHER=Другое
 
-ACHIEVEMENT_SELECT=Выберите достижение для просмотра дополнительной информации
+ACHIEVEMENT_SELECT=выберите достижение для просмотра дополнительной информации
 
 ACHIEVEMENT_NAME_GROWTH=Рост {0}
 ACHIEVEMENT_DESC_GROWTH=Достигните уровня {0}
@@ -30,7 +30,7 @@ ACHIEVEMENT_DESC_DEFEAT_CHAOS_INSANE=Одержите победу на [CONTEXT
 ACHIEVEMENT_DESC_DEFEAT_CHAOS_INSANE_EVERYONE_ALIVE=Одержите победу на [CONTEXT_DIFFICULTY_INSANE] над {0} под влиянием Хаоса 5 ранга так, что бы все члены группы остались живы на [UI_MENU_GAME_MODE_NIGHTMARE_TITLE] сложности игры
 
 ACHIEVEMENT_DESC_DEFEAT_GENERAL=Одолейте {0}
-ACHIEVEMENT_DESC_DEFEAT_GENERAL_EVERYONE_ALIVE=Одолейте {0} так, чтоб ы все члены группы остались живы
+ACHIEVEMENT_DESC_DEFEAT_GENERAL_EVERYONE_ALIVE=Одолейте {0} так, что бы все члены группы остались живы
 ACHIEVEMENT_DESC_DEFEAT_CHAOS_GENERAL=Одолейте {0} под влиянием Хаоса 5 ранга
 ACHIEVEMENT_DESC_DEFEAT_CHAOS_GENERAL_EVERYONE_ALIVE=Одолейте {0} под влиянием Хаоса 5 ранга так, что бы все члены группы остались живы
 
