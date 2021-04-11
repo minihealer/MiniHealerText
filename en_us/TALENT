@@ -471,7 +471,7 @@ TALENT_RING_OF_INFLUENCE_NAME=Ring of Influence
 TALENT_RING_OF_INFLUENCE_DESC=[CONTEXT_PARTY_MEMBER_NAME_HEALER] gains an Influential Ring. <br><br>Other party memebers within the ring gain {0}% [ATTRIBUTE_HEALING_RECEIVED]
 
 TALENT_VENGEFUL_CRUSADE_NAME=Vengeful Crusade
-TALENT_VENGEFUL_CRUSADE_DESC=[LINK_SKILL_HAMMER_OF_RECKONING] now has 2 charges. <br><br>At rank 3, [LINK_SKILL_HAMMER_OF_RECKONING] will also deal [ATTRIBUTE_FIRE_DAMAGE] equal to {0}% of its damage dealt over {1} seconds if it consumed at least {2} [LINK_SKILL_SEAL_OF_LIGHT]
+TALENT_VENGEFUL_CRUSADE_DESC=[LINK_SKILL_HAMMER_OF_RECKONING] now has 2 charges. <br><br>At level 3, [LINK_SKILL_HAMMER_OF_RECKONING] will also deal [ATTRIBUTE_FIRE_DAMAGE] equal to {0}% of its damage dealt over {1} seconds if it consumed at least {2} [LINK_SKILL_SEAL_OF_LIGHT]
 
 TALENT_INQUISITION_NAME=Inquisition
 TALENT_INQUISITION_DESC=Whenver [LINK_SKILL_DIVINE_MEND] , [LINK_SKILL_LESSER_HEAL] , [LINK_SKILL_CLEANSING_RAY] , [LINK_SKILL_FLASH_HEAL] critically heals, the cooldown of [LINK_SKILL_DIVINE_FOCUS] is reduced by {0} seconds
