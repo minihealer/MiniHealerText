@@ -183,7 +183,7 @@ SKILL_DIVINE_FOCUS_SHORT_DESC=Следующая способность пала
 SKILL_DIVINE_FOCUS_DIVINE_MEND_DESC=[SKILL_DIVINE_MEND_NAME] - Используется мгновенно и увеличивает исцеление на {0}
 SKILL_DIVINE_FOCUS_SEAL_DESC=[SKILL_SEAL_OF_LIGHT_NAME] - Увеличивает длительность на {0} секунд и накладывает этот эффект на всех членов группы
 SKILL_DIVINE_FOCUS_INFUSION_DESC=[SKILL_SACRED_INFUSION_NAME] - Заставляет всё одиночное не продолжительное исцеление действовать на всех членов группы. Использует 50% от множителя [SKILL_SACRED_INFUSION_NAME].
-SKILL_DIVINE_FOCUS_HAMMER_DESC=[SKILL_HAMMER_OF_RECKONING_NAME] - Так же восстанавливает {0} от потерянной маны и исцеляет всех членов группы на {1} от недостающего здоровья
+SKILL_DIVINE_FOCUS_HAMMER_DESC=[SKILL_HAMMER_OF_RECKONING_NAME] - Так же восстанавливает {0} потерянной маны 
 
 SKILL_CATACLYSM_NAME=Катаклизм
 SKILL_CATACLYSM_DESC=Ничего

@@ -111,8 +111,8 @@ SKILL_SMITE_DESC=Smite the target, dealing moderate [ATTRIBUTE_LIGHTNING_DAMAGE]
 SKILL_SMITE_SHORT_DESC=Smite target, dealing damage and increasing damage taken
 
 SKILL_ANGELIC_INFUSION_NAME=Angelic Infusion
-SKILL_ANGELIC_INFUSION_DESC=Infuse the party with an angel's blessing, massively increasing healpower and cast speed as well as reducing all skills' mana cost for a short duration
-SKILL_ANGELIC_INFUSION_SHORT_DESC=Massively increase Healpower and cast speed for a short duration
+SKILL_ANGELIC_INFUSION_DESC=Infuse the party with an angel's blessing, massively increasing [ATTRIBUTE_INCREASE_HEALPOWER_FLAT_TEXT] and [ATTRIBUTE_CAST_SPEED] as well as reducing all skills' mana cost for a short duration
+SKILL_ANGELIC_INFUSION_SHORT_DESC=Massively increase [ATTRIBUTE_INCREASE_HEALPOWER_FLAT_TEXT] and [ATTRIBUTE_CAST_SPEED] for a short duration
 
 SKILL_REVIVE_NAME=Revive
 SKILL_REVIVE_DESC=A very long cast to revive a party member to a certain health percentage from death. <br><br>Can not cast [SKILL_REVIVE_NAME] while dead
