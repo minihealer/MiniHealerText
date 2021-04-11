@@ -177,7 +177,7 @@ SKILL_RADIANCE_DESC=Используйте, что бы включить [TALENT
 SKILL_RADIANCE_SHORT_DESC=Переключение [TALENT_RING_OF_INFLUENCE_NAME] на исцеление, которое поглощает ману
 
 SKILL_DIVINE_FOCUS_NAME=Божественная Концентрация
-SKILL_DIVINE_FOCUS_DESC=Сконцентрируйтесь, это позволит вам значительно усилить следующую способность Паладина, она так же не будет стоить маны<br><br> Перезарядка  [SKILL_DIVINE_FOCUS_NAME] начинает, когда эффект поглощён
+SKILL_DIVINE_FOCUS_DESC=Сконцентрируйтесь, это позволит вам значительно усилить следующую способность Паладина, она так же не будет стоить маны<br><br>Перезарядка  [SKILL_DIVINE_FOCUS_NAME] начинает, когда эффект поглощён
 SKILL_DIVINE_FOCUS_SHORT_DESC=Следующая способность паладина будет значителньо усилена<br> и не будет иметь [ATTRIBUTE_MANA_COST]
 
 SKILL_DIVINE_FOCUS_DIVINE_MEND_DESC=[SKILL_DIVINE_MEND_NAME] - Используется мгновенно и увеличивает исцеление на {0}

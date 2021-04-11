@@ -104,4 +104,5 @@ SETTINGS_ALWAYS_SHOW_SKILL_CD=Всегда показывать перезаря
 SETTINGS_ALWAYS_SHOW_SKILL_CD_DESC=Включение этой функции будет всегда отображать перезарядку, даже если заклинание имеет один или более зарядов
 
 SETTINGS_CHANGE_DIFFICULTY_TITLE=Изменение сложности
+
 END
