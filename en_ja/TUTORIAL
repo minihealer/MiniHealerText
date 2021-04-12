@@ -1,0 +1,97 @@
+TUTORIAL_HAVEN_TTILE=<color=#B58300FF>Hidden Haven</color>へようこそ。ここで休息と次の戦いの準備ができます。
+TUTORIAL_HAVEN_TALENT_TTILE=<color=#B58300FF>タレントルーム</color>でタレントとマスタリーを習得できます。<br><br><color=#858585>レベルアップするごとにタレントポイントを獲得できます。</color>
+TUTORIAL_HAVEN_MUTZ=隠れ家にある他のものもチェックして、準備ができたら<color=#B58300FF>Mutz</color>に話しかけてみましょう。
+
+TUTORIAL_DESC_TALENT_TITLE=タレントはあなたのパーティーに強力なボーナスをもたらします。
+TUTORIAL_DESC_TALENT_UPGRADE=タレントを左クリックすることで選択できます。そして左/右クリックすることでレベルアップ/ダウンできます。
+TUTORIAL_DESC_TALENT_UPGRADE_MANUAL=これらのボタンでも同様にレベルアップ/ダウンできます。
+
+TUTORIAL_DESC_EQUIPPING_TITLE=<color=#B58300FF>[UI_ARMORY_TITLE]</color>へようこそ。ここで<color=#B58300FF>[CONTEXT_PARTY_MEMBER_NAME_HEALER]</color>に様々なアーティファクトを装備させることができます。
+TUTORIAL_DESC_EQUIPPING_HEALER_ONLY=<color=#B58300FF>装備を変更できるのは[CONTEXT_PARTY_MEMBER_NAME_HEALER]だけですが、他の仲間に効果を及ぼすものもあります！</color> 
+TUTORIAL_DESC_EQUIPPING_METHODS=アーティファクトをドラッグ＆ドロップするか、ダブルクリックすると装備できます。
+
+TUTORIAL_FAV_INSTRUCTION=ハートアイコンをクリックするとアーティファクトをお気に入りに設定します。
+TUTORIAL_FAV_DESC=お気に入りのアーティファクトは自動で売らなくなります。
+
+
+TUTORIAL_FIRST_ARTIFACT=どうやらアーティファクトを手に入れたようですね。<color=#B58300FF>隠れ家</color>にある<color=#B58300FF>武器庫</color>でそれについてさらに知ることができます！
+TUTORIAL_SKILL_ROOM=<color=#B58300FF>隠れ家</color>にある<color=#B58300FF>スキルルーム</color>がアンロックされました！　そこで新しいスキルを覚えたり装備したりできます！
+TUTORIAL_ATLAS_UNLOCK=<color=#B58300FF>隠れ家</color>にある<color=#B58300FF>[UI_ATLAS_TITLE]</color>がアンロックされました！<br><br><color=#B58300FF>[UI_ATLAS_TITLE]</color>にはゲーム内の全アイテムとルーンの情報があります！
+
+TUTORIAL_ORRA_INTRO=[CONTEXT_NPC_SHORT_NAME_TORRAM]はあなたの<color=#B58300FF>防具</color>に追加の特性を付与できるようになりました。
+TUTORIAL_ORRA_ATTRIBUTES=[CONTEXT_NPC_SHORT_NAME_TORRAM]がより強く、より多くの特性をエンチャントできるようになりました！
+TUTORIAL_MEVOR_INTRO=[CONTEXT_NPC_SHORT_NAME_TORRAM]はあなたの<color=#B58300FF>武器</color>に追加の特性を付与できるようになりました。
+TUTORIAL_MEVOR_ATTRIBUTES=[CONTEXT_NPC_SHORT_NAME_TORRAM]がより強く、より多くの特性をエンチャントできるようになりました！
+TUTORIAL_EDWIN_INTRO=[CONTEXT_NPC_SHORT_NAME_TORRAM]はあなたの<color=#B58300FF>アクセサリ</color>に追加の特性を付与できるようになりました。
+TUTORIAL_EDWIN_ATTRIBUTES=[CONTEXT_NPC_SHORT_NAME_TORRAM]がより強く、より多くの特性をエンチャントできるようになりました！
+TUTORIAL_TRIO_CHAOS=<color=#B58300FF>Astral Fragments</color>を1つ入手しました
+TUTORIAL_TRIO_CHAOS_COLLECT=集める
+TUTORIAL_TRIO_CHAOS_MORE=さらに欠片を手に入れて武器庫の追加のアイテムスロットをアンロックする
+TUTORIAL_TRIO_CHAOS_DONE=武器庫の<color=#B58300FF>カオススロット</color>がアンロックされました
+
+TUTORIAL_MASTERY_UNLOCK_TITLE=<color=#FF911F>レベル10</color>到達、おめでとうございます！
+TUTORIAL_MASTERY_DESC=<color=#FF911F>マスタリー経験値</color>を獲得できるようになりました。クラスツリーに振り分けたタレントポイントに応じて戦闘ごとに獲得できます。<br><br>マスタリーレベルが上がるごとに<color=#FF911F>マスタリーポイント</color>が付与され、それを使ってタレントをさらに強化できます。<br><br>タレントのマスタリーレベルは、現在のタレントのレベルを上限として発動します。
+TUTORIAL_MASTERY_BONUS=タレントマスタリーボーナス
+TUTORIAL_MASTERY_VISIT=<color=#FF911F>タレントルーム</color>でマスタリーを確認できます
+
+
+TUTORIAL_CHAOS_UNLOCK=どうやら<color=#FF911F>[MATERIAL_CHAOS_CRYSTAL_NAME]</color>を手に入れたようですね。[MATERIAL_CHAOS_CRYSTAL_NAME]は戦闘前に<color=#FF911F>カオス・ピラー</color>をクリックすると使用できます。戦闘がより難しくなりますが、報酬が増加します！
+TUTORIAL_CHAOS_PILLAR_UNLOCK=<color=#FF911F>カオス・ピラー</color>は戦闘後に自動起動することがあります。自動起動した<color=#FF911F>カオス・ピラー</color>のボスを倒すと、より多くの<color=#FF911F>[MATERIAL_CHAOS_CRYSTAL_NAME]</color>を獲得することができます
+TUTORIAL_CHAOS_GENERATION_UNLOCK=また、ゲームが終了していても、数分ごとに<color=#FF911F>[MATERIAL_CHAOS_CRYSTAL_NAME]</color>を獲得できるようになりました。
+
+TUTORIAL_MIDNIGHT_UNLOCK=<color=#FF911F>Midnight Zone</color>がアンロックされました! クオーター/ゾーン内のボスを全て倒すと、<color=#FF911F>Midnight Zone</color>で再び1対1で戦うことができ、挑戦して追加アイテムを獲得することができます!
+
+TUTORIAL_DININATION_SPHERE_UNLOCK=<color=#FF911F>[MATERIAL_DIVINATION_SPHERE_NAME]</color>は、[LOCATION_PANDEMONIC_DEPTH]でしか手に入らない非常に希少な素材です。
+TUTORIAL_DININATION_SPHERE_UNLOCK_DESC=[CONTEXT_NPC_SHORT_NAME_TORRAM]はこのスフィアを使って、弱いユニークなアーティファクトを<color=#FF911F>神性</color>バージョンに大幅に強化することができる。
+TUTORIAL_DININATION_SPHERE_UNLOCK_ATLAS_DESC=<color=#FF911F>[UI_ATLAS_TITLE]</color>で、神性アーティファクトの情報も表示されるようになりました。
+
+TUTORIAL_DICE_UNLOCK=隠れ家で<color=#FF911F>欲望のダイス</color>がアンロックされました。
+TUTORIAL_DICE_UNLOCK_DESC=ダイスはお金を支払えば様々なアイテムを提供します。良いものもあれば、そうでないものもあるでしょう。
+
+TUTORIAL_CURSE_UNLOCK=珍しい<color=#FF911F>[MATERIAL_CURSED_SOUL_NAME]</color>が出てきましたね。
+TUTORIAL_CURSE_CRAFT=<color=#FF911F>[CONTEXT_NPC_SHORT_NAME_TORRAM]</color>が<color=#FF911F>[MATERIAL_CURSED_SOUL_NAME]</color>を使って、別の方法でアイテムをクラフト、強化できるようになりました!
+TUTORIAL_CURSE_PURCHASE=また、<color=#FF911F>[MATERIAL_CURSED_SOUL_NAME]</color>を使って、<color=#FF911F>[UI_ATLAS_TITLE]</color>で見たことのあるアイテムを購入することができます。
+
+TUTORIAL_BEATING_GAME=ガーディアンを倒し、Mini Healerをクリアしたことを祝福します。<color=#B58300FF>Key of Infinity</color>を使って、どこまでできるかチャレンジしてみてくださいね。
+
+TUTORIAL_BATTLE_SELECT_CHARACTER_0=タンクがダメージを受けたようです。癒してあげましょう。
+TUTORIAL_BATTLE_SELECT_CHARACTER_1=まず、タンクの肖像画やヘルスバーのどこかをクリックして、<color=#B58300FF>彼を選択</color>します。
+TUTORIAL_BATTLE_SELECT_CHARACTER_2=また、キーボードのQ,W,E,Rを押して他の仲間を選択することもできます。
+
+TUTORIAL_BATTLE_SELECT_SPELL_0=よくできました。では、最初の呪文である<color=#ea8631>Lesser Heal</color>を彼にかけてみましょう!
+TUTORIAL_BATTLE_SELECT_SPELL_1=<color=#ea8631>呪文やアイコンにカーソルを合わせると、その効果を確認することができます。<br>そして、<color=#ea8631>1</color>を押すと、タンクにそれを唱えることができます!
+
+TUTORIAL_BATTLE_MANA_0=完治しました！<br>Bone Knightを倒して、宝庫に入ります。
+TUTORIAL_BATTLE_MANA_1=マナが足りないと呪文を唱えられないので気を付けて
+
+TUTORIAL_BATTLE_RENEW_0=おやおや、タンクが出血しているようですね。そんな時は、新しいスキルを使えば大丈夫。
+TUTORIAL_BATTLE_RENEW_1=<color=#ea8631>Renewがアンロックされました！</color><br>Renewは単一のターゲットを時間をかけて癒すのに最適です。<br><color=#ea8631>タンク</color>を選択し、<color=#ea8631>2</color>を押して唱えてみてください。
+
+TUTORIAL_BATTLE_NEGATE_0=一部の敵は自分自身に強力なバフをかけてくるので、注意して必要ならばそれを除去します。
+TUTORIAL_BATTLE_NEGATE_1=<color=#ea8631>Negateがアンロックされました！ </color><br>Negateは敵の強力なバフを消すことができます。<br>敵を選択してから<color=#ea8631>4</color>を押して唱えてみてください。
+
+TUTORIAL_BATTLE_SWITCH_0=Gumpが手下を召喚したようだ！
+TUTORIAL_BATTLE_SWITCH_1=<color=#B58300FF>敵をクリックすると、仲間全員の狙いがその敵に切り替わります。</color>。
+TUTORIAL_BATTLE_SWITCH_2=また、<color=#B58300FF>Tabキー</color>を押して切り替えることもできます。
+
+TUTORIAL_MOVEMENT=キーボードの<color=#B58300FF>A</color>や<color=#B58300FF>D</color>を押すことでヒーラーを動かすことができます。ボスのスキルをかわしたり、バトルフィールド上のアイテムとのやりとりに使うことができます。
+
+TUTORIAL_ENV_EFFECT=ステージによっては、<color=#B58300FF>環境効果</color>があるかもしれないので注意してください。<br><br>画面の左上のアイコンを見て、効果を確認できます。
+
+
+TUTORIAL_DISPEL_WATCH_OUT=自分のキャラクターに有害なデバフがかかっていないか注意してください。
+TUTORIAL_DISPEL_HOVER=<color=#ea8631><color=#ea8631>各デバフの上にカーソルを置くと効果が表示されます</color>。
+TUTORIAL_DISPEL_CAN_BE_DISPEL=<color=#ea8631>->Dispelで解除可能</color>。
+TUTORIAL_DISPEL_CAN_NOT_BE_DISPEL=<color=#ea8631>->Dispelで解除できない</color>。
+TUTORIAL_DISPEL_UNLOCK=<color=#ea8631>Dispelがアンロックされました！</color><br><br>Dispelは、あなたの仲間にある有害な効果を取り除くことができます。
+
+
+
+TUTORIAL_SKILL_ROOM_TITLE=スキルルームへようこそ！
+TUTORIAL_SKILL_ROOM_DESC=適切なスキルを戦闘に持ち込むことが成功の鍵となります。スキルの設定はここで行うことができます<br><br>自分がどのようなスキルをアンロックしたか、頻繁にここをチェックしてください。
+TUTORIAL_SKILL_ROOM_UPGRADE_DESC=また、冒険の途中で<color=#B58300FF>[MATERIAL_ANGELIC_CRYSTAL_NAME]</color>を見つけることができます。そのクリスタルを使って、スキルをレベルアップすることができます
+
+TUTORIAL_BOSS_JOURNAL=<color=#ea8631>ボス・ジャーナル</color>には、ボスに関する非常に有益な情報が記載されています。<br><br>ボスの全てがここでわかります！
+TUTORIAL_BOSS_LOOT_CHEST=<color=#ea8631>ルート・チェスト</color>には、ボスのユニークアイテムの情報が入っています！
+
+END
