@@ -5,7 +5,7 @@ DIALOG_QUEST_FREE_TORRAM_START_2=この牢屋を開けるには鍵が必要で�
 DIALOG_QUEST_FREE_TORRAM_END_0=ありがとうございました。また、[LOCATION_HIDDEN_HAVEN]でお会いしましょう!
 DIALOG_QUEST_TORRAM_INTRO_END_0=助けてくれて本当にありがとう。アイテムを強化したいときは、いつでも私に相談してくださいね。
 DIALOG_ORRA_QUEST_1_START_0=お待たせしました。[BOSS_ORRA_SHORT_NAME]だよ！この扉を安定させるのを手伝ってくれないか？手伝ってくれたら、アーマーの強化方法を教えてあげるよ。
-DIALOG_ORRA_QUEST_1_START_1=上記の<color=#B58300FF>無情のポータル</color>にある<color=#B58300FF>変則ボーンナイト</color>は、始めるために必要なフラグメントを持っているはずです。
+DIALOG_ORRA_QUEST_1_START_1=上記の<color=#B58300FF>無情のポータル</color>にある<color=#B58300FF>変則ボーンナイト</color>は、始めるために必要な断片を持っているはずです。
 DIALOG_ORRA_QUEST_1_END_0=この断片があれば、ポータルの安定化に着手できます。断片を手に入れてくれてありがとう。
 DIALOG_ORRA_QUEST_2_START_0=やばい、異次元の仲間がこっちの世界に入ってきた。気をつけてください、彼らは堕落しているようですし、アーティファクトも持っているようです。
 DIALOG_ORRA_QUEST_2_START_1=<color=#B58300FF>冷酷の門</color>の<color=#B58300FF>[BOSS_FALLEN_PARTY_NAME]</color>を倒してきなさい。
@@ -108,9 +108,9 @@ DIALOG_AURDON_IDLE_1_0=宝庫に平和を取り戻してくれてありがとう
 DIALOG_QUEST_FINISH_LOWMORE_START_0=ある日、空から隕石が落ちてきて、他の守護者がそのエネルギーで堕落してしまうまでは、私はこの場所の守護者の一人でした。
 DIALOG_QUEST_FINISH_LOWMORE_START_1=私はその影響から逃れることができましたが、他のガーディアンに捕まってしまい、私の体は封印されてしまいました。
 DIALOG_QUEST_FINISH_LOWMORE_START_2=長い年月の後、私は隕石の堕落を浄化する方法を見つけましたが、私の体といくつかのものを取り戻す必要があります。
-DIALOG_QUEST_FINISH_LOWMORE_START_3=私の後ろにあるのは、宝庫の<color=#B58300FF>'深み'への扉</color>で、鍵さえあればどこにでも開くことができる。
+DIALOG_QUEST_FINISH_LOWMORE_START_3=私の後ろにあるのは、宝庫の<color=#B58300FF>深淵への扉</color>で、鍵さえあればどこにでも開くことができる。
 DIALOG_QUEST_FINISH_LOWMORE_START_4=私は<color=#B58300FF>[DEPTH_NAME_LOWMORE]</color>の鍵を持っているので、次の地図の断片がその中にあることは確実です。
-DIALOG_QUEST_FINISH_LOWMORE_START_5=<color=#B58300FF>[DEPTH_NAME_LOWMORE]</color>に移動し、地図の断片を見つける。<color=#B58300FF>'深み'への扉</color>の中のものは動き回っていて、同じものはないので注意が必要です。
+DIALOG_QUEST_FINISH_LOWMORE_START_5=<color=#B58300FF>[DEPTH_NAME_LOWMORE]</color>に移動し、地図の断片を見つける。<color=#B58300FF>深淵への扉</color>の中のものは動き回っていて、同じものはないので注意が必要です。
 DIALOG_QUEST_FINISH_LOWMORE_START_6=<color=#B58300FF>[LOCATION_PANDEMONIC_DEPTH]</color>の敵も非常に強いので、この球体を持っておくと、強い敵にも対応しやすくなるぞ。
 
 DIALOG_QUEST_FINISH_LOWMORE_PENDING_0=<color=#B58300FF>[DEPTH_NAME_LOWMORE]</color>に移動すると、一番奥の部屋の一つに次の地図の断片があるはずです。
@@ -129,6 +129,6 @@ DIALOG_QUEST_DEFEAT_ALL_GUARDIANS_START_1=堕落を浄化するには、各ガ�
 DIALOG_QUEST_DEFEAT_ALL_GUARDIANS_START_2=守護者たちを倒して紋章を手に入れ、私の体を封印から解放してください。
 DIALOG_QUEST_DEFEAT_ALL_GUARDIANS_PENDING_0=宝庫の運命は君の手にかかっている。ここまでやる人は見たことがないので、あなたを全面的に信頼しています。
 DIALOG_QUEST_DEFEAT_ALL_GUARDIANS_END_0=本当にやってくれたなんて信じられません。この日が来るのを待っていました。
-DIALOG_QUEST_DEFEAT_ALL_GUARDIANS_END_1=また、私は<color=#B58300FF>'深み'への扉</color>のもう一つの鍵を持っています。この鍵は、アビスよりもはるかに危険な場所につながるので、注意して使ってください。
+DIALOG_QUEST_DEFEAT_ALL_GUARDIANS_END_1=また、私は<color=#B58300FF>深淵への扉</color>のもう一つの鍵を持っています。この鍵は、アビスよりもはるかに危険な場所につながるので、注意して使ってください。
 
 END
