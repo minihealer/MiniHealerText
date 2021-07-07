@@ -30,6 +30,7 @@ UI_ENTER_TEXT=Enter text
 UI_LEVEL=Level
 UI_MASTERY=Mastery
 UI_PURCHASE=Purchase
+UI_PURCHASE_ONE=Purchase one
 UI_PURCHASE_ALL=Purchase all
 UI_PURCHASE_HINT=Purchase hint
 UI_FEED=Add
@@ -66,6 +67,9 @@ UI_GOLEM_ATTACK=Golem attack?
 UI_X_OR_Y={0} or {1}
 UI_X_Y_OR_Z={0}, {1}, or {2}
 UI_A_QUICK_TIP=Did you know
+UI_LEAVE=Leave
+UI_SNATCH=Snatch
+UI_RESTOCK=Restock
 
 UI_MENU_DIFFICULTY=Choose a Difficulty
 UI_MENU_DIFFICULTY_DESC=You can change them later!
@@ -155,10 +159,13 @@ UI_COMBATLOG_DESC=Select a party member to view their detailed information about
 UI_COMBATLOG_DMG_DONE=Damage Done
 UI_COMBATLOG_TOTAL_DMG_DONE=Total damage done: {0}<br>({1}% of all damage done)
 UI_COMBATLOG_HEALING_DONE=Healing Done
+UI_COMBATLOG_KILLED_BY=Killed by:
+UI_COMBATLOG_LETHAL_DAMAGE=Lethal damage
 UI_COMBATLOG_TOTAL_HEALING_DONE=Total healing done: {0}<br>({1}% of all healing done)
 UI_COMBATLOG_HEALING_RECEIVED=Healing Received
 UI_COMBATLOG_TOTAL_HEALING_RECEIVED=Total healing received: {0}<br>({1}% of all healing received)
-
+UI_COMBATLOG_DMG_TAKEN=Damage Taken
+UI_COMBATLOG_TOTAL_DMG_TAKEN=Total damage taken: {0}<br>({1}% of all damage taken)
 UI_SKILL_SETUP_TITLE=Skills Setup
 UI_SKILL_SETUP_DESC=Learn and set up your skills here before you venture into the darkness
 UI_SKILL_CAN_CRITICALLY_HEAL=Can critically heal
@@ -192,6 +199,14 @@ UI_SKILL_SETUP_CURRENT_DMG_PER_SECOND=Current damage: {0} per second
 UI_SKILL_SETUP_DMG_REDUCTION=Damage reduction: {0}
 UI_SKILL_SETUP_HEALTH_RESTORED=Health restored: {0}
 
+UI_SKILL_MISSING_HEALTH_PERCENTAGE=Total healing: {0} + {1}% of missing health
+UI_SKILL_MAXIMUM_HEALTH_PERCENTAGE=Total healing: {0} + {1}% of [ATTRIBUTE_MAXIMUM_HEALTH]
+UI_SKILL_MAXIMUM_HEALTH_SELF_DMG=Total self damage: {0}% of [ATTRIBUTE_MAXIMUM_HEALTH] as [ATTRIBUTE_PHYSICAL_DAMAGE]
+
+UI_SKILL_DISABLED=Disabled!
+UI_SKILL_CANNOT_BE_CASTED_WHEN_DEAD=Can not cast this spell when dead
+
+
 UI_SKILL_SETUP_BASE_HEALTH_REGEN=Base health regeneration: {0} per second
 UI_SKILL_SETUP_TOTAL_HEALTH_REGEN=Total health regeneration: {0} per second
 
@@ -222,6 +237,7 @@ UI_MALEVOLENT_SHRINE_TITLE=[DEPTH_ROOM_NAME_MALEVOLENT_SHRINE]
 UI_MALEVOLENT_SHRINE_DESC=The [DEPTH_ROOM_NAME_MALEVOLENT_SHRINE] can lock an attirbute of an non unique artifact. Locked attribute will not change when rerolled from Torram's Cursed Crafting
 
 UI_BLACKSMITH_INVENTORY=Equipped items & Inventory
+UI_BLACKSMITH_MATERIAL_INVENTORY=Material Inventory
 UI_BLACKSMITH_EMPTY_TEXT=Select an artifact to view its crafting options
 UI_BLACKSMITH_MAT_USED=Material used on this artifact
 UI_BLACKSMITH_ENCHANT_LOCKED_TEXT=Complete more {0} quests to unlock
@@ -290,6 +306,8 @@ UI_BLACKSMITH_CLEANSE_MUTATION_DESC=Cleanse all mutations on the artifact
 UI_BLACKSMITH_HASNT_MUTATED=Artifact does not have mutations
 UI_BLACKSMITH_DIVINATION_ORB_TUT=What's a [MATERIAL_DIVINATION_SPHERE_NAME]
 
+UI_TINKERSPARK_DESC=Stock and individual prices will vary everytime
+
 UI_MUTZ_HEAVEN_DESC=Keeper of Haven
 UI_SETTINGS_HEAVEN_DESC=Change and setup your preferences
 UI_ACHIEVEMENTS_HEAVEN_DESC=View your achievements and progress
@@ -302,6 +320,9 @@ UI_VAULT_WAYPOINTS_HEAVEN_DESC=Venture into the Vault
 UI_CHAOS_SHRINE_HEAVEN_DESC=Generates Chaos Crystals overtime
 UI_DICE_OF_GREED_HEAVEN_DESC=Mysterious artifacts at a cost of a bit of gold
 UI_TORROM_HEAVEN_DESC=Upgrade artifacts
+UI_WARDROBE_DESC=Change the way your party looks
+UI_ANAPIEL_HEAVEN_DESC=Teleport to the [LOCATION_AIRENE_TOWER]
+UI_ANAPIEL_AIRENE_DESC=Teleport back to [LOCATION_HIDDEN_HAVEN]
 
 UI_DIALOG_SKIP=Press ESC to skip
 UI_DIALOG_CONTINUE=Click to continue
@@ -384,7 +405,7 @@ UI_TOOLTIP_ENERGY_CHARGE_DESC=Charging energy
 UI_TOOLTIP_VIVID_NAME=Vivid
 UI_TOOLTIP_VIVID_DESC=Increase all healing over time effect by {0}%
 
-UI_TOOLTIP_GATHERED_WIND_NAME=Garthered Wind
+UI_TOOLTIP_GATHERED_WIND_NAME=Gathered Wind
 UI_TOOLTIP_GATHERED_WIND_DESC=Gathered some wind, moving will consume the wind
 
 UI_TOOLTIP_GUST_NAME=Gust
@@ -400,7 +421,7 @@ UI_TOOLTIP_VOID_AURA_NAME=Void Aura
 UI_TOOLTIP_VOID_AURA_DESC=Aura of the void, this aura does nothing
 
 UI_TOOLTIP_DECREPIFICATION_AURA_NAME=Decrepification Aura
-UI_TOOLTIP_DECREPIFICATION_AURA_DESC=Reduce all enemies' [ATTRIBUTE_BLOCK_CHANCE_TEXT], [ATTRIBUTE_DODGE_CHANCE_TEXT], and [ATTRIBUTE_ELE_RESISTS_TEXT] by 10%
+UI_TOOLTIP_DECREPIFICATION_AURA_DESC=Reduce all enemies' [ATTRIBUTE_BLOCK_CHANCE_TEXT], [ATTRIBUTE_DODGE_CHANCE_TEXT], and [ATTRIBUTE_ALL_RESISTS_TEXT] by 10%
 
 UI_TOOLTIP_SANGUINE_AURA_NAME=Sanguine Aura
 UI_TOOLTIP_SANGUINE_AURA_DESC=Increased [ATTRIBUTE_PHYSICAL_DAMAGE] by 8% <br>Increased [ATTRIBUTE_PHYSICAL_RESIST] by 2%
@@ -417,6 +438,25 @@ UI_TOOLTIP_FLAME_AURA_DESC=[ATTRIBUTE_BASE_FIRE_DAMAGE] increased
 UI_TOOLTIP_FROST_AURA_NAME=Frost Aura
 UI_TOOLTIP_FROST_AURA_DESC=[ATTRIBUTE_BASE_ICE_DAMAGE] increased
 
+
+
+
+UI_TOOLTIP_GARRISON_NAME=Garrison
+UI_TOOLTIP_GARRISON_DESC=[ATTRIBUTE_BLOCK_CHANCE_TEXT] increased by {0}% <br>[ATTRIBUTE_ALL_DAMAGE_TAKEN] reduced by {1}%
+
+UI_TOOLTIP_FAITH_NAME=Faith
+UI_TOOLTIP_FAITH_DESC=[ATTRIBUTE_HEALING_RECEIVED] increased by {0}% and [ATTRIBUTE_ELE_RESISTS_TEXT] increased by {1}% for {2} seconds <br>Stacks up to {3} times
+
+UI_TOOLTIP_MIGHT_NAME=Might
+UI_TOOLTIP_MIGHT_DESC=[ATTRIBUTE_BASE_DAMAGE_TEXT] increased by {0}% for {1} seconds <br>Stacks up to {2} times
+
+UI_TOOLTIP_FEROCITY_NAME=Ferocity
+UI_TOOLTIP_FEROCITY_DESC=[ATTRIBUTE_CRITICAL_STRIKE_CHANCE_TEXT] increased by {0}% for {1} seconds <br>Stacks up to {2} times
+
+
+
+
+
 UI_TIP_TALENT_STRONG=Generally the deeper the talent, the stronger it is
 UI_TIP_READ_ABILITY=You can read and understand a boss by checking out their boss journal before going into a fight
 UI_TIP_PAUSE_READ=You can hover and read what each effect does while the game is paused
@@ -429,5 +469,7 @@ UI_TIP_HIGH_LVL_DIVINE_ITEM=Using [MATERIAL_DIVINATION_SPHERE_NAME] on an unique
 UI_TIP_HIGH_LVL_CRAFT_ITEM=Augmenting with [CONTEXT_NPC_SHORT_NAME_TORRAM] is a very nice way of gaining quick improvements 
 UI_TIP_HIGH_LVL_UPGRADE_AUGMENT=Augments can be upgrade with [MATERIAL_THE_MAKER_NAME]
 
+UI_TRANSMOG_IN_USE=In Use
+UI_TRANSMOG_DEFAULT=Default
 
 END

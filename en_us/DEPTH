@@ -136,6 +136,12 @@ DEPTH_ROOM_DESC_CURSED_POTION=Replaces all monster rooms with a single cursed ro
 DEPTH_ROOM_NAME_MALEVOLENT_SHRINE=Malevolent Shrine
 DEPTH_ROOM_DESC_MALEVOLENT_SHRINE=A powerful shrine that can permanently lock an attribute of an item
 
+DEPTH_ROOM_NAME_TORI_NAME=[CONTEXT_NPC_NAME_TORRI]
+DEPTH_ROOM_NAME_TORI_DESC=Traveling merchant from the [LOCATION_AIRENE_TOWER]
+
+DEPTH_ROOM_NAME_ANAPIEL_NAME=[CONTEXT_NPC_NAME_ANAPIEL]
+DEPTH_ROOM_NAME_ANAPIEL_DESC=Challenges you with special bosses found in the [LOCATION_AIRENE_TOWER]
+
 DEPTH_ROOM_NAME_ORRA=[BOSS_ORRA_SHORT_NAME]'s Challenge
 DEPTH_ROOM_DESC_ORRA=Defeat [BOSS_ORRA_SHORT_NAME] to acquire an anomalous armor
 DEPTH_ROOM_NAME_MEVOR=[BOSS_MEVOR_SHORT_NAME]'s Challenge

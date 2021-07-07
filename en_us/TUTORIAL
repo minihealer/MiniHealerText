@@ -26,7 +26,7 @@ TUTORIAL_EDWIN_INTRO=Torram can now enchant additional attributes to all your <c
 TUTORIAL_EDWIN_ATTRIBUTES=Torram can now enchant stronger and more attributes!
 TUTORIAL_TRIO_CHAOS=You have acquired 1 <color=#B58300FF>Astral Fragments</color>
 TUTORIAL_TRIO_CHAOS_COLLECT=Collect
-TUTORIAL_TRIO_CHAOS_MORE=more fragments to unlock an anddtional item slot in the armory
+TUTORIAL_TRIO_CHAOS_MORE=more fragments to unlock an additional item slot in the armory
 TUTORIAL_TRIO_CHAOS_DONE=The <color=#B58300FF>Chaos Slot</color> is now unlocked in the armory
 
 TUTORIAL_MASTERY_UNLOCK_TITLE=Congratulations on reaching <color=#FF911F>level 10</color>!
@@ -45,14 +45,17 @@ TUTORIAL_DININATION_SPHERE_UNLOCK=<color=#FF911F>[MATERIAL_DIVINATION_SPHERE_NAM
 TUTORIAL_DININATION_SPHERE_UNLOCK_DESC=Torram can use the sphere to significantly upgrade weaker unique artifacts to their <color=#FF911F>divine</color> versions
 TUTORIAL_DININATION_SPHERE_UNLOCK_ATLAS_DESC=<color=#FF911F>The Atlas</color> will now also display divine information of an artifact
 
-TUTORIAL_DICE_UNLOCK=The <color=#FF911F>Dice of Greed</color> is now unlocked at the Hidden Haven
+TUTORIAL_DICE_UNLOCK=The <color=#FF911F>Dice of Greed</color> is now unlocked at the [LOCATION_HIDDEN_HAVEN]
 TUTORIAL_DICE_UNLOCK_DESC=The dice offers a variety of items at a cost. Some will be good, some will not
 
 TUTORIAL_CURSE_UNLOCK=Woa, that's a very rare <color=#FF911F>Cursed Soul</color> you got there!
 TUTORIAL_CURSE_CRAFT=<color=#FF911F>Torram</color> can now use <color=#FF911F>Cursed Soul</color> to craft and upgrade items in a different way!
 TUTORIAL_CURSE_PURCHASE=You can also use <color=#FF911F>Cursed Soul</color> to purchase most items you have seen in the <color=#FF911F>Atlas</color>
 
-TUTORIAL_BEATING_GAME=Congratulation on defeating the guardians and beating Mini Healer! You can challenge yourself by using the <color=#B58300FF>Key of Infinity</color> in depth and see how far you can go!
+TUTORIAL_BEATING_GAME=Congratulation on defeating the guardians and beating Mini Healer! You are free to challenge yourself with the following game modes depending on your preferences.
+TUTORIAL_BEATING_GAME_DEPTH=If you wish to min max your build then challenge yourself by using the <color=#B58300FF>Key of Infinity</color> in depth and see how far you can go!
+TUTORIAL_BEATING_GAME_TOWER=If you wish to try out a little bit of a roguelike experience then talk to [CONTEXT_NPC_NAME_ANAPIEL] at the [LOCATION_HIDDEN_HAVEN] and head to the [LOCATION_AIRENE_TOWER]!
+
 
 TUTORIAL_BATTLE_SELECT_CHARACTER_0=Looks like our Tank has taken some damage.  Let's heal him up!
 TUTORIAL_BATTLE_SELECT_CHARACTER_1=First, <color=#B58300FF>select</color> him by clicking anywhere on his portrait or health bar

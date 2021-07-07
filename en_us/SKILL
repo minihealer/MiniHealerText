@@ -37,6 +37,18 @@ SKILL_DESC_MANA_COST=[ATTRIBUTE_MANA_COST]: {0}
 SKILL_LESSER_HEAL_NAME=Lesser Heal
 SKILL_LESSER_HEAL_DESC=A small but effective heal
 SKILL_LESSER_HEAL_SHORT_DESC=[SKILL_LESSER_HEAL_DESC]
+SKILL_DIVINE_NOVA_NAME=Divine Nova
+SKILL_DIVINE_NOVA_DESC=Cast a shielding nova to shield all party members for a short duration
+SKILL_DIVINE_NOVA_SHORT_DESC=[SKILL_DIVINE_NOVA_DESC]
+SKILL_MYSTIC_BOLT_NAME=Mystic Bolt
+SKILL_MYSTIC_BOLT_DESC=Shoot out 2 healing bolts that heals 2 party members with the lowest health
+SKILL_MYSTIC_BOLT_SHORT_DESC=[SKILL_MYSTIC_BOLT_DESC]
+SKILL_LIFE_FUNNEL_NAME=Life Funnel
+SKILL_LIFE_FUNNEL_DESC=Heal the target based on your [ATTRIBUTE_MAXIMUM_HEALTH]. <br>But also takes [ATTRIBUTE_PHYSICAL_DAMAGE] based on your own [ATTRIBUTE_MAXIMUM_HEALTH]. <br>Can not be cast when dead
+SKILL_LIFE_FUNNEL_SHORT_DESC=[SKILL_LIFE_FUNNEL_DESC]
+SKILL_ANCESTRAL_HEAL_NAME=Ancestral Heal
+SKILL_ANCESTRAL_HEAL_DESC=Shield the target as well as placing a small heal overtime on them
+SKILL_ANCESTRAL_HEAL_SHORT_DESC=[SKILL_ANCESTRAL_HEAL_DESC]
 SKILL_RENEW_NAME=Renew
 SKILL_RENEW_DESC=Heal the target every second
 SKILL_RENEW_SHORT_DESC=A small heal over time
@@ -55,6 +67,9 @@ SKILL_FLASH_HEAL_SHORT_DESC=[SKILL_FLASH_HEAL_DESC]
 SKILL_REJUVENATE_NAME=Rejuvenate
 SKILL_REJUVENATE_DESC=Restore a small amount of mana per second for a short duration
 SKILL_REJUVENATE_SHORT_DESC=Restore a small amount of mana over a short duration
+SKILL_REJUVENATE_TOWER_DESC=Restore a small amount of mana
+SKILL_REJUVENATE_TOWER_DETAIL_DESC=Restore {0} mana
+SKILL_REJUVENATE_TOWER_SHORT_DESC=[SKILL_REJUVENATE_TOWER_DESC]
 SKILL_SPIRIT_ORB_NAME=Spirit Orb
 SKILL_SPIRIT_ORB_DESC=Place a Spirit Orb on the target, Spirit Orb will explode when the target takes damage, healing The target
 SKILL_SPIRIT_ORB_SHORT_DESC=Place an orb on the target that heals when taken damage
@@ -111,8 +126,8 @@ SKILL_SMITE_DESC=Smite the target, dealing moderate [ATTRIBUTE_LIGHTNING_DAMAGE]
 SKILL_SMITE_SHORT_DESC=Smite target, dealing damage and increasing damage taken
 
 SKILL_ANGELIC_INFUSION_NAME=Angelic Infusion
-SKILL_ANGELIC_INFUSION_DESC=Infuse the party with an angel's blessing, massively increasing [ATTRIBUTE_INCREASE_HEALPOWER_FLAT_TEXT] and [ATTRIBUTE_CAST_SPEED] as well as reducing all skills' mana cost for a short duration
-SKILL_ANGELIC_INFUSION_SHORT_DESC=Massively increase [ATTRIBUTE_INCREASE_HEALPOWER_FLAT_TEXT] and [ATTRIBUTE_CAST_SPEED] for a short duration
+SKILL_ANGELIC_INFUSION_DESC=Infuse the party with an angel's blessing, massively increasing healpower and cast speed as well as reducing all skills' mana cost for a short duration
+SKILL_ANGELIC_INFUSION_SHORT_DESC=Massively increase Healpower and cast speed for a short duration
 
 SKILL_REVIVE_NAME=Revive
 SKILL_REVIVE_DESC=A very long cast to revive a party member to a certain health percentage from death. <br><br>Can not cast [SKILL_REVIVE_NAME] while dead
@@ -173,7 +188,7 @@ SKILL_SANCTUARY_DESC=Bless the target with an ultimate divine sanctuary. Making 
 SKILL_SANCTUARY_SHORT_DESC=Bless the target with an immunity shield
 
 SKILL_RADIANCE_NAME=Radiance
-SKILL_RADIANCE_DESC=Cast to toggle [TALENT_RING_OF_INFLUENCE_NAME] to heal all party members inside the radius per second and drain mana every 2 seconds <br>Cast again to toggle off
+SKILL_RADIANCE_DESC=Cast to toggle [TALENT_RING_OF_INFLUENCE_NAME] to heal all other party members inside the radius every 2 seconds and drain mana every 2 seconds <br><br>Cast again to toggle off
 SKILL_RADIANCE_SHORT_DESC=Toggle [TALENT_RING_OF_INFLUENCE_NAME] to heal but drains mana
 
 SKILL_DIVINE_FOCUS_NAME=Divine Focus
@@ -836,4 +851,25 @@ SKILL_ORRA_REQUEST_NAME=Orra's Request
 SKILL_BLOOD_SACRIFICE_NAME=Blood Sacrifice
 SKILL_TELEPORT_PORTAL_NAME=Teleport Portal
 
-END
+SKILL_IGNITE_NAME=Ignite
+SKILL_ENGULF_NAME=Engulf
+SKILL_ETERNAL_FROST_NAME=Eternal Frost
+SKILL_FREEZING_PULSE_NAME=Freezing Pulse
+SKILL_THORN_NAME=Thorn
+SKILL_THORN_DESC=Taunt the party, making all party members have to attack the caster for a short duration, also dealing moderate [ATTRIBUTE_PHYSICAL_DAMAGE] to all attackers
+
+SKILL_SHOCK_NAME=Shock
+SKILL_RECHARGE_NAME=Recharge
+
+SKILL_DEEP_FROST_NAME=Deep Frost
+
+SKILL_DUSKWIND_NAME=Duskwind
+SKILL_CONVERGE_NAME=Converge
+SKILL_DECIMATE_NAME=Decimate
+SKILL_BLACKOUT_NAME=Blackout
+
+
+SKILL_THUNDERCLOUD_NAME=Thundercloud
+SKILL_STATIC_STRIKE_NAME=Static Strike
+SKILL_ENERGY_DISRUPTION_NAME=Energy Disruption
+SKILL_WATER_ERUPTION_NAME=Water Eruption
