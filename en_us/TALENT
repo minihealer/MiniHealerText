@@ -224,13 +224,13 @@ TALENT_DIVINE_PURPOSE_DESC=Increase [ATTRIBUTE_INCREASE_HEALPOWER_FLAT_TEXT] by 
 TALENT_DIVINE_PURPOSE_MASTERY_DESC=% Divine Purpose health threshold
 TALENT_UNITY_CRIT_CHANCE_DESC=Increase [ATTRIBUTE_CRITICAL_HEAL_CHANCE] by {0}% per aura affecting the [CONTEXT_PARTY_MEMBER_NAME_HEALER]
 TALENT_UNITY_CRIT_MULTI_DESC=Increase [ATTRIBUTE_CRITICAL_HEAL_MULTI] by {0}% per aura affecting the [CONTEXT_PARTY_MEMBER_NAME_HEALER]
-TALENT_SALVATION_DESC=[CONTEXT_PARTY_MEMBER_NAME_HEALER] will occasionally cast [SKILL_SALVATION_NAME], reducing [ATTRIBUTE_ALL_DAMAGE_TAKEN] by {0}% and increasing [ATTRIBUTE_ALL_DAMAGE_DEALT] by {1}%
+TALENT_SALVATION_DESC=[CONTEXT_PARTY_MEMBER_NAME_HEALER] will occasionally cast [SKILL_SALVATION_NAME], reducing [ATTRIBUTE_ALL_DAMAGE_TAKEN] by {0}% and increasing all [ATTRIBUTE_LIGHTNING_DAMAGE] and [ATTRIBUTE_FIRE_DAMAGE] dealt by {1}%
 TALENT_SALVATION_MASTERY_DESC=% Salvation damage reduction bonus
 TALENT_THUNDER_ASSAULT_DESC=Every [CONTEXT_PARTY_MEMBER_NAME_HEALER]'s 3rd attack will deal {0} + ({1}% * [ATTRIBUTE_INCREASE_HEALPOWER_FLAT_TEXT]) [ATTRIBUTE_LIGHTNING_DAMAGE] to all enemies.
 
 TALENT_ABUNDANT_GROWTH_MANA_DESC=Everytime [LINK_SKILL_RENEW] heals a target, there's a {0}% chance to restore {1} mana
 TALENT_SPIRIT_CONNECTION_DESC=[LINK_SKILL_SPIRIT_RITUAL] also increases healing received by {0}% per stack
-TALENT_POISION_DESC=[CONTEXT_PARTY_MEMBER_NAME_RANGER]'s attack have a {0}% chance to poison enemy, dealing {1} [CONTEXT_ELEMENT_NEMESIS] damage over {2} seconds
+TALENT_POISION_DESC=[CONTEXT_PARTY_MEMBER_NAME_RANGER]'s attack have a {0}% chance to poison enemy, dealing {1} as [CONTEXT_ELEMENT_NEMESIS] damage over {2} seconds
 TALENT_POISION_RANGER_SCALING_DESC={0} + ({1}% [CONTEXT_PARTY_MEMBER_NAME_RANGER]'s [ATTRIBUTE_BASE_DAMAGE_TEXT])
 TALENT_STAR_CALL_DESC=[LINK_SKILL_STAR_CALL] has a {0}% chance to hit all enemies, dealing {1}% of the damage to all secondary targets
 TALENT_IRON_VINE_DESC=[LINK_SKILL_IRON_VINES] also increases [ATTRIBUTE_INCREASE_HEALPOWER_FLAT_TEXT] by {0}%
@@ -465,13 +465,13 @@ TALENT_SEIZE_THE_MOMENT_NAME=Seize the Moment
 TALENT_SEIZE_THE_MOMENT_DESC=[LINK_SKILL_DIVINE_FOCUS] now start its cooldown when it is casted instead of when it is consumed
 
 TALENT_IMMOVABLE_FORTRESS_NAME=Immovable Fortress
-TALENT_IMMOVABLE_FORTRESS_DESC=Reduce the effect of all movement speed slowing effects by {0}% <br><br>Reduce the duration of all slience effects by {1}% <br><br>When the [CONTEXT_PARTY_MEMBER_NAME_HEALER] stands still for {2} seconds, she will take {3}% less all damage 
+TALENT_IMMOVABLE_FORTRESS_DESC=Reduce the effect of all movement speed slowing effects by {0}% <br><br>Reduce the duration of all silence effects by {1}% <br><br>When the [CONTEXT_PARTY_MEMBER_NAME_HEALER] stands still for {2} seconds, she will take {3}% less all damage 
 
 TALENT_RING_OF_INFLUENCE_NAME=Ring of Influence
-TALENT_RING_OF_INFLUENCE_DESC=[CONTEXT_PARTY_MEMBER_NAME_HEALER] gains an Influential Ring. <br><br>Other party memebers within the ring gain {0}% [ATTRIBUTE_HEALING_RECEIVED]
+TALENT_RING_OF_INFLUENCE_DESC=[CONTEXT_PARTY_MEMBER_NAME_HEALER] gains an Influential Ring. <br><br>Other party members within the ring gain {0}% [ATTRIBUTE_HEALING_RECEIVED]
 
 TALENT_VENGEFUL_CRUSADE_NAME=Vengeful Crusade
-TALENT_VENGEFUL_CRUSADE_DESC=[LINK_SKILL_HAMMER_OF_RECKONING] now has 2 charges. <br><br>At level 3, [LINK_SKILL_HAMMER_OF_RECKONING] will also deal [ATTRIBUTE_FIRE_DAMAGE] equal to {0}% of its damage dealt over {1} seconds if it consumed at least {2} [LINK_SKILL_SEAL_OF_LIGHT]
+TALENT_VENGEFUL_CRUSADE_DESC=[LINK_SKILL_HAMMER_OF_RECKONING] now has 2 charges
 
 TALENT_INQUISITION_NAME=Inquisition
 TALENT_INQUISITION_DESC=Whenver [LINK_SKILL_DIVINE_MEND] , [LINK_SKILL_LESSER_HEAL] , [LINK_SKILL_CLEANSING_RAY] , [LINK_SKILL_FLASH_HEAL] critically heals, the cooldown of [LINK_SKILL_DIVINE_FOCUS] is reduced by {0} seconds
@@ -517,7 +517,7 @@ TALENT_WORSHIP_DESC=All party members will gain a shield equal to {0}% of [ATTRI
 TALENT_WORSHIP_MASTERY_DESC=-1 second needed to trigger [TALENT_WORSHIP_NAME]
 
 TALENT_TRAIL_OF_FATE_NAME=Trail of Fate
-TALENT_TRAIL_OF_FATE_DESC=[LINK_SKILL_RADIANT_HEAL] will apply Fate effect on the healed target for {0} seconds. <br><br>When Fate effect expires, it will heal the target again for {1}% of healpower as well as dealing [ATTRIBUTE_FIRE_DAMAGE] equal to {2}% of healpower to all enemies
+TALENT_TRAIL_OF_FATE_DESC=[LINK_SKILL_RADIANT_HEAL] will apply Fate effect on the healed target for {0} seconds. When Fate effect expires, it will heal the target again for {1}% of healpower
 TALENT_TRAIL_OF_FATE_MASTERY_DESC=-1 second Fate effect duration
 
 TALENT_REVIVE_NAME=Revive

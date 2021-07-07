@@ -98,6 +98,15 @@ DIALOG_MUZ_IDLE_0=Some days I wish I have a body, so I can finally clean this pl
 DIALOG_ORRA_IDLE_1_0=Sometimes there are things that will come out of the portal from other diemension and I will need your help to defend it.
 DIALOG_ORRA_IDLE_2_0=Now I can finally spend some time to enjoy the food.
 
+DIALOG_HAVEN_ANAPIEL_IDLE_1_0=Want to head to the [LOCATION_AIRENE_TOWER] and challenge your abilities with limited resources?
+DIALOG_HAVEN_ANAPIEL_ACTION_BTN_TEXT_1=Go to [LOCATION_AIRENE_TOWER]
+
+DIALOG_AIRENE_ANAPIEL_IDLE_1_0=Ready to head back to [LOCATION_HIDDEN_HAVEN]?
+DIALOG_AIRENE_ANAPIEL_ACTION_BTN_TEXT_1=Go back
+
+DIALOG_AIRENE_ANAPIEL_INSIDE_IDLE_1_0=Are you sure you want to exit the tower? You won't be able to come back!
+DIALOG_AIRENE_ANAPIEL_INSIDE_ACTION_BTN_TEXT_1=Head out
+
 DIALOG_MEVOR_IDLE_1_0=...
 DIALOG_EDWIN_IDLE_1_0=Me, Orra, and Mevor have been guarding the portals for eternity. Monsters and corrupted parties from other diemensions wants to acquire the power here. We don't know how to close the portals so it's our job to keep them out of the Vault.
 DIALOG_GOLEM_IDLE_1_0=Golem good, Golem helps you test your skills and abilities.

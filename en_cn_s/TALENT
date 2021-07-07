@@ -517,7 +517,7 @@ TALENT_WORSHIP_DESC=每持续引导{1}秒，所有队员获得护盾效果，相
 TALENT_WORSHIP_MASTERY_DESC=-1秒触发效果所需引导时间[TALENT_WORSHIP_NAME]
 
 TALENT_TRAIL_OF_FATE_NAME=命运轨迹
-TALENT_TRAIL_OF_FATE_DESC=[LINK_SKILL_RADIANT_HEAL]对被治疗的目标施加命运效果，在{0}秒后消失。<br><br>当命运效果消失时，会再次治疗目标{1}%治疗强度并且对所有敌人造成{2}%治疗强度的[ATTRIBUTE_FIRE_DAMAGE]
+TALENT_TRAIL_OF_FATE_DESC=[LINK_SKILL_RADIANT_HEAL]对被治疗的目标施加命运效果，在{0}秒后消失。<br><br>当命运效果消失时，会再次治疗目标{1}%
 TALENT_TRAIL_OF_FATE_MASTERY_DESC=-1秒命运消失所需时间
 
 TALENT_REVIVE_NAME=复活

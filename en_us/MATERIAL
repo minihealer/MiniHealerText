@@ -167,4 +167,10 @@ MATERIAL_PEM_NAME=Pem
 MATERIAL_PEM_DESC=A rune that can be socketed into a rune socket to provide additional power to an artifact, if socketed with the correct order on a correct type of item then it will unlock additional power
 MATERIAL_RA_NAME=Ra
 MATERIAL_RA_DESC=A rune that can be socketed into a rune socket to provide additional power to an artifact, if socketed with the correct order on a correct type of item then it will unlock additional power
+
+MATERIAL_SOLARSILK_NAME=Solarsilk
+MATERIAL_SOLARSILK_DESC=<color=#B58300FF>[MATERIAL_SOLARSILK_NAME]</color> is a rare material that is mostly found in the <color=#B58300FF>[LOCATION_AIRENE_TOWER]</color>. Typically used in crafting magical items that can change the way you look. <br><br>Sometimes in the [DEPTH_NAME_INFINITE_CORRIDOR] there will be a traveling merchant that will also offer a few <color=#B58300FF>[MATERIAL_SOLARSILK_NAME]</color> for a price
+MATERIAL_SOLARSILK_GLOBAL_DESC=<color=#B58300FF>Acquired [MATERIAL_SOLARSILK_NAME] is useable across all save slots</color>
+
+
 END
