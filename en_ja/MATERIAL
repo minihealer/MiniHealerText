@@ -167,4 +167,10 @@ MATERIAL_PEM_NAME=Pem
 MATERIAL_PEM_DESC=ルーンソケットに差し込むことで、アーティファクトに追加のパワーを与えることができる。正しいタイプのアイテムに正しい順序で差し込めば、追加のパワーがアンロックされる。
 MATERIAL_RA_NAME=Ra
 MATERIAL_RA_DESC=ルーンソケットに差し込むことで、アーティファクトに追加のパワーを与えることができる。正しいタイプのアイテムに正しい順序で差し込めば、追加のパワーがアンロックされる。
+
+MATERIAL_SOLARSILK_NAME=ソーラーシルク
+MATERIAL_SOLARSILK_DESC=<color=#B58300FF>[MATERIAL_SOLARSILK_NAME]</color>は<color=#B58300FF>[LOCATION_AIRENE_TOWER]</color>で見つかる貴重な材料です。見た目を変更することができるマジックアイテムの作成に使われます。<br><br>時々、[DEPTH_NAME_INFINITE_CORRIDOR]で少量の<color=#B58300FF>[MATERIAL_SOLARSILK_NAME]</color>を売ってくれる行商が現れます。
+MATERIAL_SOLARSILK_GLOBAL_DESC=<color=#B58300FF>獲得した[MATERIAL_SOLARSILK_NAME]は、全てのセーブスロットで共有されます</color>
+
+
 END

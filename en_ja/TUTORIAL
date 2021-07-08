@@ -53,6 +53,9 @@ TUTORIAL_CURSE_CRAFT=<color=#FF911F>[CONTEXT_NPC_SHORT_NAME_TORRAM]</color>が<c
 TUTORIAL_CURSE_PURCHASE=また、<color=#FF911F>[MATERIAL_CURSED_SOUL_NAME]</color>を使って、<color=#FF911F>[UI_ATLAS_TITLE]</color>で見たことのあるアイテムを購入することができます。
 
 TUTORIAL_BEATING_GAME=ガーディアンを倒し、Mini Healerをクリアしたことを祝福します。<color=#B58300FF>Key of Infinity</color>を使って、どこまでできるかチャレンジしてみてくださいね。
+TUTORIAL_BEATING_GAME_DEPTH=自分のビルドをとことん強化してみたい方は、<color=#B58300FF>Key of Infinity</color>を徹底的に使って、どこまでできるか挑戦してみてください。
+TUTORIAL_BEATING_GAME_TOWER=ローグライク風のダンジョンを体験してみたい方は、[LOCATION_HIDDEN_HAVEN]にいる[CONTEXT_NPC_NAME_ANAPIEL]に話しかけて、[LOCATION_AIRENE_TOWER]に向かってください！
+
 
 TUTORIAL_BATTLE_SELECT_CHARACTER_0=タンクがダメージを受けたようです。癒してあげましょう。
 TUTORIAL_BATTLE_SELECT_CHARACTER_1=まず、タンクの肖像画やヘルスバーのどこかをクリックして、<color=#B58300FF>彼を選択</color>します。

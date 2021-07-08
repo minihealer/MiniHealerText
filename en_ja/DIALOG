@@ -98,6 +98,15 @@ DIALOG_MUZ_IDLE_0=時々、体があればこの場所をきれいにできる�
 DIALOG_ORRA_IDLE_1_0=時々、別の次元からポータルから出てくるものがあるので、それを守るためにあなたの助けが必要になります。
 DIALOG_ORRA_IDLE_2_0=これでようやく、食事を楽しむ時間が持てるようになりました。
 
+DIALOG_HAVEN_ANAPIEL_IDLE_1_0=[LOCATION_AIRENE_TOWER]に行って、限られたリソースであなたの能力を試しますか？
+DIALOG_HAVEN_ANAPIEL_ACTION_BTN_TEXT_1=[LOCATION_AIRENE_TOWER]へ行く
+
+DIALOG_AIRENE_ANAPIEL_IDLE_1_0=[LOCATION_HIDDEN_HAVEN]に戻る準備はできましたか？
+DIALOG_AIRENE_ANAPIEL_ACTION_BTN_TEXT_1=戻る
+
+DIALOG_AIRENE_ANAPIEL_INSIDE_IDLE_1_0=本当に塔から脱出しますか？　後で戻ってくることはできません。
+DIALOG_AIRENE_ANAPIEL_INSIDE_ACTION_BTN_TEXT_1=出る
+
 DIALOG_MEVOR_IDLE_1_0=...
 DIALOG_EDWIN_IDLE_1_0=私と[BOSS_ORRA_SHORT_NAME]と[BOSS_MEVOR_SHORT_NAME]はずっとポータルを守ってきた。他の次元のモンスターや堕落した者たちがここの力を手に入れようとしている。私たちはポータルを閉じる方法を知らないので、彼らが宝庫に入らないようにするのが私たちの仕事です。
 DIALOG_GOLEM_IDLE_1_0=ゴーレムは、あなたのスキルや能力をテストするのに役立ちます。
