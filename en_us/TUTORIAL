@@ -54,7 +54,7 @@ TUTORIAL_CURSE_PURCHASE=You can also use <color=#FF911F>Cursed Soul</color> to p
 
 TUTORIAL_BEATING_GAME=Congratulation on defeating the guardians and beating Mini Healer! You are free to challenge yourself with the following game modes depending on your preferences.
 TUTORIAL_BEATING_GAME_DEPTH=If you wish to min max your build then challenge yourself by using the <color=#B58300FF>Key of Infinity</color> in depth and see how far you can go!
-TUTORIAL_BEATING_GAME_TOWER=If you wish to try out a little bit of a roguelike experience then talk to [CONTEXT_NPC_NAME_ANAPIEL] at the [LOCATION_HIDDEN_HAVEN] and head to the [LOCATION_AIRENE_TOWER]!
+TUTORIAL_BEATING_GAME_TOWER=If you wish to try out a little bit of a roguelike experience then talk to <color=#B58300FF>[CONTEXT_NPC_NAME_ANAPIEL]</color> at the [LOCATION_HIDDEN_HAVEN] and head to the <color=#B58300FF>[LOCATION_AIRENE_TOWER]</color>!
 
 
 TUTORIAL_BATTLE_SELECT_CHARACTER_0=Looks like our Tank has taken some damage.  Let's heal him up!

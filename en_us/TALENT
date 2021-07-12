@@ -286,7 +286,6 @@ TALENT_VITALIZED_FLOW_MASTERY_DESC= Vitalized healpower per stack
 
 
 TALENT_CONVOCATION_MANA=Reduce the mana gained from [LINK_SKILL_REJUVENATE] by {0}
-TALENT_CONVOCATION_CD=Cooldown of [LINK_SKILL_REJUVENATE] is reduced to 1 second (Unaffected by other cooldown reduction effect)
 TALENT_CONVOCATION_CHANNEL=[LINK_SKILL_REJUVENATE] is now a channelling ability
 TALENT_ELEMENTAL_INFUSION_FIRE=[LINK_SKILL_RESTORATION_TOTEM] also increases [ATTRIBUTE_BASE_FIRE_DAMAGE] by {0}%
 TALENT_ELEMENTAL_INFUSION_ICE=[LINK_SKILL_RESTORATION_TOTEM] also increases [ATTRIBUTE_BASE_ICE_DAMAGE] by {0}%
@@ -439,7 +438,7 @@ TALENT_FOCUSED_GLORY_DESC=[LINK_SKILL_RENEW] now heals {0}% more per tick if the
 TALENT_SWORD_AND_BOARD_NAME=Sword and Board
 TALENT_SWORD_AND_BOARD_DESC=While wearing at least 1 sword and at least 1 shield, +{0} to all [CONTEXT_TALENT_CLASS_PALADIN] skill level<sprite=8>
 
-TALENT_TOUGH_AS_NAIL_NAME=Tough as Nail
+TALENT_TOUGH_AS_NAIL_NAME=Tough as Nails
 
 TALENT_GLIMMER_OF_HOPE_NAME=Glimmer of Hope
 TALENT_GLIMMER_OF_HOPE_DESC=[LINK_SKILL_SEAL_OF_LIGHT] leaves a [LINK_SKILL_SPIRIT_ORB] when triggered
@@ -526,5 +525,8 @@ TALENT_REVIVE_DESC=Grants [LINK_SKILL_REVIVE] Skill
 TALENT_CONVICTION_NAME=Conviction
 TALENT_CONVICTION_DESC=Whenever [CONTEXT_PARTY_MEMBER_NAME_TANK] or [CONTEXT_PARTY_MEMBER_NAME_HEALER] is damaged by an enemy's auto attack. There is a {0}% chance they will deal {1}% of their [ATTRIBUTE_BASE_DAMAGE_TEXT] as [ATTRIBUTE_FIRE_DAMAGE] back to the attacker, as well as reducing the attacker's [ATTRIBUTE_ALL_DAMAGE_DEALT] by {2}% for {3} seconds
 TALENT_CONVICTION_MASTERY_DESC=% [TALENT_CONVICTION_NAME] trigger chance
+
+TALENT_REINFORCED_BARRIER_NAME=Reinforced Barrier
+TALENT_REINFORCED_BARRIER_DESC=Whenever a shielded party member would take damage that is over {0}% of their [ATTRIBUTE_MAXIMUM_HEALTH], there is a {1}% chance that the damgage amount will be reduced to {0}% of their [ATTRIBUTE_MAXIMUM_HEALTH]
 
 END

@@ -612,7 +612,6 @@ ARTIFACT_WISDOM_SPECIAL_DESC=+{0}{1} per one point invested in {2} tree
 ARTIFACT_WISDOM_SPECIAL_FULL_DESC=+{0} to {1}{2} per one point invested in {3} tree
 ARTIFACT_VOODOO_TOTEM_SPECIAL_DESC=[LINK_TALENT_VOODOO_MAGIC] now has a 30 second cooldown
 ARTIFACT_STORM_WALKER_SPECIAL_DESC=Trigger [LINK_TALENT_TYPHOON] of the current level for every {0} seconds channelled
-ARTIFACT_FIRE_EMBLEM_SPECIAL_DESC=[CONTEXT_PARTY_MEMBER_NAME_HEALER]'s [CONTEXT_ELEMENT_FIRE] critical strikes will char the target, reducing their [ATTRIBUTE_FIRE_RESIST] by {0}% for {1} seconds
 ARTIFACT_TRIUNE_STONE_SPECIAL_DESC=Every 15 seconds, <br>reduce all enemies' [ATTRIBUTE_FIRE_RESIST] by {0}% for 5 seconds,  <br>then [ATTRIBUTE_ICE_RESIST] by {1}% for 5 seconds,  <br>then [ATTRIBUTE_LIGHTNING_RESIST] by {2}% for 5 seconds, 
 ARTIFACT_STARS_RECURVE_SPECIAL_DESC=All party members gain {0}% of [CONTEXT_PARTY_MEMBER_NAME_RANGER]'s [ATTRIBUTE_PHYSICAL_DAMAGE] as extra [ATTRIBUTE_ICE_DAMAGE]
 ARTIFACT_THE_BUTCHER_SPECIAL_DESC=When equipped with only axes as weapons, +{0}% all party members' [ATTRIBUTE_CRITICAL_STRIKE_DAMAGE_TEXT]
@@ -932,5 +931,12 @@ ARTIFACT_CROWN_OF_THE_GIFTED_NAME=Crown of the Gifted
 ARTIFACT_CROWN_OF_THE_GIFTED_DESC=All party members receives {0}% more healing per buff on them <br><br>All party members receives {0}% more healing per aura on them
 
 ARTIFACT_LUCKY_CLOVER_NAME=Lucky Clover
+
+ARTIFACT_LAMENT_NAME=Lament
+ARTIFACT_LAMENT_DESC=At {0} or greater sacrified talent points, [LINK_SKILL_SIPHON_LIFE]'s bonus from sacrificed talent points is increased by {1}% <br><br>At {2} or greater sacrificed talent points, +{3}% [ATTRIBUTE_ALL_RESISTS_TEXT] and +{4}% [ATTRIBUTE_INCREASE_ALL_HP_PERCENT_TEXT]. <br><br>At {5} or greater sacrificed talent points, +{6} to all skill level<sprite=8>.
+
+ARTIFACT_DESPAIR_AMULET_DESC=Whenever a buff expires on a party member, there is a {0}% chance they will be affected by the current level of [LINK_TALENT_LIGHTS_GUIDANCE]. <br><br>Whenever a debuff expires on an enemy, there is a {1}% chance all party members will be affected by the current level of [LINK_TALENT_SOUL_BOOST]
+ARTIFACT_FIRE_EMBLEM_SPECIAL_DESC=+{0}% party member [ATTRIBUTE_BASE_FIRE_DAMAGE] per buff on them. <br><br>+{1}% party member [ATTRIBUTE_BASE_FIRE_DAMAGE] per aura on them.
+ARTIFACT_SHAMANIC_CODEX_SPECIAL_DESC=+% [ATTRIBUTE_INCREASE_HEALPOWER_FLAT_TEXT] equal to {0}% of the [CONTEXT_PARTY_MEMBER_NAME_HEALER] total [ATTRIBUTE_ELE_RESISTS_TEXT]. <br><br>{1}% elemental damage dealt by [CONTEXT_PARTY_MEMBER_NAME_HEALER] is converted into a shield up to a maximum of {2}% [CONTEXT_PARTY_MEMBER_NAME_HEALER]'s [ATTRIBUTE_MAXIMUM_HEALTH]
 
 END
