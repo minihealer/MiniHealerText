@@ -45,14 +45,17 @@ TUTORIAL_DININATION_SPHERE_UNLOCK=<color=#FF911F>[MATERIAL_DIVINATION_SPHERE_NAM
 TUTORIAL_DININATION_SPHERE_UNLOCK_DESC=托拉姆可以用这个宝物把唯一装备升级成<color=#FF911F>神圣</color>版本
 TUTORIAL_DININATION_SPHERE_UNLOCK_ATLAS_DESC=<color=#FF911F>图鉴</color>里有神圣版本装备的属性信息
 
-TUTORIAL_DICE_UNLOCK=避难所里的<color=#FF911F>筛子转转转</color>开门了！
+TUTORIAL_DICE_UNLOCK=[LOCATION_HIDDEN_HAVEN]里的<color=#FF911F>筛子转转转</color>开门了！
 TUTORIAL_DICE_UNLOCK_DESC=可以用金币购买各种盲盒物品，有些很好，有些没用，全凭运气！
 
 TUTORIAL_CURSE_UNLOCK=哇喔，这个<color=#FF911F>诅咒灵魂</color>可是个高级货
 TUTORIAL_CURSE_CRAFT=<color=#FF911F>托拉姆</color>可以用<color=#FF911F>诅咒灵魂</color>制造和升级物品了！
 TUTORIAL_CURSE_PURCHASE=你可以用<color=#FF911F>诅咒灵魂</color>直接购买<color=#FF911F>图鉴</color>里的大多数装备
 
-TUTORIAL_BEATING_GAME=祝贺你剧情通关了！用<color=#B58300FF>无限之钥</color>挑战深渊吧！
+TUTORIAL_BEATING_GAME=祝贺你打败守护者，迷你治疗师剧情通关了！你可以在下列内容继续你的冒险：
+TUTORIAL_BEATING_GAME_DEPTH=优化配装方案，继续提升装备，在深渊里用<color=#B58300FF>无限之钥</color>向更深层出发！
+TUTORIAL_BEATING_GAME_TOWER=如果想要试试肉鸽模式进行游戏，和[LOCATION_HIDDEN_HAVEN]的<color=#B58300FF>[CONTEXT_NPC_NAME_ANAPIEL]</color>对话，到<color=#B58300FF>[LOCATION_AIRENE_TOWER]</color>冒险！
+
 
 TUTORIAL_BATTLE_SELECT_CHARACTER_0=坦克受到了一些伤害，来治疗他吧！
 TUTORIAL_BATTLE_SELECT_CHARACTER_1=首先，<color=#B58300FF>选择</color>坦克的头像或者他的血条
