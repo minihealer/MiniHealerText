@@ -13,6 +13,7 @@ SKILL_TAG_HEALING=Healing
 SKILL_TAG_HEAL_OVERTIME=Heal Overtime
 SKILL_TAG_OFFENSIVE=Offensive
 SKILL_TAG_DEFENSIVE=Defensive
+SKILL_TAG_UTILITY=Healing/Utility
 SKILL_TAG_BUFF=Buff
 SKILL_TAG_CHANNEL=Channel
 SKILL_TAG_AOE=Area of Effect
@@ -46,9 +47,11 @@ SKILL_MYSTIC_BOLT_SHORT_DESC=[SKILL_MYSTIC_BOLT_DESC]
 SKILL_LIFE_FUNNEL_NAME=Life Funnel
 SKILL_LIFE_FUNNEL_DESC=Heal the target based on your [ATTRIBUTE_MAXIMUM_HEALTH]. <br>But also takes [ATTRIBUTE_PHYSICAL_DAMAGE] based on your own [ATTRIBUTE_MAXIMUM_HEALTH]. <br>Can not be cast when dead
 SKILL_LIFE_FUNNEL_SHORT_DESC=[SKILL_LIFE_FUNNEL_DESC]
-SKILL_ANCESTRAL_HEAL_NAME=Ancestral Heal
-SKILL_ANCESTRAL_HEAL_DESC=Shield the target as well as placing a small heal overtime on them
-SKILL_ANCESTRAL_HEAL_SHORT_DESC=[SKILL_ANCESTRAL_HEAL_DESC]
+SKILL_BESTOW_FAITH_NAME=Bestow Faith
+SKILL_BESTOW_FAITH_DESC=Shield the target as well as placing a long lasting buff on them that will heal them based on your damage dealt.
+SKILL_BESTOW_FAITH_DMG_DESC=Heal <color=#FF911F>{0}%</color> of the damage the [CONTEXT_PARTY_MEMBER_NAME_HEALER] dealt. <br>This healing is reduced by {1}% for auto attacks.
+SKILL_BESTOW_FAITH_NEGATE_DMG=[SKILL_NEGATE_NAME] now deals <color=#FF911F>{0}%</color> of [CONTEXT_PARTY_MEMBER_NAME_HEALER]'s [ATTRIBUTE_TOTAL_DAMAGE_TEXT] as [ATTRIBUTE_LIGHTNING_DAMAGE] to the target
+SKILL_BESTOW_FAITH_SHORT_DESC=Shield the target as well as heal the target based on your damage dealt
 SKILL_RENEW_NAME=Renew
 SKILL_RENEW_DESC=Heal the target every second
 SKILL_RENEW_SHORT_DESC=A small heal over time
@@ -203,15 +206,41 @@ SKILL_DIVINE_FOCUS_HAMMER_DESC=[SKILL_HAMMER_OF_RECKONING_NAME] - Also restores 
 SKILL_CATACLYSM_NAME=Cataclysm
 SKILL_CATACLYSM_DESC=None
 SKILL_RAPID_SHOT_NAME=Rapid Shot
-SKILL_RAPID_SHOT_DESC=A quick blow
+SKILL_RAPID_SHOT_TOWER_DESC=Fires 6 arrows at the current target, <br><br>each dealing {0}% of the caster's [ATTRIBUTE_TOTAL_DAMAGE_TEXT] as [ATTRIBUTE_PHYSICAL_DAMAGE] and has a 80% [ATTRIBUTE_CRITICAL_STRIKE_CHANCE_TEXT] <br><br>The damage is increased by {1}% per [SKILL_TAG_OFFENSIVE] [CONTEXT_SCROLL] <br><br>The cooldown is reduced by {2} second per [SKILL_TAG_UTILITY] [CONTEXT_SCROLL]
 SKILL_INSPIRE_NAME=Inspire
-SKILL_INSPIRE_DESC=None
+SKILL_INSPIRE_TOWER_DESC=Regenerates {0} health per second for all party members as well as increases [ATTRIBUTE_ALL_DAMAGE_DEALT] by {1}% <br><br>The regeneration effect is increased by {2}% per [SKILL_TAG_DEFENSIVE] [CONTEXT_SCROLL] <br><br>The damage dealt effect is increased by {3}% per [SKILL_TAG_OFFENSIVE] [CONTEXT_SCROLL] <br><br>The duration is increased by {4} second per [SKILL_TAG_UTILITY] [CONTEXT_SCROLL]
+
+
+SKILL_DIVINE_LIGHT_NAME=Divine Light
+SKILL_DIVINE_LIGHT_TOWER_DESC=A self heal that heals for {0}% of the caster's missing health. <br><br>The healing is increased by {1}% per [SKILL_TAG_DEFENSIVE] [CONTEXT_SCROLL] <br><br>The cooldown is reduced by {2} second per [SKILL_TAG_UTILITY] [CONTEXT_SCROLL]
+
+SKILL_IRON_SKIN_NAME=Iron Skin
+SKILL_IRON_SKIN_TOWER_DESC=Buff the caster with [LINK_GARRISON] for {0} seconds. If the caster already has [LINK_GARRISON] effect, buff the entire party with [LINK_GARRISON] instead <br><br>The duration is increased by {1} seconds per [SKILL_TAG_DEFENSIVE] [CONTEXT_SCROLL]
+
 SKILL_BLOSSOM_NAME=Blossom
 SKILL_BLOSSOM_DESC=None
 SKILL_SALVATION_NAME=Salvation
 SKILL_SALVATION_DESC=None
 SKILL_CHAOS_STRIKE_NAME=Chaos Strike
-SKILL_CHAOS_STRIKE_DESC=None
+SKILL_CHAOS_STRIKE_TOWER_DESC=Deals {0}% of caster's [ATTRIBUTE_TOTAL_DAMAGE_TEXT] as [ATTRIBUTE_NEMESIS_DAMAGE] to the target.<br>[SKILL_CHAOS_STRIKE_NAME] is guaranteed to critically strike. <br><br>The damage is increased by {1}% per [SKILL_TAG_OFFENSIVE] [CONTEXT_SCROLL] <br><br>The cooldown is reduced by {2} second per [SKILL_TAG_UTILITY] [CONTEXT_SCROLL]
+
+SKILL_RUPTURE_NAME=Rupture
+SKILL_RUPTURE_TOWER_DESC=Rupture the target and cause bleeding, dealing {0}% of the caster's [ATTRIBUTE_TOTAL_DAMAGE_TEXT] as [ATTRIBUTE_PHYSICAL_DAMAGE] every second for {1} second. <br><br>The damage is increased by {2}% per stack of any debuffs on the target <br><br>The duration is increased by {3} seconds per [SKILL_TAG_UTILITY] [CONTEXT_SCROLL]
+
+SKILL_RAISE_MORAL_NAME=Raise Morale
+SKILL_RAISE_MORAL_DESC=Raises the morale of the party, granting {0} stacks of [LINK_MIGHT] to all party members. <br><br>The cooldown is reduced by {1} seconds per [SKILL_TAG_UTILITY] [CONTEXT_SCROLL] <br><br>As long as you have at least {2} [SKILL_TAG_OFFENSIVE] [CONTEXT_SCROLL], +1 [LINK_MIGHT] stack gained
+
+SKILL_INTIMIDATING_SHOUT_NAME=Intimidating Shout
+SKILL_INTIMIDATING_SHOUT_DESC=Intimidate the enemies, reducing {0}% of [ATTRIBUTE_ALL_DAMAGE_DEALT] for {1} seconds. <br><br>The effect is increased by {2}% per [SKILL_TAG_DEFENSIVE] [CONTEXT_SCROLL] <br><br>The duration is increased by {3} seconds per [SKILL_TAG_UTILITY] [CONTEXT_SCROLL]
+
+SKILL_EXPOSE_WEAKNESS_NAME=Expose Weakness
+SKILL_EXPOSE_WEAKNESS_TOWER_DESC=Exposes the weakness of the target, increasing [ATTRIBUTE_ALL_DAMAGE_TAKEN] by {0}% as well as making them to receive {1}% more damage from critical strikes for {2} seconds. <br><br>The effect is increased by {3}% per [SKILL_TAG_OFFENSIVE] [CONTEXT_SCROLL] <br><br>The duration is increased by {4} seconds per [SKILL_TAG_UTILITY] [CONTEXT_SCROLL]
+
+SKILL_PIERCING_SHOT_NAME=Piercing Shot
+SKILL_PIERCING_SHOT_TOWER_DESC=Fires a piercing arrow, dealing {0}% of caster's [ATTRIBUTE_TOTAL_DAMAGE_TEXT] as [ATTRIBUTE_PHYSICAL_DAMAGE] to all enemies. <br><br>Deals {3}% more damage everytime it hits an enemy <br><br>The damage is increased by {1}% per [SKILL_TAG_OFFENSIVE] [CONTEXT_SCROLL] <br><br>The cooldown is reduced by {2} second per [SKILL_TAG_UTILITY] [CONTEXT_SCROLL]
+
+SKILL_ALACRITY_NAME=Alacrity
+SKILL_ALACRITY_TOWER_DESC=Buff the party, increasing [ATTRIBUTE_DODGE_CHANCE_TEXT] and [ATTRIBUTE_CRITICAL_STRIKE_CHANCE_TEXT] by {0}% for {1} seconds. <br><br>The effect is increased by {2}% per [SKILL_TAG_DEFENSIVE] [CONTEXT_SCROLL] <br><br>The duration is increased by {3} seconds per [SKILL_TAG_UTILITY] [CONTEXT_SCROLL]
 
 SKILL_MANA_VOID_NAME=Mana Void
 
@@ -747,6 +776,8 @@ SKILL_HAVOC_AURA_NAME=Havoc Aura
 SKILL_HAVOC_AURA_DESC=Gains an aura that increases the attack damage and critical strike chance of all party members
 SKILL_SHIELD_BASH_NAME=Shield Bash
 SKILL_SHIELD_BASH_DESC=Bashes the targets, dealing heavy [ATTRIBUTE_PHYSICAL_DAMAGE] as well as stunning them for a short duration
+SKILL_SHIELD_BASH_TOWER_DESC=Bashes enemy, dealing {0}% of the caster's [ATTRIBUTE_TOTAL_DAMAGE_TEXT] as [ATTRIBUTE_PHYSICAL_DAMAGE] as well as stunning them for {1} seconds. <br><br>The damage is increased by {2}% per 1% [ATTRIBUTE_BLOCK_CHANCE_TEXT].
+
 SKILL_POISON_MASTERY_NAME=Poison Mastery
 SKILL_POISON_MASTERY_DESC=Ranger's mastery of poison makes it so that her Poison Arrow can not be dispelled as well as can hit multiple targets at once
 SKILL_SUFFOCATION_ARROW_NAME=Suffocation Arrow

@@ -119,6 +119,9 @@ ARTIFACT_DEATHS_BANE_SPC_DESC=Reduce the [SKILL_CAST_TIME] of [LINK_SKILL_REVIVE
 ARTIFACT_DIVINE_AMPLIFIER_NAME=Divine Amplifier
 ARTIFACT_DIVINE_AMPLIFIER_SPC_DESC=Grants [CONTEXT_TALENT_CLASS_PALADIN] [LINK_SKILL_RADIANCE] skill
 
+ARTIFACT_CRUCIFER_NAME=Crucifer
+ARTIFACT_CRUCIFER_DESC=[CONTEXT_PARTY_MEMBER_NAME_BERZERKER] and [CONTEXT_PARTY_MEMBER_NAME_RANGER] can no longer auto attacks. <br><br>[CONTEXT_PARTY_MEMBER_NAME_BERZERKER] and [CONTEXT_PARTY_MEMBER_NAME_RANGER] now cast their skills three times
+
 ARTIFACT_HAND_OF_MADNESS_NAME=Hand of Madness
 ARTIFACT_SUNLIGHT_NAME=Sunlight
 ARTIFACT_FAITHKEEPER_NAME=Faithkeeper
@@ -745,6 +748,7 @@ ARTIFACT_FLAME_RUNNER_SPECIAL_DESC=Whenever a party member takes [ATTRIBUTE_FIRE
 ARTIFACT_THE_HOLY_FLAME_SPECIAL_DESC=[LINK_SKILL_FLASH_HEAL] also burns the target, [CONTEXT_PARTY_MEMBER_NAME_HEALER] will deal {0}% of amount healed as [ATTRIBUTE_FIRE_DAMAGE] every second to the target for {1} seconds, stacks up to {2} times <br>[LINK_SKILL_FLASH_HEAL] is now Offensive
 ARTIFACT_TRANQUIL_SPHERE_SPECIAL_DESC=Shielded party member regenerates health equal to {0}% of the shielded amount per second
 ARTIFACT_LEECH_SPECIAL_DESC=[LINK_TALENT_VAMPIRISM] no longer heals <br>Each party member's will gain a [LINK_CRAVE] stack on every auto attack <br>At {0} [LINK_CRAVE] stacks the party member will gain [LINK_BLOOD_LUST] for {1} seconds, as well as losing all [LINK_CRAVE] stacks
+ARTIFACT_LEECH_TOWER_SPECIAL_DESC=[TALENT_VAMPIRISM_DESC] <br><br>Future scrolls no longer have [ATTRIBUTE_INCREASE_HEALPOWER_FLAT_TEXT] bonuses
 ARTIFACT_THE_LICH_SPECIAL_DESC=Mana gain from [LINK_SKILL_DEMONIC_CONTRACT] is now instant <br>[LINK_SKILL_DEMONIC_CONTRACT] can now kill you
 ARTIFACT_DEMONIC_RING_SPECIAL_DESC=Every 8 seconds, removes 5% of [CONTEXT_PARTY_MEMBER_NAME_HEALER]'s current health and heal all party members for 100% of the amount removed
 ARTIFACT_MAELSTROM_SPECIAL_DESC=Every mana spent casting spells will cause [CONTEXT_PARTY_MEMBER_NAME_HEALER] to shock all enemies for ({0}% [ATTRIBUTE_INCREASE_HEALPOWER_FLAT_TEXT] * {1}% of amount of mana spent) as [ATTRIBUTE_LIGHTNING_DAMAGE]
@@ -925,10 +929,10 @@ ARTIFACT_OVERLOAD_NAME=Overload
 ARTIFACT_OVERLOAD_SPECIAL_DESC=Party members always critically strike While on maximum stack of [LINK_MIGHT].
 
 ARTIFACT_RING_OF_THE_WORLD_TREE_NAME=Ring of the World Tree
-ARTIFACT_RING_OF_THE_WORLD_TREE_DESC=All [CONTEXT_BLESSING] now belong to all class types
+ARTIFACT_RING_OF_THE_WORLD_TREE_DESC=All [CONTEXT_SCROLL] now belong to all scroll types
 
 ARTIFACT_CROWN_OF_THE_GIFTED_NAME=Crown of the Gifted
-ARTIFACT_CROWN_OF_THE_GIFTED_DESC=All party members receives {0}% more healing per buff on them <br><br>All party members receives {0}% more healing per aura on them
+ARTIFACT_CROWN_OF_THE_GIFTED_DESC=All party members receives {0}% more healing per buff on them <br><br>All party members receives {1}% more healing per aura on them
 
 ARTIFACT_LUCKY_CLOVER_NAME=Lucky Clover
 
@@ -938,5 +942,20 @@ ARTIFACT_LAMENT_DESC=At {0} or greater sacrified talent points, [LINK_SKILL_SIPH
 ARTIFACT_DESPAIR_AMULET_DESC=Whenever a buff expires on a party member, there is a {0}% chance they will be affected by the current level of [LINK_TALENT_LIGHTS_GUIDANCE]. <br><br>Whenever a debuff expires on an enemy, there is a {1}% chance all party members will be affected by the current level of [LINK_TALENT_SOUL_BOOST]
 ARTIFACT_FIRE_EMBLEM_SPECIAL_DESC=+{0}% party member [ATTRIBUTE_BASE_FIRE_DAMAGE] per buff on them. <br><br>+{1}% party member [ATTRIBUTE_BASE_FIRE_DAMAGE] per aura on them.
 ARTIFACT_SHAMANIC_CODEX_SPECIAL_DESC=+% [ATTRIBUTE_INCREASE_HEALPOWER_FLAT_TEXT] equal to {0}% of the [CONTEXT_PARTY_MEMBER_NAME_HEALER] total [ATTRIBUTE_ELE_RESISTS_TEXT]. <br><br>{1}% elemental damage dealt by [CONTEXT_PARTY_MEMBER_NAME_HEALER] is converted into a shield up to a maximum of {2}% [CONTEXT_PARTY_MEMBER_NAME_HEALER]'s [ATTRIBUTE_MAXIMUM_HEALTH]
+
+ARTIFACT_BOTTLE_OF_SLIME_NAME=Bottle of Slime
+ARTIFACT_BOTTLE_OF_SLIME_SPECIAL_DESC=Summons a slime to fight for the enemies if possible every {0} seconds
+
+ARTIFACT_TAINTED_HEART_NAME=Tainted Heart
+ARTIFACT_TAINTED_HEART_SPECIAL_DESC=Whenever other party members fall below {0}% health, their remaining health will be instantly removed(to 1 health) and deal damage equal to {1}% of the amount removed as [ATTRIBUTE_NEMESIS_DAMAGE] to all enemies.
+
+ARTIFACT_MASTERFUL_BALANCE_NAME=Masterful Balance
+ARTIFACT_MASTERFUL_BALANCE_SPECIAL_DESC=Whenever a party member's health is above {0}%, they lose {1}% of their [ATTRIBUTE_MAXIMUM_HEALTH] every second. <br><br>Whenever a party member's health is below {0}%, they are healed every second equal to {1}% of their [ATTRIBUTE_MAXIMUM_HEALTH].
+
+ARTIFACT_FORCED_SUBMISSION_NAME=Forced Submission
+ARTIFACT_FORCED_SUBMISSION_SPECIAL_DESC=All party members gain a [LINK_FAITH] stack every {0} seconds. <br><br>All party members deals {1}% more damage and receives {1}% more healing when not affected by any [LINK_FAITH] stack
+
+ARTIFACT_COLISEUM_NAME=Coliseum
+ARTIFACT_COLISEUM_SPECIAL_DESC=All single target non heal overtime healing skills will grant {0}% [ATTRIBUTE_BLOCK_CHANCE_TEXT] and [ATTRIBUTE_DODGE_CHANCE_TEXT] for {1} seconds. <br><br>All single target non heal overtime healing skills can no longer heal.
 
 END

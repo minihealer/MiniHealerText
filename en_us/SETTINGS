@@ -107,4 +107,8 @@ SETTINGS_ALWAYS_SHOW_SKILL_CD_DESC=Enabling this option cause the skill cooldown
 SETTINGS_CHANGE_DIFFICULTY_TITLE=Change Difficulty
 
 SETTINGS_LANGUAGE_IN_TESTING=This localization is current in testing, some texts may be unstable
+
+SETTINGS_ALWAYS_USE_MAIN_TMOG_NAME=Always use transmogs from party
+SETTINGS_ALWAYS_USE_MAIN_TMOG_DESC=This will cause the different parties in the Airene Tower to all have the same transmogs as your main party
+
 END
