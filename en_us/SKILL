@@ -234,7 +234,7 @@ SKILL_INTIMIDATING_SHOUT_NAME=Intimidating Shout
 SKILL_INTIMIDATING_SHOUT_DESC=Intimidate the enemies, reducing {0}% of [ATTRIBUTE_ALL_DAMAGE_DEALT] for {1} seconds. <br><br>The effect is increased by {2}% per [SKILL_TAG_DEFENSIVE] [CONTEXT_SCROLL] <br><br>The duration is increased by {3} seconds per [SKILL_TAG_UTILITY] [CONTEXT_SCROLL]
 
 SKILL_EXPOSE_WEAKNESS_NAME=Expose Weakness
-SKILL_EXPOSE_WEAKNESS_TOWER_DESC=Exposes the weakness of the target, increasing [ATTRIBUTE_ALL_DAMAGE_TAKEN] by {0}% as well as making them to receive {1}% more damage from critical strikes for {2} seconds. <br><br>The effect is increased by {3}% per [SKILL_TAG_OFFENSIVE] [CONTEXT_SCROLL] <br><br>The duration is increased by {4} seconds per [SKILL_TAG_UTILITY] [CONTEXT_SCROLL]
+SKILL_EXPOSE_WEAKNESS_TOWER_DESC=Exposes the weakness of the target, increasing [ATTRIBUTE_ALL_DAMAGE_TAKEN] by {0}% as well as making them to receive {1}% more damage from critical strikes for {2} seconds. <br><br>The effect is increased by {3}% per [SKILL_TAG_OFFENSIVE] [CONTEXT_SCROLL] <br><br>The duration is increased by {4} seconds per [SKILL_TAG_UTILITY] [CONTEXT_SCROLL]. <br><br>This effect can stack
 
 SKILL_PIERCING_SHOT_NAME=Piercing Shot
 SKILL_PIERCING_SHOT_TOWER_DESC=Fires a piercing arrow, dealing {0}% of caster's [ATTRIBUTE_TOTAL_DAMAGE_TEXT] as [ATTRIBUTE_PHYSICAL_DAMAGE] to all enemies. <br><br>Deals {3}% more damage everytime it hits an enemy <br><br>The damage is increased by {1}% per [SKILL_TAG_OFFENSIVE] [CONTEXT_SCROLL] <br><br>The cooldown is reduced by {2} second per [SKILL_TAG_UTILITY] [CONTEXT_SCROLL]

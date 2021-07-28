@@ -71,6 +71,7 @@ UI_A_QUICK_TIP=Did you know
 UI_LEAVE=Leave
 UI_SNATCH=Snatch
 UI_RESTOCK=Restock
+UI_CLAIM=Claim
 
 UI_MENU_DIFFICULTY=Choose a Difficulty
 UI_MENU_DIFFICULTY_DESC=You can change them later!

@@ -531,6 +531,7 @@ EFFECT_NO_MAGIC_NAME=No Magic! Effect [1]
 EFFECT_NO_MAGIC_DESC_0=You lose additional 50 mana everytime
 EFFECT_NO_MAGIC_DESC_1=any party member casts a spell
 EFFECT_HYPERDRIVE_NAME=Hyperdrive Effect [0]
+EFFECT_HYPERDRIVE_CLINT_NAME=[EFFECT_HYPERDRIVE_NAME]
 EFFECT_HYPERDRIVE_DESC_0=Attack speed is significantly increased
 EFFECT_HYPERDRIVE_DESC_1=[ATTRIBUTE_PHYSICAL_DAMAGE] is significantly increased
 EFFECT_DISRUPTION_NAME=Disruption Effect [1]
