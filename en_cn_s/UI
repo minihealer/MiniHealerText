@@ -26,6 +26,7 @@ UI_CLOSE=关闭
 UI_NONE=无
 UI_CONFIRM=确定
 UI_UPGRADE=升级
+UI_ENTER=进入
 UI_ENTER_TEXT=输入文字
 UI_LEVEL=等级
 UI_MASTERY=精通
@@ -125,6 +126,8 @@ UI_ART_ATALS_PURCHASE_LOCK=击败混沌难度解锁
 UI_ART_ATLAS_TUT_TITLE=这本<color=#B58300FF>图鉴</color>包含了游戏中所有装备信息。
 UI_ART_ATLAS_TUT_ART_ATLAS_DESC=这本<color=#B58300FF>装备图鉴</color>包含游戏中所有装备数据，你可以在这里找到它们，如果有合适的材料可以直接锻造成品！
 UI_ART_ATLAS_TUT_RUNE_ATLAS_DESC=这本<color=#B58300FF>符文图鉴</color>包含符文之语的秘密，你可以购买提示来拼成符文之语，给装备增加额外效果。
+
+UI_AT_TUT_INTRO=欢迎来到<color=#B58300FF>[LOCATION_AIRENE_TOWER]</color>，迷你治疗师游戏中的迷你肉鸽模式。<br><br>开局选择一只队伍和一个治疗技能进塔。<br><br>随着爬塔，不断强化、丰富你的治疗能力和队伍实力。击败每层的守关BOSS获取<color=#B58300FF>[MATERIAL_SOLARSILK_NAME]</color>，然后在<color=#B58300FF>[CONTEXT_NPC_NAME_WARDROBE]</color>解锁武器幻化外观。
 
 UI_RUNE_ATLAS_TITLE=符文图鉴
 UI_RUNE_ATLAS_DESC=在这里寻找更多符文之语组合
