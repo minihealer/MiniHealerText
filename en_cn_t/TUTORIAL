@@ -45,14 +45,17 @@ TUTORIAL_DININATION_SPHERE_UNLOCK=<color=#FF911F>[MATERIAL_DIVINATION_SPHERE_NAM
 TUTORIAL_DININATION_SPHERE_UNLOCK_DESC=托拉姆可以用這個寶物把唯一裝備升級成<color=#FF911F>神聖</color>版本
 TUTORIAL_DININATION_SPHERE_UNLOCK_ATLAS_DESC=<color=#FF911F>圖鑒</color>裏有神聖版本裝備的屬性信息
 
-TUTORIAL_DICE_UNLOCK=避難所裏的<color=#FF911F>篩子轉轉轉</color>開門了！
+TUTORIAL_DICE_UNLOCK=[LOCATION_HIDDEN_HAVEN]裏的<color=#FF911F>篩子轉轉轉</color>開門了！
 TUTORIAL_DICE_UNLOCK_DESC=可以用金幣購買各種盲盒物品，有些很好，有些沒用，全憑運氣！
 
 TUTORIAL_CURSE_UNLOCK=哇喔，這個<color=#FF911F>詛咒靈魂</color>可是個高級貨
 TUTORIAL_CURSE_CRAFT=<color=#FF911F>托拉姆</color>可以用<color=#FF911F>詛咒靈魂</color>制造和升級物品了！
 TUTORIAL_CURSE_PURCHASE=你可以用<color=#FF911F>詛咒靈魂</color>直接購買<color=#FF911F>圖鑒</color>裏的大多數裝備
 
-TUTORIAL_BEATING_GAME=祝賀你劇情通關了！用<color=#B58300FF>無限之鑰</color>挑戰深淵吧！
+TUTORIAL_BEATING_GAME=祝賀你打敗守護者，迷你治療師劇情通關了！你可以在下列內容繼續你的冒險：
+TUTORIAL_BEATING_GAME_DEPTH=優化配裝方案，繼續提升裝備，在深淵裏用<color=#B58300FF>無限之鑰</color>向更深層出發！
+TUTORIAL_BEATING_GAME_TOWER=如果想要試試肉鴿模式進行遊戲，和[LOCATION_HIDDEN_HAVEN]的<color=#B58300FF>[CONTEXT_NPC_NAME_ANAPIEL]</color>對話，到<color=#B58300FF>[LOCATION_AIRENE_TOWER]</color>冒險！
+
 
 TUTORIAL_BATTLE_SELECT_CHARACTER_0=坦克受到了一些傷害，來治療他吧！
 TUTORIAL_BATTLE_SELECT_CHARACTER_1=首先，<color=#B58300FF>選擇</color>坦克的頭像或者他的血條

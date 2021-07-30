@@ -167,4 +167,10 @@ MATERIAL_PEM_NAME=Pem
 MATERIAL_PEM_DESC=一塊符文，可以鑲嵌到裝備符文插槽中，提供額外增益。如果按照正確的順序拼接多個符文，可以解鎖額外的力量
 MATERIAL_RA_NAME=Ra
 MATERIAL_RA_DESC=一塊符文，可以鑲嵌到裝備符文插槽中，提供額外增益。如果按照正確的順序拼接多個符文，可以解鎖額外的力量
+
+MATERIAL_SOLARSILK_NAME=日光絲綢
+MATERIAL_SOLARSILK_DESC=<color=#B58300FF>[MATERIAL_SOLARSILK_NAME]</color>是一種稀有材料，主要來自<color=#B58300FF>[LOCATION_AIRENE_TOWER]</color>。主要用于制作改變裝備外觀的物品。<br><br>有時在[DEPTH_NAME_INFINITE_CORRIDOR]裏有旅行商人出售<color=#B58300FF>[MATERIAL_SOLARSILK_NAME]</color>
+MATERIAL_SOLARSILK_GLOBAL_DESC=<color=#B58300FF>玩家獲取的[MATERIAL_SOLARSILK_NAME]所有存檔共享</color>
+
+
 END
