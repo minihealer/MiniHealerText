@@ -958,4 +958,8 @@ ARTIFACT_FORCED_SUBMISSION_SPECIAL_DESC=All party members gain a [LINK_FAITH] st
 ARTIFACT_COLISEUM_NAME=Coliseum
 ARTIFACT_COLISEUM_SPECIAL_DESC=All single target non heal overtime healing skills will grant {0}% [ATTRIBUTE_BLOCK_CHANCE_TEXT] and [ATTRIBUTE_DODGE_CHANCE_TEXT] for {1} seconds. <br><br>All single target non heal overtime healing skills can no longer heal.
 
+ARTIFACT_KINGS_HANDS_NAME=King's Hands
+ARTIFACT_KINGS_HANDS_SPECIAL_DESC=[LINK_SKILL_HAMMER_OF_RECKONING] also increases [CONTEXT_PARTY_MEMBER_NAME_BERZERKER]'s [ATTRIBUTE_PHYSICAL_DAMAGE] by {0}% of [ATTRIBUTE_INCREASE_HEALPOWER_FLAT_TEXT] and [CONTEXT_PARTY_MEMBER_NAME_RANGER]'s [ATTRIBUTE_PHYSICAL_DAMAGE] by {1}% of [ATTRIBUTE_INCREASE_HEALPOWER_FLAT_TEXT] for {2} seconds. <br><br>Each [LINK_SKILL_SEAL_OF_LIGHT] consumed will increase the duration of this effect by 1 second
+
+
 END
