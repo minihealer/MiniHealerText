@@ -107,4 +107,8 @@ SETTINGS_ALWAYS_SHOW_SKILL_CD_DESC=スキルのチャージが1以上残って�
 SETTINGS_CHANGE_DIFFICULTY_TITLE=難易度変更
 
 SETTINGS_LANGUAGE_IN_TESTING=この翻訳は現在テスト中です。一部のテキストが不安定な場合があります。
+
+SETTINGS_ALWAYS_USE_MAIN_TMOG_NAME=常にパーティのトランスモグ（アイテムの見た目変更）を使用
+SETTINGS_ALWAYS_USE_MAIN_TMOG_DESC=アイリーンの塔にいるさまざまなパーティが、メインパーティと同じトランスモグを持つようになります。
+
 END

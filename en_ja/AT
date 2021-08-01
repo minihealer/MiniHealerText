@@ -1,161 +1,200 @@
 AT_SECTION_NAME_LOW_GROUNDS=Section I: The Low Grounds
 AT_SECTION_NAME_MID_POINT=Section II: The Mid Point
 
-AT_UI_MINOR_ENEMIES=Minor Enemies
-AT_UI_ELITES_ENEMIES=Elites
-AT_UI_MANA_OBLIESK=Mana Obelisk
-AT_UI_ATLAS=Tower Atlas
-AT_UI_SHOP=Shop
-AT_UI_SKILLDRAFT=Learn a new skill
+AT_UI_MINOR_ENEMIES=ザコ敵
+AT_UI_ELITES_ENEMIES=エリート
+AT_UI_MANA_OBLIESK=マナ オベリスク
+AT_UI_ATLAS=タワー アトラス
+AT_UI_SHOP=店
+AT_UI_SKILLDRAFT=新しいスキルを習得
+AT_UI_ANA_OFFERING=[CONTEXT_NPC_NAME_ANAPIEL]'s Offering
 
-AT_UI_EMPTY_SCROLLS=You don't have any scrolls yet
+AT_UI_EMPTY_SCROLLS=スクロールを持っていません
 
-AT_GOLD_DESC=The currency that is mainly used in the tower
-AT_SOLARSILK_DESC=Can be used to purchase transmog at the wardrobe
-AT_SCROLL_DESC=Slightly improves the overall stats of the party
-AT_BLESSING_DESC=Grants additional stats bonus or special effects
-AT_ARTIFACT_DESC=Grants special effects
+AT_GOLD_DESC=塔で広く使われる通貨
+AT_SOLARSILK_DESC=衣装ケースでトランスモグ（見た目の変更）を購入するのに使う
+AT_SCROLL_DESC=パーティーのステータスを上昇させる
+AT_BLESSING_DESC=追加のステータスボーナスまたは特別な効果を得る
+AT_ARTIFACT_DESC=特別な効果を得る
+AT_ARTIFACT_ANCIENT_DESC=Select 1 ancient artifact
 
-AT_UI_VICTORY_TITLE=Victory!
-AT_UI_VICTORY_DESC=You acquired the following
-AT_UI_VICTORY_DESC_MAP=You have conquered [LOCATION_AIRENE_TOWER]!
-AT_UI_VICTORY_STATS_TIME_TAKEN=Total time taken: {0}
-AT_UI_VICTORY_STATS_NUM_OF_DEATHS=Total deaths: {0}
+AT_UI_VICTORY_TITLE=勝利！
+AT_UI_DEFEATED_TITLE=Defeated!
+AT_UI_CONQUERED_TITLE=Conquered!
+AT_UI_VICTORY_DESC=以下のものを得た：
+
+
+AT_UI_VICTORY_DESC_MAP=[LOCATION_AIRENE_TOWER]を制覇した！
+AT_UI_VICTORY_STATS_TIME_TAKEN=攻略時間： {0}
+AT_UI_VICTORY_STATS_NUM_OF_DEATHS=死亡回数： {0}
 
 AT_UI_BACK_END_RUN=This will end your current run!
 
-AT_UI_BLACKSMITH_EMPTY_TEXT=Select a scroll to upgrade
+AT_UI_BLACKSMITH_EMPTY_TEXT=強化するスクロールを選択
 
-AT_UI_TOWER_ATLAS_TITLE=Tower Atlas
-AT_UI_TOWER_ATLAS_DESC=Contains all information on what you will find in the tower
-AT_UI_TOWER_ATLAS_SEARCH_PLACEHOLDER=Enter text to search
-AT_UI_TOWER_ATLAS_PICKED_DESC=You have picked this {0} {1} times
-AT_UI_TOWER_ATLAS_CURSED_DESC=You have been cursed by this {0} times
+AT_UI_TOWER_ATLAS_TITLE=タワー アトラス
+AT_UI_TOWER_ATLAS_DESC=塔で見つけたものの全ての情報を含む
+AT_UI_TOWER_ATLAS_SEARCH_PLACEHOLDER=検索テキストを入力
+AT_UI_TOWER_ATLAS_PICKED_DESC={0}を{1}回拾った
+AT_UI_TOWER_ATLAS_CURSED_DESC={0}回呪われた
 
-AT_UI_SKILL_DRAFT_TITLE=Choose a Skill
-AT_UI_SKILL_DRAFT_DESC=Choose one of the following skills by dragging it to your skillbar
+AT_UI_SKILL_DRAFT_TITLE=スキルを選択
+AT_UI_SKILL_DRAFT_DESC=以下からスキルを一つ、スキルバーにドラッグする　
 
-AT_UI_BLESSING_DRAFT_TITLE=Choose a Blessing
-AT_UI_BLESSING_DRAFT_DESC=Choose one of the following blessings
+AT_UI_SKILL_DRAFT_MAIN_TITLE=Choose Your Main Healing Skill
 
-AT_UI_ARTIFACT_DRAFT_TITLE=Choose an Artifact
-AT_UI_ARTIFACT_DRAFT_DESC=Choose one of the following artifacts
+AT_UI_BLESSING_DRAFT_TITLE=祝福を選択
+AT_UI_BLESSING_DRAFT_DESC=以下から祝福を一つ選択
 
-AT_UI_CURSE_SELECT_TITLE=Choose {0} Curse 
-AT_UI_CURSE_REMOVAL_DESC=Choose {0} curse to remove
+AT_UI_ARTIFACT_DRAFT_TITLE=アーティファクトを選択
+AT_UI_ARTIFACT_DRAFT_DESC=以下からアーティファクトを一つ選択
 
-AT_UI_SCROLL_DRAFT_TITLE=Choose a Scroll
-AT_UI_SCROLL_DRAFT_DESC=Choose one of the following scrolls
-AT_UI_SCROLL_DRAFT_SKIP_DESC=Skip (+{0} <sprite=9> )
+AT_UI_PARTY_DRAFT_TITLE=Choose a Party
+AT_UI_PARTY_DRAFT_DESC=Choose one of the following parties to enter the tower with
 
-AT_UI_TINKERSPARK_SHOP=[CONTEXT_NPC_NAME_TORRI]'s Shop
-AT_UI_TINKERSPARK_DIALOG=My my...a customer! Everything's for sale here!
+AT_UI_CURSE_SELECT_TITLE={0}の呪いを選択
+AT_UI_CURSE_REMOVAL_DESC={0}の呪いを選択して除去
+
+AT_UI_ARTIFACT_SELECT_TITLE=Choose {0} Artifact 
+AT_UI_ARTIFACT_REROLL_DESC=Choose {0} artifact to reroll
+
+AT_UI_SCROLL_SELECT_TITLE=Choose {0} Scroll 
+AT_UI_SCROLL_REROLL_DESC=Choose upto {0} scroll to reroll
+
+AT_UI_SCROLL_DRAFT_TITLE=スクロールを選択
+AT_UI_SCROLL_DRAFT_DESC=以下からスクロールを一つ選択
+AT_UI_SCROLL_DRAFT_SKIP_DESC=スキップ (+{0} <sprite=9> )
+
+AT_UI_TINKERSPARK_SHOP=[CONTEXT_NPC_NAME_TORRI]の店
+AT_UI_TINKERSPARK_DIALOG=わ、私のお客様！　何でも売ります！
 
 AT_DRUID_SIGIL_DESC=Restores {0} [CONTEXT_MANA] every {1} floor <br><br>+{2} [ATTRIBUTE_MANA_REGEN_FLAT_TEXT]
 AT_PRIEST_SIGIL_DESC=+{0} [ATTRIBUTE_INCREASE_HEALPOWER_FLAT_TEXT] <br>+{1}% [ATTRIBUTE_CAST_SPEED] <br><br>+{2} [ATTRIBUTE_INCREASE_HEALPOWER_FLAT_TEXT] every {3} floors
 AT_OCCULTIST_SIGIL_DESC=+{0} [ATTRIBUTE_INCREASE_ALL_PHYSICAL_DAMAGE_FLAT_TEXT] <br>-{1}[ATTRIBUTE_INCREASE_ALL_HP_PERCENT_TEXT] <br><br>+{2} [ATTRIBUTE_INCREASE_ALL_PHYSICAL_DAMAGE_FLAT_TEXT] for every enemies slain
 AT_PALADIN_SIGIL_DESC=<br>+{0} [ATTRIBUTE_INCREASE_ALL_HPREGEN_FLAT_TEXT] <br>+{1}[ATTRIBUTE_INCREASE_TANK_BLOCKCHANCE_TEXT] <br><br>+{2} [ATTRIBUTE_INCREASE_ALL_HP_FLAT_TEXT] every {3} floors
 
-AT_UI_TUT_SOLARSILK_BTN=What is [MATERIAL_SOLARSILK_NAME]?
-AT_UI_OBTAINED_SCROLLS=Obtained [CONTEXT_SCROLLS]
-AT_UI_SCROLLS_TOTAL_STATS=Total stats
+AT_UI_TUT_SOLARSILK_BTN=[MATERIAL_SOLARSILK_NAME]って何？
+AT_UI_OBTAINED_SCROLLS=[CONTEXT_SCROLLS]を手に入れた
+AT_UI_SCROLLS_TOTAL_STATS=トータルステータス
 
-AT_LVL_NAME_TOSSING_PARTY=Sword Tossing Party
+AT_LVL_NAME_TOSSING_PARTY=剣投げパーティー
 
 AT_CURSE_CHAIN_NAME=Curse of Chains
-AT_CURSE_CHAIN_DESC=All spells now have a global cooldown of {0} second
+AT_CURSE_CHAIN_DESC=全スペルが{0}秒のグローバルクールダウンを発生させる
 AT_CURSE_EXPOSURE_NAME=Curse of Exposure
 AT_CURSE_MALEDICTION_NAME=Curse of Malediction
-AT_CURSE_MALEDICTION_DESC=All overhealing now casuses the healed targt to lose health equal to {0}% of the amount overhealed
+AT_CURSE_MALEDICTION_DESC=オーバーヒールすると対象はその{0}%分ヘルスを失う
 AT_CURSE_SERPENT_NAME=Curse of the Serpent
-AT_CURSE_SERPENT_DESC=Every {0} seconds, increase the mana cost of all spells by {1}% for {2} seconds
+AT_CURSE_SERPENT_DESC={0}秒ごとに{2}秒間、全スペルの消費マナが{1}%増加する
 AT_CURSE_GRIEF_NAME=Curse of Grief
-AT_CURSE_GRIEF_DESC=Lose {0} gold everytime a party member dies
+AT_CURSE_GRIEF_DESC=仲間が死亡するごとに{0}ゴールド失う
 AT_CURSE_DECAY_NAME=Curse of Decay
-AT_CURSE_DECAY_DESC=Party members can not regenerate health
+AT_CURSE_DECAY_DESC=仲間にヘルスの自然回復が発生しない
 AT_CURSE_FAMINE_NAME=Curse of Famine
-AT_CURSE_FAMINE_DESC=-1 choice when choosing a [CONTEXT_SCROLL] or a [CONTEXT_BLESSING]
+AT_CURSE_FAMINE_DESC=[CONTEXT_SCROLL]や[CONTEXT_BLESSING]の選択数が1減る
 AT_CURSE_SNAIL_NAME=Curse of Snail
 AT_CURSE_STIFFENING_NAME=Curse of Stiffening
-AT_CURSE_STIFFENING_DESC=Dodging and Blocking now have a {0} seconds cooldown
+AT_CURSE_STIFFENING_DESC=回避とブロックに{0}秒のクールダウンが発生する
 AT_CURSE_IMBALANCE_NAME=Curse of Imbalance
-AT_CURSE_IMBALANCE_DESC=All party members' Fire, Ice, and Lightning damage value is always equal to the lowest one among the 3
+AT_CURSE_IMBALANCE_DESC=仲間全員の火炎・冷気・電撃ダメージが、3属性中で最も低いものに合わせられる
 AT_CURSE_DROUGHT_NAME=Curse of Drought
-AT_CURSE_DROUGHT_DESC=Mana Obelisk now restores {0}% less mana
+AT_CURSE_DROUGHT_DESC=マナ オベリスクによるマナ回復が{0}%減少
 AT_CURSE_GREED_NAME=Curse of Greed
-AT_CURSE_GREED_DESC=-{0}% Gold gained from battle
+AT_CURSE_GREED_DESC=戦闘で得られるゴールドが{0}%減少
 AT_CURSE_PACIFISM_NAME=Curse of Pacifism
-AT_CURSE_PACIFISM_DESC=Every {0} seconds, all party members will be stunned for {1} seconds
+AT_CURSE_PACIFISM_DESC={0}秒ごとに{1}秒間、仲間全員がスタンする
 
-AT_EVENT_MANA_OBSELISK_TITLE=Obelisk
-AT_EVENT_MANA_OBSELISK_DESC=A magical obelisk found in the Airene Tower. Has the potential of restoring some mana. <br><br>Choose one of the following
+AT_EVENT_MANA_OBSELISK_TITLE=オベリスク
+AT_EVENT_MANA_OBSELISK_DESC=[LOCATION_AIRENE_TOWER]で見つかる魔法のオベリスク。いくらかのマナを回復する力を持つ。<br><br>以下から選択：
 
-AT_EVENT_MANA_OBSELISK_OPTION_GAIN_MANA_TITLE=Restore mana
-AT_EVENT_MANA_OBSELISK_OPTION_GAIN_MANA_DESC=Restores {0}% of [ATTRIBUTE_MAXIMUM_MANA]
-AT_EVENT_MANA_OBSELISK_OPTION_REMOVE_CURSE_TITLE=Remove curse
-AT_EVENT_MANA_OBSELISK_OPTION_REMOVE_CURSE_DESC=Remove a curse of your choice
+AT_EVENT_MANA_OBSELISK_OPTION_GAIN_MANA_TITLE=マナ回復
+AT_EVENT_MANA_OBSELISK_OPTION_GAIN_MANA_DESC=[ATTRIBUTE_MAXIMUM_MANA]の{0}%を回復
+AT_EVENT_MANA_OBSELISK_OPTION_REMOVE_CURSE_TITLE=解呪
+AT_EVENT_MANA_OBSELISK_OPTION_REMOVE_CURSE_DESC=選択した呪いを解く
+
+AT_EVENT_ANA_OFFERING_TITLE=[AT_UI_ANA_OFFERING]
+AT_EVENT_ANA_OFFERING_DESC=Choose one of the following
 
 AT_BLESSING_ALCHEMY_NAME=Alchemy
-AT_BLESSING_ALCHEMY_DESC=Whenever you gain gold, you also gain [ATTRIBUTE_INCREASE_HEALPOWER_FLAT_TEXT] equal to the {0}% gold gained
+AT_BLESSING_ALCHEMY_DESC=ゴールドを獲得したとき、その{0}%に相当する量の[ATTRIBUTE_INCREASE_HEALPOWER_FLAT_TEXT]も獲得します。
 
-AT_BLESSING_CONJURATION_DESC=+{0} [ATTRIBUTE_INCREASE_HEALPOWER_FLAT_TEXT] per other [CONTEXT_TALENT_CLASS_DRUID] [CONTEXT_BLESSING]
+AT_BLESSING_CONJURATION_DESC=他の[CONTEXT_TALENT_CLASS_DRUID][CONTEXT_BLESSING]1つにつき、+{0} [ATTRIBUTE_INCREASE_HEALPOWER_FLAT_TEXT]
 AT_BLESSING_ABUNDANT_GROWTH_DESC=[TALENT_ABUNDANT_GROWTH_MANA_DESC]
 AT_BLESSING_TYPHOON_DESC=[TALENT_TYPHOON_DESC]
 
-AT_BLOOD_RITUAL_DESC=Everytime you killed an enemy, +{0} [ATTRIBUTE_INCREASE_ALL_HP_FLAT_TEXT] and +{1} [ATTRIBUTE_INCREASE_HEALPOWER_FLAT_TEXT] permanently
+AT_BLOOD_RITUAL_DESC=あなたが敵を倒した時、恒久的に+{0} [ATTRIBUTE_INCREASE_ALL_HP_FLAT_TEXT]と+{1} [ATTRIBUTE_INCREASE_HEALPOWER_FLAT_TEXT]を得る
 AT_HAGGLE_NAME=Haggle
-AT_HAGGLE_DESC=Reduce the price of all shop items by {0}%
-AT_PATHS_END_DESC=Whenever a party member dies, +{0}% [ATTRIBUTE_INCREASE_HEALPOWER_FLAT_TEXT]. <br><br>Dying no longer reduces [ATTRIBUTE_INCREASE_HEALPOWER_FLAT_TEXT]
-AT_ABSOLUTION_DESC=+{0}% [ATTRIBUTE_SHIELDING_EFFECT] per scroll acquired.
-AT_AURA_MASTERY_DESC=All Auras no longer reduces maximum mana
+AT_HAGGLE_DESC=店のアイテムの価格が{0}%安くなる
+AT_PATHS_END_DESC=パーティーメンバーが死亡したとき、+{0}% [ATTRIBUTE_INCREASE_HEALPOWER_FLAT_TEXT]。<br><br>死亡によって[ATTRIBUTE_INCREASE_HEALPOWER_FLAT_TEXT]が低下しなくなる。
+AT_ABSOLUTION_DESC=獲得したスクロール1つにつき、+{0}% [ATTRIBUTE_SHIELDING_EFFECT]
+AT_AURA_MASTERY_DESC=オーラの効果では最大マナが減少しなくなる
 
-AT_DARK_MAGIC_DESC=+{0} [ATTRIBUTE_INCREASE_ALL_PHYSICAL_DAMAGE_FLAT_TEXT] per other [CONTEXT_TALENT_CLASS_OCCULTIST] [CONTEXT_BLESSING]
-AT_SACRIFICE_DESC=You can now skip picking a [CONTEXT_BLESSING] and pick {0} [CONTEXT_SCROLLS] instead
-AT_SHADE_DOWNSIDE=[CONTEXT_SCROLLS] no longer provide health regeneration
+AT_DARK_MAGIC_DESC=他の[CONTEXT_TALENT_CLASS_OCCULTIST][CONTEXT_BLESSING]1つにつき、+{0} [ATTRIBUTE_INCREASE_ALL_PHYSICAL_DAMAGE_FLAT_TEXT]
+AT_SACRIFICE_DESC=[CONTEXT_BLESSING]の選択をスキップして、{0}つの[CONTEXT_SCROLLS]を選択できるようになる
+AT_SHADE_DOWNSIDE=[CONTEXT_SCROLLS]によるヘルス自然回復の効果がなくなる
 
-AT_EVERGREEN_DESC=-{0}% all skill cooldowns as well as all blessing cooldowns
+AT_EVERGREEN_DESC=-{0}% 全てのスキルと祝福のクールダウン
 
-AT_DIVINE_DECREE_DESC=Curses have {0}% less effect
-AT_OSMOSIS_DESC=+{0} seconds [LINK_SKILL_IRON_VINES] duration. <br><br>Whenever you cast [SKILL_IRON_VINES_NAME], you will also be affected by it.
-AT_ENERGY_AURA_SCROLL_DESC=+{0} additional [ATTRIBUTE_INCREASE_ALL_LIGHTNING_DAMAGE_FLAT_TEXT] per scroll containing Lightning related attributes
+AT_DIVINE_DECREE_DESC=呪いの効果が{0}%低下する
+AT_OSMOSIS_DESC=[LINK_SKILL_IRON_VINES]の効果時間 +{0}秒。<br><br>[SKILL_IRON_VINES_NAME]を使用したとき、あなたもその効果を受ける。
+AT_ENERGY_AURA_SCROLL_DESC=電撃関連の属性値を含むスクロールに、追加の+{0} [ATTRIBUTE_INCREASE_ALL_LIGHTNING_DAMAGE_FLAT_TEXT]。
 
 AT_BLESSING_FORTIFY_NAME=Fortify
-AT_BLESSING_FORTIFY_DESC=[CONTEXT_PARTY_MEMBER_NAME_TANK] now always have [LINK_GARRISON] <br><br>[CONTEXT_PARTY_MEMBER_NAME_TANK] effect no longer grant any bonus
+AT_BLESSING_FORTIFY_DESC=[CONTEXT_PARTY_MEMBER_NAME_TANK]が常に[LINK_GARRISON]を持つようになりました。<br><br>[CONTEXT_PARTY_MEMBER_NAME_TANK]の効果でボーナスが付与されなくなりました。
 
 AT_BLESSING_IMORTAL_SOULS_NAME=Imortal Souls
-AT_BLESSING_IMORTAL_SOULS_DESC=Your critical heal grants the target [LINK_GARRISON] for {0} seconds
+AT_BLESSING_IMORTAL_SOULS_DESC=あなたのクリティカルヒールは、ターゲットに{0}秒間の[LINK_GARRISON]を付与する
 
-AT_LAST_STAND_DESC=Party members have [LINK_GARRISON] effect when their health is below {0}%
+AT_LAST_STAND_DESC=ヘルスが{0}%以下のパーティーメンバーは[LINK_GARRISON]の効果を得る
 
 AT_BLESSING_VOID_NAME=Void
-AT_BLESSING_VOID_DESC=Grants {0} [LINK_VOID_AURA]
+AT_BLESSING_VOID_DESC={0} [LINK_VOID_AURA]を獲得
+
+AT_BLESSING_PURIFICATION_NAME=Purification
+AT_BLESSING_PURIFICATION_DESC=パーティーメンバーがスキルを使用したとき、全ての[LINK_MIGHT]と[LINK_FAITH]スタックを消費して、1スタック当たり自身の最大ヘルスの{0}%分回復する。
+
+AT_BLESSING_ANGELIC_EMBRACE_NAME=Angelic Embrance
+AT_BLESSING_ANGELIC_EMBRACE_DESC=ヘルスが{0}%以下のパーティーメンバーを回復したとき、{3}秒間あなたの+{1}% [ATTRIBUTE_ALL_DAMAGE_DEALT]と+{2}% [ATTRIBUTE_HEALING_DONE]
+
+AT_BLESSING_DIVINE_RESOLVE_NAME=Divine Resolve
+AT_BLESSING_DIVINE_RESOLVE_DESC=あなたのシールドがダメージを防いで破壊されたとき、{0}マナが戻ってくる
+
+AT_BLESSING_REVERSAL_DESC=[ARTIFACT_RUNEWORD_REVERSAL_DESC] <br><br>パーティーメンバーが[LINK_FAITH]効果を獲得するとき、それの代わりに[LINK_MIGHT]スタックを獲得する。<br><br>パーティーメンバーが[LINK_MIGHT]効果を獲得するとき、それの代わりに[LINK_FAITH]スタックを獲得する。
+
+AT_BLESSING_LEFT_VISION_OF_THE_BEHOLDER_NAME=Left Vision of the Beholder
+AT_BLESSING_LEFT_VISION_OF_THE_BEHOLDER_DESC=コモンアーティファクトをリロールできる
+
+AT_BLESSING_RIGHT_VISION_OF_THE_BEHOLDER_NAME=Right Vision of the Beholder
+AT_BLESSING_RIGHT_VISION_OF_THE_BEHOLDER_DESC=スクロールを{0}回までリロールできる
 
 AT_BLESSING_RECKONING_NAME=Reckoning
-AT_BLESSING_RECKONING_DESC=Whenever [CONTEXT_PARTY_MEMBER_NAME_TANK] blocks, [CONTEXT_PARTY_MEMBER_NAME_BERZERKER] and [CONTEXT_PARTY_MEMBER_NAME_RANGER] will both gain a stack of [LINK_MIGHT] effect for {0} seconds
+AT_BLESSING_RECKONING_DESC=[CONTEXT_PARTY_MEMBER_NAME_TANK]がブロックしたとき、[CONTEXT_PARTY_MEMBER_NAME_BERZERKER]と[CONTEXT_PARTY_MEMBER_NAME_RANGER]は{0}秒間の[LINK_MIGHT]スタックを得る
 
 AT_BLESSING_PAIN_REFLECTION_NAME=Pain Reflection
-AT_BLESSING_PAIN_REFLECTION_DESC=Every {0} seconds, all enemies and all party members will take [ATTRIBUTE_PHYSICAL_DAMAGE] equal to {1}% of [CONTEXT_PARTY_MEMBER_NAME_BERZERKER]'s [ATTRIBUTE_TOTAL_DAMAGE_TEXT]
+AT_BLESSING_PAIN_REFLECTION_DESC={0}秒ごとに、全ての敵とパーティーメンバーは[CONTEXT_PARTY_MEMBER_NAME_BERZERKER]の[ATTRIBUTE_TOTAL_DAMAGE_TEXT]の{1}%に相当する[ATTRIBUTE_PHYSICAL_DAMAGE]を受ける 
 
 AT_BLESSING_UNHOLY_MIGHT_NAME=Unholy Might
-AT_BLESSING_UNHOLY_MIGHT_DESC=[LINK_MIGHT] effect also causes the affected target to lose {0}% of their maximum life per second
+AT_BLESSING_UNHOLY_MIGHT_DESC=[LINK_MIGHT]の効果を受けているメンバーは、毎秒自身の最大ヘルスの{0}%を失う。
 
 AT_BLESSING_ENDURING_TOTEM_NAME=Enduring Totem
-AT_BLESSING_ENDURING_TOTEM_DESC=[LINK_SKILL_RESTORATION_TOTEM] also grant [LINK_GARRISON] effect
+AT_BLESSING_ENDURING_TOTEM_DESC=[LINK_SKILL_RESTORATION_TOTEM]の効果で[LINK_GARRISON]の効果も受けるようになる。
 
 AT_BLESSING_AURAMANCER_RESOLVE_NAME=Auramancer's Resolve
-AT_BLESSING_AURAMANCER_RESOLVE_DESC=[CONTEXT_PARTY_MEMBER_NAME_TANK] always have [LINK_GARRISON] effect when affected by at least {0} auras
+AT_BLESSING_AURAMANCER_RESOLVE_DESC=タンクは、{0}個以上のオーラ効果を受けていれば常に[LINK_GARRISON]の効果を受ける。
 
 AT_BLESSING_AURAMANCER_GRASP_NAME=Auramancer's Grasp
-AT_BLESSING_AURAMANCER_GRASP_DESC=All party members will gain a stack of [LINK_FAITH] effect every {0} seconds when affected by at least {1} auras. <br><br>All party members will gain a stack of [LINK_MIGHT] effect every {0} seconds when affected by at least {2} auras 
+AT_BLESSING_AURAMANCER_GRASP_DESC={1}個以上のオーラ効果を受けているとき、仲間全員は{0}秒ごとに[LINK_FAITH]のスタックを獲得する。 <br><br>{2}個以上のオーラ効果を受けているとき、仲間全員は{0}秒ごとに[LINK_MIGHT]のスタックを獲得する。
 
 AT_BLESSING_VIVID_EXPANSION_NAME=Vivid Expansion
-AT_BLESSING_VIVID_EXPANSION_DESC=Your non heal over time critical heal will extend the duration of all heal over time effect on the target for {0} second
+AT_BLESSING_VIVID_EXPANSION_DESC=持続回復ではない回復スキルのクリティカルは、ターゲットの持続回復の効果時間を{0}秒延ばす。
 
 AT_BLESSING_SANCTIFY_NAME=Sanctify
-AT_BLESSING_SANCTIFY_DESC=Whenever a [LINK_MIGHT] or [LINK_FAITH] effect expires on [CONTEXT_PARTY_MEMBER_NAME_HEALER]. It will jump to a random other party member instead.
+AT_BLESSING_SANCTIFY_DESC=[CONTEXT_PARTY_MEMBER_NAME_HEALER]の[LINK_MIGHT]または[LINK_FAITH]の効果が切れるとき、その効果が他のパーティーメンバーに移動する。
 
 AT_BLESSING_REPLICA_NAME=Replica
-AT_BLESSING_REPLICA_DESC=Whenever a party member gains a stack of [LINK_MIGHT] or [LINK_FAITH] effect. They always gain an additional stack.
+AT_BLESSING_REPLICA_DESC=パーティーメンバーが[LINK_MIGHT]または[LINK_FAITH]のスタックを獲得するとき、追加で1スタックを獲得する。
 
 AT_BLESSING_SERPENTS_EMBRACE_NAME=Serpent's Embrace
-AT_BLESSING_SERPENTS_EMBRACE_DESC=Gain {0} [ATTRIBUTE_INCREASE_HEALPOWER_FLAT_TEXT] per {1} mana over {2} mana
+AT_BLESSING_SERPENTS_EMBRACE_DESC={2}マナを超えて{1}マナごとに{0} [ATTRIBUTE_INCREASE_HEALPOWER_FLAT_TEXT]を獲得する。
+
+END

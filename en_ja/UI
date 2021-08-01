@@ -26,6 +26,7 @@ UI_CLOSE=閉じる
 UI_NONE=None
 UI_CONFIRM=確認
 UI_UPGRADE=強化
+UI_ENTER=突入
 UI_ENTER_TEXT=入力して下さい
 UI_LEVEL=レベル
 UI_MASTERY=マスタリー
@@ -70,6 +71,7 @@ UI_A_QUICK_TIP=知っていましたか？
 UI_LEAVE=Leave
 UI_SNATCH=取る
 UI_RESTOCK=補充
+UI_CLAIM=請求
 
 UI_MENU_DIFFICULTY=難易度を選択してください
 UI_MENU_DIFFICULTY_DESC=後から変更できます
@@ -125,6 +127,8 @@ UI_ART_ATALS_PURCHASE_LOCK=カオティック化したボスを倒すことで�
 UI_ART_ATLAS_TUT_TITLE=<color=#B58300FF>[UI_ATLAS_TITLE]</color>にはゲーム内の全てのアイテムに関する情報があります
 UI_ART_ATLAS_TUT_ART_ATLAS_DESC=<color=#B58300FF>[UI_ART_ATLAS_TITLE]</color>は、ゲーム内で発見した全てのアーティファクトを表示します。ここで欲しいアーティファクトを探したり、直接鍛造することもできます。
 UI_ART_ATLAS_TUT_RUNE_ATLAS_DESC=<color=#B58300FF>[UI_RUNE_ATLAS_TITLE]</color>は様々なルーンワードの情報を表示します。また、ここでヒントを購入することもできます
+
+UI_AT_TUT_INTRO=<color=#B58300FF>アイリーンの塔</color>へようこそ。Mini Healer内でミニ・ローグライクを体験できます。<br><br>異なるレイドグループで、メインのヒーリングスキルを持って塔に入ります。<br><br>塔に登り、ヒーリングやパーティを強化していきましょう。ボスを倒して、<color=#B58300FF>衣装タンス</color>からトランスモグ（見た目変更アイテム）を購入するのに使える<color=#B58300FF>ソーラーシルク</color>を獲得できます。
 
 UI_RUNE_ATLAS_TITLE=ルーン アトラス
 UI_RUNE_ATLAS_DESC=さまざまなルーンの組み合わせをご覧いただけます
