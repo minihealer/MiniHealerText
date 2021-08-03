@@ -128,7 +128,7 @@ UI_ART_ATLAS_TUT_TITLE=The <color=#B58300FF>Atlas</color> contains lots of infor
 UI_ART_ATLAS_TUT_ART_ATLAS_DESC=The <color=#B58300FF>Artifact Atlas</color> displays all artifacts seen in the game, you can search for the artifacts you want here. As well as directly forge them here!
 UI_ART_ATLAS_TUT_RUNE_ATLAS_DESC=The <color=#B58300FF>Rune Atlas</color> displays information about different runewords, you can also purchase hints here as well
 
-UI_AT_TUT_INTRO=Welcome to the <color=#B58300FF>Airene Tower</color>. The mini rougelike experice inside Mini Healer <br><br>Enter the tower with a different raid group and with a main healing skill. <br><br>Improve as you climb the tower and build your healing and parties. Defeat bosses to earn <color=#B58300FF>Solar Silk</color> that can be used to purchase transmogs from the <color=#B58300FF>Wardrobe</color>
+UI_AT_TUT_INTRO=Welcome to the <color=#B58300FF>Airene Tower</color>. The mini roguelike experience inside Mini Healer <br><br>Enter the tower with a different raid group and with a main healing skill. <br><br>Improve as you climb the tower and build your healing and parties. Defeat bosses to earn <color=#B58300FF>Solar Silk</color> that can be used to purchase transmogs from the <color=#B58300FF>Wardrobe</color>
 
 UI_RUNE_ATLAS_TITLE=Rune Atlas
 UI_RUNE_ATLAS_DESC=Discover different rune combination here
