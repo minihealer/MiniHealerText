@@ -1,6 +1,6 @@
-TUTORIAL_HAVEN_TTILE=<color=#B58300FF>Hidden Haven</color>へようこそ。ここで休息と次の戦いの準備ができます。
+TUTORIAL_HAVEN_TTILE=<color=#B58300FF>隠れ家</color>へようこそ。ここで休息と次の戦いの準備ができます。
 TUTORIAL_HAVEN_TALENT_TTILE=<color=#B58300FF>タレントルーム</color>でタレントとマスタリーを習得できます。<br><br><color=#858585>レベルアップするごとにタレントポイントを獲得できます。</color>
-TUTORIAL_HAVEN_MUTZ=隠れ家にある他のものもチェックして、準備ができたら<color=#B58300FF>Mutz</color>に話しかけてみましょう。
+TUTORIAL_HAVEN_MUTZ=隠れ家にある他のものもチェックして、準備ができたら<color=#B58300FF>マッツ</color>に話しかけてみましょう。
 
 TUTORIAL_DESC_TALENT_TITLE=タレントはあなたのパーティーに強力なボーナスをもたらします。
 TUTORIAL_DESC_TALENT_UPGRADE=タレントを左クリックすることで選択できます。そして左/右クリックすることでレベルアップ/ダウンできます。
@@ -11,7 +11,7 @@ TUTORIAL_DESC_EQUIPPING_HEALER_ONLY=<color=#B58300FF>装備を変更できるの
 TUTORIAL_DESC_EQUIPPING_METHODS=アーティファクトをドラッグ＆ドロップするか、ダブルクリックすると装備できます。
 
 TUTORIAL_FAV_INSTRUCTION=ハートアイコンをクリックするとアーティファクトをお気に入りに設定します。
-TUTORIAL_FAV_DESC=お気に入りのアーティファクトは自動で売らなくなります。
+TUTORIAL_FAV_DESC=お気に入りのアーティファクトは、「～を全て売る」操作で売却しません。
 
 
 TUTORIAL_FIRST_ARTIFACT=どうやらアーティファクトを手に入れたようですね。<color=#B58300FF>隠れ家</color>にある<color=#B58300FF>武器庫</color>でそれについてさらに知ることができます！
@@ -19,11 +19,11 @@ TUTORIAL_SKILL_ROOM=<color=#B58300FF>隠れ家</color>にある<color=#B58300FF>
 TUTORIAL_ATLAS_UNLOCK=<color=#B58300FF>隠れ家</color>にある<color=#B58300FF>[UI_ATLAS_TITLE]</color>がアンロックされました！<br><br><color=#B58300FF>[UI_ATLAS_TITLE]</color>にはゲーム内の全アイテムとルーンの情報があります！
 
 TUTORIAL_ORRA_INTRO=[CONTEXT_NPC_SHORT_NAME_TORRAM]はあなたの<color=#B58300FF>防具</color>に追加の特性を付与できるようになりました。
-TUTORIAL_ORRA_ATTRIBUTES=[CONTEXT_NPC_SHORT_NAME_TORRAM]がより強く、より多くの特性をエンチャントできるようになりました！
+TUTORIAL_ORRA_ATTRIBUTES=[CONTEXT_NPC_SHORT_NAME_TORRAM]がより強く、より多様な特性をエンチャントできるようになりました！
 TUTORIAL_MEVOR_INTRO=[CONTEXT_NPC_SHORT_NAME_TORRAM]はあなたの<color=#B58300FF>武器</color>に追加の特性を付与できるようになりました。
-TUTORIAL_MEVOR_ATTRIBUTES=[CONTEXT_NPC_SHORT_NAME_TORRAM]がより強く、より多くの特性をエンチャントできるようになりました！
+TUTORIAL_MEVOR_ATTRIBUTES=[CONTEXT_NPC_SHORT_NAME_TORRAM]がより強く、より多様な特性をエンチャントできるようになりました！
 TUTORIAL_EDWIN_INTRO=[CONTEXT_NPC_SHORT_NAME_TORRAM]はあなたの<color=#B58300FF>アクセサリ</color>に追加の特性を付与できるようになりました。
-TUTORIAL_EDWIN_ATTRIBUTES=[CONTEXT_NPC_SHORT_NAME_TORRAM]がより強く、より多くの特性をエンチャントできるようになりました！
+TUTORIAL_EDWIN_ATTRIBUTES=[CONTEXT_NPC_SHORT_NAME_TORRAM]がより強く、より多様な特性をエンチャントできるようになりました！
 TUTORIAL_TRIO_CHAOS=<color=#B58300FF>Astral Fragments</color>を1つ入手しました
 TUTORIAL_TRIO_CHAOS_COLLECT=集める
 TUTORIAL_TRIO_CHAOS_MORE=さらに欠片を手に入れて武器庫の追加のアイテムスロットをアンロックする
@@ -39,10 +39,10 @@ TUTORIAL_CHAOS_UNLOCK=どうやら<color=#FF911F>[MATERIAL_CHAOS_CRYSTAL_NAME]</
 TUTORIAL_CHAOS_PILLAR_UNLOCK=<color=#FF911F>カオス・ピラー</color>は戦闘後に自動起動することがあります。自動起動した<color=#FF911F>カオス・ピラー</color>のボスを倒すと、より多くの<color=#FF911F>[MATERIAL_CHAOS_CRYSTAL_NAME]</color>を獲得することができます
 TUTORIAL_CHAOS_GENERATION_UNLOCK=また、ゲームが終了していても、数分ごとに<color=#FF911F>[MATERIAL_CHAOS_CRYSTAL_NAME]</color>を獲得できるようになりました。
 
-TUTORIAL_MIDNIGHT_UNLOCK=<color=#FF911F>Midnight Zone</color>がアンロックされました! クオーター/ゾーン内のボスを全て倒すと、<color=#FF911F>Midnight Zone</color>で再び1対1で戦うことができ、挑戦して追加アイテムを獲得することができます!
+TUTORIAL_MIDNIGHT_UNLOCK=<color=#FF911F>ミッドナイト・ゾーン</color>がアンロックされました！　ゾーン内のボスを全て倒すと<color=#FF911F>ミッドナイト・ゾーン</color>で連戦に挑戦でき、各ボスのアイテムとミッドナイト・ゾーンの追加アイテムを獲得することができます！
 
 TUTORIAL_DININATION_SPHERE_UNLOCK=<color=#FF911F>[MATERIAL_DIVINATION_SPHERE_NAME]</color>は、[LOCATION_PANDEMONIC_DEPTH]でしか手に入らない非常に希少な素材です。
-TUTORIAL_DININATION_SPHERE_UNLOCK_DESC=[CONTEXT_NPC_SHORT_NAME_TORRAM]はこのスフィアを使って、弱いユニークなアーティファクトを<color=#FF911F>神性</color>バージョンに大幅に強化することができる。
+TUTORIAL_DININATION_SPHERE_UNLOCK_DESC=[CONTEXT_NPC_SHORT_NAME_TORRAM]はこの宝珠を使って、弱いユニークなアーティファクトを<color=#FF911F>神性</color>バージョンに大幅に強化することができる。
 TUTORIAL_DININATION_SPHERE_UNLOCK_ATLAS_DESC=<color=#FF911F>[UI_ATLAS_TITLE]</color>で、神性アーティファクトの情報も表示されるようになりました。
 
 TUTORIAL_DICE_UNLOCK=隠れ家で<color=#FF911F>欲望のダイス</color>がアンロックされました。
@@ -52,8 +52,8 @@ TUTORIAL_CURSE_UNLOCK=珍しい<color=#FF911F>[MATERIAL_CURSED_SOUL_NAME]</color
 TUTORIAL_CURSE_CRAFT=<color=#FF911F>[CONTEXT_NPC_SHORT_NAME_TORRAM]</color>が<color=#FF911F>[MATERIAL_CURSED_SOUL_NAME]</color>を使って、別の方法でアイテムをクラフト、強化できるようになりました!
 TUTORIAL_CURSE_PURCHASE=また、<color=#FF911F>[MATERIAL_CURSED_SOUL_NAME]</color>を使って、<color=#FF911F>[UI_ATLAS_TITLE]</color>で見たことのあるアイテムを購入することができます。
 
-TUTORIAL_BEATING_GAME=ガーディアンを倒し、Mini Healerをクリアしたことを祝福します。<color=#B58300FF>Key of Infinity</color>を使って、どこまでできるかチャレンジしてみてくださいね。
-TUTORIAL_BEATING_GAME_DEPTH=自分のビルドをとことん強化してみたい方は、<color=#B58300FF>Key of Infinity</color>を徹底的に使って、どこまでできるか挑戦してみてください。
+TUTORIAL_BEATING_GAME=ガーディアンを倒し、Mini Healerをクリアしたことを祝福します。<color=#B58300FF>[MATERIAL_KEY_OF_INFINITY_NAME]</color>を使って、どこまでできるかチャレンジしてみてくださいね。
+TUTORIAL_BEATING_GAME_DEPTH=自分のビルドをとことん強化してみたい方は、<color=#B58300FF>[MATERIAL_KEY_OF_INFINITY_NAME]</color>を徹底的に使って、どこまでできるか挑戦してみてください。
 TUTORIAL_BEATING_GAME_TOWER=ローグライク風のダンジョンを体験してみたい方は、[LOCATION_HIDDEN_HAVEN]にいる[CONTEXT_NPC_NAME_ANAPIEL]に話しかけて、[LOCATION_AIRENE_TOWER]に向かってください！
 
 
@@ -64,7 +64,7 @@ TUTORIAL_BATTLE_SELECT_CHARACTER_2=また、キーボードのQ,W,E,Rを押し�
 TUTORIAL_BATTLE_SELECT_SPELL_0=よくできました。では、最初の呪文である<color=#ea8631>Lesser Heal</color>を彼にかけてみましょう!
 TUTORIAL_BATTLE_SELECT_SPELL_1=<color=#ea8631>呪文やアイコンにカーソルを合わせると、その効果を確認することができます。<br>そして、<color=#ea8631>1</color>を押すと、タンクにそれを唱えることができます!
 
-TUTORIAL_BATTLE_MANA_0=完治しました！<br>Bone Knightを倒して、宝庫に入ります。
+TUTORIAL_BATTLE_MANA_0=完治しました！<br>ボーンナイトを倒して、宝庫に入ります。
 TUTORIAL_BATTLE_MANA_1=マナが足りないと呪文を唱えられないので気を付けて
 
 TUTORIAL_BATTLE_RENEW_0=おやおや、タンクが出血しているようですね。そんな時は、新しいスキルを使えば大丈夫。
@@ -73,7 +73,7 @@ TUTORIAL_BATTLE_RENEW_1=<color=#ea8631>Renewがアンロックされました！
 TUTORIAL_BATTLE_NEGATE_0=一部の敵は自分自身に強力なバフをかけてくるので、注意して必要ならばそれを除去します。
 TUTORIAL_BATTLE_NEGATE_1=<color=#ea8631>Negateがアンロックされました！ </color><br>Negateは敵の強力なバフを消すことができます。<br>敵を選択してから<color=#ea8631>4</color>を押して唱えてみてください。
 
-TUTORIAL_BATTLE_SWITCH_0=Gumpが手下を召喚したようだ！
+TUTORIAL_BATTLE_SWITCH_0=ガンプが手下を召喚したようだ！
 TUTORIAL_BATTLE_SWITCH_1=<color=#B58300FF>敵をクリックすると、仲間全員の狙いがその敵に切り替わります。</color>。
 TUTORIAL_BATTLE_SWITCH_2=また、<color=#B58300FF>Tabキー</color>を押して切り替えることもできます。
 
