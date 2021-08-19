@@ -73,7 +73,7 @@ UI_SNATCH=取る
 UI_RESTOCK=補充
 UI_CLAIM=請求
 
-UI_MENU_DIFFICULTY=難易度を選択してください
+UI_MENU_DIFFICULTY=難易度を選択して下さい
 UI_MENU_DIFFICULTY_DESC=後から変更できます
 UI_MENU_DIFFICULTY_TITLE=難易度
 
@@ -133,9 +133,9 @@ UI_AT_TUT_INTRO=<color=#B58300FF>アイリーンの塔</color>へようこそ。
 UI_RUNE_ATLAS_TITLE=ルーン アトラス
 UI_RUNE_ATLAS_DESC=さまざまなルーンの組み合わせをご覧いただけます
 
-UI_STATS_INFO_TUT_TITLE=<color=#B58300FF>ステータスと情報</color>には仲間のステータスとゲームのFAQが入っています
-UI_STATS_INFO_TUT_STATS_TITLE=<color=#B58300FF>ステータス</color>タブには、パーティーの現在のステータスが表示されます。
-UI_STATS_INFO_TUT_FAQ_TITLE=<color=#B58300FF>FAQ</color>タブでは、ゲームに関するヒントや、パーティーを改善する方法などを紹介しています
+UI_STATS_INFO_TUT_TITLE=<color=#B58300FF>ステータスと情報</color>では仲間のステータスとゲームのFAQを確認できます
+UI_STATS_INFO_TUT_STATS_TITLE=<color=#B58300FF>ステータス</color>タブでは、パーティーの現在のステータスが表示されます
+UI_STATS_INFO_TUT_FAQ_TITLE=<color=#B58300FF>FAQ</color>タブでは、ゲームに関するヒントやパーティーを改善する方法などを紹介しています
 
 UI_STATS_INFO_OFFENSE=攻撃
 UI_STATS_INFO_DEFENSE=防御
@@ -156,7 +156,7 @@ UI_DICE_ROLL_WEAPONS_ONLY=[ARMORY_FILTERS_WEAPON]のみロールする
 UI_DICE_ROLL_ARMORS_ONLY=[ARMORY_FILTERS_ARMOR]のみロールする
 UI_DICE_ROLL_ACCESSORIES_ONLY=[ARMORY_FILTERS_ACCESSORY]のみロールする
 
-UI_DISCORD_FEEDBACK_DESC=バグを見つけましたか？　ゲームを気に入りましたか？　意見がありますか？<br>ディスコードのMini Healerサーバーに参加してください！
+UI_DISCORD_FEEDBACK_DESC=バグを見つけましたか？　ゲームを気に入ってくれましたか？　意見がありますか？<br>DiscordのMini Healerサーバーに参加してください！
 
 UI_COMBATLOG_TITLE=<color=#B58300FF>戦闘ログ</color>
 UI_COMBATLOG_DESC=仲間を選択すると、そのメンバーの戦闘に関する詳細情報が表示される
@@ -308,9 +308,9 @@ UI_BLACKSMITH_MUTATE_DESC=アーティファクトに変異を追加する
 UI_BLACKSMITH_CLEANSE_MUTATION_TITLE=変異の除去
 UI_BLACKSMITH_CLEANSE_MUTATION_DESC=変異で付いた効果を全て除去する
 UI_BLACKSMITH_HASNT_MUTATED=アーティファクトは変異していない
-UI_BLACKSMITH_DIVINATION_ORB_TUT=What's a [MATERIAL_DIVINATION_SPHERE_NAME]
+UI_BLACKSMITH_DIVINATION_ORB_TUT=[MATERIAL_DIVINATION_SPHERE_NAME]とは？
 
-UI_TINKERSPARK_DESC=在庫と価格は毎回異なります
+UI_TINKERSPARK_DESC=品揃えと価格は毎回異なります
 
 UI_MUTZ_HEAVEN_DESC=隠れ家の番人
 UI_SETTINGS_HEAVEN_DESC=設定の変更とセットアップ
