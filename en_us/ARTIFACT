@@ -1,5 +1,6 @@
 ARTIFACT_ITEMLEVEL=iLevel
 ARTIFACT_QUALITY=Quality
+ARTIFACT_TOWER_CONQUEROR_NAME=Tower Conqueror
 
 ARTIFACT_SIMPLE_SWORD_NAME=Simple Sword
 ARTIFACT_SIMPLE_SHIELD_NAME=Simple Shield
@@ -642,7 +643,7 @@ ARTIFACT_STONE_OF_MADNESS_SPECIAL_DESC=+{0} minimum item drop quality (default d
 ARTIFACT_STORMBRINGER_DIVINE_SPECIAL_DESC=[ARTIFACT_STORMBRINGER_SPECIAL_DESC]
 ARTIFACT_HELLSEDGE_DIVINE_SPECIAL_DESC=[ARTIFACT_HELLSEDGE_SPECIAL_DESC]
 ARTIFACT_TWISTED_BARGAIN_SPECIAL_DESC=After spending 150 mana:  <br>+15% party all Elemental Damage for 5 seconds <br>+15% party all Elemental Resist for 5 seconds
-ARTIFACT_THE_SUNWALKER_SPECIAL_DESC=[LINK_TALENT_LEADERSHIP] also applies a level {0} Immolate for {1} seconds
+ARTIFACT_THE_SUNWALKER_SPECIAL_DESC=[LINK_TALENT_LEADERSHIP] also applies a level {0} [LINK_TALENT_IMMOLATE] for {1} seconds
 ARTIFACT_SUPERNOVA_SPECIAL_DESC=Party members can not attack <br><br>[CONTEXT_PARTY_MEMBER_NAME_HEALER] can not cast [LINK_TALENT_CATACLYSM] <br><br>Spawn a [LINK_TALENT_CATACLYSM] fireball of the current level every 1 second
 ARTIFACT_FROZEN_HELL_SPECIAL_DESC=[LINK_TALENT_CATACLYSM] now deals {0} damage instead
 ARTIFACT_RAMPAGE_DIVINE_SPECIAL_DESC=[ARTIFACT_RAMPAGE_SPECIAL_DESC]
@@ -652,11 +653,10 @@ ARTIFACT_NIGHTKISS_DIVINE_SPECIAL_DESC=Reduce the damage of [LINK_TALENT_RAPID_S
 ARTIFACT_PROLONGED_PAIN_SPECIAL_DESC=[LINK_TALENT_POISON] now lasts {0} seconds instead
 ARTIFACT_SPRINTER_OF_THE_FOREST_SPECIAL_DESC=All party members gain {0}% dodge chance during [LINK_SKILL_REJUVENATE] Effect
 ARTIFACT_TEMPEST_FURY_SPECIAL_DESC=[LINK_TALENT_RAPID_SHOT] and [LINK_TALENT_CHAOS_STRIKE] reduces the cooldown of each other by 1 second
-ARTIFACT_INFINITY_SPECIAL_DESC=This item's attributes can be enhanced 100 times <br>Costs to enhance this item is reduced
 ARTIFACT_SWORD_SUN_MOON_SPECIAL_DESC=[CONTEXT_PARTY_MEMBER_NAME_TANK]'s attacks have a 15% chance to deal {0} [ATTRIBUTE_FIRE_DAMAGE] to all enemies <br><br>[CONTEXT_PARTY_MEMBER_NAME_HEALER]'s attacks have a 15% chance to deal {1} [ATTRIBUTE_ICE_DAMAGE] to all enemies
 ARTIFACT_QUEEN_TRIBUTE_SPECIAL_DESC=[LINK_TALENT_CHAOS_STRIKE] also increases caster's base [ATTRIBUTE_LIGHTNING_DAMAGE] by {0}% for 6 seconds
 ARTIFACT_RUNE_FORGED_BLADE_SPECIAL_DESC=Whenever [CONTEXT_PARTY_MEMBER_NAME_TANK] Blocks, he gains {0} extra [ATTRIBUTE_FIRE_DAMAGE] for 5 seconds
-ARTIFACT_ASHWOOD_SPECIAL_DESC=[CONTEXT_PARTY_MEMBER_NAME_RANGER]'s attacks have a {0}% chance to burn the target, dealing {1}% of [CONTEXT_PARTY_MEMBER_NAME_RANGER]'s [ATTRIBUTE_BASE_DAMAGE_TEXT] damage per second as [ATTRIBUTE_FIRE_DAMAGE] for {2} seconds
+ARTIFACT_ASHWOOD_SPECIAL_DESC=[CONTEXT_PARTY_MEMBER_NAME_RANGER]'s attacks have a {0}% chance to burn the target, dealing {1}% of [CONTEXT_PARTY_MEMBER_NAME_RANGER]'s [ATTRIBUTE_BASE_DAMAGE_TEXT] as [ATTRIBUTE_FIRE_DAMAGE] per second for {2} seconds
 ARTIFACT_ASHWOOD_DIVINE_SPECIAL_DESC=[CONTEXT_PARTY_MEMBER_NAME_RANGER]'s attacks have a {0}% chance to burn the target, dealing {1}% of [CONTEXT_PARTY_MEMBER_NAME_RANGER]'s [ATTRIBUTE_BASE_DAMAGE_TEXT] as {2} damage per second as well as reducing {2} resists by {3}% for {4} seconds, stacks up to {5} times
 ARTIFACT_OBSIDIAN_GLORY_SPECIAL_DESC=[LINK_SKILL_BANISH] is now an Aura <br>[LINK_SKILL_BANISH] has 60% less Effect <br>You can not cast [LINK_SKILL_BANISH]
 ARTIFACT_EDGE_OF_TIME_SPECIAL_DESC=Whenever a party member is shielded, they takes 15% of [ATTRIBUTE_INCREASE_HEALPOWER_FLAT_TEXT] as [ATTRIBUTE_ICE_DAMAGE] per second
@@ -717,7 +717,7 @@ ARTIFACT_WOEFUL_SILVER_SPECIAL_DESC={0} gains extra [ATTRIBUTE_BASE_ICE_DAMAGE] 
 ARTIFACT_APPRENT_COMP_SPECIAL_DESC=[LINK_SKILL_RADIANT_HEAL] has no cast time
 ARTIFACT_UNBREAKABLE_WILL_SPECIAL_DESC=[LINK_TALENT_LAST_STAND] also increases [ATTRIBUTE_BLOCK_CHANCE_TEXT] by 30%, all resists by 30%, and maximum [ATTRIBUTE_ELE_RESISTS_TEXT] by 5%
 ARTIFACT_DEVIL_TAIL_SPECIAL_DESC=Whenever [LINK_SKILL_SHADOW_RIPPLE] critically heals, all party members' auto attack will guarantee to critically strike for {0} seconds
-ARTIFACT_GLUTTONY_SPECIAL_DESC=[ATTRIBUTE_INCREASE_HEALPOWER_FLAT_TEXT] is now 0 <br><br>Other body armors have no effect
+ARTIFACT_GLUTTONY_SPECIAL_DESC=[ATTRIBUTE_INCREASE_HEALPOWER_FLAT_TEXT] is now 0 <br><br>Other none-unique armors have no effect
 ARTIFACT_GLUTTONY_TOWER_SPECIAL_DESC=[ATTRIBUTE_INCREASE_HEALPOWER_FLAT_TEXT] attributes from [CONTEXT_SCROLLS] provides [ATTRIBUTE_INCREASE_ALL_HP_FLAT_TEXT] instead
 
 ARTIFACT_INNER_PEACE_SPECIAL_DESC=Double the duration of [LINK_SKILL_NATURE_GIFT]
@@ -731,7 +731,7 @@ ARTIFACT_AURAMANCER_STONE_SPECIAL_DESC=+{0}% [ATTRIBUTE_INCREASE_HEALPOWER_FLAT_
 ARTIFACT_ENIGMA_SPECIAL_DESC=Every 7 seconds, 2 random targets of next [LINK_SKILL_RADIANT_HEAL] will be casted level 3 [LINK_SKILL_AMPLE_HEAL] instead
 ARTIFACT_THE_CORRUPTED_SPECIAL_DESC=[LINK_TALENT_DECAY_AURA] damage is increased by {0}% per aura affecting the [CONTEXT_PARTY_MEMBER_NAME_HEALER] <br>Grants [LINK_SANGUINE_AURA]
 ARTIFACT_DANCING_FENCER_SPECIAL_DESC=When equipped with only swords as weapons, all party members gain the following bonuses: <br>+35% [ATTRIBUTE_PHYSICAL_DAMAGE] <br>+35% block and dodge chance <br>+35% [ATTRIBUTE_CRITICAL_STRIKE_DAMAGE_TEXT] <br><br>When equipped with only swords as weapons, [CONTEXT_PARTY_MEMBER_NAME_TANK] will deal {0}% of his damage back to the attacker as [ATTRIBUTE_PHYSICAL_DAMAGE] on block, this attack can critically strike <br><br>Wearing shields have no effect
-ARTIFACT_OMEN_SPECIAL_DESC=+% [ATTRIBUTE_INCREASE_HEALPOWER_FLAT_TEXT] equal to 80% of all party members' average uncapped [ATTRIBUTE_FIRE_RESIST] <br>+% critical heal chance equal to 20% of all party members' average uncapped [ATTRIBUTE_ICE_RESIST] <br>+% critical heal multiplier equal to 80% of all party members' average uncapped [ATTRIBUTE_LIGHTNING_RESIST]
+ARTIFACT_OMEN_SPECIAL_DESC=+% [ATTRIBUTE_INCREASE_HEALPOWER_FLAT_TEXT] equal to {0}% of all party members' average uncapped [ATTRIBUTE_FIRE_RESIST] <br>+% critical heal chance equal to {1}% of all party members' average uncapped [ATTRIBUTE_ICE_RESIST] <br>+% critical heal multiplier equal to {2}% of all party members' average uncapped [ATTRIBUTE_LIGHTNING_RESIST]
 ARTIFACT_STORMGUARD_BATTLEPLATE_SPECIAL_DESC={0}% of all [CONTEXT_PARTY_MEMBER_NAME_TANK]'s damage taken is taken as [ATTRIBUTE_LIGHTNING_DAMAGE] instead
 ARTIFACT_FORESIGHT_SPECIAL_DESC=[LINK_SKILL_LESSER_HEAL] now places 4 stacks of [LINK_SKILL_SPIRIT_ORB] of the current level instead
 ARTIFACT_SYNERGY_SPECIAL_DESC=[LINK_SKILL_SHADOW_RIPPLE] also causes the next [LINK_SKILL_FLASH_HEAL] on the target to heal for 100% more <br>[LINK_SKILL_FLASH_HEAL] also causes the next [LINK_SKILL_SHADOW_RIPPLE] on the target to heal for 50% more
@@ -804,8 +804,8 @@ ARTIFACT_WILD_FIRE_SPECIAL_DESC=All party members' [ATTRIBUTE_FIRE_DAMAGE] now i
 ARTIFACT_DELAYED_REDEMPTION_SPECIAL_DESC=[LINK_SKILL_SPIRIT_ORB] now heals when expired instead
 ARTIFACT_THE_CHALLENGER_SPECIAL_DESC=[LINK_TALENT_SHIELD_BASH] also reduces target's [ATTRIBUTE_PHYSICAL_RESIST] by {0}% and increases [CONTEXT_PARTY_MEMBER_NAME_TANK]'s [ATTRIBUTE_PHYSICAL_RESIST] by {0}% for {1} seconds
 ARTIFACT_PEACESONG_DIVINE_SPECIAL_DESC=[ARTIFACT_PEACESONG_SPECIAL_DESC]
-ARTIFACT_TWISTER_DIVINE_SPECIAL_DESC=[LINK_TALENT_TYPHOON] now deals {0}% of [CONTEXT_PARTY_MEMBER_NAME_RANGER]'s all damage as [ATTRIBUTE_ICE_DAMAGE] to all enemies <br>Trigger current level of [LINK_TALENT_TYPHOON] on [CONTEXT_PARTY_MEMBER_NAME_RANGER]'s non-skill critical strikes
-ARTIFACT_UNSHAKEN_STANCE_SPECIAL_DESC=Increase or decrease in attack speed has no effect on all party members
+ARTIFACT_TWISTER_DIVINE_SPECIAL_DESC=[LINK_TALENT_TYPHOON] now deals {0}% of [CONTEXT_PARTY_MEMBER_NAME_RANGER]'s all damage as [ATTRIBUTE_ICE_DAMAGE] to all enemies <br><br>Trigger current level of [LINK_TALENT_TYPHOON] on [CONTEXT_PARTY_MEMBER_NAME_RANGER]'s non-skill critical strikes <br><br>This damage can critically strike
+ARTIFACT_UNSHAKEN_STANCE_SPECIAL_DESC=Artifacts no longer increase or decrease attack speed from their attributes
 ARTIFACT_ILLUMINA_DIVINE_SPECIAL_DESC=[ARTIFACT_ILLUMINA_SPECIAL_DESC]
 ARTIFACT_LUMINOUS_WORD_DIVINE_SPECIAL_DESC=[ARTIFACT_LUMINOUS_WORD_SPECIAL_DESC]
 ARTIFACT_DOOM_GUARD_DIVINE_SPECIAL_DESC=[ARTIFACT_DOOM_GUARD_SPECIAL_DESC]
@@ -961,5 +961,18 @@ ARTIFACT_COLISEUM_SPECIAL_DESC=All single target non heal overtime healing skill
 ARTIFACT_KINGS_HANDS_NAME=King's Hands
 ARTIFACT_KINGS_HANDS_SPECIAL_DESC=[LINK_SKILL_HAMMER_OF_RECKONING] also increases [CONTEXT_PARTY_MEMBER_NAME_BERZERKER]'s [ATTRIBUTE_PHYSICAL_DAMAGE] by {0}% of [ATTRIBUTE_INCREASE_HEALPOWER_FLAT_TEXT] and [CONTEXT_PARTY_MEMBER_NAME_RANGER]'s [ATTRIBUTE_PHYSICAL_DAMAGE] by {1}% of [ATTRIBUTE_INCREASE_HEALPOWER_FLAT_TEXT] for {2} seconds. <br><br>Each [LINK_SKILL_SEAL_OF_LIGHT] consumed will increase the duration of this effect by 1 second
 
+ARTIFACT_SUNSHARDS_NAME=Sunshard
+ARTIFACT_SUNSHARDS_SPECIAL_DESC=[CONTEXT_PARTY_MEMBER_NAME_HEALER]'s auto attack now fires a [LINK_TALENT_CATACLYSM] fireball instead. <br><br>[LINK_TALENT_CATACLYSM] no longer trigger
+
+ARTIFACT_COMBUSTION_NAME=Combustion
+ARTIFACT_COMBUSTION_SPECIAL_DESC=Grants [LINK_SKILL_COMBUSTION] skill <br><br>An area of effect healing and damage spell based on the number of unique buffs and auras on the [CONTEXT_PARTY_MEMBER_NAME_HEALER]
+
+ARTIFACT_WALL_OF_PAIN_NAME=Wall of Pain
+ARTIFACT_WALL_OF_PAIN_SPECIAL_DESC=Whenever [CONTEXT_PARTY_MEMBER_NAME_TANK] blocks. He will gain a stack of [LINK_WALL_OF_PAIN] effect. <br><br>Stacks up to {0} times and lasts for {1} seconds
+
+ARTIFACT_RING_OF_FELLOWSHIP_NAME=Ring of Fellowship
+ARTIFACT_RING_OF_FELLOWSHIP_SPECIAL_DESC=Whenever each respective party member triggers [LINK_TALENT_BLESSED_COMPANY] - <br>[CONTEXT_PARTY_MEMBER_NAME_TANK] increases [ATTRIBUTE_PHYSICAL_RESIST] of all party members instead <br>[CONTEXT_PARTY_MEMBER_NAME_RANGER] marks the target, increasing [ATTRIBUTE_ALL_DAMAGE_TAKEN] from [LINK_TALENT_BLESSED_COMPANY] by {0}% for {1} seconds. <br>[CONTEXT_PARTY_MEMBER_NAME_HEALER] also restores {2} mana <br>[CONTEXT_PARTY_MEMBER_NAME_BERZERKER] deals additional [ATTRIBUTE_FIRE_DAMAGE] damage to all enemies equal to {3}% of the combined all damage of other party members
+
+ARTIFACT_INFINITY_SPECIAL_DESC=[LINK_TALENT_INFECTED_ARMOR] now refereshes the duration of all buffs instead
 
 END

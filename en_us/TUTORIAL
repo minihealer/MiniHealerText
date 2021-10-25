@@ -5,6 +5,7 @@ TUTORIAL_HAVEN_MUTZ=Checkout the other items in Haven as well, then when you are
 TUTORIAL_DESC_TALENT_TITLE=Talents provide strong bonuses to your party. 
 TUTORIAL_DESC_TALENT_UPGRADE=Select a talent by left clicking on it. And then left click/right click again to upgrade/downgrade
 TUTORIAL_DESC_TALENT_UPGRADE_MANUAL=You can also use these buttons to upgrade/downgrade as well
+TUTORIAL_DESC_TALENT_CLASSES=There are 4 main classes in Mini Healer, each has their own strengths and weaknesses
 
 TUTORIAL_DESC_EQUIPPING_TITLE=Welcome to the <color=#B58300FF>[UI_ARMORY_TITLE]</color>, here you can equip different artifacts to your <color=#B58300FF>[CONTEXT_PARTY_MEMBER_NAME_HEALER]</color>! 
 TUTORIAL_DESC_EQUIPPING_HEALER_ONLY=<color=#B58300FF>Note that items equipped onto the [CONTEXT_PARTY_MEMBER_NAME_HEALER] will affect the party as a whole!</color> 
@@ -44,6 +45,7 @@ TUTORIAL_MIDNIGHT_UNLOCK=The <color=#FF911F>Midnight Zone</color> is now unlocke
 TUTORIAL_DININATION_SPHERE_UNLOCK=<color=#FF911F>[MATERIAL_DIVINATION_SPHERE_NAME]</color> is a very rare material that can only be found in [LOCATION_PANDEMONIC_DEPTH]
 TUTORIAL_DININATION_SPHERE_UNLOCK_DESC=Torram can use the sphere to significantly upgrade weaker unique artifacts to their <color=#FF911F>divine</color> versions
 TUTORIAL_DININATION_SPHERE_UNLOCK_ATLAS_DESC=<color=#FF911F>The Atlas</color> will now also display divine information of an artifact
+TUTORIAL_DININATION_SPHERE_TORRAM_DESC=Enemies are also stronger from this point onwards. <br><br>Make sure to visit <color=#FF911F>[CONTEXT_NPC_SHORT_NAME_TORRAM]</color> in the <color=#FF911F>[LOCATION_HIDDEN_HAVEN]</color> to upgrade and enchant your gears as they will significantly help!
 
 TUTORIAL_DICE_UNLOCK=The <color=#FF911F>Dice of Greed</color> is now unlocked at the [LOCATION_HIDDEN_HAVEN]
 TUTORIAL_DICE_UNLOCK_DESC=The dice offers a variety of items at a cost. Some will be good, some will not
@@ -78,6 +80,7 @@ TUTORIAL_BATTLE_SWITCH_1=<color=#B58300FF>Clicking on an enemy will make the par
 TUTORIAL_BATTLE_SWITCH_2=You can also press<color=#B58300FF> tab</color> to switch focus
 
 TUTORIAL_MOVEMENT=You can press <color=#B58300FF>A</color> or <color=#B58300FF>D</color> to move the Healer. You can use it to dodge bosses' skills or interact with the items on the battle field.
+TUTORIAL_MOVEMENT_JUMP=You can also use <color=#B58300FF>Space</color> to jump around!
 
 TUTORIAL_ENV_EFFECT=Be aware that sometimes there can be additional<color=#B58300FF> environmental effects</color><br><br>Make sure to check the top left corner to learn its effect
 

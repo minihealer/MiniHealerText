@@ -8,6 +8,7 @@ AT_UI_ATLAS=Tower Atlas
 AT_UI_SHOP=Shop
 AT_UI_SKILLDRAFT=Learn a new skill
 AT_UI_ANA_OFFERING=[CONTEXT_NPC_NAME_ANAPIEL]'s Offering
+AT_UI_CHAOS_CRYSTAL=Chaos Crystal
 
 AT_UI_EMPTY_SCROLLS=You don't have any scrolls yet
 
@@ -17,6 +18,7 @@ AT_SCROLL_DESC=Slightly improves the overall stats of the party
 AT_BLESSING_DESC=Grants additional stats bonus or special effects
 AT_ARTIFACT_DESC=Grants a random common artifact
 AT_ARTIFACT_ANCIENT_DESC=Select 1 ancient artifact
+AT_MANA_POTION_DESC=Restores {0}% of your [ATTRIBUTE_MAXIMUM_MANA]
 
 AT_UI_VICTORY_TITLE=Victory!
 AT_UI_DEFEATED_TITLE=Defeated!
@@ -31,6 +33,9 @@ AT_UI_VICTORY_STATS_NUM_OF_DEATHS=Total deaths: {0}
 AT_UI_BACK_END_RUN=This will end your current run!
 
 AT_UI_BLACKSMITH_EMPTY_TEXT=Select a scroll to upgrade
+
+AT_UI_TOWER_CHAOS_DESC=Increase the Chaos level <sprite=11> of the tower by adding Chaos attributes to it. <br>Every Chaos level will also increases the reward that the tower gives.
+
 
 AT_UI_TOWER_ATLAS_TITLE=Tower Atlas
 AT_UI_TOWER_ATLAS_DESC=Contains all information on what you will find in the tower
@@ -78,6 +83,20 @@ AT_UI_OBTAINED_SCROLLS=Obtained [CONTEXT_SCROLLS]
 AT_UI_SCROLLS_TOTAL_STATS=Total stats
 
 AT_LVL_NAME_TOSSING_PARTY=Sword Tossing Party
+
+AT_CHAOS_LOCKED_DESC=Defeat tower with {0} chaotic level or more to unlock
+AT_CHAOS_MOD_REWARD_DESC=Gain {0}% more [MATERIAL_SOLARSILK_NAME]
+AT_CHAOS_MOD_REWARD_MAX_CHAOTIC_DESC=Permanently increases the maximum chaos level of the tower if successfully completed
+
+AT_CHAOS_MOD_RUST_DESC=You no longer have starting gold
+AT_CHAOS_MOD_CRUEL_DESC=Enemies deals {0}% more damage
+AT_CHAOS_MOD_IMPOSING_DESC=Enemies has {0}% more [ATTRIBUTE_MAXIMUM_HEALTH]
+AT_CHAOS_MOD_DROUGHT_1_DESC=Elite enemies now drop [CONTEXT_SMALL] [CONTEXT_MANA_POTION] instead
+AT_CHAOS_MOD_DROUGHT_2_DESC=Bosses now drop [CONTEXT_MEDIUM] [CONTEXT_MANA_POTION] instead
+AT_CHAOS_MOD_MISERY_DESC=Enemies now drop {0}% less gold
+AT_CHAOS_MOD_TORMENT_DESC=Whenever another party member dies, all other party members lose health equal to {0}% of their [ATTRIBUTE_MAXIMUM_HEALTH]
+AT_CHAOS_MOD_BAD_BLOOD_DESC=Whenever you overheal with non heal overtime healing skills, you lose health equal to {0}% of the amount overhealed
+AT_CHAOS_MOD_HEAVY_DESC=Your skills now have an additional {0} second global cooldown
 
 AT_CURSE_CHAIN_NAME=Curse of Chains
 AT_CURSE_CHAIN_DESC=All spells now have a global cooldown of {0} second

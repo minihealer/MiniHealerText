@@ -12,6 +12,17 @@ UI_TALENT_LOADOUT_SLOTS_DELETE=Are you sure you want to delete this loadout?
 UI_SAVE_SLOTS_EDIT_NAME=Enter save slot name
 UI_SAVE_SLOTS_NEW_GAME=< New Game >
 UI_NEW_SAVE_RECOMMENDATION=A lot has changed since you last played<br><br>We recommend a fresh start of the game<br><br><color=#555555>Of course you can continue with this save slot as well if you wish.
+UI_NEW_GAME_NAME_PARTY=What's you and your party's name?
+UI_ENTER_NAME=Enter name
+
+UI_LOCAL_SAVE=Local Save
+UI_CLOUD_SAVE=Cloud Save
+UI_CLOUD_SAVE_CONFLICT=Conflict between Steam Cloud and local
+UI_CLOUD_SAVE_CONFLICT_DESC=Choose either local or cloud save to keep
+UI_CORRUPTED_SAVE=Save file is corrupted
+UI_NUMBER_OF_ARTIFACTS=Number of artifacts
+UI_CLOUD_SAVE_CONFLICT_WARNING=Warning, you won't be able to undo this!
+UI_SAVE_DELETED=Deleted save file
 
 UI_YES=Yes
 UI_NO=No
@@ -72,6 +83,9 @@ UI_LEAVE=Leave
 UI_SNATCH=Snatch
 UI_RESTOCK=Restock
 UI_CLAIM=Claim
+UI_YOU=You
+UI_CHAOS=Chaos
+UI_ITEMS_SPOILS=Spoils
 
 UI_MENU_DIFFICULTY=Choose a Difficulty
 UI_MENU_DIFFICULTY_DESC=You can change them later!
@@ -107,6 +121,10 @@ UI_CHAOS_CRYSTAL_IDLE_TTILE=Chaos Shrine
 UI_CHAOS_CRYSTAL_IDLE_DESC=Chaos Shrine will automatically generate a Chaos Crystal every {0} minutes
 UI_CHAOS_CRYSTAL_IDLE_OFFLINE_DESC=Chaos Shrine will continue to generate Chaos Crystals even when MiniHealer is closed for up to a maximum of {0} hours
 
+UI_FAQ_TITLE=Wisdom Tomes
+UI_FAQ_HEAVEN_DESC=Contains FAQs and general tips of the game
+UI_STATS_INFO_TUT_FAQ_TITLE=The <color=#B58300FF>Wisdom Tomes</color> will tell you some tips and tricks about the game as well as how to improve your party
+
 UI_ATLAS_TITLE=The Atlas
 UI_ART_ATLAS_TITLE=Artifact Atlas
 UI_ART_ATLAS_DESC=Search and hunt for the artifacts you desire
@@ -133,14 +151,12 @@ UI_AT_TUT_INTRO=Welcome to the <color=#B58300FF>Airene Tower</color>. The mini r
 UI_RUNE_ATLAS_TITLE=Rune Atlas
 UI_RUNE_ATLAS_DESC=Discover different rune combination here
 
-UI_STATS_INFO_TUT_TITLE=The <color=#B58300FF>Stats and Info</color> contains the stats of your party members as well as FAQs of the game
-UI_STATS_INFO_TUT_STATS_TITLE=The <color=#B58300FF>Stats</color> tab contains all current stats of your party
-UI_STATS_INFO_TUT_FAQ_TITLE=The <color=#B58300FF>FAQ</color> tab will tell you some tips and tricks about the game as well as how to improve your party
+UI_STATS_INFO_TUT_TITLE=The <color=#B58300FF>Stats and Info</color> contains the stats of your party members
+UI_STATS_INFO_TUT_STATS_TITLE=The <color=#B58300FF>Stats</color> contains all current stats of your party
 
 UI_STATS_INFO_OFFENSE=Offense
 UI_STATS_INFO_DEFENSE=Defense
 
-UI_FAQ_TITLE=FAQs
 UI_FAQ_DESC=Feeling a little bit stuck or confused?
 
 UI_ARMORY_TITLE=Armory
@@ -172,6 +188,7 @@ UI_COMBATLOG_DMG_TAKEN=Damage Taken
 UI_COMBATLOG_TOTAL_DMG_TAKEN=Total damage taken: {0}<br>({1}% of all damage taken)
 UI_SKILL_SETUP_TITLE=Skills Setup
 UI_SKILL_SETUP_DESC=Learn and set up your skills here before you venture into the darkness
+UI_SKILL_SETUP_ERROR_MAX_LVL=This skill is already at maximum level
 UI_SKILL_CAN_CRITICALLY_HEAL=Can critically heal
 
 UI_SKILL_SETUP_REACH_LEVEL_X_TO_UNLOCK=Reach level {0} to unlock
@@ -338,11 +355,11 @@ UI_LEVEL_DESC_MODAL_KILL_COUNT=Kill Count
 UI_LEVEL_DESC_BOSS_JOURNAL_DESC=<color=#FF911F>Boss Journal</color> - Contains information about the boss or level
 UI_LEVEL_DESC_CHAOS_PILLAR_DESC=<color=#FF911F>Chaos Pillar</color> - Use it to increase the difficulty of the boss or level
 UI_LEVEL_DESC_LOOT_DESC=<color=#FF911F>Loot</color> - Contains information about the boss or the level's loot
-UI_LEVEL_DESC_MODAL_EMPTY=Select an object at the bottom right to view the boss's info
+UI_LEVEL_DESC_MODAL_EMPTY=Select an object on the left to view the boss's info
 UI_LEVEL_DESC_MODAL_LOCKED_LOOT_VIEW=Defeat the boss at this difficulty to unlock
 UI_LEVEL_DESC_MODAL_EMPTY_LOOT_VIEW=This boss has no loot
 UI_LEVEL_DESC_MODAL_HOK_TEXT=Immortals only have 1 difficulty. They are tougher than normal bosses, be careful!
-UI_LEVEL_DESC_MODAL_GUARDIANS_TEXT=Guardians only have 1 non Chaos difficulty. They are ancient beings that were created with the Vault to guard the most sacred treasures.
+UI_LEVEL_DESC_MODAL_GUARDIANS_TEXT=Guardians only have 1 difficulty. They are ancient beings that were created with the Vault to guard the most sacred treasures.
 UI_LEVEL_DESC_MODAL_MIDNIGHT_ZONE_ITEMS_TEXT=Complete all floors in order for the midnight specific items to have a chance of dropping. <br>Completing individual floor will only drop the individual boss's items.
 UI_LEVEL_DESC_MODAL_MIDNIGHT_ZONE_TEXT=Take on the challenge of facing a horde of bosses. The more bosses you defeat, the better the reward will be!
 UI_LEVEL_DESC_MODAL_ARMORY_FULL_TEXT=Your [UI_ARMORY_TITLE] is full!
@@ -351,6 +368,7 @@ UI_LEVEL_DESC_MODAL_CHAOS_ENCOUNTER_DESC=The next encounter will contain the fol
 UI_LEVEL_DESC_MODAL_CHAOS_LOCKED_DESC=Acquire a [MATERIAL_CHAOS_CRYSTAL_NAME] to unlock
 UI_LEVEL_DESC_MODAL_EMPTY_SKILL_VIEW=This boss has no skills
 UI_LEVEL_DESC_MODAL_OTHER_EFFECTS=Other Effects
+UI_LEVEL_DESC_MODAL_BOSS_STATS=Stats
 UI_LEVEL_DESC_DIFFICULTY_LEVEL=Difficulty level
 UI_LEVEL_DESC_BOSS_DAMAGE_TOOLTIP=How strong the boss's auto attacks are
 UI_LEVEL_DESC_BOSS_DAMAGE_ELEMENTS_TOOLTIP=Boss's auto attacks sometimes deals a mixture of damage elements
@@ -361,13 +379,13 @@ UI_LEVEL_DESC_DEFEAT_NORMAL=Defeat the boss at [CONTEXT_DIFFICULTY_NORMAL] diffi
 UI_LEVEL_DESC_DEFEAT_BRUTAL=Defeat the boss at [CONTEXT_DIFFICULTY_BRUTAL] difficulty to unlock
 UI_LEVEL_DESC_ONLY_CHAOTIC=Only drops when chaotic
 UI_LEVEL_DESC_NO_ENV_EFFECT=This boss has no other effects
-UI_LEVEL_DESC_TOTAL_DAMAGE_TEXT={0}[ATTRIBUTE_TOTAL_DAMAGE_TEXT]: {1}{2}
-UI_LEVEL_DESC_SPELLPOWER_TEXT={0}[ATTRIBUTE_SPELLPOWER_TEXT]: {1}{2}
-UI_LEVEL_DESC_ATTACKSPEED_TEXT={0}[ATTRIBUTE_ATTACK_SPEED]: {1}{2}
-UI_LEVEL_DESC_MAX_HEALTH_TEXT={0}[ATTRIBUTE_MAXIMUM_HEALTH]: {1}{2}
-UI_LEVEL_DESC_HEALTH_REGENERATION_TEXT={0}[ATTRIBUTE_HEALTH_REGENERATION]: {1}{2} per second
-UI_LEVEL_DESC_BLOCKCHANCE_TEXT={0}[ATTRIBUTE_BLOCK_CHANCE_TEXT]: {1}%{2}
-UI_LEVEL_DESC_DODGECHANCE_TEXT={0}[ATTRIBUTE_DODGE_CHANCE_TEXT]: {1}%{2}
+UI_LEVEL_DESC_TOTAL_DAMAGE_TEXT={0}[ATTRIBUTE_TOTAL_DAMAGE_TEXT]:<br>{1}{2}
+UI_LEVEL_DESC_SPELLPOWER_TEXT={0}[ATTRIBUTE_SPELLPOWER_TEXT]:<br>{1}{2}
+UI_LEVEL_DESC_ATTACKSPEED_TEXT={0}[ATTRIBUTE_ATTACK_SPEED]:<br>{1}{2}
+UI_LEVEL_DESC_MAX_HEALTH_TEXT={0}[ATTRIBUTE_MAXIMUM_HEALTH]:<br>{1}{2}
+UI_LEVEL_DESC_HEALTH_REGENERATION_TEXT={0}[ATTRIBUTE_HEALTH_REGENERATION]:<br>{1}{2} per second
+UI_LEVEL_DESC_BLOCKCHANCE_TEXT={0}[ATTRIBUTE_BLOCK_CHANCE_TEXT]:<br>{1}%{2}
+UI_LEVEL_DESC_DODGECHANCE_TEXT={0}[ATTRIBUTE_DODGE_CHANCE_TEXT]:<br>{1}%{2}
 
 UI_LEVEL_DESC_CHAOS_DROP_X_TO_Y_CC=<color=#FF911F>Drops {0}-{1} Chaos Crystal</color>
 UI_LEVEL_DESC_CHAOS_X_MORE_QUALITY=<color=#FF911F>Dropped items have +{0} quality</color>
@@ -387,6 +405,7 @@ UI_BATTLE_SUCCESS_LEVEL_UP=Level up!
 UI_BATTLE_SUCCESS_LEVEL_UP_STATS=All stats increased!
 UI_BATTLE_SUCCESS_FLAWLESS=Flawless Victory!
 UI_BATTLE_SUCCESS_FLAWLESS_XP={0}% more [CONTEXT_EXPERIENCE]
+UI_BATTLE_SUCCESS_INVENTORY_FULL=Inventory Full!
 
 UI_LANGUAGE_SPECIAL_THANKS_TO=Special thanks to discord community member(s) {0}
 
@@ -475,5 +494,8 @@ UI_TIP_HIGH_LVL_UPGRADE_AUGMENT=Augments can be upgrade with [MATERIAL_THE_MAKER
 
 UI_TRANSMOG_IN_USE=In Use
 UI_TRANSMOG_DEFAULT=Default
+
+UI_SHOW_COMBAT_LOG=Show Combat Log
+UI_SHOW_EXTRA_DETAIL=Show Additional Combat Details
 
 END

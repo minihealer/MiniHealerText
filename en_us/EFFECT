@@ -109,6 +109,8 @@ EFFECT_BLEED_NAME=Bleed Effect [1]
 EFFECT_BLEED_DESC_0=Bleeding, taking [ATTRIBUTE_PHYSICAL_DAMAGE] every second
 EFFECT_DECAYING_WIND_NAME=Decaying Wind Effect [1]
 EFFECT_DECAYING_WIND_DESC_0=Taking [ATTRIBUTE_NEMESIS_DAMAGE] every second
+EFFECT_EROSION_NAME=[SKILL_EROSION_NAME] Effect [1]
+EFFECT_EROSION_DESC_0=[EFFECT_DECAYING_WIND_DESC_0]
 EFFECT_COLD_INFUSION_NAME=Cold Infusion Effect [1]
 EFFECT_COLD_INFUSION_DESC_0=Infused with the power of cold
 EFFECT_ICY_TOMB_NAME=Icy Tomb Effect [1]
@@ -225,7 +227,7 @@ EFFECT_LAST_STAND_DESC_0=Damage is greatly increased
 EFFECT_HAVOC_AURA_NAME=Havoc Aura Effect [0]
 EFFECT_HAVOC_AURA_DESC_0=Critical chance increased
 EFFECT_MARK_OF_DEATH_NAME=Mark of Death Effect [0]
-EFFECT_MARK_OF_DEATH_DESC_0=Damage taken increased
+EFFECT_MARK_OF_DEATH_DESC_0=[ATTRIBUTE_NEMESIS_DAMAGE] taken increased
 EFFECT_VOODOO_MAGIC_NAME=Voodoo Magic Effect [0]
 EFFECT_VOODOO_MAGIC_DESC_0=This character will heal when taking a fatal blow
 EFFECT_STRESS_NAME=Stress Effect [1]
@@ -261,7 +263,7 @@ EFFECT_IMPAIR_DESC_2=until the character is fully healed
 EFFECT_HEMORRHAGE_NAME=Hemorrhage Effect [1]
 EFFECT_HEMORRHAGE_DESC_0=Bleeding
 EFFECT_INFECTION_NAME=Infection Effect [1]
-EFFECT_INFECTION_DESC_0=Infected, reducing healing done
+EFFECT_INFECTION_DESC_0=Infected, heavily reducing healing done
 EFFECT_EMPOWER_NAME=Empower Effect [0]
 EFFECT_EMPOWER_DESC_0=Attack speed increased
 EFFECT_PETRIFY_NAME=Petrify Effect [1]
@@ -290,7 +292,6 @@ EFFECT_DECAY_DESC_0=Losing health every second
 EFFECT_UNHOLY_MIGHT_NAME=Unholy Might Effect [0]
 EFFECT_UNHOLY_MIGHT_DESC_0=Damage increased
 EFFECT_UNHOLY_MIGHT_DESC_1=Damage taken increased
-EFFECT_UNHOLY_MIGHT_DESC_2=Cannot be healed
 EFFECT_LOYALTY_NAME=Loyalty Effect [0]
 EFFECT_LOYALTY_DESC_0=All damage increased
 EFFECT_LOYALTY_DESC_1=Attack speed increased
@@ -579,9 +580,9 @@ EFFECT_TIME_WARP_DESC_1=Every 1 second all enemies and party member will gain an
 EFFECT_TIME_WARP_DESC_2=Healing a party member will decrease the age stack
 EFFECT_TIME_WARP_DESC_3=Party members die when reached 0 or 50 age stack
 EFFECT_AGE_NAME=Age Effect [1]
-EFFECT_AGE_DESC_0=The older (>25), 
+EFFECT_AGE_DESC_0=The older ( >25 stacks ), 
 EFFECT_AGE_DESC_1=the more damage you deal and take
-EFFECT_AGE_DESC_2=The younger (<25),
+EFFECT_AGE_DESC_2=The younger ( <25 stacks ),
 EFFECT_AGE_DESC_3=the less damage you deal and take
 EFFECT_AGE_BOSS_NAME=Age Boss Effect [0]
 EFFECT_AGE_BOSS_DESC_0=Dealing increased damage
@@ -623,7 +624,8 @@ EFFECT_BLESSING_GIANT_DESC_0=All damage cannot exceed 5% of this unit's maximum 
 EFFECT_OPEN_VEIN_NAME=Open Vein Effect [1]
 EFFECT_OPEN_VEIN_DESC_0=Bleeding heavily, taking [ATTRIBUTE_PHYSICAL_DAMAGE] every second
 EFFECT_PIN_STRIKE_NAME=Pin Strike Effect [1]
-EFFECT_PIN_STRIKE_DESC_0=Pinned down, stunned until healed to full
+EFFECT_PIN_STRIKE_DESC_0=Pinned down, stunned.
+EFFECT_PIN_STRIKE_DESC_1=Can only be dispelled if the [CONTEXT_PARTY_MEMBER_NAME_HEALER] is close to the target
 EFFECT_WEAKEN_MIND_NAME=Weaken Mind Effect [1]
 EFFECT_WEAKEN_MIND_DESC_0=Reduce all damage dealt by 40%
 EFFECT_LASH_NAME=Lash Effect [0]
@@ -710,8 +712,6 @@ EFFECT_FULL_MOON_DESC_0=[BOSS_RUNSHERROX_SHORT_NAME] imbue itself with the power
 EFFECT_FULL_MOON_DESC_1=Significantly increase ability damage
 EFFECT_FULL_MOON_DESC_2=Ability cooldown decreased
 EFFECT_FULL_MOON_DESC_3=All [ATTRIBUTE_ELE_RESISTS_TEXT] decreased
-EFFECT_GIFT_OF_THE_ELDER_NAME=Gift of the Elder Effect [0]
-EFFECT_GIFT_OF_THE_ELDER_DESC_0=Attack damage increased
 EFFECT_SPIRIT_ORB_NAME=Spirit Orb Effect [0]
 EFFECT_SPIRIT_ORB_DESC_0=This character will be healed
 EFFECT_SPIRIT_ORB_DESC_1=the next time he/she takes damage
@@ -832,8 +832,8 @@ EFFECT_REALITY_DESC_0=This character is in reality
 EFFECT_REALITY_DESC_1=Casting dispel on this character will also
 EFFECT_REALITY_DESC_2=bring him/her into the dream world
 
-EFFECT_REALITY_SKILL_DESC=Back to the reality, can damage Sedok and is immune to Shatter Dream. Dispelling this will switch the target into dream state. Clicking on the Reality Portal will immediately switch all party members to the reality state
-EFFECT_DREAM_SKILL_DESC=Inside the dream state, can damage Sedok's shadow and is immune to Shatter Reality. Dispelling this will switch the target into reality state. Clicking on the Dream Portal will immediately switch all party members to the dream state
+EFFECT_REALITY_SKILL_DESC=Back to the reality, can damage Sedok and is immune to Shatter Dream. Dispelling this will switch the target into dream state. <br><br>Clicking on the Reality Portal will immediately switch all party members to the reality state
+EFFECT_DREAM_SKILL_DESC=Inside the dream state, can damage Sedok's shadow and is immune to Shatter Reality. Dispelling this will switch the target into reality state. <br><br>Clicking on the Dream Portal will immediately switch all party members to the dream state
 
 EFFECT_SHADOW_SLASH_NAME=Shadow Slash Effect [1]
 EFFECT_SHADOW_SLASH_DESC_0=Reduce all resists by 10%
@@ -846,10 +846,6 @@ EFFECT_MIND_SEAR_NAME=Mind Sear Effect [1]
 EFFECT_MIND_SEAR_DESC_0=Increase damage taken by 30%
 EFFECT_MIND_SEAR_DESC_1=Can be cleansed by taking a hit from Shatter Reality
 EFFECT_MIND_SEAR_DESC_2=Shatter Reality cannot damage you
-EFFECT_BODY_SEAR_NAME=Body Sear Effect [1]
-EFFECT_BODY_SEAR_DESC_0=Increase damage taken by 30%
-EFFECT_BODY_SEAR_DESC_1=Can be cleansed by taking a hit from Shatter Dream
-EFFECT_BODY_SEAR_DESC_2=Shatter Dream cannot damage you
 EFFECT_DEMONIC_CONTRACT_NAME=Demonic Contract Effect [0]
 EFFECT_DEMONIC_CONTRACT_DESC_0=Gaining Mana every second
 EFFECT_TOWER_OF_FEAR_NAME=Tower of Fear Effect [0]
@@ -984,8 +980,6 @@ EFFECT_MERCILESS_REDUCTION_DESC_OVERRIDE_0=Reduce healing received by {0}%
 
 EFFECT_RUNE_CHAMBER_NAME=Rune Zones Effect [1]
 EFFECT_RUNE_CHAMBER_DESC_OVERRIDE_0=3 rune zones have been summoned
-EFFECT_RUNE_CHAMBER_DESC_OVERRIDE_1=Standing on each one will debuff all party members differently
-EFFECT_RUNE_CHAMBER_DESC_OVERRIDE_2=Rune zones will switch positions every few seconds
 
 EFFECT_DREAM_PROTECTION_NAME=Dream Protection Effect [0]
 EFFECT_DREAM_PROTECTION_DESC_0=Can only be damage by being in Reality
@@ -1039,6 +1033,7 @@ EFFECT_CAUSTIC_STRIKE_DESC_1=per 1% of the target's health missing
 EFFECT_DELAYED_DISCHARGE_NAME=Delayed Discharge Effect [1]
 EFFECT_DELAYED_DISCHARGE_DESC_0=Deals heavy [ATTRIBUTE_FIRE_DAMAGE] to all party members when expired
 EFFECT_PARALYZE_NAME=Paralyze Effect [1]
+EFFECT_PARALYZE_ZOK_NAME=[EFFECT_PARALYZE_NAME]
 EFFECT_PARALYZE_DESC_0=Stunned
 EFFECT_VISAGE_OF_TRUTH_NAME=Visage of Truth Effect [0]
 EFFECT_VISAGE_OF_TRUTH_DESC_0=Healing received from Lesser Heal increased
@@ -1102,9 +1097,6 @@ EFFECT_BURN_DESC_1=Taking damage from Stiffen will remove all stacks
 EFFECT_STIFFEN_NAME=Stiffen Effect [1]
 EFFECT_STIFFEN_DESC_0=Taking increased [ATTRIBUTE_ICE_DAMAGE]
 EFFECT_STIFFEN_DESC_1=Taking damage from Sun Ray will remove all stacks
-EFFECT_BRITTLE_NAME=Brittle Effect [1]
-EFFECT_SLOTH_NAME=Sloth Effect [1]
-EFFECT_LIMP_NAME=Limp Effect [1]
 EFFECT_RUNE_ZONES_NAME=Rune Zones Effect [1]
 EFFECT_MANA_DEFICIENCY_NAME=Mana Deficiency Effect [1]
 EFFECT_MANA_DEFICIENCY_DESC_0=Environmental [5]
@@ -1147,9 +1139,6 @@ EFFECT_DISSOLVE_ESSENCE_DESC_OVERRIDE=Taking massively increased damage from Har
 
 EFFECT_HARVEST_NAME=Harvest Effect [1]
 EFFECT_AGONY_NAME=Agony Effect [1]
-EFFECT_BEHIND_ENEMY_LINES_NAME=Behind Enemy Lines Effect [0]
-EFFECT_BEHIND_ENEMY_LINES_DESCOVERRIDE=You can now freely move past the [CONTEXT_PARTY_MEMBER_NAME_TANK]
-
 EFFECT_HOLDING_POTION_DMG_NAME=Holding Potion Effect [1]
 EFFECT_HOLDING_POTION_DMG_DESC_0=holding an unstable concoction
 EFFECT_HOLDING_POTION_DMG_DESC_1=dispelling this effect will drop the concoction 
@@ -1258,10 +1247,20 @@ EFFECT_FROST_BURST_DESC_0=Deals heavy [ATTRIBUTE_ICE_DAMAGE] when expired
 EFFECT_ELEMENTAL_BURST_NAME=Elemental Burst Effect [1]
 EFFECT_ELEMENTAL_BURST_DESC_0=Deals either heavy [CONTEXT_ELEMENT_FIRE] or heavy [CONTEXT_ELEMENT_ICE]
 EFFECT_ELEMENTAL_BURST_DESC_1=damage when expired
+
+EFFECT_FROST_BITE_NAME=Frostbite Effect [1]
+EFFECT_FROST_BITE_DESC_0=Deals small [ATTRIBUTE_LIGHTNING_DAMAGE] over time
+EFFECT_FROST_BITE_DESC_1=Will explode if the affected target takes [ATTRIBUTE_ICE_DAMAGE]
+EFFECT_FROST_BITE_DESC_2=dealing massive [ATTRIBUTE_ICE_DAMAGE]
+
 EFFECT_FREEZING_CHARGE_NAME=Freezing Charge Effect [1]
-EFFECT_FREEZING_CHARGE_DESC_0=Deals small [ATTRIBUTE_LIGHTNING_DAMAGE] over time
-EFFECT_FREEZING_CHARGE_DESC_1=Will explode if the affected target takes [ATTRIBUTE_ICE_DAMAGE]
-EFFECT_FREEZING_CHARGE_DESC_2=dealing massive [ATTRIBUTE_ICE_DAMAGE]
+EFFECT_FREEZING_CHARGE_DESC_0=Deals moderate [ATTRIBUTE_ICE_DAMAGE] when expired
+EFFECT_FREEZING_CHARGE_DESC_1=Deals moderate [ATTRIBUTE_LIGHTNING_DAMAGE] when dispeled
+
+EFFECT_STATIC_CHARGE_NAME=Static Charge Effect [1]
+EFFECT_STATIC_CHARGE_DESC_0=Deals moderate [ATTRIBUTE_LIGHTNING_DAMAGE] when expired
+EFFECT_STATIC_CHARGE_DESC_1=Deals moderate [ATTRIBUTE_ICE_DAMAGE] when dispeled
+
 EFFECT_FROZEN_SPHERE_NAME=Frozen Sphere Effect [1]
 EFFECT_FROZEN_SPHERE_DESC_0=[ATTRIBUTE_ICE_RESIST] reduced
 EFFECT_NIGHTMARE_CURTAIN_NAME=Nightmare Curtain Effect [1]
@@ -1299,6 +1298,8 @@ EFFECT_OBLITERATING_CURSE_NAME=Obliterating Curse Effect [1]
 EFFECT_OBLITERATING_CURSE_DESC_0=Taking massive [ATTRIBUTE_NEMESIS_DAMAGE] every second
 EFFECT_VIVID_NAME=Vivid Effect [0]
 EFFECT_VIVID_DESC_0=All heal over time healing effect increased
+EFFECT_VIVID_RECONSTRUCTION_TOWER_NAME=Vivid Heal Effect [0]
+EFFECT_VIVID_RECONSTRUCTION_TOWER_DESC_0=Healing every second
 EFFECT_ENERGY_CHARGE_NAME=Energy Charge Effect [0]
 EFFECT_ENERGY_CHARGE_DESC_0=Gathering energy, moving will gain stacks
 EFFECT_ENERGIZED_NAME=Energized Effect [0]
@@ -1500,4 +1501,48 @@ EFFECT_COLISEUM_DESC_1=[ATTRIBUTE_DODGE_CHANCE_TEXT] increased
 EFFECT_KINGS_HANDS_NAME=[ARTIFACT_KINGS_HANDS_NAME] Effect [0]
 EFFECT_KINGS_HANDS_DESC_0=[ATTRIBUTE_PHYSICAL_DAMAGE] increased
 
+EFFECT_HUSH_ZONE_NAME=[SKILL_HUSH_ZONE_NAME] Effect[1]
+
+EFFECT_DESECRATE_NAME=[SKILL_DESECRATE_NAME] Effect[1]
+EFFECT_DESECRATE_DESC_0=Spawn a delayed explosion every second
+EFFECT_DESECRATE_DESC_1=that will deal [ATTRIBUTE_NEMESIS_DAMAGE] at their location
+
+EFFECT_FROST_METEOR_NAME=Frost Meteor Effect [1]
+EFFECT_FROST_METEOR_DESC_0=Dealing [ATTRIBUTE_ICE_DAMAGE] every second
+EFFECT_FROST_METEOR_DESC_1=Can only be dispeled when close to another party member
+
+EFFECT_WALL_OF_PAIN_NAME=[ARTIFACT_WALL_OF_PAIN_NAME] Effect [1]
+EFFECT_WALL_OF_PAIN_DESC_0=Transferring {0}% of current base damage and to other party members
+
+EFFECT_HYPOTHERMIA_NAME=[SKILL_HYPERDRIVE_NAME] Effect [1]
+EFFECT_HYPOTHERMIA_DESC_0=[ATTRIBUTE_ICE_RESIST] reduced
+
+EFFECT_FROST_BARRIER_NAME=[SKILL_FROST_BARRIER_NAME] Effect [1]
+EFFECT_FROST_BARRIER_DESC_0=Immune to damage
+EFFECT_FROST_BARRIER_DESC_1=Can be destroyed by attacking its weak side
+
+EFFECT_FROST_BARRIER_GLOBAL_DESC_0=Periodically shields the enemies with Frost Barrier
+
+EFFECT_PERMAFROST_NAME=[SKILL_PERMAFROST_NAME] Effect [1]
+EFFECT_PERMAFROST_DESC_0=Dealing [ATTRIBUTE_ICE_DAMAGE] every second
+EFFECT_PERMAFROST_DESC_1=Absorbing all healing
+EFFECT_PERMAFROST_DESC_2=When expires, stunned the target for a short duration
+
+EFFECT_PERMAFROST_STUNNED_DESC=Stunned and can not be healed
+
+EFFECT_BONE_CRUSHER_NAME=[SKILL_BONE_CRUSHER_NAME] Effect [1]
+EFFECT_BONE_CRUSHER_DESC_0=Can not be healed
+
+EFFECT_HEX_OF_WINTER_NAME=[SKILL_HEX_OF_WINTER_NAME] Effect [1]
+EFFECT_HEX_OF_WINTER_DESC_0=Dealing [ATTRIBUTE_ICE_DAMAGE] every second
+EFFECT_HEX_OF_WINTER_DESC_1=Deals [ATTRIBUTE_ICE_DAMAGE] when dispeled
+
+EFFECT_CONJURATION_OF_ICE_NAME=[SKILL_CONJURATION_OF_ICE_NAME] Effect [1]
+EFFECT_CONJURATION_OF_ICE_DESC_0=Spawning ice shards every few seconds
+
+EFFECT_RING_OF_FELLOWSHIP_NAME=[ARTIFACT_RING_OF_FELLOWSHIP_NAME] Effect [1]
+EFFECT_RING_OF_FELLOWSHIP_DESC_0=Taking more damage from [TALENT_BLESSED_COMPANY_NAME]
+
+EFFECT_BRITTLE_NAME=Brittled Effect [1]
+EFFECT_SLOTH_NAME=Sloth Effect [1]
 END

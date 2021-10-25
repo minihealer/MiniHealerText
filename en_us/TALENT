@@ -35,8 +35,8 @@ TALENT_SEARCH_PLACEHOLDER=Enter talent names, descriptions...etc
 
 TALENT_AVAILABLE_TALENT_POINTS=Available talent points: {0}
 TALENT_AVAILABLE_MASTERY_POINTS=Available mastery points: {0}
-TALENT_POINTS_INVESTED=Talent points invested: {0}
-TALENT_MASTERY_POINTS_INVESTED=Mastery points invested: {0}
+TALENT_POINTS_INVESTED=Talent points invested:
+TALENT_MASTERY_POINTS_INVESTED=Mastery points invested:
 TALENT_MASTERY_POINTS_COST=Costs {0} Mastery point
 TALENT_MASTERY_POINTS_REQUIREMENT=Requires {0} Mastery points invested in {1}
 TALENT_MASTERY_UNLOCK_REQUIREMENT=Reach level 10 to unlock talent mastery
@@ -44,7 +44,7 @@ TALENT_MASTERY_UNLOCK_REQUIREMENT=Reach level 10 to unlock talent mastery
 TALENT_MASTERY_NO_MASTERY=No Mastery Availiable
 
 TALENT_CLASS_MASTERY_BONUS_TITLE={0} Mastery bonus
-TALENT_MASTERY_BONUS_TITLE=Mastery bonus<br><color=#555555>{0}</color>
+TALENT_MASTERY_BONUS_TITLE=Mastery bonus<color=#555555>{0}</color>
 TALENT_MASTERY_BONUS_DESC=Every mastery level in {0} will grant 
 
 TALENT_REQUIREMENT_DESC=Requires {0} points invested in {1}

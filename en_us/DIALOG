@@ -73,8 +73,8 @@ DIALOG_MUZ_WELCOME_TO_VAULT_MUTZ_6=Go now, the next map fragment should be in th
 
 DIALOG_MUZ_WELCOME_TO_VAULT_MUTZ_COMPLETE_0=Good job! Soul Quarter should be unlocked now on your map!
 
-DIALOG_MUZ_MAP_FRAG_MIDNIGHT_START_0=I know Insane Sepitus also drops a map fragment as well, defeat him and bring the map fragment back to me.
-DIALOG_MUZ_MAP_FRAG_MIDNIGHT_PENDING_0=Go now, bring me the next map fragment from Insane Sepitus.
+DIALOG_MUZ_MAP_FRAG_MIDNIGHT_START_0=I know Normal Mirror also drops a map fragment as well, defeat him and bring the map fragment back to me.
+DIALOG_MUZ_MAP_FRAG_MIDNIGHT_PENDING_0=Go now, bring me the next map fragment from Normal Mirror.
 DIALOG_MUZ_MAP_FRAG_MIDNIGHT_COMPLETE_0=Nice! Let me just add that to your map...and...done! The Midnight Zone should be availiable now on your map!
 
 DIALOG_MUZ_MAP_FRAG_BIO_QUARTER_START_0=Inside the Soul Quarter there is a Mirror that will copy one's soul and use them against the owner's body. The next map fragment should be on it.
