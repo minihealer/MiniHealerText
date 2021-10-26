@@ -73,8 +73,8 @@ DIALOG_MUZ_WELCOME_TO_VAULT_MUTZ_6=去吧，下一个地图残片应该在<color
 
 DIALOG_MUZ_WELCOME_TO_VAULT_MUTZ_COMPLETE_0=干得漂亮！地图已修复，灵魂区已解锁！
 
-DIALOG_MUZ_MAP_FRAG_MIDNIGHT_START_0=我知道疯狂难度塞普图斯也有一块地图，打败他，把地图带给我。
-DIALOG_MUZ_MAP_FRAG_MIDNIGHT_PENDING_0=出发吧，从疯狂难度塞普图斯手里找到下一片地图。
+DIALOG_MUZ_MAP_FRAG_MIDNIGHT_START_0=我知道普通难度魔镜也有一块地图，打败他，把地图带给我。
+DIALOG_MUZ_MAP_FRAG_MIDNIGHT_PENDING_0=出发吧，从普通难度魔镜手里找到下一片地图。
 DIALOG_MUZ_MAP_FRAG_MIDNIGHT_COMPLETE_0=漂亮！让我来修复它...好了！现在午夜区可以在地图上找到了！
 
 DIALOG_MUZ_MAP_FRAG_BIO_QUARTER_START_0=在灵魂区深处，有一面魔镜，它会复制面前的人，生成镜像生物攻击他们。下一块地图残片就在那里。
