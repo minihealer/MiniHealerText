@@ -1,0 +1,103 @@
+TUTORIAL_HAVEN_TTILE=Willkommen im <color=#B58300FF>Heimlichen Hafen</color>. Hier kannst du dich ausruhen und dich auf deinen nächsten Kampf vorbereiten.
+TUTORIAL_HAVEN_TALENT_TTILE=Besuche den <color=#B58300FF>Raum der Talente</color>, um unterschiedlichste Talente und Meisterschaften zu erlernen. <br><br><color=#858585>Mit jedem Levelaufstieg erhältst du einen Talentpunkt</color>.
+TUTORIAL_HAVEN_MUTZ=Sieh dir auch die anderen Gegenstände im Hafen an. Sobald du bereit bist, sprich mit <color=#B58300FF>Mutz</color>.
+
+TUTORIAL_DESC_TALENT_TITLE=Talente gewähren deiner Gruppe starke Boni.
+TUTORIAL_DESC_TALENT_UPGRADE=Wähle ein Talent mit der linken Maustaste aus. Mit Rechts- und Linksklick kannst du es dann up- oder downgraden.
+TUTORIAL_DESC_TALENT_UPGRADE_MANUAL=Du kannst auch diese Tasten zum Up- und Downgraden verwenden.
+TUTORIAL_DESC_TALENT_CLASSES=In Mini Healer gibt es 4 Klassen. Jede hat bestimmte Stärken und Schwächen.
+
+TUTORIAL_DESC_EQUIPPING_TITLE=Willkommen in der <color=#B58300FF>[UI_ARMORY_TITLE]</color>. Hier kannst du deine <color=#B58300FF>[CONTEXT_PARTY_MEMBER_NAME_HEALER]</color> mit Artefakten ausrüsten! 
+TUTORIAL_DESC_EQUIPPING_HEALER_ONLY=<color=#B58300FF>Bedenke, dass die Ausrüstung deiner [CONTEXT_PARTY_MEMBER_NAME_HEALER] deine gesamte Gruppe beeinflusst!</color> 
+TUTORIAL_DESC_EQUIPPING_METHODS=Du kannst Gegenstände entweder in die entsprechenden Felder ziehen, oder sie mit einem Doppelklick ausrüsten!
+
+TUTORIAL_FAV_INSTRUCTION=Ein Klick auf das Herzsymbol favorisiert einen Gegenstand.
+TUTORIAL_FAV_DESC=Favorisierte Artefakte werden von den automatischen Verkaufsoptionen ausgeschlossen.
+
+
+TUTORIAL_FIRST_ARTIFACT=Hey, sieht aus, als hättest du schon ein Artefakt! Wirf einen Blick in die <color=#B58300FF>Rüstkammer</color> im <color=#B58300FF>Heimlichen Hafen</color>, um mehr über seine Effekte zu erfahren!
+TUTORIAL_SKILL_ROOM=Der <color=#B58300FF>Skillraum</color> im <color=#B58300FF>Heimlichen Hafen</color> ist nun verfügbar! Dort kannst du neue Skills lernen und ausrüsten!
+TUTORIAL_ATLAS_UNLOCK=Der <color=#B58300FF>Atlas</color> im <color=#B58300FF>Heimlichen Hafen</color> wurde freigeschaltet! <br><br>Der <color=#B58300FF>Atlas</color> beinhaltet alle Infos zu allen Items und Runen im Spiel!
+
+TUTORIAL_ORRA_INTRO=Torram kann deine <color=#B58300FF>Rüstungen</color> nun mit neuen Attributen verzaubern
+TUTORIAL_ORRA_ATTRIBUTES=Torram kann nun neue und stärkere Verzauberungen wirken!
+TUTORIAL_MEVOR_INTRO=Torram kann deine <color=#B58300FF>Waffen</color> nun mit neuen Attributen verzaubern
+TUTORIAL_MEVOR_ATTRIBUTES=Torram kann nun neue und stärkere Verzauberungen wirken!
+TUTORIAL_EDWIN_INTRO=Torram kann deine <color=#B58300FF>Accessoires</color> nun mit neuen Attributen verzaubern
+TUTORIAL_EDWIN_ATTRIBUTES=Torram kann nun neue und stärkere Verzauberungen wirken!
+TUTORIAL_TRIO_CHAOS=Du hast 1 <color=#B58300FF>Astralfragment</color> erhalten
+TUTORIAL_TRIO_CHAOS_COLLECT=Sammle
+TUTORIAL_TRIO_CHAOS_MORE=weitere Fragmente, um einen zusätzlichen Ausrüstungsslot in der Rüstkammer freizuschalten
+TUTORIAL_TRIO_CHAOS_DONE=Der <color=#B58300FF>Chaosslot</color> ist in der Rüstkammer nun verfügbar
+
+TUTORIAL_MASTERY_UNLOCK_TITLE=Glückwunsch! Du hast <color=#FF911F>Level 10</color> erreicht!
+TUTORIAL_MASTERY_DESC=Von nun an kannst du nach jedem Kampf <color=#FF911F>Masterschaftserfahrung</color> sammeln. Die Menge ist von der Anzahl an Talentpunkten abhängig, die du in eine Klasse investiert hast<br><br>Jedes Meisterschaftslevel gewährt dir einen <color=#FF911F>Meisterschaftspunkt</color>. Diese kannst du nutzen, um Talente weiter zu verbessern<br><br>Die Meisterschaftsverbesserung eines Talents wird nur aktiviert, wenn auch Talentpunkte investiert wurden.
+TUTORIAL_MASTERY_BONUS=Bonus durch Talentmeisteschaft
+TUTORIAL_MASTERY_VISIT=Besuche den <color=#FF911F>Raum der Talente</color>, um deine Meisterschaftslevel einzusehen
+
+
+TUTORIAL_CHAOS_UNLOCK=Sieht aus, als hättest du einen <color=#FF911F>Chaoskristall</color> gefunden. Du kannst ihn verwenden, wenn du auf den <color=#FF911F>Chaospfeiler</color> klickst, bevor du einen Kampf beginnst. Dadurch wird der Kampf zwar schwerer, aber die Belohnungen sind besser!
+TUTORIAL_CHAOS_PILLAR_UNLOCK=Der <color=#FF911F>Chaospfeiler</color> wird manchmal nach Kämpfen auch automatisch aktiviert. Wenn du automatisch aktivierte <color=#FF911F>Chaos</color> Bosse besiegst, kannst du schnell und einfach neue <color=#FF911F>Chaoskristalle</color> sammeln.
+TUTORIAL_CHAOS_GENERATION_UNLOCK=Außerdem erhältst du nun auch alle paar Minuten <color=#FF911F>Chaoskristalle</color>, selbst wenn das Spiel geschlossen ist!
+
+TUTORIAL_MIDNIGHT_UNLOCK=Die <color=#FF911F>Mitternachtszone</color> steht nun zur Verfügung! Sobald du alle Bosse auf einer Karte bzw. Zone besiegt hast, kannst du sie alle einen nach dem anderen in der <color=#FF911F>Mitternachtszone</color> bekämpfen, um dich selbst herauszufordern und neue Items zu erhalten!
+
+TUTORIAL_DININATION_SPHERE_UNLOCK=Die<color=#FF911F>[MATERIAL_DIVINATION_SPHERE_NAME]</color> ist ein sehr seltenes Material, das nur in [LOCATION_PANDEMONIC_DEPTH] gefunden werden kann.
+TUTORIAL_DININATION_SPHERE_UNLOCK_DESC=Torram kann die Sphäre nutzen, um schwächere einzigartige Artefakte in ihre weit stärkere <color=#FF911F>göttliche</color> Version umzuwandeln.
+TUTORIAL_DININATION_SPHERE_UNLOCK_ATLAS_DESC=<color=#FF911F>Der Atlas</color> beinhaltet nun auch Informationen zu göttlichen Artefakten.
+TUTORIAL_DININATION_SPHERE_TORRAM_DESC=Deine Feinde sind von nun an ebenfalls stärker. <br><br>Statte <color=#FF911F>[CONTEXT_NPC_SHORT_NAME_TORRAM]</color> in <color=#FF911F>[LOCATION_HIDDEN_HAVEN]</color> einen Besuch ab, um deine Ausrüstung zu verbessern und zu verzaubern. Das wird dir extrem weiterhelfen!
+
+TUTORIAL_DICE_UNLOCK=Die <color=#FF911F>Würfel der Gier</color> können nun im [LOCATION_HIDDEN_HAVEN] genutzt werden.
+TUTORIAL_DICE_UNLOCK_DESC=Im Tausch gegen Gold kann man durch die Würfel verschiedene Gegenstände erlangen. Manche sind, andere nicht.
+
+TUTORIAL_CURSE_UNLOCK=Woah, das ist eine super seltene <color=#FF911F>Verfluchte Seele</color>, die du da gefunden hast!
+TUTORIAL_CURSE_CRAFT=<color=#FF911F>Torram</color> kann Gegenstände mit Hilfe der <color=#FF911F>Cursed Soul</color> nun auf verschiedenste Arten verbessern!
+TUTORIAL_CURSE_PURCHASE=Du kannst <color=#FF911F>Verfluchte Seelen</color> auch nutzen, um über den <color=#FF911F>Atlas</color> Artefakte herzustellen.
+
+TUTORIAL_BEATING_GAME=Glückwunsch! Du hast die Wächter besiegt und das Ende von Mini Healer erreicht! Du kannst dich nun nach Belieben weiter herausfordern und neue Spielmodi ausprobieren.
+TUTORIAL_BEATING_GAME_DEPTH=Wenn du deinen Charakter weiter verbessern möchtest, stelle dich der Herausforderung des <color=#B58300FF>Schlüssels der Unendlichkeit</color>! Wie weit kannst du in die Tiefen vordringen?
+TUTORIAL_BEATING_GAME_TOWER=Wenn du nach einer kleinen Roguelike-Erfahrung suchst, dann sprich mit <color=#B58300FF>[CONTEXT_NPC_NAME_ANAPIEL]</color> in [LOCATION_HIDDEN_HAVEN] und begib dich zum <color=#B58300FF>[LOCATION_AIRENE_TOWER]</color>!
+
+
+TUTORIAL_BATTLE_SELECT_CHARACTER_0=Ohje, unser Tank ist verwundet! Hilf ihm wieder auf die Beine!
+TUTORIAL_BATTLE_SELECT_CHARACTER_1=Zuerst musst du ihn <color=#B58300FF>anvisieren</color>. Klicke irgendwo auf sein Bild oder seine Gesundheitsanzeige.
+TUTORIAL_BATTLE_SELECT_CHARACTER_2=Du kannst andere Partymitglieder auch anwählen, indem du Q,W,E,R drückst.
+
+TUTORIAL_BATTLE_SELECT_SPELL_0=Gute Arbeit! Zeit, unseren ersten Zauber zu wirken. Heile den Tank mit<color=#ea8631>Geringe Heilung</color>!
+TUTORIAL_BATTLE_SELECT_SPELL_1=<color=#ea8631>Bewege den Cursor</color> auf einen Zauber oder Icons, um ihren Effekt zu sehen. <br>Drücke anschließend <color=#ea8631>1</color>, um den Skill zu wirken!
+
+TUTORIAL_BATTLE_MANA_0=Sehr gut, so gut wie neu! Mehr Infos brauchst du fürs Erste nicht. <br>Besiege den Knochenritter und dringe in die Gruft vor.
+TUTORIAL_BATTLE_MANA_1=Übrigens, behalte auch deine Mana im Auge. Ohne Mana kannst du keine Zauber wirken.
+
+TUTORIAL_BATTLE_RENEW_0=Oh nein, unser Tank blutet! Aber keine Sorge, dieser neue Zauber könnte helfen!
+TUTORIAL_BATTLE_RENEW_1=<color=#ea8631>Erneuerung freigeschaltet!</color> <br>Mit Erneuerung kann man einzelne Ziele super gut über Zeit heilen.<br>Wähle den <color=#ea8631>Tank</color> aus und drücke <color=#ea8631>2</color>, um Erneuerung zu wirken.
+
+TUTORIAL_BATTLE_NEGATE_0=Einige Feinde verwenden Stärkungszauber auf sich selbst. Behalte das im Auge und entferne sie, falls nötig.
+TUTORIAL_BATTLE_NEGATE_1=<color=#ea8631>Negation freigeschaltet!</color> <br>Negation hilft, die Buffs deiner Feinde zu entfernen. <br>Visiere einen Feind an und drücke <color=#ea8631>4</color>, um Negation zu wirken.
+
+TUTORIAL_BATTLE_SWITCH_0=Offenbar hat Gump Verstärkung gerufen!
+TUTORIAL_BATTLE_SWITCH_1=<color=#B58300FF>Klickst du auf einen Gegner, visiert deine Gruppe ihn an.</color>
+TUTORIAL_BATTLE_SWITCH_2=Du kannst auch die <color=#B58300FF>Tab-Taste</color> verwenden, um einen anderen Gegner zu fokussieren.
+
+TUTORIAL_MOVEMENT=Du kannst die Heilerin mit <color=#B58300FF>A</color> oder <color=#B58300FF>D</color> bewegen. Dadurch kannst du feindlichen Angriffen ausweichen oder mit Gegenständen auf dem Schlachtfeld interagieren.
+TUTORIAL_MOVEMENT_JUMP=Mit der <color=#B58300FF>Leertaste</color> kannst du übrigens auch umherspringen!
+
+TUTORIAL_ENV_EFFECT=Bedenke, dass es gelegentlich <color=#B58300FF>Umwelteffekte</color> geben kann.<br><br>In solchen Fällen kannst du oben links in der Ecke die Details nachlesen.
+
+
+TUTORIAL_DISPEL_WATCH_OUT=Nimm dich vor schädlichen Effekten auf deinen Charakteren in Acht!
+TUTORIAL_DISPEL_HOVER=<color=#ea8631>Du solltest stets die Effekte der Debuffs im Blick behalten.</color>
+TUTORIAL_DISPEL_CAN_BE_DISPEL=<color=#ea8631>-> kann entfernt werden</color>
+TUTORIAL_DISPEL_CAN_NOT_BE_DISPEL=<color=#ea8631>-> kann nicht entfernt werden</color>
+TUTORIAL_DISPEL_UNLOCK=<color=#ea8631>Läuterung freigeschaltet!</color> <br><br>Läuterung kann einige schlechte Effekte von deinen Gruppenmitgliedern entfernen.
+
+
+
+TUTORIAL_SKILL_ROOM_TITLE=Willkommen im Skillraum!
+TUTORIAL_SKILL_ROOM_DESC=Das A und O eines erfolgreichen Kampfes besteht in der Skillauswahl. Hier kannst du deine Fähigkeiten auswählen.<br><br>Komm regelmäßig vorbei und schaue dir neue Skills an.
+TUTORIAL_SKILL_ROOM_UPGRADE_DESC=Du wirst während deines Abenteuers außerdem <color=#B58300FF>Engelskristalle</color> tfinden. Damit kannst du deine Skills verbessern.
+
+TUTORIAL_BOSS_JOURNAL=Das <color=#ea8631>Boss-Tagebuch</color> enthält nützliche Informationen über deinen Gegner. <br><br>Hier findest du alles über den Boss heraus!
+TUTORIAL_BOSS_LOOT_CHEST=Die <color=#ea8631>Schatzkiste</color> enthält Informationen über die einzigartigen Items, die du vom Boss erhalten kannst!
+
+END
