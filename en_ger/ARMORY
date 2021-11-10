@@ -1,0 +1,53 @@
+ARMORY_QUICKSELL=Drücke Strg + Rechtsklick, um Gegenstände sofort zu verkaufen
+ARMORY_LOADOUT=Ausrüstungsprofile
+
+ARMORY_POSSIBLE_AUGMENTATIONS=Mögliche Augmentationen
+ARMORY_POSSIBLE_MUTATIONS=Mögliche Mutationen
+
+ARMORY_UNEQUIP_ALL=Alle Items <br>ablegen
+ARMORY_SELL_ALL_UNCOMMON=Verkaufe alles <br>Außergewöhnliche
+ARMORY_SELL_ALL_NON_FAV=Verkaufe alles <br>Nicht-Favorisierte
+ARMORY_SELL_ALL_NON_PERFECT=Verkaufe alles <br>Nicht-Perfekte
+
+ARMORY_SELL_CONFIRMATION=Möchtest du diesen Gegenstand wirklich verkaufen?
+ARMORY_SELL_ALL_UNCOMMON_CONFIRMATION=Möchtest du wirklich alle außergewöhnlichen Gegenstände verkaufen?
+ARMORY_SELL_ALL_NON_PERFECT_CONFIRMATION=Möchtest du wirklich alle nicht perfekten Gegenstände verkaufen?
+ARMORY_SELL_ALL_NON_FAV_CONFIRMATION=Möchtest du wirklich alle nicht favorisierten Gegenstände verkaufen?
+
+
+ARMORY_CHAOS_SLOT_UNLOCK_REQ=Sammle 3 <color=#B58300FF>[MATERIAL_ASTRAL_FRAGMENT_NAME]</color>, um diesen Slot freizuschalten
+
+ARMORY_SORT_TITLE=Sortieren
+ARMORY_SORT_LATEST=Neuste
+ARMORY_SORT_RARITY=Seltenheit
+ARMORY_SORT_ITEMLVL=Itemlevel
+
+ARMORY_SORT_FAVORITE=<color=#FF911F>Favorisieren</color> - Favorisierte Artefakte werden von den "Verkaufe Alles"-Aktionen ausgeschlossen
+
+ARMORY_HOVER_DIVINE=<color=#FF911F>Göttliches Artefakt</color> - Hierbei handelt es sich um eine stärkere Version von {0}
+ARMORY_HOVER_DIVINABLE=<color=#FF911F>Kann vergöttlicht werden</color> - Dieses Artefakt kann mithilfe einer [MATERIAL_DIVINATION_SPHERE_NAME] vergöttlicht werden
+ARMORY_HOVER_CHAOTIC=<color=#FF911F>Chaotisches Artefakt</color> - Dieses Artefakt wird nur von chaotischen Bossen fallengelassen
+ARMORY_HOVER_ANOMALOUS=<color=#FF911F>Abnormales Artefakt</color> - Hierbei handelt es sich um eine etwas andere Version von {0}
+ARMORY_HOVER_PERFECT=<color=#FF911F>Perfektes Artefakt</color> - Dieses Artefakt hat eine Basisqualität von 10 oder höher
+
+ARMORY_FILTERS_TITLE=Filter
+ARMORY_FILTERS_WEAPON=Waffen
+ARMORY_FILTERS_ARMOR=Rüstung
+ARMORY_FILTERS_ACCESSORY=Accessoires
+ARMORY_FILTERS_GEM=Materialien
+ARMORY_FILTERS_OTHER=Sonstiges
+ARMORY_FILTERS_AUGMENTED=Augmentiert
+ARMORY_FILTERS_HAS_SOCKETS=Hat Sockel
+ARMORY_FILTERS_UPGRADED=Verbessert
+ARMORY_FILTERS_MUTATED=Mutatiert
+
+ARMORY_REROLL_AUGMENT_DESC=Wähle Augmentationen, die du sperren möchtest. <br>Dadurch erhöhen sich die Kosten für die Neuauslosung. <br>Gesperrte Augmentationen werden bei der Neuauslosung nicht verändert
+ARMORY_UPGRADE_AUGMENT_DESC=Verwende [MATERIAL_THE_MAKER_NAME], um eine Augmentationen zu verbessern
+ARMORY_UPGRADE_ERROR_MAX_TIER_REACHED=Höchststufe erreicht
+ARMORY_TRIO_REAUG_SELECT_OLD=Wähle eine vorhandene Augmentation aus
+ARMORY_TRIO_REAUG_SELECT_NEW=Wähle eine neue Augmentation
+
+ARMORY_ITEM_ACQUIRED_X=<br>Erhalten: {0}
+ARMORY_ITEM_MAX_STACK_X=<color=#{0}>Höchster Stapel: {1}</color>
+
+END
