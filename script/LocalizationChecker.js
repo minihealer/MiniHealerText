@@ -2,6 +2,7 @@ const Path = require("path");
 const FS   = require("fs");
 const readline   = require("readline");
 
+// Path to all the localization folders
 const FOLDER_PATH= '../Local';
 
 const RESULT = {
