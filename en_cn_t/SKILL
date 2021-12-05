@@ -549,8 +549,8 @@ SKILL_MANA_SPARK_NAME=法力火花
 SKILL_MANA_SPARK_DESC=點燃治療者的缺失法力，法力值越低，造成的傷害越高。
 SKILL_SIPHON_MANA_NAME=虹吸法力
 SKILL_SIPHON_MANA_DESC=茲克召喚他的仆從，每秒固定比例吸取治療者的法力。<br><br>茲克還會召喚一個法力泉湧的區域，治療者站在泉湧區域內可以每秒恢複一定比例的法力。<br>法力泉湧每段時間會改變位置。
-SKILL_REVERSE_NAME=法力逆轉
-SKILL_REVERSE_DESC=逆轉房間內的法力流動，將法力匮乏效果變成法力充盈效果。<br>將治療者的法力重置為50%。
+SKILL_REVERSE!_NAME=法力逆轉
+SKILL_REVERSE!_DESC=逆轉房間內的法力流動，將法力匮乏效果變成法力充盈效果。<br>將治療者的法力重置為50%。
 SKILL_SOUL_HEAL_NAME=靈魂治療
 SKILL_SOUL_HEAL_DESC=治療3個隊友，該技能無視反轉效果。
 SKILL_UNHOLY_MAGIC_NAME=邪惡法術
@@ -902,7 +902,7 @@ SKILL_THUNDERCLOUD_DESC=召喚一片雷雲，追蹤[CONTEXT_PARTY_MEMBER_NAME_HE
 SKILL_STATIC_STRIKE_NAME=電弧打擊
 SKILL_STATIC_STRIKE_DESC=打擊多個目標，造成中量[ATTRIBUTE_LIGHTNING_DAMAGE]。
 
-SKILL_ENERGY_DISRUPTION_NAME=能量迸發
+SKILL_ENERGY_BURST_NAME=能量迸發
 SKILL_ENERGY_BURST_DESC=每三次自動攻擊會額外造成一次嚴重[ATTRIBUTE_LIGHTNING_DAMAGE]。
 
 SKILL_WATER_ERUPTION_NAME=噴水

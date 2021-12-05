@@ -112,4 +112,8 @@ SETTINGS_LANGUAGE_IN_TESTING=This localization is current in testing, some texts
 SETTINGS_ALWAYS_USE_MAIN_TMOG_NAME=Always use transmogs from party
 SETTINGS_ALWAYS_USE_MAIN_TMOG_DESC=This will cause the different parties in the Airene Tower to all have the same transmogs as your main party
 
+SETTINGS_ACCESSIBILITY=Accessibility
+SETTINGS_ROUNDED_DEBUFFS_TITLE=Rounded Dispelable/Negatable Debuffs/Buffs
+SETTINGS_ROUNDED_DEBUFFS_DESC=All dispelable debuffs and negatable buffs shape will become circular while non dispelable/negatable debuffs/buffs shapes will maintain as square
+
 END
