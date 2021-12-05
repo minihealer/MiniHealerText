@@ -5,6 +5,7 @@ TUTORIAL_HAVEN_MUTZ=在避難所到處逛逛，當你准備好戰鬥了，就去
 TUTORIAL_DESC_TALENT_TITLE=天賦對隊伍提升很大。
 TUTORIAL_DESC_TALENT_UPGRADE=左鍵選擇一個天賦，再按左鍵/右鍵可以提升/降低它的等級
 TUTORIAL_DESC_TALENT_UPGRADE_MANUAL=也可以用界面按鈕來提升/降低等級
+TUTORIAL_DESC_TALENT_CLASSES=Mini Healer遊戲中有4個職業，每個都有自身獨特的長處和弱點
 
 TUTORIAL_DESC_EQUIPPING_TITLE=歡迎來到<color=#B58300FF>裝備庫</color>！在這裏可以給<color=#B58300FF>[CONTEXT_PARTY_MEMBER_NAME_HEALER]</color>調整裝備！
 TUTORIAL_DESC_EQUIPPING_HEALER_ONLY=<color=#B58300FF>給[CONTEXT_PARTY_MEMBER_NAME_HEALER]穿的裝備影響全隊</color> 
@@ -44,6 +45,7 @@ TUTORIAL_MIDNIGHT_UNLOCK=<color=#FF911F>午夜區</color>解鎖了！當你打�
 TUTORIAL_DININATION_SPHERE_UNLOCK=<color=#FF911F>[MATERIAL_DIVINATION_SPHERE_NAME]</color>是一種非常稀有的材料，只能在[LOCATION_PANDEMONIC_DEPTH]找到
 TUTORIAL_DININATION_SPHERE_UNLOCK_DESC=托拉姆可以用這個寶物把唯一裝備升級成<color=#FF911F>神聖</color>版本
 TUTORIAL_DININATION_SPHERE_UNLOCK_ATLAS_DESC=<color=#FF911F>圖鑒</color>裏有神聖版本裝備的屬性信息
+TUTORIAL_DININATION_SPHERE_TORRAM_DESC=向更深處進發，敵人會越來越強。<br><br>記得找<color=#FF911F>[LOCATION_HIDDEN_HAVEN]</color>裏的<color=#FF911F>[CONTEXT_NPC_SHORT_NAME_TORRAM]</color>提升裝備，會很有用的！
 
 TUTORIAL_DICE_UNLOCK=[LOCATION_HIDDEN_HAVEN]裏的<color=#FF911F>篩子轉轉轉</color>開門了！
 TUTORIAL_DICE_UNLOCK_DESC=可以用金幣購買各種盲盒物品，有些很好，有些沒用，全憑運氣！
@@ -78,6 +80,7 @@ TUTORIAL_BATTLE_SWITCH_1=<color=#B58300FF>點擊敵人可以讓隊伍集中攻�
 TUTORIAL_BATTLE_SWITCH_2=也可以用<color=#B58300FF>Tab</color>鍵在多個敵人間切換
 
 TUTORIAL_MOVEMENT=按下<color=#B58300FF>A</color>或<color=#B58300FF>D</color>來移動治療者。可以用來躲避BOSS技能，或者與場地內的物體互動。
+TUTORIAL_MOVEMENT_JUMP=也可以用<color=#B58300FF>空格</color>跳起來！
 
 TUTORIAL_ENV_EFFECT=注意，有時候場地上會有<color=#B58300FF>環境效果</color>，造成傷害或者戰鬥機制相關<br><br>時刻檢查左上角的顯示
 
