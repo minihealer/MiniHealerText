@@ -1,0 +1,143 @@
+
+DIALOG_QUEST_FREE_TORRAM_START_0=Mein Name ist Torram. Ich wurde hier von einer Gruppe eingesperrt, die euch nicht unähnlich sah. Sie folterten mich und zwangen mich, Ausrüstung herzustellen.
+DIALOG_QUEST_FREE_TORRAM_START_1=Helft mir, aus dieser Zelle zu entfliehen! Im Gegenzug werde ich euer Equipment verbessern.
+DIALOG_QUEST_FREE_TORRAM_START_2=Ihr benötigt einen Schlüssel, um die Tür zu öffnen. Besiegt den <color=#B58300FF>Normalen Spiegel</color> im <color=#B58300FF>Seelenquartier</color>. Dort solltet ihr einen Schlüssel finden.
+DIALOG_QUEST_FREE_TORRAM_END_0=Ich danke euch vielmals! Ich werde im Heimlichen Hafen auf euch warten!
+DIALOG_QUEST_TORRAM_INTRO_END_0=Danke nochmals für die kleine Rettungsaktion. Kommt jederzeit zu mir, wenn ihr einen Gegenstand verbessern möchtet.
+DIALOG_ORRA_QUEST_1_START_0=Hey ihr! Orra hier! Ich brauche eure Hilfe, dieses Portal zu stabilisieren. Wenn ihr mir zur Hand geht, kann ich euch zeigen, wie ihr eure Rüstung weiter verbessern könnt!
+DIALOG_ORRA_QUEST_1_START_1=Der <color=#B58300FF>Abnormale Knochenritter</color> aus dem <color=#B58300FF>Portal der Herzlosigkeit</color> über uns sollte ein Fragment besitzen, dass ich dafür benötige.
+DIALOG_ORRA_QUEST_1_END_0=Mit diesem Fragment können wir anfangen, das Portal zu stabilisiern. Danke für eure Hilfe!
+DIALOG_ORRA_QUEST_2_START_0=Oh nein, andere Gruppen aus fremden Dimensionen dringen nun in unsere Welt vor. Nehmt euch in Acht, ihre Seelen scheinen verdorben zu sein und Artefakte mit sich zu führen!
+DIALOG_ORRA_QUEST_2_START_1=Geht und besiegt die <color=#B58300FF>Gefallene Gruppe</color> aus dem <color=#B58300FF>Portal der Herzlosigkeit</color>.
+DIALOG_ORRA_QUEST_2_END_0=Großartig, das sollte sie für eine Weile fernhalten!
+DIALOG_ORRA_QUEST_3_START_0=Ohje, selbst der Golem wurde nun von der Verderbnis erfasst?! Wir stellen uns diesem Golem gemeinsam. Ich gehe an die Front, lass mich nicht sterben!
+DIALOG_ORRA_QUEST_3_START_1=Besiegt den <color=#B58300FF>Herzlosen Golem</color> aus dem <color=#B58300FF>Portal der Herzlosigkeit</color>.
+DIALOG_ORRA_QUEST_3_END_0=Das war knapp. Danke für die Heilung.
+DIALOG_ORRA_QUEST_4_START_0=Scheint, als wären die Gefallenen zurückgekehrt. Diesmal mit Verstärkung und stärkeren Artefakten. Verteidigt euch!
+DIALOG_ORRA_QUEST_4_START_1=Zieht los und besiegt die <color=#B58300FF>Gefallene Gruppe</color> aus dem <color=#B58300FF>Portal der Herzlosigkeit</color>.
+DIALOG_ORRA_QUEST_4_END_0=Das sollte ihnen ein für allemal gezeigt haben, wer hier das Sagen hat. Hier, nehmt dieses Fragment, das ich vor Ewigkeiten mal gefunden habe. Ich kann damit nichts anfangen, aber vielleicht hilft es euch.
+DIALOG_ORRA_QUEST_5_START_0=Bei meinem Bart... Ist das... Bin ich das, der dort aus dem Portal tritt?! Ich fürchte, ich kann dir diesmal nicht helfen.
+DIALOG_ORRA_QUEST_5_IN_PROGRESS_0=Du wirst diese andere Version von mir im <color=#B58300FF>Portal der Herzlosigkeit</color> alleine bekämpfen müssen.
+DIALOG_ORRA_QUEST_5_END_0=Unglaublich! Das Portal scheint sich zu stabilisieren! Die Wesen aus der anderen Dimension werden nicht mehr zu uns gelangen können!
+DIALOG_MEVOR_QUEST_1_START_0=Man nennt mich Mevor. Ich werde euch beibringen, eure Waffen zu verzaubern, wenn ihr mir mit diesem Portal über mir helft.
+DIALOG_MEVOR_QUEST_1_START_1=Ich benötige ein Fragment daraus. Vom <color=#B58300FF>Abnormalen Tolmon</color> aus dem <color=#B58300FF>Portal der Hoffnungslosigkeit</color> solltet ihr es erbeuten können.
+DIALOG_MEVOR_QUEST_1_END_0=Ehrlichgesagt habe ich nicht erwartet, dass ihr das schafft. Danke für die Hilfe. Hier ist ein Fragment, das vor einiger Zeit aus dem Portal fiel. Ihr könnt es haben.
+DIALOG_MEVOR_QUEST_2_START_0=Scheint als wollten sich andere Gruppen aus fremden Dimensionen Zugang zu dieser Welt verschaffen.
+DIALOG_MEVOR_QUEST_2_START_1=Geht und besiegt die <color=#B58300FF>Gefallene Gruppe</color> aus dem <color=#B58300FF>Portal der Hoffnungslosigkeit</color>.
+DIALOG_MEVOR_QUEST_2_END_0=Diese Botschaft sollte mehr als deutlich gewesen sein. Gute Arbeit.
+DIALOG_MEVOR_QUEST_3_START_0=Scheint, als wär der Golem durchgedreht. Dieser Golem ist zu tough, als dass ihr ihm was anhaben könntet. Ich helfe euch mal hierbei. Versucht einfach nicht zu sterben, bis ich den Golem besiegen konnte.
+DIALOG_MEVOR_QUEST_3_START_1=Geht und besiegt den <color=#B58300FF>Hoffnungslosen Golem</color> aus dem <color=#B58300FF>Portal der Hoffnungslosigkeit</color>.
+DIALOG_MEVOR_QUEST_3_END_0=Ihr habt überlebt. Beeindruckend.
+DIALOG_MEVOR_QUEST_4_START_0=Urgh, die Gefallenen sind wieder hier. Diesmal scheinen sie wesentlich stärker zu sein.
+DIALOG_MEVOR_QUEST_4_START_1=Geht und besiegt die <color=#B58300FF>Gefallene Gruppe</color> aus dem <color=#B58300FF>Portal der Hoffnungslosigkeit</color>.
+DIALOG_MEVOR_QUEST_4_END_0=Seufz... diese Leute lernen nie dazu, was? Ich habe hier einen Splitter vom Meteoren selbst. Es verfügt über unsagbare Kräfte, wenn man es wieder zusammensetzt. Hier, nimm. Vielleicht bekommst du von Orram und Edwin noch mehr.
+DIALOG_MEVOR_QUEST_5_START_0=Interressant... das sieht fast aus... als käme ich dort aus dem Portal raus.
+DIALOG_MEVOR_QUEST_5_START_1=Geht, das wird meine letzte Aufgabe für euch sein. Besiegt diese verdorbene Version meiner Selbst im <color=#B58300FF>Portal der Hoffnungslosigkeit</color>. 
+DIALOG_MEVOR_QUEST_5_END_0=Sehr gute Arbeit, meine Freunde, sehr gute Arbeit.
+DIALOG_EDWIN_QUEST_1_START_0=Seid gegrüßt, mein Name ist Edwin. Hättet ihr Zeit, mir beim Stabilisieren dieses Portals über mir zu helfen? Im Anschluss kann ich euch beibringen, Accessoires zu verzaubern.
+DIALOG_EDWIN_QUEST_1_START_1=Die <color=#B58300FF>Abnormale Cassandra</color> aus dem <color=#B58300FF>Portal der Gedankenlosigkeit</color> über uns sollte haben, was ich suche.
+DIALOG_EDWIN_QUEST_1_END_0=Habt Dank. Diese Portale verhalten sich in letzter Zeit äußerst ungewöhnlich.
+DIALOG_EDWIN_QUEST_2_START_0=Andere Gruppen, die der Korruption erlegen sind, nähern sich!
+DIALOG_EDWIN_QUEST_2_START_1=Geht und stoppt die <color=#B58300FF>Gefallene Gruppe</color> aus dem <color=#B58300FF>Portal der Gedankenlosigkeit</color>.
+DIALOG_EDWIN_QUEST_2_END_0=Gute Arbeit, das sollte uns ein wenig Zeit verschaffen, damit wir das Portal stabilisieren können.
+DIALOG_EDWIN_QUEST_3_START_0=Der Golem, den wir gefangen haben, ist nun auch der Korruption erlegen. Ich werde mit euch gehen und euch vorrübergehend Schutz gewähren. Ihr müsst ihn töten, bevor mein Zauber nachlässt!
+DIALOG_EDWIN_QUEST_3_START_1=Geht und besiegt den <color=#B58300FF>Gedankenlosen Golem</color> aus dem <color=#B58300FF>Portal der Gedankenlosigkeit</color>.
+DIALOG_EDWIN_QUEST_3_END_0=Ihr habt meinen Dank.
+DIALOG_EDWIN_QUEST_4_START_0=Die Gefallenen scheinen nicht zu wissen, wann Schluss ist. Sieht aus, als wären sie zurückgekehrt. Doch diesmal sind sie viel stärker...
+DIALOG_EDWIN_QUEST_4_START_1=Geht und besiegt die <color=#B58300FF>Gefallene Gruppe </color> aus dem <color=#B58300FF>Portal der Gedankenlosigkeit</color>.
+DIALOG_EDWIN_QUEST_4_END_0=Vielen Dank, ohne euch hätte ich sie diesmal nicht aufhalten können.
+DIALOG_EDWIN_QUEST_5_START_0=Meine Güte... Es ist nun also doch so weit gekommen...
+DIALOG_EDWIN_QUEST_5_START_1=Deine letzte Aufgabe ist nun, mein verdorbenes Spiegelbild aus dem <color=#B58300FF>Portal der Gedankenlosigkeit</color> zu vernichten. 
+DIALOG_EDWIN_QUEST_5_END_0=Ihr habt es vollbracht! Möge das Licht euch stets umgeben.
+
+DIALOG_ENTER_VAULT_TANK_0=Das muss die antike Gruft sein, von der die Dorfbewohner sprachen.
+DIALOG_ENTER_VAULT_HEALER_0=Einst war es ein Grabmal einer antiken Zivilisation. Vor 100 Jahren wurde es durch einen Meteoriteneinschlag zerstört.
+DIALOG_ENTER_VAULT_RANGER_0=Die Kraft des Meteoriten ist unglaublich stark. Vielleicht hat sie die Kreaturen im Inneren verdorben. Wir müssen vorsichtig sein.
+DIALOG_ENTER_VAULT_BERZERKER_0=....
+
+DIALOG_BONE_KNIGHT_TANK_0=Ganz so leicht kommen wir wohl doch nicht hinein.
+DIALOG_BONE_KNIGHT_RANGER_0=Wir drei werden uns um die Feinde kümmern. <color=#B58300FF>Heilerin</color>! Halte uns um jeden Preis am Leben!
+DIALOG_BONE_KNIGHT_BERZERKER_0=Die Zeit ist um, los geht's!
+
+DIALOG_HIDDEN_HAVEN_TANK_0=Was ist das? Sieht aus wie eine Karte für diesen Ort.
+DIALOG_HIDDEN_HAVEN_RANGER_0=Einige Teile fehlen jedoch.
+DIALOG_HIDDEN_HAVEN_YOU_0=Hier, ein Ort ist eingezeichnet. Der <color=#B58300FF>Heimliche Hafen</color>. Lasst uns mal dort hingehen.
+
+DIALOG_MUZ_WELCOME_TO_VAULT_MUTZ_0=Oh wow, es ist ein Weilchen her, dass ich hier Abenteurer gesehen habe.
+DIALOG_MUZ_WELCOME_TO_VAULT_MUTZ_1=Mein Name ist Mutz. Nach dem Meteoriteneinschlag vor 100 Jahren wurde ich zum Leben erweckt und seitdem sitze ich hier fest.
+DIALOG_MUZ_WELCOME_TO_VAULT_MUTZ_2=Der Meteor selbst spendet Leben und verleiht den Dingen in seiner Nähe mysteriöse Kräfte. Doch es kamen bösartige Wesen herbei, die die hier lebenden Kreaturen verderben wollen.
+DIALOG_MUZ_WELCOME_TO_VAULT_MUTZ_3=Ich hatte Glück und war hier im Hafen vor ihrer Korruption sicher.
+DIALOG_MUZ_WELCOME_TO_VAULT_MUTZ_4=Schon viele Helden haben versucht, den Meteor zu finden und ihn zu läutern. Sie alle sind gescheitert und vergebens gestorben. Vielleicht kann eure Gruppe der Gruft endlich Frieden bringen.
+DIALOG_MUZ_WELCOME_TO_VAULT_MUTZ_5=Reist tief ins Innere der Gruft. Überall sind Kartenfragmente verstreut. Findet sie und ich werde sie eurer Karte hinzufügen.
+DIALOG_MUZ_WELCOME_TO_VAULT_MUTZ_6=Zieht nun los, das nächste Kartenfragment sollte sich in den Klauen des <color=#B58300FF>Brutalen Sepitus</color> im <color=#B58300FF>Grufteingang</color> befinden.
+
+DIALOG_MUZ_WELCOME_TO_VAULT_MUTZ_COMPLETE_0=Gute Arbeit! Das Seelenquartier sollte nun auf eurer Karte zu finden sein!
+
+DIALOG_MUZ_MAP_FRAG_MIDNIGHT_START_0=Ich weiß, dass der Normale Spiegel ebenfalls ein Kartenfragment besitzt. Besiegt ihn und bringt mir das Fragment.
+DIALOG_MUZ_MAP_FRAG_MIDNIGHT_PENDING_0=Geht nun, bringt mir das nächste Kartenfragment vom Normalen Spiegel.
+DIALOG_MUZ_MAP_FRAG_MIDNIGHT_COMPLETE_0=Perfekt! Einen Moment, ich füge es eurer Karte hinzu... Uuund fertig! Die Mitternachtszone sollte nun auf eurer Karte verfügbar sein!
+
+DIALOG_MUZ_MAP_FRAG_BIO_QUARTER_START_0=Im Seelenquartier gibt es einen Spiegel, der die Seele des Betrachters kopiert und sie gegen ihn verwendet. Dort sollte das nächste Kartenfragment zu finden sein.
+DIALOG_MUZ_MAP_FRAG_BIO_QUARTER_PENDING_0=Zieht los, das nächste Fragment befindet sich im Besitz des Irrsinnigen Spiegels im Seelenquartier.
+DIALOG_MUZ_MAP_FRAG_BIO_QUARTER_COMPLETE_0=Großartig! Ihr könnt nun zum Bio-Quartier vordringen!
+
+DIALOG_MUZ_MAP_FRAG_DINING_HALL_START_0=Ich kenne einen geheimen Ort hier in der Gruft. Kommt wieder zu mir, wenn ihr stärker seid. Dann werde ich euch ein weiteres Kartenfragment geben.
+DIALOG_MUZ_MAP_FRAG_DINING_HALL_PENDING_0=Ihr seid noch zu schwach, kommt wieder, wenn ihr stärker seid.
+DIALOG_MUZ_MAP_FRAG_DINING_HALL_COMPLETE_0=Ihr wirkt bereits viel stärker. Hier ist die Karte zum Speisesaal. Dort warten einige Leute, die euch weiterhelfen werden!
+
+DIALOG_MUZ_QUEST_OUTER_COURTYARD_START_0=Das nächste Fragment sollte sich in den Händen des Brutalen Atiel Schwarzschatten im Bio-Quartier befinden.
+DIALOG_MUZ_QUEST_OUTER_COURTYARD_PENDING_0=Geht und besorgt das nächste Kartenfragment vom Brutalen Atiel Schwarzschatten im Bio-Quartier.
+DIALOG_MUZ_QUEST_OUTER_COURTYARD_END_0=Gut gemacht! Der Äußere Burghof sollte nun auf eurer Karte zu finden sein!
+
+DIALOG_MUZ_QUEST_DEPTH_START_0=Für das nächste Fragment werden wir in die <color=#B58300FF>Mitternachtszone</color> gehen müssen und dort die Monster im <color=#B58300FF>Mitternächtlichen Äußeren Burghof</color> besiegen.
+DIALOG_MUZ_QUEST_DEPTH_PENDING_0=Geht nun, das nächste Kartenfragment sollte auftauchen, sobald wir die Monster im <color=#B58300FF>Mitternächtlichen Äußeren Burghof</color> in der <color=#B58300FF>Mitternachtszone</color> beseitigt haben.
+DIALOG_MUZ_QUEST_DEPTH_END_0=Großartig! Die Höllischen Tiefen sind nun auf eurer Karte eingezeichnet! Ich kann euch nur bis hierher helfen, denn das ist das letzte Kartenfragmente, das ich kenne.
+
+DIALOG_MUZ_IDLE_0=Manchmal wünschte ich mir, ich hätte einen Körper. Der Ort hier muss dringend mal entstaubt werden!
+
+DIALOG_ORRA_IDLE_1_0=Gelegentlich werden Kreaturen aus anderen Dimensionen durch das Portal kommen. Dann werde ich eure Hilfe brauchen, um sie zu besiegen.
+DIALOG_ORRA_IDLE_2_0=Jetzt kann ich meine Zeit endlich dem leckeren Essen widmen!
+
+DIALOG_HAVEN_ANAPIEL_IDLE_1_0=Möchtest du zum [LOCATION_AIRENE_TOWER] reisen und deine Fähigkeiten mit begrenzten Ressourcen auf die Probe stellen?
+DIALOG_HAVEN_ANAPIEL_ACTION_BTN_TEXT_1=Gehe zum [LOCATION_AIRENE_TOWER]
+
+DIALOG_AIRENE_ANAPIEL_IDLE_1_0=Möchtet ihr nach [LOCATION_HIDDEN_HAVEN] zurückkehren?
+DIALOG_AIRENE_ANAPIEL_ACTION_BTN_TEXT_1=Zurückkehren
+
+DIALOG_AIRENE_ANAPIEL_INSIDE_IDLE_1_0=Möchtest du den Turm wirklich verlassen? Du wirst nicht zurückkehren können!
+DIALOG_AIRENE_ANAPIEL_INSIDE_ACTION_BTN_TEXT_1=Raus hier
+
+DIALOG_MEVOR_IDLE_1_0=...
+DIALOG_EDWIN_IDLE_1_0=Orra, Mevor und ich bewachen diese Portale seit Ewigkeiten. Monster und Gefallene aus anderen Dimensionen wollen hier Macht erlangen. Niemand weiß, wie die Portale geschlossen werden können, deshalb ist es unsere Aufgabe, die Gruft zu verteidigen.
+DIALOG_GOLEM_IDLE_1_0=Golem lieb, Golem helfen euch, Fähigkeit testen.
+DIALOG_GOLEM_ACTION_BTN_TEXT_1=Golem bekämpfen
+
+DIALOG_AURDON_IDLE_1_0=Ich danke euch. Ihr habt den Frieden in der Gruft wiederhergestellt.
+
+DIALOG_QUEST_FINISH_LOWMORE_START_0=Ich war einst einer der Wächter dieses Ortes, bis eines Tages ein Meteor vom Himmel fiel und alle anderen Wächter von der bösen Energie des Meteors durchdrungen wurden.
+DIALOG_QUEST_FINISH_LOWMORE_START_1=Ich konnte der Korruption entkommen, wurde jedoch gefangen genommen und mein Körper wurde weggesperrt.
+DIALOG_QUEST_FINISH_LOWMORE_START_2=Nach all diesen Jahren habe ich nun einen Weg gefunden, die Korruption des Meteors aufzuheben, aber ich werde dafür meinen Körper und einige weitere Dinge benötigen.
+DIALOG_QUEST_FINISH_LOWMORE_START_3=Hinter mir ist das <color=#B58300FF>Tor der Tiefen</color> hier in der Gruft. Es kann überall hinführen, solange man einen Schlüssel hat.
+DIALOG_QUEST_FINISH_LOWMORE_START_4=Ich habe einen Schlüssel nach <color=#B58300FF>Lowmore</color>. Ich bin mir sicher, das nächste Kartenfragment ist dort zu finden.
+DIALOG_QUEST_FINISH_LOWMORE_START_5=Reise nach <color=#B58300FF>Lowmore</color> und finde das Kartenfragment. Seid vorsichtig, denn die Wände im <color=#B58300FF>Tor der Tiefen</color> bewegen sich, sodass man nie am selben Ort rauskommt.
+DIALOG_QUEST_FINISH_LOWMORE_START_6=Außerdem sind die Gegner in <color=#B58300FF>[LOCATION_PANDEMONIC_DEPTH]</color> sehr stark. Nehmt diese Kugel, sie sollte euch helfen, stärkeren Feinden gegenüberzutreten!
+
+DIALOG_QUEST_FINISH_LOWMORE_PENDING_0=Reist nach <color=#B58300FF>Lowmore</color>, das nächste Kartenfragment sollte sich ganz am Ende im letzten Raum befinden.
+DIALOG_QUEST_FINISH_LOWMORE_END_0=Ich habe den Inneren Burghof eurer Karte hinzugefügt.
+
+DIALOG_QUEST_FINISH_INNER_COURTYARD_START_0=Um das nächste Fragment zu erhalten, benötigen wir einen weiteren Schlüssel. Wir sollten ihn im <color=#B58300FF>Mitternächtlichen Inneren Burghof</color> finden.
+DIALOG_QUEST_FINISH_INNER_COURTYARD_PENDING_0=Besiegt die Monster im <color=#B58300FF>Mitternächtlichen Inneren Burghof</color> und besorgt den Schlüssel.
+DIALOG_QUEST_FINISH_INNER_COURTYARD_END_0=Das ist der Schlüssel zum <color=#B58300FF>Abgrund</color>, großartig!
+
+DIALOG_QUEST_GUARDIANS_START_0=Das letzte Kartenfragment ist ganz am Ende des <color=#B58300FF>Abgrunds</color>. Nutzt den Schlüssel, um zum <color=#B58300FF>Abgrund</color> zu reisen und findet das letzte Fragment.
+DIALOG_QUEST_GUARDIANS_PENDING_0=Nutzt den Schlüssel, um zum <color=#B58300FF>Abgrund</color> zu reisen und findet das letzte Kartenfragment.
+DIALOG_QUEST_GUARDIANS_END_0=Wir haben unser Ziel erreicht. Die Wächterhöhle sollte nun auf eurer Karte zu finden sein!
+
+DIALOG_QUEST_DEFEAT_ALL_GUARDIANS_START_0=Meine Freunde... was ist aus euch geworden... Ich werde euch von diesem Fluch befreien!
+DIALOG_QUEST_DEFEAT_ALL_GUARDIANS_START_1=Um ihnen die Verderbnis auszutreiben, benötige ich ein Siegel jeden Wächters. Außerdem brauche ich meinen Körper, um den Zauber zu wirken.
+DIALOG_QUEST_DEFEAT_ALL_GUARDIANS_START_2=Geht und besiegt alle Wächter und sammelt ihre jeweiligen Siegel ein. Befreit zusätzlich noch meinen Körper aus der Versiegelung.
+DIALOG_QUEST_DEFEAT_ALL_GUARDIANS_PENDING_0=Jetzt liegt es an euch. Das Schicksal der Gruft liegt in euren Händen. Ich glaube fest an euch. Niemand hat es je so weit geschafft wie ihr.
+DIALOG_QUEST_DEFEAT_ALL_GUARDIANS_END_0=Ich kann nicht glauben, dass ihr es wirklich geschafft habt! Ich habe so lange auf diesen Tag gewartet!
+DIALOG_QUEST_DEFEAT_ALL_GUARDIANS_END_1=Ich habe übrigens einen weiteren Schlüssel für das <color=#B58300FF>Tor der Tiefen</color>. Dieser Schlüssel kann euch an Orte führen, die weitaus unbeständiger sind als der Abgrund. Nutzt ihn also mit großer Vorsicht.
+
+END

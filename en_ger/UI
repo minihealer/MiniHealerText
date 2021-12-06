@@ -1,0 +1,501 @@
+UI_MENU_BUTTON_START=Start
+UI_MENU_BUTTON_SETTINGS=Einstellungen
+UI_MENU_BUTTON_EXIT=Verlassen
+
+UI_SAVE_SLOTS_TITLE=Speicherslots
+UI_SAVE_SLOTS_DESC=Wähle einen Speicherslot, um fortzufahren
+UI_SAVE_SLOTS_DELETE=Möchtest du dieses Spielstand wirklich löschen?
+UI_TALENT_LOADOUT_SLOTS_EDIT=Profilnamen Bearbeiten
+UI_EQUIPMENTS_LOADOUT_SLOTS_EDIT=Profilnamen Bearbeiten
+UI_EQUIPMENTS_LOADOUT_X=Profil {0}
+UI_TALENT_LOADOUT_SLOTS_DELETE=Möchtest du dieses Profil wirklich löschen?
+UI_SAVE_SLOTS_EDIT_NAME=Speicherstand benennen
+UI_SAVE_SLOTS_NEW_GAME=< Neues Spiel >
+UI_NEW_SAVE_RECOMMENDATION=Seit deinem letzten Spiel hat sich einiges verändert!<br><br>Wir empfehlen, ein neues Spiel zu starten.<br><br><color=#555555>Wenn du möchtest kannst du natürlich auch diesen Spielstand verwenden.
+UI_NEW_GAME_NAME_PARTY=Wie nennst du dich und deine Gruppe?
+UI_ENTER_NAME=Namen eingeben
+
+UI_LOCAL_SAVE=Lokaler Speicher
+UI_CLOUD_SAVE=Cloud-Speicher
+UI_CLOUD_SAVE_CONFLICT=Konflikt zwischen Steam Cloud und lokalen Dateien
+UI_CLOUD_SAVE_CONFLICT_DESC=Wähle, ob du die lokalen Daten, oder die Cloud-Daten behalten möchtest
+UI_CORRUPTED_SAVE=Speicherstand defekt
+UI_NUMBER_OF_ARTIFACTS=Anzahl an Artefakten
+UI_CLOUD_SAVE_CONFLICT_WARNING=Achtung, du kannst das nicht rückgängig machen!
+UI_SAVE_DELETED=Speicherstand gelöscht
+
+UI_YES=Ja
+UI_NO=Nein
+UI_OK=Ok
+UI_GOT_IT=Verstanden
+UI_CONTINUE=Weiter
+UI_START=Start
+UI_RESTART=Neustart
+UI_CANCEL=Abbruch
+UI_AUTO_RESTART=Neustart in {0:F0}
+UI_CLOSE=Schließen
+UI_NONE=Keine
+UI_CONFIRM=Bestätigen
+UI_UPGRADE=Verbessern
+UI_ENTER=Eingeben
+UI_ENTER_TEXT=Text eingeben
+UI_LEVEL=Level
+UI_MASTERY=Meisterschaft
+UI_PURCHASE=Kaufen
+UI_PURCHASE_ONE=Einzeln kaufen
+UI_PURCHASE_ALL=Alle kaufen
+UI_PURCHASE_HINT=Tipp kaufen
+UI_FEED=Hinzufügen
+UI_CLEANSE=Reinigen
+UI_CRAFT=Herstellen
+UI_TRAVEL_TO=Reise nach
+UI_LOADING=Laden...
+UI_SELL=Verkaufen
+UI_SELL_ALL=Alles verkaufen
+UI_SELL_ALL_BAG=Ausbeute verkaufen
+UI_BACK_TO_HAVEN=Zurück zum Hafen
+UI_BACK_TO_MENU=Zurück zum Menü
+UI_PAUSED=Pausiert
+UI_RESUME=Weiter
+UI_BACK=Zurück
+UI_SAVE=Speichern
+UI_LOAD=Laden
+UI_REFERSH=Neu laden
+UI_NOT_ENOUGH_X=Nicht ausreichend {0}
+UI_AUGMENT=Augmentieren
+UI_MUTATE=Mutieren
+UI_ENCHANT=Verzaubern
+UI_CURSE=Verfluchen
+UI_DIVINATION=Vergöttlichen
+UI_REROLL_AUGMENT=Neue Augmentationen
+UI_BUYBACK=Rückkauf
+UI_OVERVIEW=Übersicht
+UI_DEFEAT=Niederlage
+UI_ON=An
+UI_OFF=Aus
+UI_OPENED=Geöffnet
+UI_UNKNOWN_X=Unbekannt {0}
+UI_GOLEM_ATTACK=Golemangriff?
+UI_X_OR_Y={0} oder {1}
+UI_X_Y_OR_Z={0}, {1}, oder {2}
+UI_A_QUICK_TIP=Wusstest du schon
+UI_LEAVE=Verlassen
+UI_SNATCH=Nehmen
+UI_RESTOCK=Auffüllen
+UI_CLAIM=Einfordern
+UI_YOU=Du
+UI_CHAOS=Chaos
+UI_ITEMS_SPOILS=Ausbeute
+
+UI_MENU_DIFFICULTY=Wähle eine Schwierigkeitsstufe
+UI_MENU_DIFFICULTY_DESC=Du kannst sie später andern!
+UI_MENU_DIFFICULTY_TITLE=Schwierigkeitsstufe
+
+UI_MENU_GAME_MODE_ENEMY_HAS_MORE_HEALTH=- Feind hat {0}% mehr Leben<br>
+UI_MENU_GAME_MODE_ENEMY_HAS_MORE_ATTACK=- Feind hat {0}% mehr Angriffsstärke<br>
+UI_MENU_GAME_MODE_ENEMY_HAS_MORE_SPELLPOWER=- Feind hat {0}% mehr Zauberstärke<br>
+UI_MENU_GAME_MODE_ENEMY_HAS_LESS_HEALTH=- Feind hat {0}% weniger Leben<br>
+UI_MENU_GAME_MODE_ENEMY_HAS_LESS_ATTACK=- Feind hat {0}% weniger Angriffsstärke<br>
+UI_MENU_GAME_MODE_ENEMY_HAS_LESS_SPELLPOWER=- Feind hat {0}% weniger Zauberstärke<br>
+
+UI_MENU_NIGHTMARE_MORE_XP_GAIN=- Erhalte {0}% mehr Erfahrung<br>
+UI_MENU_NIGHTMARE_MORE_GOLD_GAIN=- Erhalte {0}% mehr Gold<br>
+
+UI_MENU_GAME_MODE_NORMAL_TITLE=Normal
+UI_MENU_GAME_MODE_NORMAL_DESC=Die empfohlene Schwierigkeitsstufe für Einsteiger
+
+UI_MENU_GAME_MODE_NIGHTMARE_TITLE=Albtraum
+UI_MENU_GAME_MODE_NIGHTMARE_DESC_0=Nur für erfahrene Heiler geeignet<br>
+
+UI_MENU_GAME_MODE_EXPLORER_TITLE=Kundschafter
+UI_MENU_GAME_MODE_EXPLORER_DESC_0=Auf der Suche nach einem entspannteren Abenteuer?<br>
+
+UI_MENU_GAME_MODE_HARDCORE_TITLE=Hardcore
+UI_MENU_GAME_MODE_HARDCORE_DESC_0=- Dein Level steigt schneller (aber niedrige Bosse geben weniger Erfahrung)<br>
+UI_MENU_GAME_MODE_HARDCORE_DESC_1=- Schwierigkeitsstufe kann nicht angepasst werden, die Hardcore-Status verschwindet, wenn die Gruppe stirbt<br>
+UI_MENU_GAME_MODE_HARDCORE_DESC_2=- Beinhaltet ein zusätzliches Achievement<br>
+UI_MENU_GAME_MODE_HARDCORE_DESC_3=- Es wird empfohlen, das Spiel zunächst normal durchzuspielen, bevor du mit Hardcore beginnst!
+
+
+UI_CHAOS_CRYSTAL_IDLE_TTILE=Schrein des Chaos
+UI_CHAOS_CRYSTAL_IDLE_DESC=Der Schrein des Chaos generiert alle {0} Minuten automatisch einen Chaoskristall
+UI_CHAOS_CRYSTAL_IDLE_OFFLINE_DESC=Der Schrein generiert bis zu {0} Stunden lang weitere Chaoskristalle, wenn das Spiel ausgeschaltet ist.
+
+UI_FAQ_TITLE=Wälzer der Weisheit
+UI_FAQ_HEAVEN_DESC=Enthält FAQs und allgemeine Tipps zum Spiel
+UI_STATS_INFO_TUT_FAQ_TITLE=Die <color=#B58300FF>Wälzer der Weisheit</color> beinhalten Tipps und Tricks rund ums Spiel und erklären dir, wie du deine Gruppe verbessern kannst
+
+UI_ATLAS_TITLE=Der Atlas
+UI_ART_ATLAS_TITLE=Artefakt-Atlas
+UI_ART_ATLAS_DESC=Suche und finde die Artefakte deines Begehrens
+UI_ART_ATLAS_SEARCH_PLACEHOLDER=Name, Attribut oder Effekt eingeben
+UI_ART_ATLAS_EMPTY_DESC=Wähle ein Artefakt aus, um mehr Information zu erhalten
+UI_ART_ATLAS_NOT_DISCOVERED_DESC=Dieses Artefakt wurde noch nicht entdeckt
+UI_ART_ATLAS_NOT_FOUND_DESC=Keine Übereinstimmung gefunden oder Artefakt noch nicht entdeckt
+UI_ART_ATLAS_DIVINE_VERSION_BTN_DESC=Göttliche Version
+UI_ART_ATLAS_NO_DIVINE_VERSION_BTN_DESC=Dieses Artefakt hat keine göttliche Version
+UI_ART_ATLAS_PURCHAST_QUALITY_BTN_DESC=Qualität reicht von 1-10
+UI_ART_ATLAS_DROPPED_BY=Erbeutet von: {0}
+UI_ART_ATLAS_DIFFICULTY=Schwierigkeitsstufe
+UI_ART_ATLAS_DROP_CHANCE=Beutechance: {0}%
+UI_ART_ATLAS_ZONE=Zone: {0}
+UI_ART_ATLAS_DIVINE_ACQUIRE=Kann erhalten werden, indem man {0} bei Torram vergöttlicht, oder hier mit [MATERIAL_DIVINATION_SPHERE_NAME] gekauft werden
+UI_ART_ATALS_PURCHASE_LOCK=Fürs Freischalten, besiege die chaotische Version des Bosses
+
+UI_ART_ATLAS_TUT_TITLE=Der <color=#B58300FF>Atlas</color> beinhaltet haufenweise Infos über alle Items im Spiel
+UI_ART_ATLAS_TUT_ART_ATLAS_DESC=Der <color=#B58300FF>Artefakt-Atlas</color> zeigt alle Artefakte, die im Spiel entdeckt wurden. Du kannst hier nach Artefakten suchen und sie sogar direkt herstellen!
+UI_ART_ATLAS_TUT_RUNE_ATLAS_DESC=Der <color=#B58300FF>Runen-Atlas</color> zeigt Informationen über die verschiedenen Runenworte. Du kannst hier auch Hinweise kaufen!
+
+UI_AT_TUT_INTRO=Willkommen im <color=#B58300FF>Turm Airene</color>, der Mini-Roguelike Ecke in Mini Healer! <br><br>Betritt den Turm mit einer anderen Raidgruppe und mit einem Hauptskill für Heilung. <br><br>Erklimme den Turm, um stärker zu werden, deine Heilung auszubauen und deine Gruppe zu verbessern. Besiege Bosse, um <color=#B58300FF>Sonnenseide</color> zu erhalten, welche du  im <color=#B58300FF>Kleiderschrank</color> gegen neue Kostüme eintauschen kannst.
+
+UI_RUNE_ATLAS_TITLE=Runen-Atlas
+UI_RUNE_ATLAS_DESC=Entdecke hier unterschiedliche Runenkombinationen
+
+UI_STATS_INFO_TUT_TITLE=Die <color=#B58300FF>Werte und Infos</color> zeigen dir die Statuswerte deiner Gruppenmitglieder
+UI_STATS_INFO_TUT_STATS_TITLE=Der Reiter <color=#B58300FF>Werte</color> zeigt die aktuellen Statuswerte deiner Gruppe an
+
+UI_STATS_INFO_OFFENSE=Offensive
+UI_STATS_INFO_DEFENSE=Defensive
+
+UI_FAQ_DESC=Du bist verwirrt und kommst nicht weiter?
+
+UI_ARMORY_TITLE=Rüstkammer
+UI_STATS_INFO_TITLE=Werte und Infos
+UI_TALENTS_TITLE=Talente
+UI_VAULT_WAYPOINTS_TITLE=Flure der Gruft
+UI_CHAOS_SHRINE_TITLE=Schrein des Chaos
+
+UI_DICE_TITLE=Würfel der Gier
+UI_DICE_DESC=Wird Fortuna dir heute hold sein?
+UI_DICE_SELECT_PLACEHOLDER=Kaufe ein Item, um seine Werte zu sehen und es zur Rüstkammer hinzuzufügen
+UI_DICE_ROLL_WEAPONS_ONLY=Nur neue [ARMORY_FILTERS_WEAPON]
+UI_DICE_ROLL_ARMORS_ONLY=Nur neue [ARMORY_FILTERS_ARMOR]
+UI_DICE_ROLL_ACCESSORIES_ONLY=Nur neues [ARMORY_FILTERS_ACCESSORY]
+
+UI_DISCORD_FEEDBACK_DESC=Du hast einen Bug entdeckt? Das Spiel gefällt dir? Du hast Feedback? <br>Tritt dem Discord-Server bei!
+
+UI_COMBATLOG_TITLE=<color=#B58300FF>Kampfübersicht</color>
+UI_COMBATLOG_DESC=Wähle ein Gruppenmitglied, um eine detaillierte Übersicht zur Kampfleistung zu erhalten
+UI_COMBATLOG_DMG_DONE=Schaden Ausgeteilt
+UI_COMBATLOG_TOTAL_DMG_DONE=Gesamtschaden ausgeteilt: {0}<br>({1}% des ausgeteilten Gruppenschadens)
+UI_COMBATLOG_HEALING_DONE=Heilung Verursacht
+UI_COMBATLOG_KILLED_BY=Getötet von:
+UI_COMBATLOG_LETHAL_DAMAGE=Tödlicher Schaden
+UI_COMBATLOG_TOTAL_HEALING_DONE=Gesamtheilung: {0}<br>({1}% der Gruppenheilung)
+UI_COMBATLOG_HEALING_RECEIVED=Healing Erhalten
+UI_COMBATLOG_TOTAL_HEALING_RECEIVED=Heilung erhalten: {0}<br>({1}% der Gruppenheilung)
+UI_COMBATLOG_DMG_TAKEN=Schaden Eingesteckt
+UI_COMBATLOG_TOTAL_DMG_TAKEN=Gesamtschaden eingesteckt: {0}<br>({1}% des eingesteckten Gruppenschadens)
+UI_SKILL_SETUP_TITLE=Skillübersicht
+UI_SKILL_SETUP_DESC=Wähle und verbessere hier deine Skills, bevor du in die Dunkelheit ziehst
+UI_SKILL_SETUP_ERROR_MAX_LVL=Dieser Skill ist bereits am Maximum
+UI_SKILL_CAN_CRITICALLY_HEAL=Kann kritisch heilen
+
+UI_SKILL_SETUP_REACH_LEVEL_X_TO_UNLOCK=Erreiche Level {0} zum Freischalten
+
+
+
+UI_SKILL_SETUP_CURRENT_HEAL=Aktuelle Heilung: {0}
+UI_SKILL_SETUP_CURRENT_HEAL_PER_SEC=Aktuelle Heilung: {0} pro Sekunde
+UI_SKILL_CLEANSING_RAY_STRENGTH_INCREASE=Kraftzuwachs: {0}% pro Sekunde bis zu einem Maximum von {1}%
+
+UI_SKILL_SETUP_BASE_HEALING=Basisheilung: {0}
+
+UI_SKILL_SETUP_OVERTIME_BASE_HEALING=Basisheilung über Zeit: {0} pro Sekunde
+UI_SKILL_SETUP_OVERTIME_HEALING=Heilung über Zeit: {0} pro Sekunde
+
+UI_SKILL_SETUP_EFFECT_START_BASE_HEALING=Basis Heilung zu Effektstart: {0}
+UI_SKILL_SETUP_EFFECT_START_HEALING=Heilung zu Effektstart: {0}
+
+UI_SKILL_SETUP_EFFECT_END_BASE_HEALING=Basisheilung zu Effektende: {0}
+UI_SKILL_SETUP_EFFECT_END_HEALING=Heilung zu Effektende: {0}
+
+UI_SKILL_SETUP_ATTRIBUTE_INCREASE=Zuwachs an {0}:<br>{1}
+UI_SKILL_SETUP_ATTRIBUTE_REDUCTION=Reduktion von {0}: {1}
+UI_SKILL_SETUP_ATTRIBUTE_BONUS=Bonus {0}: {1}
+UI_SKILL_SETUP_BASE_DMG=Basisschaden: {0}
+UI_SKILL_SETUP_BASE_DMG_PER_SECOND=Basisschaden: {0} pro Sekunde
+UI_SKILL_SETUP_CURRENT_DMG=Aktueller Schaden: {0}
+UI_SKILL_SETUP_CURRENT_DMG_PER_SECOND=Aktueller Schaden: {0} pro Sekunde
+UI_SKILL_SETUP_DMG_REDUCTION=Schadensreduktion: {0}
+UI_SKILL_SETUP_HEALTH_RESTORED=Gesundheit wiederhergestellt: {0}
+
+UI_SKILL_MISSING_HEALTH_PERCENTAGE=Gesamtheilung: {0} + {1}% der fehlenden Gesundheit
+UI_SKILL_MAXIMUM_HEALTH_PERCENTAGE=Gesamtheilung: {0} + {1}% der [ATTRIBUTE_MAXIMUM_HEALTH]
+UI_SKILL_MAXIMUM_HEALTH_SELF_DMG=Selbstverletzung: {0}% der [ATTRIBUTE_MAXIMUM_HEALTH] als [ATTRIBUTE_PHYSICAL_DAMAGE]
+
+UI_SKILL_DISABLED=Gesperrt!
+UI_SKILL_CANNOT_BE_CASTED_WHEN_DEAD=Dieser Skill kann im Tod nicht gewirkt werden
+
+
+UI_SKILL_SETUP_BASE_HEALTH_REGEN=Basis-Lebensregeneration: {0} pro Sekunde
+UI_SKILL_SETUP_TOTAL_HEALTH_REGEN=Gesamte Lebensregeneration: {0} pro Sekunde
+
+UI_SKILL_SETUP_BASE_SHIELD_VALUE=Basis-Schildwert: {0}
+UI_SKILL_SETUP_CURRENT_SHIELD_VALUE=Aktueller Schildwert: {0}
+
+UI_SKILL_SETUP_HEALS_FOR_HEALPOWER=Heilt für {0} der Heilkraft
+UI_SKILL_SETUP_SIPHON_LIFT_SAC_BONUS={0} verursacht {1}% mehr Schaden und heilt {1}% mehr pro geopfertem Talentpunkt
+
+UI_SKILL_SETUP_DURATION=Dauer: {0} Sekunden
+UI_SKILL_SETUP_CASTTIME_SECONDS=Wirkungszeit: {0} Sekunden
+UI_SKILL_SETUP_CASTTIME=Wirkungszeit: {0}
+UI_SKILL_SETUP_DURATION_INSTANT_CAST=Sofortzauber
+
+UI_SKILL_SETUP_COOLDOWN_SECONDS=Abklingzeit: {0} Sekunden
+UI_SKILL_SETUP_MANA_COST=Manakosten: {0}
+UI_SKILL_SETUP_MANA_COST_PER_SECOND=Manakosten: {0} pro Sekunde
+
+UI_SKILL_SETUP_REQUIRED_POINTS=Zur Freischaltung werden {0} Punkte im {1}-Talentbaum benötigt
+
+UI_BUYBACK_TITLE=Rückkauf
+UI_BUYBACK_DESC=Kaufe hier die letzten {0} Items zurück, die du in dieser Sitzung verkauft hast
+
+UI_MALEVOLENT_SHRINE_EMPTY_TEXT=Wähle ein Artefakt, dessen Attribute du sperren möchtest
+UI_MALEVOLENT_SHRINE_NON_UNIQUE_TEXT=Du kannst nur Items sperren, die nicht einzigartig sind
+UI_MALEVOLENT_SHRINE_MAX_LOCK_TEXT=Der Gegenstand hat die max. Anzahl gesperrter Attribute schon erreicht
+UI_MALEVOLENT_SHRINE_TITLE=[DEPTH_ROOM_NAME_MALEVOLENT_SHRINE]
+UI_MALEVOLENT_SHRINE_DESC=Der [DEPTH_ROOM_NAME_MALEVOLENT_SHRINE] kann die Attribute eines nicht einzigartigen Artefaktes sperren. Gesperrte Attribute werden durch Torrams Fluchhandwerk nicht verändert.
+
+UI_BLACKSMITH_INVENTORY=Ausgerüstete Items & Inventar
+UI_BLACKSMITH_MATERIAL_INVENTORY=Material-Inventar
+UI_BLACKSMITH_EMPTY_TEXT=Wähle ein Artefakt aus, um seine Crafting Options einzusehen
+UI_BLACKSMITH_MAT_USED=Für dieses Artefakt verwendete Materialien 
+UI_BLACKSMITH_ENCHANT_LOCKED_TEXT=Vollende {0} weitere Quests zum Freischalten
+UI_BLACKSMITH_NO_OPTION_TEXT=Dieses Material kann nicht verbessert werden
+UI_BLACKSMITH_OVERVIEW_TITLE=Handwerksübersicht
+UI_BLACKSMITH_OVERVIEW_DESC=Torams Handwerkskunst kann die Stärke eines Artefakts erhöhen. Wähle rechts eine der Handwerksarten aus und leg los!
+UI_BLACKSMITH_UPGRADE_VIEW_TITLE=Artefakt Verbessern
+UI_BLACKSMITH_UPGRADE_VIEW_DESC=Verbesserungen verbessern die Werte des Artefakts und machen es stärker
+UI_BLACKSMITH_AUG_VIEW_TITLE=Artefakt Augmentieren
+UI_BLACKSMITH_AUG_VIEW_DESC=Augmentationen fügen dem Artefakt weitere Attribute hinzu
+UI_BLACKSMITH_MUT_VIEW_TITLE=Artefakt Mutieren
+UI_BLACKSMITH_MUT_VIEW_DESC=Mutationen verbessern einige Attribute des Artefakts. Andere Attribute werden dafür jedoch geschwächt
+UI_BLACKSMITH_ORRA_VIEW_TITLE=[BOSS_ORRA_SHORT_NAME]s Handwerk
+UI_BLACKSMITH_ORRA_VIEW_DESC=[BOSS_ORRA_SHORT_NAME] kann deine Rüstungen weiter verbessern und sie mit magischen Attributen versehen. Die Attribute werden stärker, wenn du Orras Quests meisterst.
+UI_BLACKSMITH_MEVOR_VIEW_TITLE=[BOSS_MEVOR_SHORT_NAME]s Handwerk
+UI_BLACKSMITH_MEVOR_VIEW_DESC=[BOSS_MEVOR_SHORT_NAME] kann deine Waffen weiter verbessern und sie mit magischen Attributen versehen. Die Attribute werden stärker, wenn du [BOSS_MEVOR_SHORT_NAME]s Quests meisterst.
+UI_BLACKSMITH_EDWIN_VIEW_TITLE=[BOSS_EDWIN_SHORT_NAME]s Handwerk
+UI_BLACKSMITH_EDWIN_VIEW_DESC=[BOSS_EDWIN_SHORT_NAME] kann deine Accessoires weiter verbessern und sie mit magischen Attributen versehen. Die Attribute werden stärker, wenn du [BOSS_EDWIN_SHORT_NAME]s Quests meisterst.
+UI_BLACKSMITH_CURSED_VIEW_TITLE=Fluchhandwerk
+UI_BLACKSMITH_CURSED_VIEW_DESC=Fluchhandwerk gewährt dir die mächtigsten Handwerksoptionen im Spiel
+
+UI_BLACKSMITH_CURSED_CRAFT_OPTION_CAN_NOT_BE_USED=Diese Handwerksoption kann auf dieses Item nicht angewendet werden
+UI_BLACKSMITH_CURSED_CRAFT_MAX_SOCKETS_REACHED=Alle Sockel sind bereits befüllt
+UI_BLACKSMITH_CURSED_CRAFT_MAX_QUALITY_REACHED=Itemqualität ist bereits am Maximum
+
+UI_BLACKSMITH_CURSED_CRAFT_ADD_JEWEL_SOCKET_TITLE=Füge einen Juwelensockel hinzu und entferne ein zufälliges Attribute von einem nicht einzigartigen Item
+UI_BLACKSMITH_CURSED_CRAFT_ADD_JEWEL_SOCKET_DESC=Füge einem nicht einzigartigen Item einen Juwelensockel hinzu. Im Gegenzug wird ein zufällig gewähltes Attribut entfernt (bis zu 3-mal durchführbar)
+
+UI_BLACKSMITH_CURSED_CRAFT_REROLL_TIER_TITLE=Lose die Stufe aller Basisattribute eines nicht einzigartigen Items neu aus
+UI_BLACKSMITH_CURSED_CRAFT_REROLL_TIER_DESC=Lose die Stufe aller Basisattribute eines nicht einzigartigen Items neu aus. Die Stufen reichen von 11 bis 13.
+
+UI_BLACKSMITH_CURSED_CRAFT_REROLL_BASE_ATTR_TITLE=Lose alle Basisattribute eines nicht einzigaritgen Items neu aus
+UI_BLACKSMITH_CURSED_CRAFT_REROLL_BASE_ATTR_DESC=Lose alle Basisattribute eines nicht einzigaritgen Items neu aus. Die Attributsstufe bleibt unverändert.
+
+UI_BLACKSMITH_CURSED_CRAFT_INCREASE_BASE_QUALITY_TITLE=Erhöhe die Basisqualität eines Items
+UI_BLACKSMITH_CURSED_CRAFT_INCREASE_BASE_QUALITY_DESC=Erhöhe die Basisqualität eines Items (Maximalwert 15)
+
+UI_BLACKSMITH_DIVINATION_VIEW_TITLE=Vergöttlichung
+UI_BLACKSMITH_DIVINATION_VIEW_DESC=Nutze eine [MATERIAL_DIVINATION_SPHERE_NAME], um ein Item extrem zu verbessern
+
+UI_BLACKSMITH_DIVINATION_TITLE=Vergöttlichung
+UI_BLACKSMITH_DIVINATION_DESC=Verleihe dem Artefakt göttliche Eigenschaften und verbesserte Attribute
+UI_BLACKSMITH_DIVINATION_NO_DIVINE_DESC=Dieses Artefakt kann nicht vergöttlicht werden
+UI_BLACKSMITH_DIVINATION_ALREADY_DIVINE_DESC=Dieses Artefakt besitzt bereits göttliche Eigenschaften
+
+UI_BLACKSMITH_MAT_UPGRADE_VIEW_TITLE=Juwel Verbessern
+UI_BLACKSMITH_MAT_UPGRADE_VIEW_DESC=Hier kannst du stärkere Versionen dieses Juwels herstellen
+UI_BLACKSMITH_UPGRADE_QUALITY_TITLE=Gesamtqualität Verbessern
+UI_BLACKSMITH_UPGRADE_QUALITY_DESC=Verbessere die Gesamtqualität des Artefakts
+UI_BLACKSMITH_MAXIMUM_UPGRADE_REACHED=Maximum an Verbesserungen erreicht
+UI_BLACKSMITH_UPGRADE_RANDOM_ATTR_TITLE=Zufälliges Attribut Verbessern
+UI_BLACKSMITH_UPGRADE_RANDOM_ATTR_DESC=Verbessere ein zufälliges Attribut des Artefakts. Einige Attribute können nicht verbessert werden
+UI_BLACKSMITH_UPGRADE_JEWEL_DESC=Verbessere das Juwel auf eine höhere Stufe
+UI_BLACKSMITH_ADDS_AUGMENT_TITLE=Augmentationen hinzufügen
+UI_BLACKSMITH_ADDS_AUGMENT_DESC=Füge diesem Artefakt drei zufällige Augmentationen hinzu
+UI_BLACKSMITH_ALREADY_AUGMENTED=Artefakt wurde bereits augmentiert
+UI_BLACKSMITH_HASNT_AUGMENTED=Artefakt wurde nicht augmentiert
+UI_BLACKSMITH_MODIFY_AUGMENT_TITLE=Augmentationen Verändern
+UI_BLACKSMITH_MODIFY_AUGMENT_DESC=Sperre existierende Augmentationen oder lose neue aus
+UI_BLACKSMITH_UPGRADE_AUGMENT_TITLE=Augmentationen Verbessern
+UI_BLACKSMITH_UPGRADE_AUGMENT_DESC=Verbessere existierende Augmentationen
+UI_BLACKSMITH_MUTATE_TITLE=Mutation hinzufügen
+UI_BLACKSMITH_MUTATE_DESC=Fügt dem Artefakt Mutationen hinzu
+UI_BLACKSMITH_CLEANSE_MUTATION_TITLE=Mutationen entfernen
+UI_BLACKSMITH_CLEANSE_MUTATION_DESC=Entfernt alle Mutationen von diesem Artefakt
+UI_BLACKSMITH_HASNT_MUTATED=Artefakt verfügt nicht über Mutationen
+UI_BLACKSMITH_DIVINATION_ORB_TUT=Was ist eine [MATERIAL_DIVINATION_SPHERE_NAME]
+
+UI_TINKERSPARK_DESC=Sortiment und Preise variieren ständig
+
+UI_MUTZ_HEAVEN_DESC=Hüter des Hafens
+UI_SETTINGS_HEAVEN_DESC=Verändere Einstellungen und lege Präferenzen fest
+UI_ACHIEVEMENTS_HEAVEN_DESC=Betrachte Errungenschaften und Fortschritt
+UI_ATALS_HEAVEN_DESC=Beinhaltet Informationen zu allen Gegenständen und Runen
+UI_ARMORY_HEAVEN_DESC=Organisiere und verkaufe Artefakte
+UI_STATS_INFO_HEAVEN_DESC=Siehe Gruppenwerte und FAQs ein
+UI_SKILL_ROOM_HEAVEN_DESC=Verbessere und wähle deine Skills
+UI_TALENT_ROOM_HEAVEN_DESC=Lerne und verwalte deine Talente
+UI_VAULT_WAYPOINTS_HEAVEN_DESC=Betrete die Gruft
+UI_CHAOS_SHRINE_HEAVEN_DESC=Generiert mit der Zeit Chaoskristalle
+UI_DICE_OF_GREED_HEAVEN_DESC=Tausche Gold gegen mysteriöse Artefakte ein
+UI_TORROM_HEAVEN_DESC=Verbessere deine Artefakte
+UI_WARDROBE_DESC=Verändere das Aussehen deiner Gruppenmitglieder
+UI_ANAPIEL_HEAVEN_DESC=Teleportiert dich zum [LOCATION_AIRENE_TOWER]
+UI_ANAPIEL_AIRENE_DESC=Teleportiert dich zurück zum [LOCATION_HIDDEN_HAVEN]
+
+UI_DIALOG_SKIP=Mit ESC überspringen
+UI_DIALOG_CONTINUE=Klicke, um fortzufahren
+
+UI_LEVEL_DESC_MODAL_CHAOTIC=Chaotisch
+UI_LEVEL_DESC_MODAL_BEST_TIME=Bestzeit
+UI_LEVEL_DESC_MODAL_KILL_COUNT=Kill-Zähler
+
+UI_LEVEL_DESC_BOSS_JOURNAL_DESC=<color=#FF911F>Boss-Tagebuch</color> - Beinhaltet Informationen zu Boss und Level
+UI_LEVEL_DESC_CHAOS_PILLAR_DESC=<color=#FF911F>Chaospfeiler</color> - Kann Schwierigkeit von Boss und Level anheben
+UI_LEVEL_DESC_LOOT_DESC=<color=#FF911F>Beute</color> - Beinhaltet Informationen zum Boss und möglicher Ausbeute
+UI_LEVEL_DESC_MODAL_EMPTY=Wähle eines der Objekte auf der linken Seite aus, um Informationen zum Boss einzusehen
+UI_LEVEL_DESC_MODAL_LOCKED_LOOT_VIEW=Zum Freischalten besiege den Boss auf dieser Stufe
+UI_LEVEL_DESC_MODAL_EMPTY_LOOT_VIEW=Dieser Boss bringt keine Ausbeute
+UI_LEVEL_DESC_MODAL_HOK_TEXT=Unsterbliche haben nur eine Schwierigkeitsstufe. Sie sind stärker als normale Bosse. Sei auf der Hut!
+UI_LEVEL_DESC_MODAL_GUARDIANS_TEXT=Wächter haben nur eine Schwierigkeitsstufe. Sie sind antike Wesen, die gemeinsam mit der Gruft erschaffen wurden, um die heiligsten Schätze im Innern zu wahren.
+UI_LEVEL_DESC_MODAL_MIDNIGHT_ZONE_ITEMS_TEXT=Meistere alle Ebenen, um die jeweiligen Mitternachts-Items erhalten zu können.<br>Wenn du Ebenen einzeln angehst, können nur die Items des jeweiligen Bosses erscheinen.
+UI_LEVEL_DESC_MODAL_MIDNIGHT_ZONE_TEXT=Take on the challenge of facing a horde of bosses. The more bosses you defeat, the better the reward will be!
+UI_LEVEL_DESC_MODAL_ARMORY_FULL_TEXT=Deine [UI_ARMORY_TITLE] ist voll!
+UI_LEVEL_DESC_MODAL_FEED_IT_A_X=Verfüttere einen 
+UI_LEVEL_DESC_MODAL_CHAOS_ENCOUNTER_DESC=Der nächste Kampf verändert sich wie folgt:
+UI_LEVEL_DESC_MODAL_CHAOS_LOCKED_DESC=Erlange einen [MATERIAL_CHAOS_CRYSTAL_NAME] zum Freischalten
+UI_LEVEL_DESC_MODAL_EMPTY_SKILL_VIEW=Dieser Boss hat keine Skills
+UI_LEVEL_DESC_MODAL_OTHER_EFFECTS=Sonstige Effekte
+UI_LEVEL_DESC_MODAL_BOSS_STATS=Werte
+UI_LEVEL_DESC_DIFFICULTY_LEVEL=Schwierigkeitsstufe
+UI_LEVEL_DESC_BOSS_DAMAGE_TOOLTIP=So stark sind die Basisangriffe des Bosses
+UI_LEVEL_DESC_BOSS_DAMAGE_ELEMENTS_TOOLTIP=Manchmal verursachen die Basisangriffe eines Bosses verschiedene Schadensarten
+UI_LEVEL_DESC_BOSS_SPELLPOWER_TOOLTIP=So stark sind die Fähigkeiten des Bosses
+UI_LEVEL_DESC_BOSS_ATTACKSPD_TOOLTIP=Angriffstempo des Bosses
+UI_LEVEL_DESC_ENERY_ITEMS=Feindliche Items
+UI_LEVEL_DESC_DEFEAT_NORMAL=Besiege den Boss auf [CONTEXT_DIFFICULTY_NORMAL]-Schwierigkeit zum Freischalten
+UI_LEVEL_DESC_DEFEAT_BRUTAL=Besiege den Boss auf [CONTEXT_DIFFICULTY_BRUTAL]-Schwierigkeit zum Freischalten
+UI_LEVEL_DESC_ONLY_CHAOTIC=Nur im Chaosmodus zu erhalten
+UI_LEVEL_DESC_NO_ENV_EFFECT=Dieser Boss hat keine anderen Effekte
+UI_LEVEL_DESC_TOTAL_DAMAGE_TEXT={0}[ATTRIBUTE_TOTAL_DAMAGE_TEXT]:<br>{1}{2}
+UI_LEVEL_DESC_SPELLPOWER_TEXT={0}[ATTRIBUTE_SPELLPOWER_TEXT]:<br>{1}{2}
+UI_LEVEL_DESC_ATTACKSPEED_TEXT={0}[ATTRIBUTE_ATTACK_SPEED]:<br>{1}{2}
+UI_LEVEL_DESC_MAX_HEALTH_TEXT={0}[ATTRIBUTE_MAXIMUM_HEALTH]:<br>{1}{2}
+UI_LEVEL_DESC_HEALTH_REGENERATION_TEXT={0}[ATTRIBUTE_HEALTH_REGENERATION]:<br>{1}{2} pro Sekunde
+UI_LEVEL_DESC_BLOCKCHANCE_TEXT={0}[ATTRIBUTE_BLOCK_CHANCE_TEXT]:<br>{1}%{2}
+UI_LEVEL_DESC_DODGECHANCE_TEXT={0}[ATTRIBUTE_DODGE_CHANCE_TEXT]:<br>{1}%{2}
+
+UI_LEVEL_DESC_CHAOS_DROP_X_TO_Y_CC=<color=#FF911F>Lässt {0}-{1} Chaoskristalle fallen</color>
+UI_LEVEL_DESC_CHAOS_X_MORE_QUALITY=<color=#FF911F>Erbeutete Items haben +{0} Qualität</color>
+UI_LEVEL_DESC_CHAOS_AUG_CHANCE_ONE_TIER=<color=#FF911F>Erbeutete Items haben mit gewisser Wahrscheinlichkeit Augmentationen der Stufe {0}</color>
+UI_LEVEL_DESC_CHAOS_AUG_CHANCE_TWO_TIERS=<color=#FF911F>Erbeutete Items haben mit gewisser Wahrscheinlichkeit Augmentationen der Stufe {0} oder {1}</color>
+
+UI_BETA_INFO_ENEMY_NAME=Gegnername: {0}
+UI_BETA_INFO_ENEMY_CURRENT_HP=Health: {0}
+UI_BETA_INFO_ENEMY_ATK=Attack Damage: <br><color=#{0}>Physisch: {1}</color><br><color=#{2}>Feuer: {3}</color><br><color=#{4}>Eis: {5}</color><br><color=#{6}>Blitz: {7}</color><br><color=#{8}>Finsternis: {9}</color>
+UI_BETA_INFO_TOTAL=Gesamt
+UI_BETA_INFO_OTHER=Sonstiges
+
+UI_BATTLE_CHAOTIC_LEVEL=Chaoslevel
+
+UI_BATTLE_SUCCESS_NEW_RECORD=Neuer Rekord!
+UI_BATTLE_SUCCESS_LEVEL_UP=Levelaufstieg!
+UI_BATTLE_SUCCESS_LEVEL_UP_STATS=Alle Werte verbessert!
+UI_BATTLE_SUCCESS_FLAWLESS=Makelloser Sieg!
+UI_BATTLE_SUCCESS_FLAWLESS_XP={0}% mehr [CONTEXT_EXPERIENCE]
+UI_BATTLE_SUCCESS_INVENTORY_FULL=Inventar Voll!
+
+UI_LANGUAGE_SPECIAL_THANKS_TO=Besonderer Dank gilt den Mitgliedern der Discord Community {0}
+
+UI_MODAL_FULL_ARMORY_ERROR=Deine Rüstkammer ist voll. Bitte stell sicher, dass du über mindestens einen freien Platz verfügst
+
+UI_TOOLTIP_ARMORY_SOCKETING=Ziehe ein <color=#FF911F>{0}</color> in dieses Sockel, um den Effekt zu erhalten
+
+UI_TOOLTIP_OATH_NAME=Schwur
+UI_TOOLTIP_OATH_DESC=Wirkst du [SKILL_FLASH_HEAL_NAME], wird [TALENT_INFUSED_LUMINOSITY_NAME] ebenfalls auf dieses Ziel gewirkt
+
+UI_TOOLTIP_ACSEND_NAME=Aufstieg
+UI_TOOLTIP_ASCEND_DESC=Sobald du {0} Stapel hast, erhältst du den Skill [SKILL_ASCENSION_NAME]
+
+UI_TOOLTIP_ENERGIZED_NAME=Energieladung
+UI_TOOLTIP_ENERGIZED_DESC=Erhalte zusätzlichen [ATTRIBUTE_BASE_LIGHTNING_DAMAGE] in Höhe von {0}% des [ATTRIBUTE_PHYSICAL_DAMAGE]
+
+UI_TOOLTIP_ENERGY_CHARGE_NAME=Ladezustand
+UI_TOOLTIP_ENERGY_CHARGE_DESC=Lädt Energie auf
+
+UI_TOOLTIP_VIVID_NAME=Lebenswillen
+UI_TOOLTIP_VIVID_DESC=Increase all healing over time effect by {0}%
+
+UI_TOOLTIP_GATHERED_WIND_NAME=Windsammler
+UI_TOOLTIP_GATHERED_WIND_DESC=Horte die Kraft des Windes. Laufen verbraucht Windkraft
+
+UI_TOOLTIP_GUST_NAME=Böe
+UI_TOOLTIP_GUST_DESC=Erhalte {0}% [ATTRIBUTE_MOVEMENT_SPEED] und {1}% [ATTRIBUTE_CAST_SPEED]
+
+UI_TOOLTIP_BLOODLUST_NAME=Blutlust
+UI_TOOLTIP_BLOODLUST_DESC=Erhalte {0}% [ATTRIBUTE_BASE_PHYSICAL_DAMAGE] und reaktiviere die Heilung von [TALENT_VAMPIRISM_NAME]
+
+UI_TOOLTIP_CRAVE_NAME=Verlangen
+UI_TOOLTIP_CRAVE_DESC=Du sehnst dich nach Blut
+
+UI_TOOLTIP_VOID_AURA_NAME=Aura der Leere
+UI_TOOLTIP_VOID_AURA_DESC=Eine leere Aura ohne Effekt
+
+UI_TOOLTIP_DECREPIFICATION_AURA_NAME=Aura der Altersschwäche
+UI_TOOLTIP_DECREPIFICATION_AURA_DESC=Verringert die [ATTRIBUTE_BLOCK_CHANCE_TEXT], [ATTRIBUTE_DODGE_CHANCE_TEXT], and [ATTRIBUTE_ALL_RESISTS_TEXT] aller Feinde um 10%
+
+UI_TOOLTIP_SANGUINE_AURA_NAME=Blutrote Aura
+UI_TOOLTIP_SANGUINE_AURA_DESC=[ATTRIBUTE_PHYSICAL_DAMAGE] um 8% erhöht <br>Erhöht [ATTRIBUTE_PHYSICAL_RESIST] um 2%
+
+UI_TOOLTIP_VIGOR_AURA_NAME=Aura des Lebens
+UI_TOOLTIP_VIGOR_AURA_DESC=Erhöht [ATTRIBUTE_HEALING_RECEIVED] um 5%
+
+UI_TOOLTIP_BRUTALITY_AURA_NAME=Aura der Brutalität
+UI_TOOLTIP_BRUTALITY_AURA_DESC=Erhöht [ATTRIBUTE_ALL_DAMAGE_DEALT] um 5%
+
+UI_TOOLTIP_FLAME_AURA_NAME=Flammenaura
+UI_TOOLTIP_FLAME_AURA_DESC=[ATTRIBUTE_BASE_FIRE_DAMAGE] erhöht
+
+UI_TOOLTIP_FROST_AURA_NAME=Frostaura
+UI_TOOLTIP_FROST_AURA_DESC=[ATTRIBUTE_BASE_ICE_DAMAGE] erhöht
+
+
+
+
+UI_TOOLTIP_GARRISON_NAME=Garnison
+UI_TOOLTIP_GARRISON_DESC=[ATTRIBUTE_BLOCK_CHANCE_TEXT] um {0}% erhöht <br>[ATTRIBUTE_ALL_DAMAGE_TAKEN] um {1}% reduziert
+
+UI_TOOLTIP_FAITH_NAME=Glaube
+UI_TOOLTIP_FAITH_DESC=[ATTRIBUTE_HEALING_RECEIVED] um {0}% erhöht und [ATTRIBUTE_ELE_RESISTS_TEXT] um {1}% erhöht for {2} Sekunden <br>Bis zu {3}-mal stapelbar
+
+UI_TOOLTIP_MIGHT_NAME=Macht
+UI_TOOLTIP_MIGHT_DESC=[ATTRIBUTE_BASE_DAMAGE_TEXT] für {1} Sekunden um {0}% erhöht<br>Bis zu {2}-mal stapelbar
+
+UI_TOOLTIP_FEROCITY_NAME=Wildheit
+UI_TOOLTIP_FEROCITY_DESC=[ATTRIBUTE_CRITICAL_STRIKE_CHANCE_TEXT] erhöht um {0}% für {1} Sekunden <br>Bis zu {2}-mal stapelbar
+
+
+
+
+
+UI_TIP_TALENT_STRONG=Grundsätzlich gilt: Je fortgeschrittener das Talent, desto stärker ist es
+UI_TIP_READ_ABILITY=Du kannst Bosse besser verstehen, wenn du ihr Boss-Tagebuch einsiehst, bevor du den Kampf beginnst
+UI_TIP_PAUSE_READ=Du kannst das Spiel pausieren und mit der Maus die Effekte von Buffs und Skills überprüfen
+UI_TIP_RESISTS=Wenn du deine Resistenzen verbesserst, kannst du wesentlich länger überleben
+UI_TIP_CHANGE_DIFFICULTY=Du kannst bei Bedarf die Schwierigkeitsstufe in den Einstellungen ändern
+
+UI_TIP_CHAOTIC=Der Kampf gegen chaotische Bosse ermöglicht das schnelle Sammeln von Erfahrung und Gold
+UI_TIP_HIGH_LVL_XP=Im hohen Levelbereich ist es sinnvoller, Items zu verbessern statt weiterzuleveln
+UI_TIP_HIGH_LVL_DIVINE_ITEM=Wenn du [MATERIAL_DIVINATION_SPHERE_NAME] auf einzigartige Items anwendest kannst du sie stark verbessern
+UI_TIP_HIGH_LVL_CRAFT_ITEM=Die Augmentationen bei [CONTEXT_NPC_SHORT_NAME_TORRAM] können Kämpfe schnell leichter machen 
+UI_TIP_HIGH_LVL_UPGRADE_AUGMENT=Augmentationen können mit [MATERIAL_THE_MAKER_NAME] verbessert werden
+
+UI_TRANSMOG_IN_USE=In Verwendung
+UI_TRANSMOG_DEFAULT=Standard
+
+UI_SHOW_COMBAT_LOG=Kampfübersicht Anzeigen
+UI_SHOW_EXTRA_DETAIL=Zusätzliche Kampfdetails Anzeigen
+
+END

@@ -1,0 +1,155 @@
+DEPTH_NAME_LOWMORE=Lowmore
+DEPTH_NAME_ABYSS=Der Abgrund
+DEPTH_NAME_INFINITE_CORRIDOR=Der Endlose Korridor
+DEPTH_NAME_SACRIFICAL_CHAMBER=Opfergrund
+DEPTH_NAME_CHAMBER_OF_PLENTY=Kammer der Fülle
+DEPTH_NAME_CONCEALED_UTOPIA=Verborgenes Utopia
+DEPTH_NAME_ABSOLUTE_ZERO=Absoluter Nullpunkt
+
+DEPTH_NAME_MALEVOLENT_CHAMBER=Boshafte Kammer
+DEPTH_DESCRIPTION_MALEVOLENT_CHAMBER=Eine Kammer mit bösartiger Ausstrahlung
+
+DEPTH_DESCRIPTION_STRONG_BOSSES=Nur die Stärksten können hier überleben
+DEPTH_DESCRIPTION_NO_MONSTER=Hier sind keine Monster, du kannst dich frei bewegen
+DEPTH_COMPLETE_DESCRIPTION=Finde und bezwinge den Bossraum, um diese Tiefe zu meistern
+DEPTH_SELECT_UI_SELECT_KEY=Wähle einen Schlüssel und ziehe in zum Maul, um das Tor zu öffnen
+DEPTH_SELECT_UI_EMPTY_KEY_DETAIL=Platziere einen Schlüssel im Schädel, um genauere Infos zu erhalten
+DEPTH_SELECT_UI_ENTER_DEPTH=Tiefe betreten
+DEPTH_SELECT_UI_EMPTY_INFUSIONS=Keine Infusionen
+DEPTH_SELECT_UI_INFUSIONS=Infusionen
+DEPTH_SELECT_UI_INFUSIONS_TUT=Du kannst bis zu 4 zusätzliche Infusionen auf einen Schlüssel anwenden, um die Dynamik der Tiefe zu ändern
+DEPTH_SELECT_UI_EMPTY_INFUSION_SELECT=Platziere einen Schlüssel im Schädel, um eine Infusion hinzuzufügen
+DEPTH_SELECT_UI_INFUSIONS_LOCK=Meistere zum Freischalten die erste Ebene von [DEPTH_NAME_INFINITE_CORRIDOR]
+DEPTH_SELECT_UI_INFUSIONS_CANT_BE_APPLIED=Diese Infusion kann auf dieser Stufe nicht angewendet werden
+DEPTH_SELECT_UI_COMPLETE_T_X_IC_TO_UNLOCK=Meistere zum Freischalten Stufe {0} von [DEPTH_NAME_INFINITE_CORRIDOR]
+DEPTH_SELECT_UI_IC_SELECT_TIER=Wähle die Schlüsselstufe
+DEPTH_SELECT_UI_IC_TIER_X=Stufe {0}
+DEPTH_SELECT_UI_IC_ENEMY_HEALTH=+{0}% gegnerische Gesundheit <br>({1}% für Bosse)<br><br>
+DEPTH_SELECT_UI_IC_ENEMY_AUTO_ATTACK_DMG=+{0}% Schaden feindlicher Auto-Angriffe <br>({1}% für Bosse)<br><br>
+DEPTH_SELECT_UI_IC_ENEMY_SPELLPOWER=+{0}% feindliche Zauberstärke <br>({1}% für Bosse)<br><br>
+DEPTH_SELECT_UI_POTENTIAL_ARTIFACTS=Mögliche Artefakte
+DEPTH_SELECT_UI_POTENTIAL_ARTIFACTS_DESC=Alle Artefakte, die in dieser Tiefe gefunden werden können. <br><br>Sobald du eins sammelst, wird es auch dem Atlas hinzugefügt.
+DEPTH_UI_DEPTH_INFO=Tiefeninfo anzeigen
+DEPTH_UI_BACK_TO_HAVEN=Zum Hafen zurückkehren<br><color=#858585FF>Du wirst wieder hierher zurückkommen können.</color>
+DEPTH_UI_CLOSE_DEPTH=Tiefe verschließen<br><color=#858585FF>Du wirst nicht mehr zurückkommen können.</color>
+DEPTH_UI_CLEAR_MESSAGE_DEFEAT_MONSTER=Meistere 1 Monsterraum, um zu den angrenzenden Karten zu gelangen.
+
+DEPTH_UI_NO_POTENTIAL_ARTIFACTS=Keine einzigartigen Artefakte
+
+DEPTH_CONSUME_KEY=Reist du in diese Tiefe, wird ein Schlüssel verbraucht
+DEPTH_ERROR_MAX_INFUSION=Maximale Infusionsanzahl erreicht
+
+DEPTH_ABANDONED_WEALTH_OPEN=Du hast eine Kiste geöffnet und Folgendes erhalten:
+
+DEPTH_DEPTH_ROOM=Tiefenraum
+
+
+DEPTH_NAME_SPECIAL_DESC_NO_MONSTERS=Beherbergt keine Feinde
+DEPTH_NAME_SPECIAL_DESC_ONLY_BATTLE=Beinhaltet nur Kampfräume
+DEPTH_NAME_SPECIAL_DESC_NO_ART_MAT=Feinde lassen keine Artefakte oder Materialien fallen
+DEPTH_NAME_SPECIAL_DESC_INCREASED_EXP=Feinde bringen 100% mehr Grunderfahrung
+
+DEPTH_NAME_RANDOM_POSTFIX_ENCAMPMENT=Lager
+DEPTH_NAME_RANDOM_POSTFIX_ACROPOLIS=Akropolis
+DEPTH_NAME_RANDOM_POSTFIX_STRONGHOLD=Festung
+DEPTH_NAME_RANDOM_POSTFIX_WATCH=Wacht
+DEPTH_NAME_RANDOM_POSTFIX_HOLD=Feste
+DEPTH_NAME_RANDOM_POSTFIX_KEEP=Burgfried
+DEPTH_NAME_RANDOM_POSTFIX_PALACE=Palast
+DEPTH_NAME_RANDOM_POSTFIX_CITADEL=Zitadelle
+DEPTH_NAME_RANDOM_POSTFIX_CASTLE=Burg
+DEPTH_NAME_RANDOM_POSTFIX_STOCKADE=Palisade
+DEPTH_NAME_RANDOM_POSTFIX_SANCTUARY=Heiligtum
+DEPTH_NAME_RANDOM_POSTFIX_LAIR=Versteck
+DEPTH_NAME_RANDOM_POSTFIX_SANCTUM=Allerheiligstes
+DEPTH_NAME_RANDOM_POSTFIX_GARRISON=Garnison
+DEPTH_NAME_RANDOM_POSTFIX_DEN=Unterschlupf
+DEPTH_NAME_RANDOM_POSTFIX_NEST=Nest
+DEPTH_NAME_RANDOM_POSTFIX_HALLWAY=Burggang
+DEPTH_NAME_RANDOM_POSTFIX_HOLLOW=Höhle
+
+DEPTH_NAME_RANDOM_PREFIX_SUNWEB=Sonnenweb
+DEPTH_NAME_RANDOM_PREFIX_NIGHTMARE=Albtraum
+DEPTH_NAME_RANDOM_PREFIX_EXALTED=Glanz
+DEPTH_NAME_RANDOM_PREFIX_SILVERHOWL=Silberhauch
+DEPTH_NAME_RANDOM_PREFIX_ARID=Wüsten
+DEPTH_NAME_RANDOM_PREFIX_RUNAWAY=Ausreißer
+DEPTH_NAME_RANDOM_PREFIX_WATCHER=Hüters
+DEPTH_NAME_RANDOM_PREFIX_DREAMSPINE=Traumgrat
+DEPTH_NAME_RANDOM_PREFIX_DUSTY=Staub
+DEPTH_NAME_RANDOM_PREFIX_EHCHANTED=Zauberfluch
+DEPTH_NAME_RANDOM_PREFIX_WINDLESS=Windstillen
+DEPTH_NAME_RANDOM_PREFIX_HAUNTED=Heimsuchungs
+DEPTH_NAME_RANDOM_PREFIX_ABANDONED=Einsamkeits
+DEPTH_NAME_RANDOM_PREFIX_DREADFUL=Ehrfurcht
+
+DEPTH_INFUSION_CHAOTIC_TITLE=Chaotisch
+DEPTH_INFUSION_CHAOTIC_DESC=Alle Gegner in der Tiefe erhalten Chaos-Eigenschaften
+
+DEPTH_INFUSION_MAZELIKE_TITLE=Labyrinthgleich
+DEPTH_INFUSION_MAZELIKE_DESC=Diese Tiefe verfügt über zusätzliche Räume
+DEPTH_INFUSION_MAZELIKE_ATTR_DESC=Enthält mehr Räume
+
+DEPTH_INFUSION_TRANSPARENT_TITLE=Transparent
+DEPTH_INFUSION_TRANSPARENT_DESC=Sowohl die Karte der Tiefe als auch der Bossraum wird offengelegt
+DEPTH_INFUSION_TRANSPARENT_ATTR_DESC=Karte offengelegt
+
+DEPTH_INFUSION_TRIAL_TITLE=Prüfung
+DEPTH_INFUSION_TRIAL_DESC=In dieser Tiefe erscheint garantiert Orra, Mevor oder Edwin. Ein Sieg bringt 1 zusätzliches Abnormales Item
+DEPTH_INFUSION_TRIAL_ATTR_DESC=Das Trio erscheint
+
+DEPTH_INFUSION_PLENTIFUL_TITLE=Überfluss
+DEPTH_INFUSION_PLENTIFUL_DESC=Im Bossraum dieser Tiefe erhältst du einen einzigartigen Schlüssel
+DEPTH_INFUSION_PLENTIFUL_ATTR_DESC=Min. 1 einzigartiger Schlüssel nach Sieg
+
+DEPTH_WEALTH_ATTR_EXTRA_CHAOS_CRYSTALS=Enthält zusätzliche Chaoskristalle
+DEPTH_WEALTH_ATTR_EXTRA_MUTATION_CRYSTALS=Enthält zusätzliche Mutationskristalle
+DEPTH_WEALTH_ATTR_EXTRA_ANGELIC_CRYSTALS=Enthält zusätzliche Engelskristalle
+DEPTH_WEALTH_ATTR_EXTRA_ORES=Enthält zusätzliche Erze
+DEPTH_WEALTH_ATTR_UNIQUE=Enthält ein zusätzliches einzigartiges Item
+DEPTH_WEALTH_ATTR_EXTRA_WEAPONS=Enthält zusätzliche Waffen
+DEPTH_WEALTH_ATTR_EXTRA_ARMORS=Enthält zusätzliche Rüstungen
+DEPTH_WEALTH_ATTR_EXTRA_ACCESSORIES=Enthält zusätzliche Accessoires
+
+DEPTH_ROOM_COMPLETED=Abgeschlossen
+
+DEPTH_ROOM_NAME_MONSTER=Monsterraum
+DEPTH_ROOM_DESC_MONSTER=Besiege die Monster, um weiter in die Tiefe vorzudringen
+DEPTH_ROOM_DESC_MONSTER_BOSS=Besiege die Monster, um die Tiefe zu meistern
+
+DEPTH_ROOM_DESC_MORE_MONSTERS=Enthält mehr Monster
+DEPTH_ROOM_DESC_STRONGER_MONSTERS=Enthält stärkere Monster
+DEPTH_ROOM_DESC_ENHANCED_MONSTERS=Enthält veränderte Monster
+DEPTH_ROOM_DESC_ENCHANTED_MONSTERS=Enthält verzauberte Monster
+DEPTH_ROOM_HAS_X_ENVIRONMENTAL_EFFECT=Hat {0} Umwelteffekt
+DEPTH_ROOM_CONTAINS_X=Enthält {0}
+
+DEPTH_ROOM_NAME_ABANDONED_WEALTH=Aufgegebener Reichtum
+DEPTH_ROOM_DESC_ABANDONED_WEALTH=Finde einen verlorenen Schatz
+
+DEPTH_ROOM_NAME_ALTAR=Altar
+DEPTH_ROOM_DESC_ALTAR=Erhalte für den Rest dieser Tiefe einen Buff und einen Debuff
+DEPTH_ROOM_ALTAR_COMPLETED=Verwendet
+
+DEPTH_ROOM_NAME_CURSED_POTION=Verfluchter Trank
+DEPTH_ROOM_DESC_CURSED_POTION=Ersetzt alle Monsterräume auf dieser Ebene mit einem einzigen verfluchten Raum
+
+DEPTH_ROOM_NAME_MALEVOLENT_SHRINE=Boshafter Schrein
+DEPTH_ROOM_DESC_MALEVOLENT_SHRINE=Ein machtvoller Schrein, der ein Attribut eines Gegenstands permanent festsetzen kann
+
+DEPTH_ROOM_NAME_TORI_NAME=[CONTEXT_NPC_NAME_TORRI]
+DEPTH_ROOM_NAME_TORI_DESC=Reisender Händler vom [LOCATION_AIRENE_TOWER]
+
+DEPTH_ROOM_NAME_ANAPIEL_NAME=[CONTEXT_NPC_NAME_ANAPIEL]
+DEPTH_ROOM_NAME_ANAPIEL_DESC=Fordert dich mit besonderen Bossen aus dem [LOCATION_AIRENE_TOWER] heraus
+
+DEPTH_ROOM_NAME_ORRA=[BOSS_ORRA_SHORT_NAME]s Herausforderung
+DEPTH_ROOM_DESC_ORRA=Besiege [BOSS_ORRA_SHORT_NAME], um eine Abnormale Rüstung zu erhalten
+DEPTH_ROOM_NAME_MEVOR=[BOSS_MEVOR_SHORT_NAME]s Herausforderung
+DEPTH_ROOM_DESC_MEVOR=Besiege [BOSS_MEVOR_SHORT_NAME], um eine Abnormale Waffe zu erhalten
+DEPTH_ROOM_NAME_EDWIN=[BOSS_EDWIN_SHORT_NAME]s Herausforderung
+DEPTH_ROOM_DESC_EDWIN=Besiege [BOSS_EDWIN_SHORT_NAME], um ein Abnormales Accessoire zu erhalten
+
+
+
+END

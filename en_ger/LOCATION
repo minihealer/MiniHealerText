@@ -1,0 +1,35 @@
+LOCATION_MAP_OF_VAULT=Karte der Gruft
+LOCATION_DESC_MAP_OF_VAULT=Wähle mit einem Klick dein Reiseziel aus
+
+LOCATION_HIDDEN_HAVEN=Heimlicher Hafen
+LOCATION_VAULT_ENTRANCE=Grufteingang
+LOCATION_SOUL_QUARTER=Seelenquartier
+LOCATION_BIO_QUARTER=Bio-Quartier
+LOCATION_MIDNIGHT=Mitternachtszone
+LOCATION_OUTER_COURTYARD=Äußerer Burghof
+LOCATION_INNER_COURTYARD=Innerer Burghof
+LOCATION_PANDEMONIC_DEPTH=Höllische Tiefen
+LOCATION_GUARIDANS=Wächterhöhle
+LOCATION_DINING_HALL=Speisesaal
+LOCATION_INFINITE_CORRIDOR=[DEPTH_NAME_INFINITE_CORRIDOR]
+LOCATION_AIRENE_TOWER=Turm Airene
+LOCATION_TOWER_ENTRANCE=Turmeingang
+
+LOCATION_MIDNIGHT_NO_ZONE=Mitternacht
+LOCATION_MIDNIGHT_WITH_AUG=Mitternacht {0}
+
+LOCATION_DESC_HIDDEN_HAVEN=Zieh dich zurück und ruh dich aus
+LOCATION_DESC_VAULT_ENTRANCE=Hier beginnt dein Abenteuer
+LOCATION_DESC_SOUL_QUARTER=Wo all die Seelen der gefallenen Helden lungern
+LOCATION_DESC_BIO_QUARTER=Voll von irren Experimenten und mutierten Kreaturen
+LOCATION_DESC_MIDNIGHT=Kein Licht, nur endlose Qual
+LOCATION_DESC_OUTER_COURTYARD=Die Elitekrieger der Gruft
+LOCATION_DESC_INNER_COURTYARD=Die Elitekrieger der Gruft
+LOCATION_DESC_PANDEMONIC_DEPTH=Das Tor wird durch eine Art Zauber verschlossen. Vielleicht benötigen wir einen speziellen Schlüssel ...
+LOCATION_DESC_GUARIDANS=Diese Höhle beherbergt die blutrünstigsten Monster der Gruft
+LOCATION_DESC_DINING_HALL= Der geheime Speisesaal der Gruft. Hier könntest du auf unerwartete Gesellschaft treffen
+
+LOCATION_UNLOCK_PRE_TEXT=Du hast folgendes Kartenfragment erhalten:
+LOCATION_UNLOCK_POST_TEXT=ist nun auf deiner Karte freigeschaltet
+
+END

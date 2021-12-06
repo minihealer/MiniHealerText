@@ -1,0 +1,115 @@
+SETTINGS_GENERAL=Allgemein
+SETTINGS_CONTROL=Steurung
+SETTINGS_GAMEPLAY=Spiel
+SETTINGS_BACKTOMENU=Zurück zum Menü
+SETTINGS_LANGUAGE=Sprache
+SETTINGS_DIFFICULTY=Schwierigkeitsgrad
+SETTINGS_EXIT=Spiel verlassen
+
+SETTINGS_EXPORT_SAVE=Speicherstand exportieren
+SETTINGS_EXPORT_SAVE_HARDCORE=Hardcore-Spielstände können nicht exportiert werden
+SETTINGS_EXPORT_SAVE_DESC=Du kannst deinen Fortschritt für den Transfer exportieren
+SETTINGS_EXPORT_USAGE_DESC=Nutze diesen Code beim Laden, um den Spielstand wiederherzustellen
+SETTINGS_EXPORT_COPY=In die Zwischenablage kopieren
+SETTINGS_EXPORT_COPY_SUCCESS=Kopieren Erfolgreich!
+
+SETTINGS_IMPORT_SAVE=Speicherstand importieren
+SETTINGS_IMPORT_SAVE_HARDCORE=Hardcore-Spielstände können nicht importiert werden
+SETTINGS_IMPORT_SAVE_DESC=Importiere deinen exportierten Spielstand und setze deine Reise fort
+SETTINGS_IMPORT_USAGE_DESC=Lade das Spiel aus einer Speicherdatei
+SETTINGS_IMPORT_WARNING=Achtung, hierdurch wird der aktuell Spielstand überschrieben!
+
+SETTINGS_IMPORT_PASTE_FROM_CLIPBOARD=Aus Zwischenablage einfügen
+
+
+SETTINGS_RESOLUTIONS=Auflösung
+SETTINGS_RESOLUTIONS_DESC=Passe die Auflösung des Spiels an.
+
+SETTINGS_WINDOWED=Fenstermodus
+SETTINGS_WINDOWED_DESC=Wechsle zwischen Fenster- und Vollbildmodus. Vollbildauflösungen befinden sich in der Testphase.
+
+SETTINGS_MUSIC=Musik
+SETTINGS_SOUND=Ton
+
+SETTINGS_MUTE_AUDIO_IN_BKG=Audio stummschalten, wenn Spiel minimiert
+SETTINGS_MUTE_AUDIO_IN_BKG_DESC=Der Ton des Spiels wird ausgestellt, wenn es minimiert oder das Fenster gewechselt wird.
+
+SETTINGS_TARGET_FPS=Ziel-FPS
+SETTINGS_TARGET_FPS_DESC=Wähle die gewünschten Framerate, mit der das Spiel laufen soll. Vorschlag: 60 FPS.
+
+SETTINGS_MILISEC=Zeige Bestzeit mit Millisekunde
+SETTINGS_MILISEC_DESC=Liefert genauere Informationen zur Sieggeschwindigkeit gegen Bosse.
+
+SETTINGS_TALENT_HOVER=Talentauswahl ohne Klicken
+SETTINGS_TALENT_HOVER_DESC=Mit dieser Option werden Talente oder Skills direkt angewählt, wenn du mit der Maus drüber fährst.
+
+SETTINGS_DISABLE_ITEM_HOVER=Itemdetails nur mit Klicken
+SETTINGS_DISABLE_ITEM_HOVER_DESC=Mit dieser Option werden genauere Infos zum Item nur angezeigt, wenn du mit der Maus darauf klickst.
+
+SETTINGS_ADDTIONAL_ARTIFACT_INFO=Zusätzliche Artefakt-Details
+SETTINGS_ADDTIONAL_ARTIFACT_INFO_DESC=Hierdurch werden Itemqualität und das Level der Attribute angezeigt
+
+SETTINGS_ONLY_DMG_NUM=Nur signifikanten Schaden anzeigen
+SETTINGS_ONLY_DMG_NUM_DESC=Schadenshöhe wird nur angezeigt, wenn sie einen gewissen Prozentsatz der Gesamtgesundheit überschreitet.
+
+SETTINGS_ADDITIONAL_COMBAT_INFO=Zusätzliche Kampfinformationen anzeigen
+SETTINGS_ADDITIONAL_COMBAT_INFO_DESC=Zeigt während des Kampfes die aktuellen Werte des angewählten Gruppenmitglieds und des angewählten Gegners.
+
+SETTINGS_AUTO_RESTART=Auto-Neustart
+SETTINGS_AUTO_RESTART_DESC=Diese Option wird einen Kampf nach 5 Sekunden automatisch erneut starten. Auto-Neustart endet, wenn er unterbrochen wird oder wenn Inventa voll ist.
+SETTINGS_AUTO_RESTART_WITH_CHAOS=Auto-Neustart mit Chaos
+SETTINGS_AUTO_RESTART_WITH_CHAOS_DESC=Diese Option wird Auto-Neustart mit selber Anzahl an Chaoskristallen versuchen.
+
+SETTINGS_QUICK_CAST=Schnellzauber
+SETTINGS_QUICK_CAST_DESC=Diese Option sorgt dafür, dass Gruppenmitglieder angewählt werden, wenn man mit der Maus auf sie zeigt
+
+SETTINGS_KEYBINDINGS=Tastenbelegung
+SETTINGS_KEYBINDINGS_MOVE_LEFT=Links gehen
+SETTINGS_KEYBINDINGS_MOVE_RIGHT=Rechts gehen
+SETTINGS_KEYBINDINGS_JUMP=Springen
+SETTINGS_KEYBINDINGS_SKILL_CAST=Skill benutzen
+SETTINGS_KEYBINDINGS_CHARACTER_SELECT=Charakter auswählen
+
+SETTINGS_KEYBINDINGS_ENGAGE=Kampfbeginn
+SETTINGS_KEYBINDINGS_ENGAGE_DESC=Startet den Kampf
+SETTINGS_KEYBINDINGS_CANCEL_CAST=Zauber abbrechen
+SETTINGS_KEYBINDINGS_CANCEL_CAST_DESC=Unterbricht den aktuellen Zauber
+SETTINGS_KEYBINDINGS_SWITCH_TARGET=Ziel wechseln
+SETTINGS_KEYBINDINGS_SWITCH_TARGET_DESC=Visiert einen anderen Gegner an
+
+SETTINGS_SELECT_HOTKEYS_TO_CHANGE=Wähle eine Taste, die du ändern möchtest...
+SETTINGS_SELECT_HOTKEYS_ENTER_KEY=Bitte drücke eine Taste...
+
+
+SETTINGS_AUTO_ENGAGE=Automatischer Kampfbeginn
+SETTINGS_AUTO_ENGAGE_DESC=Startet den Kampf nach dem Laden automatisch.
+
+SETTINGS_DISABLE_SCREENSHAKE=Bildschirmwackeln deaktivieren
+SETTINGS_DISABLE_SCREENSHAKE_DESC=Deaktiviert jegliches Bildschirmwackeln.
+
+SETTINGS_DISPLAY_MAX_HEALTH=Max. Gesundheit anzeigen
+SETTINGS_DISPLAY_MAX_HEALTH_DESC=Mit dieser Option wird die max. Gesundheit neben der aktuellen Gesundheit angezeigt.
+
+SETTINGS_DETAILED_RESTART=Konfigurierter Neustart
+SETTINGS_DETAILED_RESTART_DESC=Mit dieser Option kannst du beim Neustart eines Kampfes weitere Einstellungen anpassen, bspw. die Schwierigkeit.
+
+SETTINGS_FASTER_ANIMATION=Schnellere Animationen
+SETTINGS_FASTER_ANIMATION_DESC=Durch diese Option wird die Animation nach erfolgreichem Kampfende schneller abgespielt.
+
+SETTINGS_MINIMAL_PARTICLES=Weniger Partikel
+SETTINGS_MINIMAL_PARTICLES_DESC=Diese Option deaktiviert die meisten Partikeleffekte im Spiel.
+
+SETTINGS_VERTICAL_DMG_TEXT=Vertikaler Schadenstext
+SETTINGS_VERTICAL_DMG_TEXT_DESC=Durch diese Option wird der Schaden an Bossen vertikal dargestellt.
+
+SETTINGS_ALWAYS_SHOW_SKILL_CD=Skill-Cooldown immer zeigen
+SETTINGS_ALWAYS_SHOW_SKILL_CD_DESC=Durch diese Option wird die Abklingzeit von Skills immer angezeigt, selbst wenn noch weitere Ladungen verfügbar sind.
+
+SETTINGS_CHANGE_DIFFICULTY_TITLE=Schwierigkeitsgrad anpassen
+
+SETTINGS_LANGUAGE_IN_TESTING=Diese Sprachversion befindet sich in der Testphase. Einige Texte könnten falsch angezeigt werden.
+
+SETTINGS_ALWAYS_USE_MAIN_TMOG_NAME=Immer Gruppen-Skins verwenden
+SETTINGS_ALWAYS_USE_MAIN_TMOG_DESC=Durch diese Option werden die Gruppen im Turm Airene immer dieselben Skins benutzen wie deine Primärgruppe
+
+END
