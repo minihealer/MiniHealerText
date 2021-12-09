@@ -112,4 +112,8 @@ SETTINGS_LANGUAGE_IN_TESTING=这个语言正在测试阶段，有些文本会有
 SETTINGS_ALWAYS_USE_MAIN_TMOG_NAME=永远使用当前幻化效果
 SETTINGS_ALWAYS_USE_MAIN_TMOG_DESC=这会使塔内不同队伍都使用你的队伍当前使用的幻化外观
 
+SETTINGS_ACCESSIBILITY=易用性
+SETTINGS_ROUNDED_DEBUFFS_TITLE=可净化/驱散的效果使用圆形图标
+SETTINGS_ROUNDED_DEBUFFS_DESC=所有可净化的友方debuf/可驱散的敌方buff使用圆形图标，不可净化/驱散的效果仍然使用方块图标，便于区分
+
 END
