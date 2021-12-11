@@ -95,7 +95,7 @@ AT_CHAOS_MOD_DROUGHT_1_DESC=Elite enemies now drop [CONTEXT_SMALL] [CONTEXT_MANA
 AT_CHAOS_MOD_DROUGHT_2_DESC=Bosses now drop [CONTEXT_MEDIUM] [CONTEXT_MANA_POTION] instead
 AT_CHAOS_MOD_MISERY_DESC=Enemies now drop {0}% less gold
 AT_CHAOS_MOD_TORMENT_DESC=Whenever another party member dies, all other party members lose health equal to {0}% of their [ATTRIBUTE_MAXIMUM_HEALTH]
-AT_CHAOS_MOD_BAD_BLOOD_DESC=Whenever you overheal with non heal overtime healing skills, you lose health equal to {0}% of the amount overhealed
+AT_CHAOS_MOD_BAD_BLOOD_DESC=Whenever you overheal with direct and non heal overtime healing skills, you lose health equal to {0}% of the amount overhealed
 AT_CHAOS_MOD_HEAVY_DESC=Your skills now have an additional {0} second global cooldown
 
 AT_CURSE_CHAIN_NAME=Curse of Chains

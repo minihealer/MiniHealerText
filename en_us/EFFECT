@@ -973,7 +973,7 @@ EFFECT_MERCILESS_STACK_DESC_OVERRIDE_0=Upon reaching {0} stacks, reduce healing 
 EFFECT_MERCILESS_REDUCTION_DESC_OVERRIDE_0=Reduce healing received by {0}%
 
 EFFECT_RUNE_CHAMBER_NAME=Rune Zones Effect [1]
-EFFECT_RUNE_CHAMBER_DESC_OVERRIDE_0=3 rune zones have been summoned
+EFFECT_RUNE_CHAMBER_DESC_OVERRIDE_0=2 rune zones have been summoned
 
 EFFECT_DREAM_PROTECTION_NAME=Dream Protection Effect [0]
 EFFECT_DREAM_PROTECTION_DESC_0=Can only be damage by being in Reality
@@ -1150,6 +1150,8 @@ EFFECT_UNSTABLE_CONCOCTION_OVERRIDE_DESC_4=Green potion will heal Volkan for a m
 EFFECT_SHOCK_THERAPY_BONUS_NAME=Shock Therapy Bonus Effect [0]
 EFFECT_SHOCK_THERAPY_BONUS_DESC_0=Movement speed is massively increased
 EFFECT_BERZERK_POITION_NAME=Berzerking Potion Effect [0]
+EFFECT_BERZERK_POITION_DESC_0=[ATTRIBUTE_ATTACK_DAMAGE] is massively increased
+EFFECT_BERZERK_POITION_DESC_1=[ATTRIBUTE_ATTACK_SPEED] is massively increased
 EFFECT_IMPURE_BLOOM_NAME=Impure Bloom Effect [1]
 EFFECT_IMPURE_BLOOM_DESC_0=Taking heavy [ATTRIBUTE_NEMESIS_DAMAGE] every second
 EFFECT_IMPURE_BLOOM_SECONDARY_NAME=Impure Bloom Secondary Effect [1]
