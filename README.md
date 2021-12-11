@@ -19,3 +19,4 @@ Translating Instructions
 - Sometimes you will see things wrapped in curly brackets like `{0}`. This is to indicate dynamic value(usually a number) to the game and I understand that different languages will have different grammar and formatting so you can freely move this around.
 - Sometimes you will see things wrapped in square brackets like `[SKILL_COOLDOWN]`. This is to indicate link to the game, meaning when the game runs it will use the value of `SKILL_COOLDOWN` key. This is to increase reuseability so we don't have to translate the same thing over and over
 - Sometimes you will see things like ` <color=#B58300FF>Midnight Zone</color>` or `<br>`. These are formatting tags to indicates different colored text or an new line.
+- You might bump into enemy names or boss names or talent names...etc that might be not easily translated. The best case scenario is to try to perserve the spirit of the name but sometimes you can be a bit creative
