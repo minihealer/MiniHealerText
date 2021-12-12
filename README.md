@@ -21,7 +21,6 @@ whitecafe(or community as a whole) updates en_cn_s -> doge(or community as a who
 
 
 
-All rights reserved to 💪Sad Doge
-Feel free to submit Issue for error, remind updating...etc.
-Or put up a PR here! 🚀
-Any contribution is greatly appreciated 🙏, feel free to reach out if you want your name to appear in the game!
+All rights reserved to 💪Sad Doge<br />
+Feel free to submit Issue for error, remind updating...etc. Or put up a PR here! 🚀 <br />
+Any contribution is greatly appreciated 🙏, don't hesitate to reach out if you want your name to appear in the game!<br />
