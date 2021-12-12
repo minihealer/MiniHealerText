@@ -19,6 +19,9 @@ If you are translating into a new language you can create a new folder and copy 
 whitecafe(or community as a whole) updates en_cn_s -> doge(or community as a whole) updates en_cn_t via https://www.lexilogos.com/keyboard/chinese_conversion.htm
 
 
+
+
 All rights reserved to 💪Sad Doge
 Feel free to submit Issue for error, remind updating...etc.
 Or put up a PR here! 🚀
+Any contribution is greatly appreciated 🙏, feel free to reach out if you want your name to appear in the game!
