@@ -3,6 +3,7 @@ FAQ_CATEGORY_ARTIFACTS=Artifacts
 FAQ_CATEGORY_CRAFTING=Crafting
 FAQ_CATEGORY_RUNES=Runes
 FAQ_CATEGORY_BUILDS=Builds
+FAQ_CATEGORY_OTHERS=Others
 
 FAQ_0_TITLE=Why am I getting instantly killed?
 FAQ_0_DESC=Most of the time it is because there may be some mechanics that you are missing, reading the skills and environmental effects of the boss would be a start. Other times it could mean that you might need to upgrade your defensive stats, gaining more resistances is a huge help towards survivability
@@ -46,4 +47,12 @@ FAQ_19_TITLE=Understanding Talents
 FAQ_19_DESC=Majority of the time, the deeper the talent node, the better it is. In most cases you can try to reach the bottom of the skill trees sooner by spending the least amount of points required to go down
 FAQ_20_TITLE=There are so many choices, what are some of the good builds?
 FAQ_20_DESC=It is more fun to come up with your own build, but if you are looking for inspiration you can always join the discord and check out the #build channel for inspiration
+
+FAQ_21_TITLE=Is there a maximum resistances?
+FAQ_21_DESC=Yes, by default there is a maximum resistances of 75%. However, there are items or talents that can increase this limit
+FAQ_22_TITLE=Do I need to have a shield equipped to block?
+FAQ_22_DESC=No, you don't need anything specific equipped to be able to block or dodge. However, shields provide excellent block chance
+FAQ_23_TITLE=Why don't I see the bonus of my auras or aura effects on the stats view?
+FAQ_23_DESC=Currently auras are only active during battle. You can go to a battle and verify that the stats have increased with auras
+
 END

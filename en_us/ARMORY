@@ -40,6 +40,7 @@ ARMORY_FILTERS_AUGMENTED=Augmented
 ARMORY_FILTERS_HAS_SOCKETS=Has Sockets
 ARMORY_FILTERS_UPGRADED=Upgraded
 ARMORY_FILTERS_MUTATED=Mutated
+ARMORY_FILTERS_FAVORITED=Favorited
 
 ARMORY_REROLL_AUGMENT_DESC=Select augmentations you want to lock. <br>Locking augmentations will increase reroll cost. <br>Locked augmentations will not be rerolled during reaugmentation
 ARMORY_UPGRADE_AUGMENT_DESC=Spend [MATERIAL_THE_MAKER_NAME] to upgrade an augment to the next tier
