@@ -116,4 +116,7 @@ SETTINGS_ACCESSIBILITY=Accessibility
 SETTINGS_ROUNDED_DEBUFFS_TITLE=Rounded Dispelable/Negatable Debuffs/Buffs
 SETTINGS_ROUNDED_DEBUFFS_DESC=All dispelable debuffs and negatable buffs shape will become circular while non dispelable/negatable debuffs/buffs shapes will maintain as square
 
+SETTINGS_HIDDEN_YOU_NAME=Remove (you) from Healer's name
+SETTINGS_HIDDEN_YOU_DESC=The extra (you) at the end will be hidden
+
 END
