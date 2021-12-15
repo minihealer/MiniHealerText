@@ -116,4 +116,7 @@ SETTINGS_ACCESSIBILITY=易用性
 SETTINGS_ROUNDED_DEBUFFS_TITLE=可净化/驱散的效果使用圆形图标
 SETTINGS_ROUNDED_DEBUFFS_DESC=所有可净化的友方debuf/可驱散的敌方buff使用圆形图标，不可净化/驱散的效果仍然使用方块图标，便于区分
 
+SETTINGS_HIDDEN_YOU_NAME=隐藏治疗者名字里的"(你)"
+SETTINGS_HIDDEN_YOU_DESC=隐藏名字后面的"(你)"
+
 END
