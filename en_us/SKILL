@@ -74,7 +74,7 @@ SKILL_REJUVENATE_TOWER_DESC=Restore a small amount of mana
 SKILL_REJUVENATE_TOWER_DETAIL_DESC=Restore {0} mana
 SKILL_REJUVENATE_TOWER_SHORT_DESC=[SKILL_REJUVENATE_TOWER_DESC]
 SKILL_SPIRIT_ORB_NAME=Spirit Orb
-SKILL_SPIRIT_ORB_DESC=Place a Spirit Orb on the target, Spirit Orb will explode when the target takes damage, healing The target
+SKILL_SPIRIT_ORB_DESC=Places a Spirit Orb on the target which explodes upon the target taking damage, healing The target
 SKILL_SPIRIT_ORB_SHORT_DESC=Place an orb on the target that heals when taken damage
 SKILL_CLEANSING_RAY_NAME=Cleansing Ray
 SKILL_CLEANSING_RAY_DESC=Channel the power of light, healing the target every second for each second this is channeled. The effect increases for every second channelled.
@@ -84,12 +84,17 @@ SKILL_SPIRIT_RITUAL_NAME=Spirit Ritual
 SKILL_SPIRIT_RITUAL_DESC=A single target heal over time, also heals the target at the end of the duration
 SKILL_SPIRIT_RITUAL_SHORT_DESC=Single target heal over time as well as at the end of the duration
 
+SKILL_VITALIZE_NAME=Vitalize
+SKILL_VITALIZE_DESC=Convert mana into vitalized energy. <br><br>Gaining a Vitalized stack for every second channeled <br><br> Each Vitalized stack will increase [ATTRIBUTE_INCREASE_HEALPOWER_FLAT_TEXT] and all party members' [ATTRIBUTE_BASE_DAMAGE_TEXT]
+SKILL_VITALIZE_STACK_DESC=Each Vitalized stack increases [ATTRIBUTE_INCREASE_HEALPOWER_FLAT_TEXT] by {0} as well as all party members' [ATTRIBUTE_BASE_DAMAGE_TEXT] by {1}%
+SKILL_VITALIZE_SHORT_DESC=[SKILL_VITALIZE_DESC]
+
 SKILL_NATURE_GIFT_NAME=Nature's Gift
 SKILL_NATURE_GIFT_DESC=A small heal over time spell for all party members
 SKILL_NATURE_GIFT_SHORT_DESC=[SKILL_NATURE_GIFT_DESC]
 
 SKILL_RESTORATION_NAME=Blessing of Gaia
-SKILL_RESTORATION_DESC=Buff up the target, slightly increase all stats of the target for a moderate duration
+SKILL_RESTORATION_DESC=Buff up the target, slightly increasing all of the target's stats for a moderate duration
 SKILL_RESTORATION_SHORT_DESC=Buff that increases all stats for a moderate duration
 
 SKILL_RESTORATION_TOTEM_NAME=Restoration Totem
@@ -101,7 +106,7 @@ SKILL_STAR_CALL_DESC=Summons the power of the star, dealing moderate [ATTRIBUTE_
 SKILL_STAR_CALL_SHORT_DESC=Call on a star to damage the current target
 
 SKILL_IRON_VINES_NAME=Iron Vines
-SKILL_IRON_VINES_DESC=Buff up the target, reduce all damage taken for a short duration of time
+SKILL_IRON_VINES_DESC=Buff up the target, reducing all damage taken for a short amount of time
 SKILL_IRON_VINES_SHORT_DESC=Buff that reduces all damage taken for a short duration
 
 SKILL_ANCIENT_ROOTS_NAME=Ancient Roots
@@ -109,7 +114,7 @@ SKILL_ANCIENT_ROOTS_DESC=Refresh all heal over time effects on all party members
 SKILL_ANCIENT_ROOTS_SHORT_DESC=[SKILL_ANCIENT_ROOTS_DESC]
 
 SKILL_COMBUSTION_NAME=Combustion
-SKILL_COMBUSTION_DESC=Heal all allies and deal [ATTRIBUTE_FIRE_DAMAGE] to all enemies in an area around you based on the number of unique buffs and auras on yourself <br><br>Can critically strike
+SKILL_COMBUSTION_DESC=Heal all allies and deal [ATTRIBUTE_FIRE_DAMAGE] to all enemies in an area around you<br>The damage and healing is based on the number of unique buffs and auras on yourself <br><br>Can critically strike
 SKILL_COMBUSTION_SHORT_DESC=[SKILL_COMBUSTION_DESC]
 SKILL_COMBUSTION_UPGRADE_DESC=Each buff/aura will increase healing by {0}% and damage by {1}%
 
@@ -150,7 +155,7 @@ SKILL_BANISH_DESC=Curse the enemy, reducing their damage by a moderate amount fo
 SKILL_BANISH_SHORT_DESC=Curse the enemy, reducing their [ATTRIBUTE_ALL_DAMAGE_DEALT]
 
 SKILL_SHADOW_RIPPLE_NAME=Shadow Ripple
-SKILL_SHADOW_RIPPLE_DESC=A fast and efficient heal. However, costs five times the mana when overhealed.
+SKILL_SHADOW_RIPPLE_DESC=A fast and efficient heal. However, costs five times the mana if you overheal your target.
 SKILL_SHADOW_RIPPLE_SHORT_DESC=A fast and efficient heal but costs more mana when overhealed
 
 SKILL_MIND_RUSH_NAME=Mind Rush
@@ -162,7 +167,7 @@ SKILL_DEMONIC_CONTRACT_DESC=Make a bargain with the demon, sacrificing a portion
 SKILL_DEMONIC_CONTRACT_SHORT_DESC=Sacrifice a portion of all party members' health as health loss for mana
 
 SKILL_VOID_ZONE_NAME=Void Zone
-SKILL_VOID_ZONE_DESC=Create a dark zone below you, all party members within the zone will deal more damage but receives less healing.
+SKILL_VOID_ZONE_DESC=Create a dark zone below you. All party members within the zone will deal more damage but receives less healing.
 SKILL_VOID_ZONE_SHORT_DESC=A zone that increases [ATTRIBUTE_ALL_DAMAGE_DEALT] and decreases [ATTRIBUTE_HEALING_RECEIVED]
 
 SKILL_DIVINE_MEND_NAME=Divine Mend
@@ -178,7 +183,7 @@ SKILL_SEAL_OF_LIGHT_CONSUMPTION_HEAL_DESC=Consumption healing: {0}
 SKILL_SEAL_OF_LIGHT_CONSUMPTION_DAMAGE_DESC=Consumption damage: {0}
 
 SKILL_SACRED_INFUSION_NAME=Sacred Infusion
-SKILL_SACRED_INFUSION_DESC=Infuse the target with the power of light, all direct single target healing done by you to other party members will cause the infusion to heal the infused party member for a portion of the healed amount. Only 1 party member can be infused at one time.
+SKILL_SACRED_INFUSION_DESC=Infuse the target with the power of light. All direct single target healing done by you to other party members will cause the infusion to heal the infused party member for a portion of the healed amount. Only 1 party member can be infused at one time.
 SKILL_SACRED_INFUSION_SHORT_DESC=A buff that causes all single target healing done <br>to other members to also heal the target
 SKILL_SACRED_INFUSION_DETAIL_DESC=Heals for {0}% of the amount healed on the original target
 
@@ -192,7 +197,7 @@ SKILL_HAMMER_OF_RECKONING_SHORT_DESC=Deal [ATTRIBUTE_PHYSICAL_DAMAGE] to the tar
 SKILL_HAMMER_OF_RECKONING_EFFECT_DESC=Effect increase per [SKILL_SEAL_OF_LIGHT_NAME] consumed: {0}
 
 SKILL_SANCTUARY_NAME=Sanctuary
-SKILL_SANCTUARY_DESC=Bless the target with an ultimate divine sanctuary. Making them completely immune to any damage for a short duration
+SKILL_SANCTUARY_DESC=Bless the target with an ultimate divine sanctuary, making them completely immune to any damage for a short duration
 SKILL_SANCTUARY_SHORT_DESC=Bless the target with an immunity shield
 
 SKILL_RADIANCE_NAME=Radiance
@@ -200,12 +205,12 @@ SKILL_RADIANCE_DESC=Cast to toggle [TALENT_RING_OF_INFLUENCE_NAME] to heal all o
 SKILL_RADIANCE_SHORT_DESC=Toggle [TALENT_RING_OF_INFLUENCE_NAME] to heal but drains mana
 
 SKILL_DIVINE_FOCUS_NAME=Divine Focus
-SKILL_DIVINE_FOCUS_DESC=Go into a state of focus, the next Paladin spell cast will be significantly more powerful and costs no mana <br><br>The cooldown of [SKILL_DIVINE_FOCUS_NAME] starts when the buff is consumed
+SKILL_DIVINE_FOCUS_DESC=Go into a state of focus. The next Paladin spell cast will be significantly more powerful and costs no mana <br><br>The cooldown of [SKILL_DIVINE_FOCUS_NAME] starts when the buff is consumed
 SKILL_DIVINE_FOCUS_SHORT_DESC=The next Paladin spell cast will be significantly more powerful <br> and has no [ATTRIBUTE_MANA_COST]
 
 SKILL_DIVINE_FOCUS_DIVINE_MEND_DESC=[SKILL_DIVINE_MEND_NAME] - Becomes instant cast and increase the healing done by {0}
 SKILL_DIVINE_FOCUS_SEAL_DESC=[SKILL_SEAL_OF_LIGHT_NAME] - Increase duration by {0} seconds as well as affecting all party members instead
-SKILL_DIVINE_FOCUS_INFUSION_DESC=[SKILL_SACRED_INFUSION_NAME] - Causes all direct single target healing done to the infused target to also heal all other party members. Using 50% of [SKILL_SACRED_INFUSION_NAME]'s ratio.
+SKILL_DIVINE_FOCUS_INFUSION_DESC=[SKILL_SACRED_INFUSION_NAME] - Causes all direct single target healing done to the infused target to also heal all other party members using 50% of [SKILL_SACRED_INFUSION_NAME]'s ratio.
 SKILL_DIVINE_FOCUS_HAMMER_DESC=[SKILL_HAMMER_OF_RECKONING_NAME] - Also restores {0} of missing mana
 
 SKILL_CATACLYSM_NAME=Cataclysm
@@ -652,7 +657,7 @@ SKILL_MADNESS_SWIPE_DESC=Swipes furiously, damaging multiple party members as we
 SKILL_CURSE_TORMENT_NAME=Curse's Torment
 SKILL_CURSE_TORMENT_DESC=Let out a big howl, dealing massive [ATTRIBUTE_NEMESIS_DAMAGE] to the target. Deal significantly less damage to Lycans.
 SKILL_SEALED_FATE_NAME=Sealed Fate
-SKILL_SEALED_FATE_DESC=Seal the fate of the target, stunning him/her and dealing [ATTRIBUTE_NEMESIS_DAMAGE] overtime. <br><br>Can only be dispelled if the Healer is a Lycan
+SKILL_SEALED_FATE_DESC=Seal the fate of the target, stunning him/her and dealing [ATTRIBUTE_LIGHTNING_DAMAGE] overtime. <br><br>Can only be dispelled if the Healer is a Lycan
 SKILL_ENOUGH_IS_ENOUGH_NAME=Enough is enough
 SKILL_ENOUGH_IS_ENOUGH_DESC=Russherrox is bringing out his true power as well as taking away the Lycan's Curse from the party
 SKILL_BLOOD_THIRSTY_BITE_NAME=Bloodthirsty Bite

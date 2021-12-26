@@ -198,9 +198,9 @@ UI_SKILL_SETUP_REACH_LEVEL_X_TO_UNLOCK=Reach level {0} to unlock
 
 UI_SKILL_SETUP_CURRENT_HEAL=Current healing: {0}
 UI_SKILL_SETUP_CURRENT_HEAL_PER_SEC=Current healing: {0} per second
-UI_SKILL_CLEANSING_RAY_STRENGTH_INCREASE=Strength increase: {0}% per second upto a maximum of {1}%
+UI_SKILL_CLEANSING_RAY_STRENGTH_INCREASE=Strength increase: {0}% per second up to a maximum of {1}%
 
-UI_SKILL_SETUP_BASE_HEALING=BaseHeal: {0}
+UI_SKILL_SETUP_BASE_HEALING=Base Heal: {0}
 
 UI_SKILL_SETUP_OVERTIME_BASE_HEALING=Overtime base healing: {0} per second
 UI_SKILL_SETUP_OVERTIME_HEALING=Overtime healing: {0} per second
@@ -286,7 +286,7 @@ UI_BLACKSMITH_CURSED_CRAFT_MAX_SOCKETS_REACHED=Item already has maximum number o
 UI_BLACKSMITH_CURSED_CRAFT_MAX_QUALITY_REACHED=Item is already at max quality
 
 UI_BLACKSMITH_CURSED_CRAFT_ADD_JEWEL_SOCKET_TITLE=Add a Jewel socket and remove a random attribute of a non Unique item
-UI_BLACKSMITH_CURSED_CRAFT_ADD_JEWEL_SOCKET_DESC=Add a Jewel socket to a non Unique item at the cost of a random attribute (upto a maximum of 3)
+UI_BLACKSMITH_CURSED_CRAFT_ADD_JEWEL_SOCKET_DESC=Add a Jewel socket to a non Unique item at the cost of a random attribute (up to a maximum of 3)
 
 UI_BLACKSMITH_CURSED_CRAFT_REROLL_TIER_TITLE=Reroll the tier of all base attributes of a non Unique item
 UI_BLACKSMITH_CURSED_CRAFT_REROLL_TIER_DESC=Reroll the tier of all base attributes of a non Unique item, the range is from 11 to 13
@@ -295,7 +295,7 @@ UI_BLACKSMITH_CURSED_CRAFT_REROLL_BASE_ATTR_TITLE=Reroll all based attributes of
 UI_BLACKSMITH_CURSED_CRAFT_REROLL_BASE_ATTR_DESC=Reroll all based attributes of a non Unique item, keeping the tier
 
 UI_BLACKSMITH_CURSED_CRAFT_INCREASE_BASE_QUALITY_TITLE=Increase the base quality of an item
-UI_BLACKSMITH_CURSED_CRAFT_INCREASE_BASE_QUALITY_DESC=Increase the base quality of an item (upto a maximum of 15)
+UI_BLACKSMITH_CURSED_CRAFT_INCREASE_BASE_QUALITY_DESC=Increase the base quality of an item (up to a maximum of 15)
 
 UI_BLACKSMITH_DIVINATION_VIEW_TITLE=Divination
 UI_BLACKSMITH_DIVINATION_VIEW_DESC=Use the [MATERIAL_DIVINATION_SPHERE_NAME] to significantly upgrade an item
@@ -498,5 +498,7 @@ UI_TRANSMOG_DEFAULT=Default
 
 UI_SHOW_COMBAT_LOG=Show Combat Log
 UI_SHOW_EXTRA_DETAIL=Show Additional Combat Details
+
+UI_BETA_DESC=Warning, you are playing the beta version of the game that may not be stable or contain new features that are not fully tested yet
 
 END

@@ -119,4 +119,7 @@ SETTINGS_ROUNDED_DEBUFFS_DESC=All dispelable debuffs and negatable buffs shape w
 SETTINGS_HIDDEN_YOU_NAME=Remove (you) from Healer's name
 SETTINGS_HIDDEN_YOU_DESC=The extra (you) at the end will be hidden
 
+SETTINGS_SECONDARY_KEY=Secondary Key
+
+
 END

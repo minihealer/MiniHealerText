@@ -358,6 +358,7 @@ EFFECT_SPIRIT_RITUAL_DESC_1=Heal for a moderate amount at the end of the duratio
 EFFECT_NATURE_GIFT_NAME=Nature's Gift Effect [0]
 EFFECT_NATURE_GIFT_DESC_0=Restoring health every second
 EFFECT_INFERNAL_CURSE_NAME=Inferno Curse Effect [1]
+EFFECT_INFERNAL_CURSE_NO_DISPEL_NAME=[EFFECT_INFERNAL_CURSE_NAME]
 EFFECT_INFERNAL_CURSE_DESC_0=[ATTRIBUTE_FIRE_RESIST] reduced
 EFFECT_INFERNAL_CURSE_DESC_1=Dispelling this effect will cause all other
 EFFECT_INFERNAL_CURSE_DESC_2=Inferno Curses to become non dispelable
@@ -1201,6 +1202,7 @@ EFFECT_INCAPACITATED_DESC_0=Incapacitated by [BOSS_MEVOR_SHORT_NAME] in the shad
 EFFECT_INCAPACITATED_DESC_1=[BOSS_MEVOR_SHORT_NAME] will strike this target next
 EFFECT_VITALIZED_NAME=Vitalized Effect [0]
 EFFECT_VITALIZED_DESC_0=[ATTRIBUTE_INCREASE_HEALPOWER_FLAT_TEXT] increased
+EFFECT_VITALIZED_DESC_1=All party members' [ATTRIBUTE_BASE_DAMAGE_TEXT] increased
 EFFECT_FEATHERED_FOOTWORK_NAME=Feathered Footwork Effect [1]
 EFFECT_FEATHERED_FOOTWORK_DESC_0=Movement speed decreased
 EFFECT_FEATHERED_FOOTWORK_DESC_1=Mana cost increased
@@ -1511,7 +1513,7 @@ EFFECT_FROST_METEOR_DESC_0=Dealing [ATTRIBUTE_ICE_DAMAGE] every second
 EFFECT_FROST_METEOR_DESC_1=Can only be dispeled when close to another party member
 
 EFFECT_WALL_OF_PAIN_NAME=[ARTIFACT_WALL_OF_PAIN_NAME] Effect [1]
-EFFECT_WALL_OF_PAIN_DESC_0=Transferring {0}% of current base damage and to other party members
+EFFECT_WALL_OF_PAIN_DESC_0=Transferring {0}% of current base damage to other party members
 
 EFFECT_HYPOTHERMIA_NAME=[SKILL_HYPERDRIVE_NAME] Effect [1]
 EFFECT_HYPOTHERMIA_DESC_0=[ATTRIBUTE_ICE_RESIST] reduced
