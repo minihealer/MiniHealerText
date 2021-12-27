@@ -499,4 +499,6 @@ UI_TRANSMOG_DEFAULT=原版
 UI_SHOW_COMBAT_LOG=显示战斗记录
 UI_SHOW_EXTRA_DETAIL=显示额外战斗信息
 
+UI_BETA_DESC=提示：您正在使用测试版进行游戏，可能会出现运行不稳定或新功能尚未完善的情况
+
 END
