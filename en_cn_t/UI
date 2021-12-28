@@ -479,8 +479,6 @@ UI_TOOLTIP_FEROCITY_DESC=[ATTRIBUTE_CRITICAL_STRIKE_CHANCE_TEXT]增加{0}%，持
 
 
 
-
-
 UI_TIP_TALENT_STRONG=天賦所在的層越深，就越強
 UI_TIP_READ_ABILITY=開打前建議閱讀BOSS手冊，熟悉敵人技能和戰鬥機制
 UI_TIP_PAUSE_READ=暫停下來閱讀法術效果會造成什麽影響
@@ -498,5 +496,7 @@ UI_TRANSMOG_DEFAULT=原版
 
 UI_SHOW_COMBAT_LOG=顯示戰鬥記錄
 UI_SHOW_EXTRA_DETAIL=顯示額外戰鬥信息
+
+UI_BETA_DESC=提示：您正在使用測試版進行遊戲，可能會出現運行不穩定或新功能尚未完善的情況
 
 END

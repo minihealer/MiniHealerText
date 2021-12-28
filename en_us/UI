@@ -92,12 +92,12 @@ UI_MENU_DIFFICULTY=Choose a Difficulty
 UI_MENU_DIFFICULTY_DESC=You can change them later!
 UI_MENU_DIFFICULTY_TITLE=Difficulty
 
-UI_MENU_GAME_MODE_ENEMY_HAS_MORE_HEALTH=- Enemy has {0}% more health<br>
-UI_MENU_GAME_MODE_ENEMY_HAS_MORE_ATTACK=- Enemy has {0}% more attack damage<br>
-UI_MENU_GAME_MODE_ENEMY_HAS_MORE_SPELLPOWER=- Enemy has {0}% more spellpower<br>
-UI_MENU_GAME_MODE_ENEMY_HAS_LESS_HEALTH=- Enemy has {0}% less health<br>
-UI_MENU_GAME_MODE_ENEMY_HAS_LESS_ATTACK=- Enemy has {0}% less attack damage<br>
-UI_MENU_GAME_MODE_ENEMY_HAS_LESS_SPELLPOWER=- Enemy has {0}% less spellpower<br>
+UI_MENU_GAME_MODE_ENEMY_HAS_MORE_HEALTH=- Enemies have {0}% more health<br>
+UI_MENU_GAME_MODE_ENEMY_HAS_MORE_ATTACK=- Enemies have {0}% more attack damage<br>
+UI_MENU_GAME_MODE_ENEMY_HAS_MORE_SPELLPOWER=- Enemies have {0}% more spellpower<br>
+UI_MENU_GAME_MODE_ENEMY_HAS_LESS_HEALTH=- Enemies have {0}% less health<br>
+UI_MENU_GAME_MODE_ENEMY_HAS_LESS_ATTACK=- Enemies have {0}% less attack damage<br>
+UI_MENU_GAME_MODE_ENEMY_HAS_LESS_SPELLPOWER=- Enemies have {0}% less spellpower<br>
 
 UI_MENU_NIGHTMARE_MORE_XP_GAIN=- Gain {0}% more experience<br>
 UI_MENU_NIGHTMARE_MORE_GOLD_GAIN=- Gain {0}% more gold<br>
@@ -330,7 +330,7 @@ UI_BLACKSMITH_DIVINATION_ORB_TUT=What's a [MATERIAL_DIVINATION_SPHERE_NAME]
 
 UI_TINKERSPARK_DESC=Stock and individual prices will vary everytime
 
-UI_MUTZ_HEAVEN_DESC=Keeper of Haven
+UI_MUTZ_HEAVEN_DESC=Keeper of the Hidden Haven
 UI_SETTINGS_HEAVEN_DESC=Change and setup your preferences
 UI_ACHIEVEMENTS_HEAVEN_DESC=View your achievements and progress
 UI_ATALS_HEAVEN_DESC=Contains information about all items and runes
@@ -339,7 +339,7 @@ UI_STATS_INFO_HEAVEN_DESC=View your party stats and FAQs
 UI_SKILL_ROOM_HEAVEN_DESC=Upgrade and set up your skills
 UI_TALENT_ROOM_HEAVEN_DESC=Learn and set up your talents
 UI_VAULT_WAYPOINTS_HEAVEN_DESC=Venture into the Vault
-UI_CHAOS_SHRINE_HEAVEN_DESC=Generates Chaos Crystals overtime
+UI_CHAOS_SHRINE_HEAVEN_DESC=Generates Chaos Crystals over time
 UI_DICE_OF_GREED_HEAVEN_DESC=Mysterious artifacts at a cost of a bit of gold
 UI_TORROM_HEAVEN_DESC=Upgrade artifacts
 UI_WARDROBE_DESC=Change the way your party looks
