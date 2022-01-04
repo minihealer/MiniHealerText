@@ -5,6 +5,7 @@ TUTORIAL_HAVEN_MUTZ=隠れ家にある他のものもチェックして、準備
 TUTORIAL_DESC_TALENT_TITLE=タレントはあなたのパーティーに強力なボーナスをもたらします。
 TUTORIAL_DESC_TALENT_UPGRADE=タレントを左クリックすることで選択できます。そして左/右クリックすることでレベルアップ/ダウンできます。
 TUTORIAL_DESC_TALENT_UPGRADE_MANUAL=これらのボタンでも同様にレベルアップ/ダウンできます。
+TUTORIAL_DESC_TALENT_CLASSES=Mini Healerには4つのメインクラスがあり、それぞれに長所と短所があります。
 
 TUTORIAL_DESC_EQUIPPING_TITLE=<color=#B58300FF>[UI_ARMORY_TITLE]</color>へようこそ。ここで<color=#B58300FF>[CONTEXT_PARTY_MEMBER_NAME_HEALER]</color>に様々なアーティファクトを装備させることができます。
 TUTORIAL_DESC_EQUIPPING_HEALER_ONLY=<color=#B58300FF>装備を変更できるのは[CONTEXT_PARTY_MEMBER_NAME_HEALER]だけですが、他の仲間に効果を及ぼすものもあります！</color> 
@@ -42,8 +43,9 @@ TUTORIAL_CHAOS_GENERATION_UNLOCK=また、ゲームが終了していても、�
 TUTORIAL_MIDNIGHT_UNLOCK=<color=#FF911F>ミッドナイト・ゾーン</color>がアンロックされました！　ゾーン内のボスを全て倒すと<color=#FF911F>ミッドナイト・ゾーン</color>で連戦に挑戦でき、各ボスのアイテムとミッドナイト・ゾーンの追加アイテムを獲得することができます！
 
 TUTORIAL_DININATION_SPHERE_UNLOCK=<color=#FF911F>[MATERIAL_DIVINATION_SPHERE_NAME]</color>は、[LOCATION_PANDEMONIC_DEPTH]でしか手に入らない非常に希少な素材です。
-TUTORIAL_DININATION_SPHERE_UNLOCK_DESC=[CONTEXT_NPC_SHORT_NAME_TORRAM]はこの宝珠を使って、弱いユニークなアーティファクトを<color=#FF911F>神性</color>バージョンに大幅に強化することができる。
+TUTORIAL_DININATION_SPHERE_UNLOCK_DESC=[CONTEXT_NPC_SHORT_NAME_TORRAM]はこの宝珠を使って、弱いユニークなアーティファクトを<color=#FF911F>神性</color>バージョンに大幅に強化することができます。
 TUTORIAL_DININATION_SPHERE_UNLOCK_ATLAS_DESC=<color=#FF911F>[UI_ATLAS_TITLE]</color>で、神性アーティファクトの情報も表示されるようになりました。
+TUTORIAL_DININATION_SPHERE_TORRAM_DESC=今後、敵たちも強くなります。<br><br>忘れずに<color=#FF911F>[LOCATION_HIDDEN_HAVEN]</color>にいる<color=#FF911F>[CONTEXT_NPC_SHORT_NAME_TORRAM]</color>を訪ね、装備をアップグレード/エンチャントすることが大きな助けとなるでしょう。
 
 TUTORIAL_DICE_UNLOCK=隠れ家で<color=#FF911F>欲望のダイス</color>がアンロックされました。
 TUTORIAL_DICE_UNLOCK_DESC=ダイスはお金を支払えば様々なアイテムを提供します。良いものもあれば、そうでないものもあるでしょう。
@@ -78,6 +80,7 @@ TUTORIAL_BATTLE_SWITCH_1=<color=#B58300FF>敵をクリックすると、仲間�
 TUTORIAL_BATTLE_SWITCH_2=また、<color=#B58300FF>Tabキー</color>を押して切り替えることもできます。
 
 TUTORIAL_MOVEMENT=キーボードの<color=#B58300FF>A</color>や<color=#B58300FF>D</color>を押すことでヒーラーを動かすことができます。ボスのスキルをかわしたり、バトルフィールド上のアイテムとのやりとりに使うことができます。
+TUTORIAL_MOVEMENT_JUMP=また、<color=#B58300FF>スペースキー</color>でジャンプできます！
 
 TUTORIAL_ENV_EFFECT=ステージによっては、<color=#B58300FF>環境効果</color>があるかもしれないので注意してください。<br><br>画面の左上のアイコンを見て、効果を確認できます。
 

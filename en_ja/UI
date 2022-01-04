@@ -12,6 +12,17 @@ UI_TALENT_LOADOUT_SLOTS_DELETE=本当にこのタレントセットを消去し�
 UI_SAVE_SLOTS_EDIT_NAME=セーブスロットの名前を編集する
 UI_SAVE_SLOTS_NEW_GAME=< New Game >
 UI_NEW_SAVE_RECOMMENDATION=最後にプレイしてから大幅にバージョンアップしました<br><br>ゲームを初めからプレイすることをお勧めします<br><br><color=#555555>もちろん、このセーブの続きをプレイすることも可能です
+UI_NEW_GAME_NAME_PARTY=あなたと、仲間たちの名前は？
+UI_ENTER_NAME=名前入力
+
+UI_LOCAL_SAVE=ローカルセーブ
+UI_CLOUD_SAVE=クラウドセーブ
+UI_CLOUD_SAVE_CONFLICT=Steamクラウドとローカルのセーブが競合しています
+UI_CLOUD_SAVE_CONFLICT_DESC=ローカルまたはクラウドセーブのうち、残す方を選んでください
+UI_CORRUPTED_SAVE=セーブファイルが壊れています
+UI_NUMBER_OF_ARTIFACTS=アーティファクトの数
+UI_CLOUD_SAVE_CONFLICT_WARNING=警告：この操作は取り消しできません！
+UI_SAVE_DELETED=削除済みのセーブファイル
 
 UI_YES=はい
 UI_NO=いいえ
@@ -68,10 +79,14 @@ UI_GOLEM_ATTACK=ゴーレムを攻撃する？
 UI_X_OR_Y={0} か {1}
 UI_X_Y_OR_Z={0} か {1} か {2}
 UI_A_QUICK_TIP=知っていましたか？
-UI_LEAVE=Leave
+UI_LEAVE=出る
 UI_SNATCH=取る
 UI_RESTOCK=補充
 UI_CLAIM=請求
+UI_YOU=あなた
+UI_CHAOS=カオス
+UI_ITEMS_SPOILS=Spoils
+UI_RESET=リセット
 
 UI_MENU_DIFFICULTY=難易度を選択して下さい
 UI_MENU_DIFFICULTY_DESC=後から変更できます
@@ -107,6 +122,10 @@ UI_CHAOS_CRYSTAL_IDLE_TTILE=カオス寺院
 UI_CHAOS_CRYSTAL_IDLE_DESC=カオス寺院は[MATERIAL_CHAOS_CRYSTAL_NAME]を{0}分ごとに生成します
 UI_CHAOS_CRYSTAL_IDLE_OFFLINE_DESC=カオス寺院はMini Healerをプレイしていなくても、{0}時間は[MATERIAL_CHAOS_CRYSTAL_NAME]を生成します
 
+UI_FAQ_TITLE=FAQs
+UI_FAQ_HEAVEN_DESC=ゲームに関する、よくある質問や一般的なヒントがあります
+UI_STATS_INFO_TUT_FAQ_TITLE=<color=#B58300FF>FAQ</color>タブでは、ゲームに関するヒントやパーティーを改善する方法などを紹介しています
+
 UI_ATLAS_TITLE=アトラス
 UI_ART_ATLAS_TITLE=アーティファクト アトラス
 UI_ART_ATLAS_DESC=望みの品を探して狩る
@@ -135,12 +154,10 @@ UI_RUNE_ATLAS_DESC=さまざまなルーンの組み合わせをご覧いただ�
 
 UI_STATS_INFO_TUT_TITLE=<color=#B58300FF>ステータスと情報</color>では仲間のステータスとゲームのFAQを確認できます
 UI_STATS_INFO_TUT_STATS_TITLE=<color=#B58300FF>ステータス</color>タブでは、パーティーの現在のステータスが表示されます
-UI_STATS_INFO_TUT_FAQ_TITLE=<color=#B58300FF>FAQ</color>タブでは、ゲームに関するヒントやパーティーを改善する方法などを紹介しています
 
 UI_STATS_INFO_OFFENSE=攻撃
 UI_STATS_INFO_DEFENSE=防御
 
-UI_FAQ_TITLE=FAQs
 UI_FAQ_DESC=ちょっとした行き詰まりや戸惑いを感じていませんか？
 
 UI_ARMORY_TITLE=武器庫
@@ -172,6 +189,7 @@ UI_COMBATLOG_DMG_TAKEN=被ダメージ
 UI_COMBATLOG_TOTAL_DMG_TAKEN=被ダメージ合計: {0}<br>(被ダメージ全体の{1}%)
 UI_SKILL_SETUP_TITLE=スキルのセットアップ
 UI_SKILL_SETUP_DESC=闇の世界に飛び込む前に、ここでスキルを身につけ、整えておきましょう
+UI_SKILL_SETUP_ERROR_MAX_LVL=このスキルは最大レベルに達しています
 UI_SKILL_CAN_CRITICALLY_HEAL=クリティカルヒール可能
 
 UI_SKILL_SETUP_REACH_LEVEL_X_TO_UNLOCK=レベル{0}に到達するとアンロック
@@ -351,6 +369,7 @@ UI_LEVEL_DESC_MODAL_CHAOS_ENCOUNTER_DESC=次のエンカウントでは、次の
 UI_LEVEL_DESC_MODAL_CHAOS_LOCKED_DESC=M[ATERIAL_CHAOS_CRYSTAL_NAME]を獲得するとアンロックされます。
 UI_LEVEL_DESC_MODAL_EMPTY_SKILL_VIEW=このボスにはスキルがありません
 UI_LEVEL_DESC_MODAL_OTHER_EFFECTS=その他の効果
+UI_LEVEL_DESC_MODAL_BOSS_STATS=ステータス
 UI_LEVEL_DESC_DIFFICULTY_LEVEL=推奨レベル
 UI_LEVEL_DESC_BOSS_DAMAGE_TOOLTIP=ボスのオートアタックの強さ
 UI_LEVEL_DESC_BOSS_DAMAGE_ELEMENTS_TOOLTIP=ボスのオートアタックには複数の要素が混在していることがある
@@ -387,6 +406,7 @@ UI_BATTLE_SUCCESS_LEVEL_UP=レベルアップ！
 UI_BATTLE_SUCCESS_LEVEL_UP_STATS=全ステータス上昇
 UI_BATTLE_SUCCESS_FLAWLESS=完全勝利
 UI_BATTLE_SUCCESS_FLAWLESS_XP=[CONTEXT_EXPERIENCE] +{0}%
+UI_BATTLE_SUCCESS_INVENTORY_FULL=持ち物が一杯です！
 
 UI_LANGUAGE_SPECIAL_THANKS_TO=Discordのコミュニティメンバーに感謝します。{0}
 
@@ -475,5 +495,10 @@ UI_TIP_HIGH_LVL_UPGRADE_AUGMENT=増強効果は[MATERIAL_THE_MAKER_NAME]で強�
 
 UI_TRANSMOG_IN_USE=使用中
 UI_TRANSMOG_DEFAULT=デフォルト
+
+UI_SHOW_COMBAT_LOG=戦闘ログを表示
+UI_SHOW_EXTRA_DETAIL=戦闘の詳細を表示する。
+
+UI_BETA_DESC=警告：あなたはベータバージョンをプレイしています。ゲームが不安定だったり、テストが不十分な新要素が含まれている可能性があります。
 
 END

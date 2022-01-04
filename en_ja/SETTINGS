@@ -66,6 +66,7 @@ SETTINGS_QUICK_CAST_DESC=マウスオーバー中のメンバーを自動選択�
 SETTINGS_KEYBINDINGS=キー設定
 SETTINGS_KEYBINDINGS_MOVE_LEFT=左に移動
 SETTINGS_KEYBINDINGS_MOVE_RIGHT=右に移動
+SETTINGS_KEYBINDINGS_JUMP=ジャンプ
 SETTINGS_KEYBINDINGS_SKILL_CAST=スキルを使用
 SETTINGS_KEYBINDINGS_CHARACTER_SELECT=キャラクター選択
 
@@ -110,5 +111,15 @@ SETTINGS_LANGUAGE_IN_TESTING=この翻訳は現在テスト中です。一部の
 
 SETTINGS_ALWAYS_USE_MAIN_TMOG_NAME=常にパーティのトランスモグ（アイテムの見た目変更）を使用
 SETTINGS_ALWAYS_USE_MAIN_TMOG_DESC=アイリーンの塔にいるさまざまなパーティが、メインパーティと同じトランスモグを持つようになります。
+
+SETTINGS_ACCESSIBILITY=アクセシビリティ
+SETTINGS_ROUNDED_DEBUFFS_TITLE=Negate/Dispell可能なバフ/デバフの角を丸くする
+SETTINGS_ROUNDED_DEBUFFS_DESC=全てのNegate/Dispell可能なバフ/デバフのアイコンの形を丸くします。（Negate/Dispellできないものは、四角いままです）
+
+SETTINGS_HIDDEN_YOU_NAME=ヒーラーの名前から（あなた）を除去する
+SETTINGS_HIDDEN_YOU_DESC=名前の後ろに（あなた）と表示しないようにします
+
+SETTINGS_SECONDARY_KEY=Secondary Key
+
 
 END

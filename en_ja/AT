@@ -8,6 +8,7 @@ AT_UI_ATLAS=タワー アトラス
 AT_UI_SHOP=店
 AT_UI_SKILLDRAFT=新しいスキルを習得
 AT_UI_ANA_OFFERING=[CONTEXT_NPC_NAME_ANAPIEL]'s Offering
+AT_UI_CHAOS_CRYSTAL=カオスクリスタル
 
 AT_UI_EMPTY_SCROLLS=スクロールを持っていません
 
@@ -17,6 +18,7 @@ AT_SCROLL_DESC=パーティーのステータスを上昇させる
 AT_BLESSING_DESC=追加のステータスボーナスまたは特別な効果を得る
 AT_ARTIFACT_DESC=特別な効果を得る
 AT_ARTIFACT_ANCIENT_DESC=Select 1 ancient artifact
+AT_MANA_POTION_DESC=あなたの[ATTRIBUTE_MAXIMUM_MANA]の{0}%分を回復 
 
 AT_UI_VICTORY_TITLE=勝利！
 AT_UI_DEFEATED_TITLE=Defeated!
@@ -31,6 +33,9 @@ AT_UI_VICTORY_STATS_NUM_OF_DEATHS=死亡回数： {0}
 AT_UI_BACK_END_RUN=This will end your current run!
 
 AT_UI_BLACKSMITH_EMPTY_TEXT=強化するスクロールを選択
+
+AT_UI_TOWER_CHAOS_DESC=カオス属性を追加することで、塔のカオスレベル<sprite=11>を上げます。<br>カオスレベルを上げるごとに、塔の報酬も良くなります。
+
 
 AT_UI_TOWER_ATLAS_TITLE=タワー アトラス
 AT_UI_TOWER_ATLAS_DESC=塔で見つけたものの全ての情報を含む
@@ -78,6 +83,20 @@ AT_UI_OBTAINED_SCROLLS=[CONTEXT_SCROLLS]を手に入れた
 AT_UI_SCROLLS_TOTAL_STATS=トータルステータス
 
 AT_LVL_NAME_TOSSING_PARTY=剣投げパーティー
+
+AT_CHAOS_LOCKED_DESC={0}またはそれ以上のカオティックレベルで塔をクリアするとアンロック
+AT_CHAOS_MOD_REWARD_DESC=[MATERIAL_SOLARSILK_NAME]の獲得量が{0}%増加 
+AT_CHAOS_MOD_REWARD_MAX_CHAOTIC_DESC=成功させると、塔の最大カオスレベルが恒常的に上昇します。
+
+AT_CHAOS_MOD_RUST_DESC=あなたの初期ゴールドが0になります
+AT_CHAOS_MOD_CRUEL_DESC=敵は{0}%大きいダメージを与えてきます
+AT_CHAOS_MOD_IMPOSING_DESC=敵は{0}%増加した[ATTRIBUTE_MAXIMUM_HEALTH]を持ちます
+AT_CHAOS_MOD_DROUGHT_1_DESC=エリートモンスターは[CONTEXT_SMALL] [CONTEXT_MANA_POTION]を代わりにドロップします
+AT_CHAOS_MOD_DROUGHT_2_DESC=ボスは[CONTEXT_MEDIUM] [CONTEXT_MANA_POTION]を代わりにドロップします
+AT_CHAOS_MOD_MISERY_DESC=敵は{0}%少ないゴールドをドロップします
+AT_CHAOS_MOD_TORMENT_DESC=他の仲間が死亡した時。それ以外の仲間のヘルスが[ATTRIBUTE_MAXIMUM_HEALTH]の{0}%分、減少します 
+AT_CHAOS_MOD_BAD_BLOOD_DESC=ダイレクトヒールと、継続回復以外でオーバーヒールした時、あなたはオーバーした分の{0}%のヘルスを失います
+AT_CHAOS_MOD_HEAVY_DESC=あなたのスキルのグローバルクールダウンが{0}秒追加されます
 
 AT_CURSE_CHAIN_NAME=Curse of Chains
 AT_CURSE_CHAIN_DESC=全スペルが{0}秒のグローバルクールダウンを発生させる

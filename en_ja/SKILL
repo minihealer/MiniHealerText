@@ -3,11 +3,12 @@ SKILL_TITLE_PLURAL=スキル
 SKILL_NUMBER_OF_TARGETS=ターゲット数
 SKILL_CAST_TIME=詠唱時間
 SKILL_COOLDOWN=クールダウン
-SKILL_CAN_BE_DISPELED=Dispelで解除可能
-SKILL_CAN_NOT_BE_DISPELED=Dispelで解除できない
+SKILL_CAN_BE_DISPELLED=ディスペル可能
+SKILL_CAN_NOT_BE_DISPELLED=ディスペルできない
 SKILL_CAN_BE_NEGAGTED=Negateで解除可能
 SKILL_CAN_NOT_BE_NEGAGTED=Negateで解除できない
 SKILL_TAG_UNKNOWN=不明
+SKILL_TAG_PASSIVE=このスキルはパッシブです
 SKILL_TAG_HEALING=ヒーリング
 SKILL_TAG_HEAL_OVERTIME=持続回復
 SKILL_TAG_OFFENSIVE=攻撃的
@@ -27,7 +28,7 @@ SKILL_TAG_DISPELABLE_DESC=このスキル効果はDispelで解除可能
 SKILL_TAG_NEGATABLE_DESC=このスキル効果はNegateで解除可能
 SKILL_TAG_NONDISPELABLE_DESC=このスキル効果は解除できない
 SKILL_TAG_NONNEGATABLE_DESC=このスキル効果は解除できない
-SKILL_TAG_PASSIVE=This skill is a passive skill
+SKILL_TAG_PASSIVE=このスキルはパッシブです
 
 SKILL_DESC_CASTIME=[SKILL_CAST_TIME]: {0} 秒
 SKILL_DESC_COOLDOWN=[SKILL_COOLDOWN]: {0} 秒
@@ -83,6 +84,11 @@ SKILL_SPIRIT_RITUAL_NAME=Spirit Ritual
 SKILL_SPIRIT_RITUAL_DESC=単体を持続回復する。効果が切れる瞬間にも回復する。
 SKILL_SPIRIT_RITUAL_SHORT_DESC=単体に持続回復+効果終了時に回復。
 
+SKILL_VITALIZE_NAME=Vitalize
+SKILL_VITALIZE_DESC=マナを活力に変換する。<br><br>チャネリングしている間、毎秒Vitalizedスタックを得る。<br><br>Vitalizedスタックごとに[ATTRIBUTE_INCREASE_HEALPOWER_FLAT_TEXT]を増加させ、仲間全員の[ATTRIBUTE_BASE_DAMAGE_TEXT]を増加させる。
+SKILL_VITALIZE_STACK_DESC=Vitalizedスタックごとに[ATTRIBUTE_INCREASE_HEALPOWER_FLAT_TEXT]を{0}増加。仲間全員の[ATTRIBUTE_BASE_DAMAGE_TEXT]を{1}%増加。
+SKILL_VITALIZE_SHORT_DESC=[SKILL_VITALIZE_DESC]
+
 SKILL_NATURE_GIFT_NAME=Nature's Gift
 SKILL_NATURE_GIFT_DESC=仲間全員を持続的に小回復する。
 SKILL_NATURE_GIFT_SHORT_DESC=[SKILL_NATURE_GIFT_DESC]
@@ -106,6 +112,11 @@ SKILL_IRON_VINES_SHORT_DESC=短時間、全ダメージを軽減するバフ
 SKILL_ANCIENT_ROOTS_NAME=Ancient Roots
 SKILL_ANCIENT_ROOTS_DESC=仲間全員の持続回復効果を全てリフレッシュ
 SKILL_ANCIENT_ROOTS_SHORT_DESC=[SKILL_ANCIENT_ROOTS_DESC]
+
+SKILL_COMBUSTION_NAME=Combustion
+SKILL_COMBUSTION_DESC=あなたの周りにいる仲間全員を回復して敵全てに[ATTRIBUTE_FIRE_DAMAGE]を与える。<br>ダメージと回復力はあなたにかかったユニークなバフとオーラの数で決まる。<br><br>クリティカルヒット可能。
+SKILL_COMBUSTION_SHORT_DESC=[SKILL_COMBUSTION_DESC]
+SKILL_COMBUSTION_UPGRADE_DESC=バフ/オーラひとつ当たり、回復力が{0}%増加、与ダメージが{1}%増加。
 
 SKILL_HOLY_SHIELD_NAME=Holy Shield
 SKILL_HOLY_SHIELD_DESC=ターゲットに保護シールドを置き、一部のダメージを吸収する
@@ -409,20 +420,20 @@ SKILL_TOXIC_SWEEP_NAME=Toxic Sweep
 SKILL_TOXIC_SWEEP_DESC=複数の対象に素早い打撃を与え、少量の[ATTRIBUTE_NEMESIS_DAMAGE]を与える。
 SKILL_CORRODE_NAME=Corrode
 SKILL_CORRODE_DESC=対象を腐食させ、少量の[ATTRIBUTE_NEMESIS_DAMAGE]を時間経過と共に受け、全てのダメージを増加させる。
-SKILL_FIERY_BITE_NAME=Fiery Bite
-SKILL_FIERY_BITE_DESC=対象に素早く噛みつき、少量の[ATTRIBUTE_FIRE_DAMAGE]を与える。
 SKILL_LEECH_NAME=Leech
 SKILL_LEECH_DESC=対象の肉から生命を奪おうとし、中程度の[ATTRIBUTE_PHYSICAL_DAMAGE]を与え、Izkiを回復させる。
 SKILL_CORRUPTED_BARRIER_NAME=Corrupted Barrier
-SKILL_CORRUPTED_BARRIER_DESC=Sargarisは戦闘開始時にCorrupted Barrierの効果を得て、バリアが張っている間は仲間全員のダメージにImmuneする。<br><br>バリアはヘルスが満タンになると解除される。<br><br>Sargarisがバリアを張ったまま死亡した場合、全ての仲間に敗北する。
+SKILL_CORRUPTED_BARRIER_DESC=Sargarisは戦闘開始時にCorrupted Barrierの効果を得て、バリアが張っている間はダメージを受けない。<br><br>バリアはヘルスが満タンになると解除される。<br><br>Sargarisがバリアを張ったまま死亡すると敗北。
 SKILL_CHANNEL_HEAL_NAME=Channel Heal
 SKILL_CHANNEL_HEAL_DESC=対象者に呪いをかけ、対象者に行われた全てのヒーリングも増幅されてキャスターを癒すようにする。この呪いをかけられたキャラクターをヒーリングすると、同じ効果を受けていない他のキャラクターにダメージを与える。
-SKILL_DECAY_NAME=Decay
-SKILL_DECAY_DESC=Sargarisは自分の体を腐らせ、徐々に健康を失っていく。
+SKILL_DRAIN_LIFE_NAME=Drain Life
+SKILL_DRAIN_LIFE_DESC=仲間全員の生命力を吸収し、[ATTRIBUTE_MAXIMUM_HEALTH]に応じたダメージを与え、[BOSS_SARGARIS_NAME]を回復する。<br><br>これによる回復力は大きく増幅されている。
+SKILL_DECAYING_SEAL_NAME=Decaying Seal
+SKILL_DECAYING_SEAL_DESC=数秒後に爆発して仲間全員に特大の[ATTRIBUTE_NEMESIS_DAMAGE]を与える封印を戦場に召喚する。<br><br>[CONTEXT_PARTY_MEMBER_NAME_HEALER]が封印から遠く離れているほどダメージが小さくなる。
+SKILL_SUMMON_SARGARIS_NAME=Summon follower
+SKILL_SUMMON_SARGARIS_DESC=生命力を吸収して[BOSS_SARGARIS_NAME]を回復する手下を召喚する。
 SKILL_UNHOLY_MIGHT_NAME=Unholy Might
 SKILL_UNHOLY_MIGHT_DESC=対象にUnholy Mightのバフをかけ、与えられるダメージを増加させる。
-SKILL_BLEED_SARGARIS_NAME=Bleed
-SKILL_BLEED_SARGARIS_DESC=血管を切り裂き、時間経過でダメージを与える。
 SKILL_THROW_BOULDER_SARGARIS_NAME=Throw Boulder
 SKILL_THROW_BOULDER_SARGARIS_DESC=対象に玉石を投げつけ、中程度の[ATTRIBUTE_PHYSICAL_DAMAGE]を与える。
 SKILL_FROZEN_SLAM_NAME=Frozen Slam
@@ -529,8 +540,8 @@ SKILL_STIFFEN_NAME=Stiffen
 SKILL_STIFFEN_DESC=仲間全員に小さな[ATTRIBUTE_ICE_DAMAGE]を与えると同時に、Stiffenスタックを1つ適用する。
 SKILL_ELEMENTAL_SHIELD_NAME=Elemental Shield
 SKILL_ELEMENTAL_SHIELD_DESC=アーニーとバーニーをエレメンタルシールドで囲む。受けた[ATTRIBUTE_FIRE_DAMAGE]と受けた[ATTRIBUTE_ICE_DAMAGE]のどちらかを軽減する。
-SKILL_BANEFUL_BLAST_NAME=Baneful Blast
-SKILL_BANEFUL_BLAST_DESC=闇のエネルギーで周囲を吹き飛ばし、ヒットした全てのターゲットに[ATTRIBUTE_NEMESIS_DAMAGE]を与える。
+SKILL_EROSION_NAME=Erosion
+SKILL_EROSION_DESC=ターゲットの体を侵食し、毎秒[ATTRIBUTE_NEMESIS_DAMAGE]を与える。
 SKILL_SUMMON_RUNES_NAME=Summon Rune Zones
 SKILL_SUMMON_RUNES_DESC=戦場に複数のルーンゾーンを作成し、各ゾーン内に立っているヒーラーは、そのゾーンのデバフをパーティ全体に与えます。
 SKILL_SWING_OF_DARKNESS_NAME=Swing of Darkness
@@ -561,14 +572,18 @@ SKILL_HYPERDRIVE_NAME=Hyperdrive
 SKILL_HYPERDRIVE_DESC=キャスターの攻撃速度と[ATTRIBUTE_PHYSICAL_DAMAGE]を大幅に増加させ、攻撃を開始します。
 SKILL_ICE_BLAST_NAME=Ice Blast
 SKILL_ICE_BLAST_DESC=エリアを爆破し、中程度の[ATTRIBUTE_ICE_DAMAGE]を与える。<br><br>可能な限りヒーラーを優先します。
-SKILL_FREEZING_CHARGE_NAME=Freezing Charge
-SKILL_FREEZING_CHARGE_DESC=ヒーラーを除く全ての仲間に、時間経過とともに小さな[ATTRIBUTE_LIGHTNING_DAMAGE]を与える凍結チャージを設置する。ターゲットが[ATTRIBUTE_ICE_DAMAGE]を受けた場合、このチャージは爆発し、重い[ATTRIBUTE_ICE_DAMAGE]を与える。
+
+SKILL_FROST_BITE_NAME=Frostbite
+SKILL_FROST_BITE_DESC=仲間全員を呪い、継続的な小[ATTRIBUTE_LIGHTNING_DAMAGE]を与える。この呪いはターゲットが敵から何らかの[ATTRIBUTE_ICE_DAMAGE]を受けた時、追加の特大[ATTRIBUTE_LIGHTNING_DAMAGE]を与える。
+SKILL_ELEMENTAL_CHARGE_NAME=Elemental Charge
+SKILL_ELEMENTAL_CHARGE_DESC=パーティメンバー全員に凍結と静電気のいずれかを付与する。<br><br>凍結は効果が切れた時に中程度の[ATTRIBUTE_ICE_DAMAGE]を与え、ディスペルされた時に中程度の[ATTRIBUTE_LIGHTNING_DAMAGE]を与える。<br><br>静電気は効果が切れた時に中程度の[ATTRIBUTE_LIGHTNING_DAMAGE]を与え、ディスペルされた時に中程度の[ATTRIBUTE_ICE_DAMAGE]を与える。
 SKILL_LIGHTNING_NOVA_NAME=Lightning Nova
 SKILL_LIGHTNING_NOVA_DESC=対象に重い[ATTRIBUTE_LIGHTNING_DAMAGE]を与えると同時にクリティカルが出にくくなる。
 SKILL_TERRIFY_NAME=Terrify
 SKILL_TERRIFY_DESC=対象を恐怖に陥れ、目的もなく走り回り、呪文も唱えられなくする。
-SKILL_DISRUPTION_NAME=Disruption
-SKILL_DISRUPTION_DESC=部屋を混乱させ、全ての移動アクションを逆にする。
+SKILL_ELECTRIFY_NAME=Electrify
+SKILL_ELECTRIFY_DESC=地面を帯電させて、[CONTEXT_PARTY_MEMBER_NAME_HEALER]が侵入すると[ATTRIBUTE_LIGHTNING_DAMAGE]を与える。
+
 SKILL_UNHOLY_CHANT_NAME=Unholy Chant
 SKILL_UNHOLY_CHANT_DESC=重い[ATTRIBUTE_NEMESIS_DAMAGE]を与えるAOE攻撃を行う。
 SKILL_STEAL_ESSENCE_NAME=Steal Essence
@@ -581,8 +596,6 @@ SKILL_BARRIER_NAME=Barrier
 SKILL_BARRIER_DESC=バリアー
 SKILL_SPARK_BLAST_NAME=Spark Blast
 SKILL_SPARK_BLAST_DESC=複数の仲間に重い[ATTRIBUTE_LIGHTNING_DAMAGE]を与え、さらに確率でヒールパワーを減少させるブラスト。
-SKILL_WARDING_POTION_NAME=Warding Potion
-SKILL_WARDING_POTION_DESC=ヴォルカンが結界のポーションを飲むと、イミュニティシールドが付与される。
 SKILL_BERZERK_POITION_NAME=Berzerking Potion
 SKILL_BERZERK_POITION_DESC=死の淵に立たされたヴォルカンが、"Berzerking "のポーションを飲むと、全ての能力を失うが、ダメージ出力と攻撃速度が大幅に上昇する。
 SKILL_SHOCK_THERAPY_NAME=Shock Therapy
@@ -629,8 +642,6 @@ SKILL_BLACK_BREW_NAME=Black Brew
 SKILL_BLACK_BREW_DESC=5秒間、味方1人の攻撃速度とキャスト速度を上昇させ、効果終了後5秒間、味方をスタンさせる。
 SKILL_EMBOLDEN_NAME=Embolden
 SKILL_EMBOLDEN_DESC=味方1人の回復とブロック確率アップ
-SKILL_STRINGED_PUPPET_NAME=Stringed Puppet
-SKILL_STRINGED_PUPPET_DESC=対象者の心と体をコントロールし、行動不能にする
 SKILL_BLACKOUT_SLASH_NAME=Blackout Slash
 SKILL_BLACKOUT_SLASH_DESC=対象の魂に斬り込み、大きな氷と[ATTRIBUTE_NEMESIS_DAMAGE]を与え、確率でスタンさせる。
 SKILL_SUFFERING_NAME=Suffering
@@ -645,8 +656,6 @@ SKILL_MADNESS_SWIPE_NAME=Madness Swipe
 SKILL_MADNESS_SWIPE_DESC=激しいスワイプで複数の仲間にダメージを与え、さらに[ATTRIBUTE_Lightning_DAMAGE]の取得量を少し増やす。
 SKILL_CURSE_TORMENT_NAME=Curse's Torment
 SKILL_CURSE_TORMENT_DESC=大きな吠え声を上げ、対象に大きな[ATTRIBUTE_NEMESIS_DAMAGE]を与える。ライカンに与えるダメージが大幅に減少する。
-SKILL_CALL_OF_THE_WILD_NAME=Call of the Lycan
-SKILL_CALL_OF_THE_WILD_DESC=ラッシャロックスの野生のフォロワーを召喚して、彼の戦いを助ける。このフォロワーは、殺されるまでRushheroxにイミュニティシールドを与える。
 SKILL_SEALED_FATE_NAME=Sealed Fate
 SKILL_SEALED_FATE_DESC=対象者の運命を封じ、スタンさせて[ATTRIBUTE_NEMESIS_DAMAGE]のオーバータイムを与える。ヒーラーがライカンの場合のみ解除される。
 SKILL_ENOUGH_IS_ENOUGH_NAME=Enough is enough
@@ -655,8 +664,6 @@ SKILL_BLOOD_THIRSTY_BITE_NAME=Bloodthirsty Bite
 SKILL_BLOOD_THIRSTY_BITE_DESC=ルシェロックスがターゲットに噛みつき、重い[ATTRIBUTE_PHYSICAL_DAMAGE]を与え、ルシェロックスを回復させる。
 SKILL_INTIMIDATING_HOWL_NAME=Intimidating Howl
 SKILL_INTIMIDATING_HOWL_DESC=遠吠えをして、全ての敵の与えるダメージを減少させる。
-SKILL_GIFT_OF_THE_ELDER_NAME=Gift of the Elder
-SKILL_GIFT_OF_THE_ELDER_DESC=ルシェロックスの従者がルシェロックスに長老の狼の贈り物を贈り、ルシェロックスのダメージを増加させる。
 SKILL_UNSTABLE_SEAL_NAME=Unstable Seal
 SKILL_UNSTABLE_SEAL_DESC=アウドンの封印は非常に不安定で、数秒ごとに爆発し、全ての敵の現在のヘルスを40%にする。封印が爆発したときに敵の残り体力が40%以下だった場合、その爆風で即死してしまう。
 SKILL_SEAL_GUARDIAN_NAME=Seal's Guardian
@@ -675,8 +682,6 @@ SKILL_HEAVY_STRIKE_CLINT_NAME=Heavy Strike
 SKILL_HEAVY_STRIKE_CLINT_DESC=対象に強烈な一撃を与え、[ATTRIBUTE_LIGHTNING_DAMAGE]を与え、受けた回復量を減らす。
 SKILL_BLIGHT_NAME=Blight
 SKILL_BLIGHT_DESC=対象に中程度の[ATTRIBUTE_ICE_DAMAGE]を与え、全ての回復の効果を低下させる。
-SKILL_HYPERDRIVE_CLINT_NAME=Hyperdrive
-SKILL_HYPERDRIVE_CLINT_DESC=攻撃速度を大幅に上げ、[ATTRIBUTE_PHYSICAL_DAMAGE]を与える。
 SKILL_SILENT_CLINT_NAME=Silent
 SKILL_SILENT_CLINT_DESC=対象を沈黙させ、特定の呪文を唱えられなくする。
 SKILL_THE_FINAL_SEAL_NAME=The Final Seal
@@ -713,8 +718,6 @@ SKILL_SHATTER_DREAM_NAME=Shatter Dream
 SKILL_SHATTER_DREAM_DESC=夢の中で剣を振り回して全てを破壊する。
 SKILL_MIND_SEAR_NAME=Mind Sear
 SKILL_MIND_SEAR_DESC=対象の精神を破壊し、あらゆる原因でより多くのダメージを受け、毎秒ダメージを受けるようにする。"Shatter Reality "で浄化することができる。
-SKILL_BODY_SEAR_NAME=Body Sear
-SKILL_BODY_SEAR_DESC=対象の身体を破壊し、全てのダメージを増加させ、Shatter Dreamで浄化することができます。
 SKILL_HEART_PIERCING_BLOW_NAME=Heart Piercing Blow
 SKILL_HEART_PIERCING_BLOW_DESC=対象に強烈な一撃を与え、数秒の間、回復できなくする。
 SKILL_FLAME_ON_NAME=Flame On!
@@ -846,6 +849,7 @@ SKILL_SWAP_NAME=Swap
 SKILL_TWIN_ELEMENTAL_RING_NAME=Twin Elemental Ring
 SKILL_TARGET_DUMMY_NAME=Target Dummy
 SKILL_TGT_WE_STAND_NAME=Together We Stand
+SKILL_POISON_GEYSER_NAME=Poison Geyser
 SKILL_SOUL_LINK_NAME=Soul Link
 SKILL_FRENZY_NAME=Frenzy
 SKILL_CORRUPTION_NAME=Corruption
@@ -863,13 +867,13 @@ SKILL_STIFFEN_EFFECT_NAME=Stiffen
 SKILL_MANA_DEFICIENCY_EFFECT_NAME=Mana Deficiency
 SKILL_MANA_SURPLUS_EFFECT_NAME=Mana Surplus
 SKILL_THE_REVERSE_NAME=The Reverse
+SKILL_DISRUPTION_NAME=Disruption
 SKILL_TIME_WARP_NAME=Time Warp
 SKILL_MERCILESS_PRESENCE_NAME=Merciless Presence
 SKILL_SAVE_THE_SPIRIT_NAME=Save the spirit
 SKILL_FLAME_TOTEM_NAME=Flame Totem
 SKILL_ICE_TOTEM_NAME=Ice Totem
 SKILL_LIGHTNING_TOTEM_NAME=Lightning Totem
-SKILL_BEHIND_ENEMY_LINES_NAME=Behind Enemy Lines
 SKILL_UNSTABLE_CONCOCTION_NAME=Unstable Concoction
 SKILL_BLESSING_GIANT_NAME=Giant's Blessing
 SKILL_CURSE_OF_THE_HEARTLESS_NAME=Curse of the Heartless
@@ -898,6 +902,44 @@ SKILL_BLACKOUT_NAME=Blackout
 
 
 SKILL_THUNDERCLOUD_NAME=Thundercloud
+SKILL_THUNDERCLOUD_DESC=中程度の[ATTRIBUTE_LIGHTNING_DAMAGE]で[CONTEXT_PARTY_MEMBER_NAME_HEALER]を攻撃する雷雲を召喚する 
+
 SKILL_STATIC_STRIKE_NAME=Static Strike
+SKILL_STATIC_STRIKE_DESC=ターゲットを攻撃して、中程度の[ATTRIBUTE_LIGHTNING_DAMAGE]を与える
+
 SKILL_ENERGY_BURST_NAME=Energy Burst
+SKILL_ENERGY_BURST_DESC=オートアタック3回ごとに、追加で強力な[ATTRIBUTE_LIGHTNING_DAMAGE]ダメージを発生させる
+
 SKILL_WATER_ERUPTION_NAME=Water Eruption
+SKILL_WATER_ERUPTION_DESC=Erupt the water around the battlefield as well as gaining a water shield that protects Zok from all source of damage. <br>The water can be electrified by [SKILL_THUNDERCLOUD_NAME]. <br>Standing on electrified water will cause all damage to go through the water shield but increases [ATTRIBUTE_LIGHTNING_DAMAGE] taken for all party members
+
+SKILL_HYPOTHERMIA_NAME=Hypothermia
+SKILL_HYPOTHERMIA_DESC=仲間全員に中程度の[ATTRIBUTE_ICE_DAMAGE]を与え、[ATTRIBUTE_ICE_RESIST]も低下させます。
+
+SKILL_FROST_METEOR_NAME=Frost Meteor
+SKILL_FROST_METEOR_DESC=ターゲットめがけて落下する隕石を召喚する。隕石は衝突とともに爆発し、ターゲットに中程度の[ATTRIBUTE_ICE_DAMAGE]を与え、その周囲に特大の[ATTRIBUTE_ICE_DAMAGE]を与える。<br><br>ターゲットは[LINK_FROST_METEOR]の影響も受ける。
+
+SKILL_FROST_BARRIER_NAME=Frost Barrier
+SKILL_FROST_BARRIER_DESC=定期的に全てのダメージから使用者を守るバリアを召喚する。<br><br>このバリアは常に片側が弱くなっており、[CONTEXT_PARTY_MEMBER_NAME_HEALER]のオートアタックで弱点方向を攻撃すると壊せる。
+
+SKILL_SUMMON_FROSTLINGS_NAME=Summon Frostlings
+SKILL_SUMMON_FROSTLINGS_DESC=フロストリングを召喚する。
+
+SKILL_PERMAFROST_NAME=Permafrost
+SKILL_PERMAFROST_DESC=ターゲットに呪いをかけることで、ターゲットにかけられた回復を吸収するようにし、さらに毎秒中程度の[ATTRIBUTE_ICE_DAMAGE]を与える。<br><br>呪いが解けた時、ターゲットは短時間のスタンを受け、その間は回復も受け付けない。
+
+SKILL_HOWLING_STRIKE_NAME=Howling Strike
+SKILL_HOWLING_STRIKE_DESC=ターゲットの前方を叩きつけ、特大の[ATTRIBUTE_ICE_DAMAGE]を与える。<br><br>ターゲットに当たるごとに追加のダメージを与える。
+
+SKILL_CONDENSED_BASH_NAME=Condensed Bash
+SKILL_CONDENSED_BASH_DESC=ターゲットの周辺を叩きつけ、特大の[ATTRIBUTE_ICE_DAMAGE]を与える。<br><br>このダメージは当たったターゲットの数に応じて分散する。
+
+SKILL_BONE_CRUSHER_NAME=Bone Crusher
+SKILL_BONE_CRUSHER_DESC=ターゲットの骨を破壊して、特大の[ATTRIBUTE_PHYSICAL_DAMAGE]を与え、さらに短時間回復を受けられない状態にする。
+
+SKILL_HEX_OF_WINTER_NAME=Hex of Winter
+SKILL_HEX_OF_WINTER_DESC=ターゲットを呪って、毎秒軽めの[ATTRIBUTE_ICE_DAMAGE]を与え、ディスペルまたは時間切れの時に特大の[ATTRIBUTE_ICE_DAMAGE]を与える。<br><br>残り時間が少ないほど、ディスペル時のダメージも少なくなる。
+
+SKILL_CONJURATION_OF_ICE_NAME=Conjuration of Ice
+SKILL_CONJURATION_OF_ICE_DESC=戦場の空気を凍りつかせ、左から右または右から左に移動するアイスシャードを定期的に召喚する。<br><br>シャードが[CONTEXT_PARTY_MEMBER_NAME_HEALER]に当たった時、仲間全員に特大の[ATTRIBUTE_ICE_DAMAGE]を与え、敵全体を中程度に回復させる。 
+

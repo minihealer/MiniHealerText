@@ -3,6 +3,7 @@ FAQ_CATEGORY_ARTIFACTS=アイテム
 FAQ_CATEGORY_CRAFTING=クラフト
 FAQ_CATEGORY_RUNES=ルーン
 FAQ_CATEGORY_BUILDS=ビルド
+FAQ_CATEGORY_OTHERS=Others
 
 FAQ_0_TITLE=なぜ瞬殺されてしまうのでしょうか？
 FAQ_0_DESC=ほとんどの場合、ボスのスキルや環境効果を読むことから始めることができます。他には、防御力を強化する必要があるかもしれないことを意味する場合もあります。
@@ -46,4 +47,12 @@ FAQ_19_TITLE=タレントを理解する
 FAQ_19_DESC=大抵の場合、タレントノードが深いほど良いです。ほとんどの場合、スキルツリーの下に行くのに必要なポイントを最小限にすることで、より早くスキルツリーの下に到達しようとすることができます。
 FAQ_20_TITLE=たくさんの選択肢がありますが、どのような良いビルドがあるのでしょうか？
 FAQ_20_DESC=自分のビルドを考えるのが楽しいですが、もし参考になるものを求めているのであれば、ディスコードに参加して#buildチャンネルをチェックしてください。
+
+FAQ_21_TITLE=Is there a maximum resistances?
+FAQ_21_DESC=Yes, by default there is a maximum resistance cap of 75%. However, there are items and talents that can increase this limit.
+FAQ_22_TITLE=Do I need to have a shield equipped to block?
+FAQ_22_DESC=No, you don't need anything specific equipped to be able to block or dodge. However, shields provide excellent block chance
+FAQ_23_TITLE=Why don't I see the bonus of my auras or aura effects on the stats view?
+FAQ_23_DESC=Currently auras are only active during battle. You can go to a battle and verify that the stats have increased with auras
+
 END
