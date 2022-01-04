@@ -1,0 +1,119 @@
+SETTINGS_GENERAL=일반
+SETTINGS_CONTROL=컨트롤
+SETTINGS_GAMEPLAY=게임플레이
+SETTINGS_BACKTOMENU=메뉴로 돌아가기
+SETTINGS_LANGUAGE=언어
+SETTINGS_DIFFICULTY=난이도
+SETTINGS_EXIT=게임 나가기
+
+SETTINGS_EXPORT_SAVE=세이브 내보내기
+SETTINGS_EXPORT_SAVE_HARDCORE=하드코어 모드에서는 세이브를 내보낼 수 없습니다
+SETTINGS_EXPORT_SAVE_DESC=진행상황을 이전하기 위해 내보내기 할 수 있습니다
+SETTINGS_EXPORT_USAGE_DESC=불러오기 시 게임 상태를 복원하기 위해 코드를 사용할 수 있습니다
+SETTINGS_EXPORT_COPY=클립보드에 복사
+SETTINGS_EXPORT_COPY_SUCCESS=복사 성공!
+
+SETTINGS_IMPORT_SAVE=세이브 가져오기
+SETTINGS_IMPORT_SAVE_HARDCORE=하드코어 모드에서는 세이브를 가져올 수 없습니다
+SETTINGS_IMPORT_SAVE_DESC=내보내기한 세이브를 가져온 후 여정을 계속하세요
+SETTINGS_IMPORT_USAGE_DESC=세이브에서 게임 불러오기
+SETTINGS_IMPORT_WARNING=주의, 기존 세이브에 덮어쓰기 합니다
+
+SETTINGS_IMPORT_PASTE_FROM_CLIPBOARD=클립보드에서 붙여넣기
+
+
+SETTINGS_RESOLUTIONS=해상도
+SETTINGS_RESOLUTIONS_DESC=게임 해상도를 적용합니다
+
+SETTINGS_WINDOWED=윈도우모드
+SETTINGS_WINDOWED_DESC=윈도우 모드와 전체화면 모드를 토글합니다. 전체화면 해상도는 현재 준비중입니다.
+
+SETTINGS_MUSIC=음악
+SETTINGS_SOUND=사운드
+
+SETTINGS_MUTE_AUDIO_IN_BKG=맨 앞창이 아닐 때 음소거
+SETTINGS_MUTE_AUDIO_IN_BKG_DESC=옵션을 활성화 하면 게임 창이 최소화되거나 집중하고 있지 않을 때 음이 소거됩니다
+
+SETTINGS_TARGET_FPS=FPS
+SETTINGS_TARGET_FPS_DESC=실행하길 원하는 FPS를 설정합니다. 60 FPS를 권장합니다.
+
+SETTINGS_MILISEC=시간 통계 밀리초(ms)로 보기
+SETTINGS_MILISEC_DESC=보스를 얼마나 빠르게 처치했는지 정확한 정보를 알려줍니다
+
+SETTINGS_TALENT_HOVER=마우스 호버시 특성 또는 스킬 선택
+SETTINGS_TALENT_HOVER_DESC=옵션 활성화시 마우스 포인터에 있는 특성이나 스킬이 자동으로 선택됩니다
+
+SETTINGS_DISABLE_ITEM_HOVER=아이템 호버 툴팁 비활성화
+SETTINGS_DISABLE_ITEM_HOVER_DESC=옵션을 활성화 하면 마우스를 올려도 아이템 정보가 표시되지 않습니다
+
+SETTINGS_ADDTIONAL_ARTIFACT_INFO=추가 아티팩트 정보 표시
+SETTINGS_ADDTIONAL_ARTIFACT_INFO_DESC=아이템의 총 수량 뿐만 아니라 속성의 티어도 표시합니다
+
+SETTINGS_ONLY_DMG_NUM=중요 피해 숫자만 표시
+SETTINGS_ONLY_DMG_NUM_DESC=보스들의 최대체력의 비율을 넘기는 피해만 표시합니다
+
+SETTINGS_ADDITIONAL_COMBAT_INFO=추가전투 정보 보기
+SETTINGS_ADDITIONAL_COMBAT_INFO_DESC=선택한 파티원의 현재 스탯뿐만 아니라 전투 중 선택한 적에 대한 정보를 표시합니다
+
+SETTINGS_AUTO_RESTART=자동 재시작
+SETTINGS_AUTO_RESTART_DESC=옵션을 활성화하면 전투를 5초 후 자동으로 재시작합니다. 자동 재시작을 취소하거나 인벤토리가 가득차면 중단됩니다
+SETTINGS_AUTO_RESTART_WITH_CHAOS=카오스 자동 재시작
+SETTINGS_AUTO_RESTART_WITH_CHAOS_DESC=이 옵션을 사용하도록 설정하면 동일한 양의 카오스 크리스탈로 자동 재시작합니다.
+
+SETTINGS_QUICK_CAST=빠른 시전
+SETTINGS_QUICK_CAST_DESC=이 옵션을 선택하면 파티원이 마우스로 파티원을 가리킬 때 자동으로 선택됩니다.
+
+SETTINGS_KEYBINDINGS=키 조작
+SETTINGS_KEYBINDINGS_MOVE_LEFT=좌로 이동
+SETTINGS_KEYBINDINGS_MOVE_RIGHT=우로 이동
+SETTINGS_KEYBINDINGS_JUMP=점프
+SETTINGS_KEYBINDINGS_SKILL_CAST=스킬 시전
+SETTINGS_KEYBINDINGS_CHARACTER_SELECT=캐릭터 선택
+
+SETTINGS_KEYBINDINGS_ENGAGE=개시
+SETTINGS_KEYBINDINGS_ENGAGE_DESC=전투 개시
+SETTINGS_KEYBINDINGS_CANCEL_CAST=시전 취소
+SETTINGS_KEYBINDINGS_CANCEL_CAST_DESC=현재 시전된 주문 취소
+SETTINGS_KEYBINDINGS_SWITCH_TARGET=대상 변경
+SETTINGS_KEYBINDINGS_SWITCH_TARGET_DESC=현재 목표 적을 변경
+
+SETTINGS_SELECT_HOTKEYS_TO_CHANGE=변경할 바로가기 키를 선택하세요...
+SETTINGS_SELECT_HOTKEYS_ENTER_KEY=키를 입력하세요...
+
+
+SETTINGS_AUTO_ENGAGE=자동 전투개시
+SETTINGS_AUTO_ENGAGE_DESC=불러와지면 자동으로 전투 시작
+
+SETTINGS_DISABLE_SCREENSHAKE=화면 흔들림 비활성화
+SETTINGS_DISABLE_SCREENSHAKE_DESC=모든 화면 흔들림 비활성화
+
+SETTINGS_DISPLAY_MAX_HEALTH=최대 체력 표시
+SETTINGS_DISPLAY_MAX_HEALTH_DESC=현재 체력이 최대 최력과 함께 표시됩니다
+
+SETTINGS_DETAILED_RESTART=상세 재시작
+SETTINGS_DETAILED_RESTART_DESC=이 옵션을 활성화하면 전투가 끝날 때 재시작 옵션을 선택시 레벨을 보다 자세히 볼 수 있습니다
+
+SETTINGS_FASTER_ANIMATION=빠른 애니메이션
+SETTINGS_FASTER_ANIMATION_DESC=옴션을 활성화하면 전투승리 화면 애니메이션이 빠르게 지나갑니다
+
+SETTINGS_MINIMAL_PARTICLES=최소 파티클
+SETTINGS_MINIMAL_PARTICLES_DESC=이 옵션을 사용하면 게임의 파티클 효과를 대부분 사용할 수 없습니다.
+
+SETTINGS_VERTICAL_DMG_TEXT=피해량 수직 텍스트
+SETTINGS_VERTICAL_DMG_TEXT_DESC=이 옵션을 활성화하면 보스의 피해량 텍스트가 수직으로 나타나게 됩니다
+
+SETTINGS_ALWAYS_SHOW_SKILL_CD=항상 스킬 재사용 대기시간 표시
+SETTINGS_ALWAYS_SHOW_SKILL_CD_DESC=이 옵션을 선택하면 스킬에 하나 이상의 충전이 남아 있더라도 스킬 재사용 대기시간 오버레이가 표시됩니다
+
+SETTINGS_CHANGE_DIFFICULTY_TITLE=난이도 변경
+
+SETTINGS_LANGUAGE_IN_TESTING=이의 현지화(번역)는 테스트에서 현재 진행 중이며, 일부 텍스트는 불안정할 수 있습니다
+
+SETTINGS_ALWAYS_USE_MAIN_TMOG_NAME=항상 파티의 변신 사용
+SETTINGS_ALWAYS_USE_MAIN_TMOG_DESC=이렇게 되면 아이린 타워에 있는 다른 파티들이 모두 당신의 메인 파티와 같은 변신을 갖게 될 것입니다
+
+SETTINGS_ACCESSIBILITY=접근성
+SETTINGS_ROUNDED_DEBUFFS_TITLE=디스펠/무효화 가능한 버프/디버프 둥글게 처리
+SETTINGS_ROUNDED_DEBUFFS_DESC=모든 디스펠 가능한 디퍼프 및 무효화 가능한 버프 모양이 원형인 반면, 디스펠/무효화 불가능한 디퍼프/버프의 모양은 정사각형으로 유지됩니다
+
+END

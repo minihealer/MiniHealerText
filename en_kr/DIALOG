@@ -1,0 +1,142 @@
+DIALOG_QUEST_FREE_TORRAM_START_0=제 이름은 토람이고, 당신들과 비슷한 무리에 의해 여기 갇힌 적이 있습니다. 그들은 무기와 갑옷을 만들라고 나를 고문했어요.
+DIALOG_QUEST_FREE_TORRAM_START_1=이 감방에서 나갈 수 있게 도와주시면 더 좋은 장비를 만들 수 있도록 도와드리겠습니다.
+DIALOG_QUEST_FREE_TORRAM_START_2=이 셀을 열려면 열쇠가 필요합니다. <color=#B58300FF>소울 쿼터</color>에 있는 <color=#B58300FF>보통 난이도 거울</color>을 물리치십시오, 그들이 열쇠를 가지고 있을 겁니다.
+DIALOG_QUEST_FREE_TORRAM_END_0=감사합니다. 은신처에서 다시 봅시다!
+DIALOG_QUEST_TORRAM_INTRO_END_0=구해줘서 다시 한 번 고마워요. 아이템을 강화하고 싶을 때 언제든지 연락하세요.
+DIALOG_ORRA_QUEST_1_START_0=거기, 당신! 전 오라에요! 이 포탈을 안정시킬 수 있게 도와주세요. 도와주면 방어구를 어떻게 강화하는지 가르쳐 줄 수 있어요!
+DIALOG_ORRA_QUEST_1_START_1=위에 있는 <color=#B58300FF>무정의 포탈</color>의 <color=#B58300FF>비정상 본 나이트</color>에게는 내가 시작해야 할 조각이 있을 거야.
+DIALOG_ORRA_QUEST_1_END_0=이 조각으로 포탈을 안정시킬 수 있어요. 조각을 구해줘서 고마워요.
+DIALOG_ORRA_QUEST_2_START_0=이런, 차원이 다른 파티들이 우리 세계로 들어오고 있어. 변질된 것 같고 유물도 같이 들고 있으니 조심하세요.
+DIALOG_ORRA_QUEST_2_START_1=가서 <color=#B58300FF>무정의 포탈</color>로부터의 <color=#B58300FF>타락한 일당</color>를 물리치세요.
+DIALOG_ORRA_QUEST_2_END_0=잘했어요, 이걸로 당분간 올 수 없을 거에요.
+DIALOG_ORRA_QUEST_3_START_0=우르그, 골렘도 타락했다고?! 우리가 함께 이 골렘을 상대할 거야. 내가 널 위해 탱크를 채워줄게. 날 죽게 하지 마!
+DIALOG_ORRA_QUEST_3_START_1=<color=#B58300FF>무정의 포탈</color>에서 온 <color=#B58300FF>무정의 골렘</color>을 무찌르세요.
+DIALOG_ORRA_QUEST_3_END_0=아슬아슬 했어, 회복 잘 됐네요.
+DIALOG_ORRA_QUEST_4_START_0=타락한 자들이 다시 돌아온 것 같군, 이번엔 더 강한 아티팩트들과 함께 강화된 채로 말이야. 방어합시다!
+DIALOG_ORRA_QUEST_4_START_1=<color=#B58300FF>무정의 포탈</color>에서 온 <color=#B58300FF>타락한 파티</color>를 무찌르세요.
+DIALOG_ORRA_QUEST_4_END_0=이걸로 여길 지키는 게 누구인지 알려줄 수 있을거에요. 그리고 내가 몇 년 전에 발견한 이 조각을 가져가 봐, 어떻게 사용하는지는 모르지만 유용할 거에요.
+DIALOG_ORRA_QUEST_5_START_0=아니 저건... 내가 지금... 포탈에서 나오고 있는 거야?! 이번 건은 내가 도와드릴 수 없을 것 같아요.
+DIALOG_ORRA_QUEST_5_IN_PROGRESS_0=당신은 <color=#B58300FF>무정의 포탈</color>에서 온 버전의 나와 싸워야 할 것 같군요.
+DIALOG_ORRA_QUEST_5_END_0=대단해! 포탈이 안정화된 것 같으니, 다른 차원의 생명체는 더 이상 이곳으로 올 수 없을 거에요!
+DIALOG_MEVOR_QUEST_1_START_0=이름은 메보르입니다. 위 포탈을 다루는 걸 도와주시면 무기에 마법부여를 하여 더 좋은 무기로 만들어드리겠습니다.
+DIALOG_MEVOR_QUEST_1_START_1=위에 <color=#B58300FF>무정의 포탈</color>에서 <color=#B58300FF>변종 톨몬</color>으로부터 조각이 하나 필요해요.
+DIALOG_MEVOR_QUEST_1_END_0=솔직히 당신이 해낼 줄 몰랐는데, 도와줘서 고마워요. 아까 포털에서 나온 조각이 있는데, 가져가세요.
+DIALOG_MEVOR_QUEST_2_START_0=다른 차원의 파티들이 이 세상을 원하는 것 같아.
+DIALOG_MEVOR_QUEST_2_START_1=가서 <color=#B58300FF>절망의 포탈</color>에서 온 <color=#B58300FF>타락한 파티</color>를 무찌르세요.
+DIALOG_MEVOR_QUEST_2_END_0=그들에게 확실한 메시지를 보냈어, 수고했어요.
+DIALOG_MEVOR_QUEST_3_START_0=골렘이 악당이 된 것 같군. 이 골렘은 당신이 피해를 주기엔 너무 힘들어요. 이건 내가 도와줄게요. 당신은 골렘이 죽을 때까지 내가 계속 탱킹할 수 있게 도와주면 돼요.
+DIALOG_MEVOR_QUEST_3_START_1=가서 <color=#B58300FF>절망의 포탈</color>에서 온 <color=#B58300FF>절망의 골렘</color>을 무찌르세요.
+DIALOG_MEVOR_QUEST_3_END_0=살아남았구나, 대단해요.
+DIALOG_MEVOR_QUEST_4_START_0=엇, 타락한 자들이 다시 돌아왔어요, 이번에는 훨씬 강한 것 같아.
+DIALOG_MEVOR_QUEST_4_START_1=가서 <color=#B58300FF>절망의 포탈</color>에서 온 <color=#B58300FF>타락한 일당</color>을 무찌르십시오.
+DIALOG_MEVOR_QUEST_4_END_0=이런... 이 자들은 배우는 것이 없군. 운석으로부터 나온 조각이 있는데, 합치면 엄청난 힘이 담겨 있어요. 내 것을 가지세요, 오라 또는 메보르에게서 더 많은 것들을 발견할 수 있을 거예요.
+DIALOG_MEVOR_QUEST_5_START_0=흥미롭군...저것은... 내가 포털에서 나오고 있네.
+DIALOG_MEVOR_QUEST_5_START_1=가세요, 이게 내 마지막 일이 될 거예요. <color=#B58300FF>절망의 포탈</color>에서 온 변질된 버전의 저를 물리치세요.
+DIALOG_MEVOR_QUEST_5_END_0=잘했어 친구, 잘했어요.
+DIALOG_EDWIN_QUEST_1_START_0=안녕하세요, 제 이름은 에드윈입니다. 제 위에 있는 포탈을 안정시키도록 좀 도와주시겠어요? 그 후에 액세서리들에 마법부여하는 방법을 가르쳐 줄 수 있어요.
+DIALOG_EDWIN_QUEST_1_START_1=위에 <color=#B58300FF>무지의 포탈</color>에서 온 <color=#B58300FF>변종 카산드라</color>는 내가 지금 원하는 걸 가지고 있을 거에요
+DIALOG_EDWIN_QUEST_1_END_0=정말 고마워요. 이 포털들은 최근에 꽤 이상하게 활동하고 있어요.
+DIALOG_EDWIN_QUEST_2_START_0=타락에 굴복한 다른 파티들이 여기 있어요!
+DIALOG_EDWIN_QUEST_2_START_1=가서 <color=#B58300FF>무지의 포탈</color>에서 온 <color=#B58300FF>타락한 일당</color>을 멈춰줘요.
+DIALOG_EDWIN_QUEST_2_END_0=잘했어, 그럼 포털이 안정될 시간을 벌 수 있을 거에요.
+DIALOG_EDWIN_QUEST_3_START_0=우리가 잡은 골렘도 타락했어. 함께 가서 짧은 시간 동안 지켜줄 테니, 내 주문이 다 떨어지기 전에 죽여버려요!
+DIALOG_EDWIN_QUEST_3_START_1=가서 <color=#B58300FF>무지의 포탈</color>에서 온 <color=#B58300FF>무지의 골렘</color>을 무찌르세요.
+DIALOG_EDWIN_QUEST_3_END_0=고맙다는 말을 전해요.
+DIALOG_EDWIN_QUEST_4_START_0=타락한 일당이 언제 멈춰야 할지 모르고, 다시 돌아온 것 같은데, 이번엔 훨씬 강해진 것 같아요.
+DIALOG_EDWIN_QUEST_4_START_1=가서 <color=#B58300FF>무지의 포탈</color>에서 온 <color=#B58300FF>타락한 일당</color>을 무찌르세요.
+DIALOG_EDWIN_QUEST_4_END_0=고마워, 네가 없었다면 이번에는 타락한 일당을 막을 수 없었을 거야.
+DIALOG_EDWIN_QUEST_5_START_0=이런...결국 이렇게 된 것 같은데...
+DIALOG_EDWIN_QUEST_5_START_1=당신들의 마지막 임무는 <color=#B58300FF>무지의 포탈</color>에서 온 변질된 버전의 나일 거에요.
+DIALOG_EDWIN_QUEST_5_END_0=해냈어요! 빛이 감싸주기를.
+
+DIALOG_ENTER_VAULT_TANK_0=여기가 마을 사람들이 얘기하던 고대의 납골당인가봐.
+DIALOG_ENTER_VAULT_HEALER_0=100년 전 운석 충돌로 파괴된 고대 문명이야.
+DIALOG_ENTER_VAULT_RANGER_0=운석의 힘이 매우 강해서 금고 안에 있는 생명체들이 뒤틀렸을 거야, 조심해야 해.
+DIALOG_ENTER_VAULT_BERZERKER_0=....
+
+DIALOG_BONE_KNIGHT_TANK_0=그렇게 쉽게 들어갈 수 없을 것 같네.
+DIALOG_BONE_KNIGHT_RANGER_0=우리 셋은 적을 공격할 거야. <color=#B58300FF>힐러</color>! 무슨 수를 써서라도 우릴 살려야 해!
+DIALOG_BONE_KNIGHT_BERZERKER_0=시간 다 됐어, 가자!
+
+DIALOG_HIDDEN_HAVEN_TANK_0=이게 뭐야? 이 곳의 지도처럼 보이네.
+DIALOG_HIDDEN_HAVEN_RANGER_0=몇 군데는 빠져있군.
+DIALOG_HIDDEN_HAVEN_YOU_0=여기 <color=#B58300FF>은신처</color>라고 표시되어 있는 부분이 있어, 한번 따라가보자.
+
+DIALOG_MUZ_WELCOME_TO_VAULT_MUTZ_0=오 와우, 모험가들이 여기 오는 걸 본 지가 오래됐는데.
+DIALOG_MUZ_WELCOME_TO_VAULT_MUTZ_1=내 이름은 머츠다. 100년 전 유성 충돌 이후 살아서 지금까지 여기 있었지.
+DIALOG_MUZ_WELCOME_TO_VAULT_MUTZ_2=운석 그 자체는 주변의 사물들에게 생명과 힘을 줄 뿐이야. 하지만 사악한 존재들이 와서 이 안에 있는 크리처들을 뒤틀어 놓았다.
+DIALOG_MUZ_WELCOME_TO_VAULT_MUTZ_3=나는 운 좋게 은신처에 있었고 부패를 면했지.
+DIALOG_MUZ_WELCOME_TO_VAULT_MUTZ_4=많은 영웅들이 운석을 찾아내고 정화하기 위해 왔지만 모두 실패했고 헛되이 죽었다. 너희들이 납골당에 평화를 가져다 줄 사람이 될 수 있을지도 모르지.
+DIALOG_MUZ_WELCOME_TO_VAULT_MUTZ_5=납골당 깊숙이 들어가 보거라. 지도 조각이 여기저기 흩어져 있으니 조각들을 찾아오면 지도를 붙여주겠다.
+DIALOG_MUZ_WELCOME_TO_VAULT_MUTZ_6=자, 다음 지도 조각은 <color=#B58300FF>납골당 입구</color>의 <color=#B58300FF>잔혹 세피투스</color>의 손에 있을거다.
+
+DIALOG_MUZ_WELCOME_TO_VAULT_MUTZ_COMPLETE_0=잘 했다! 소울 쿼터가 이제 지도에서 갈 수 있게 될거다!
+
+DIALOG_MUZ_MAP_FRAG_MIDNIGHT_START_0=보통 난이도 거울에게서도 지도 조각을 획득할 수 있으니 그것을 무찌르고 지도 조각을 다시 가져와라.
+DIALOG_MUZ_MAP_FRAG_MIDNIGHT_PENDING_0=어서 가거라, 보통 난이도 거울의 다음 지도 조각을 가져와.
+DIALOG_MUZ_MAP_FRAG_MIDNIGHT_COMPLETE_0=좋아! 지도에 추가해주마. 그럼... 됐다! 미드나잇 존이 이제 지도를 통해 이동할 수 있게 되었다!
+
+DIALOG_MUZ_MAP_FRAG_BIO_QUARTER_START_0=소울쿼터 안에는 거울이 있는데, 그 거울은 사람의 영혼을 복제해서 주인의 신체에 반하는 거울이지. 다음 지도 조각이 있을 거다.
+DIALOG_MUZ_MAP_FRAG_BIO_QUARTER_PENDING_0=어서 가라, 다음 지도 조각은 소울 쿼터의 광기 난이도 거울의 손에 있을 거다.
+DIALOG_MUZ_MAP_FRAG_BIO_QUARTER_COMPLETE_0=대단하다! 지금 지도에서 바이오 쿼터의 제한이 풀렸을거다!
+
+DIALOG_MUZ_MAP_FRAG_DINING_HALL_START_0=난 납골당의 비밀 장소 또한 알고 있지. 너희가 더 강해지면 지도 조각을 주겠다.
+DIALOG_MUZ_MAP_FRAG_DINING_HALL_PENDING_0=너희는 아직 너무 약해, 더 강해지면 돌아오거라.
+DIALOG_MUZ_MAP_FRAG_DINING_HALL_COMPLETE_0=더 강해졌구나. 여기 회관의 파편이 있다. 너희에게 도움을 줄 수 있는 더 많은 사람들이 있지!
+
+DIALOG_MUZ_QUEST_OUTER_COURTYARD_START_0=다음 조각은 바이오 쿼터의 잔혹 아티엘 블랙쉐이드의 손에 있을 거다.
+DIALOG_MUZ_QUEST_OUTER_COURTYARD_PENDING_0=자, 다음 지도 조각은 바이오 쿼터의 잔혹한 아티엘의 손에 있을 거다.
+DIALOG_MUZ_QUEST_OUTER_COURTYARD_END_0=잘했다! 외부 뜰은 이제 지도에서 이용할 수 있다!
+
+DIALOG_MUZ_QUEST_DEPTH_START_0=다음 조각은 <color=#B58300FF>미드나잇 존</color>으로 넘어가서 <color=#B58300FF>자정의 외부 뜰</color>에 있는 몬스터들을 정리해야 한다.
+DIALOG_MUZ_QUEST_DEPTH_PENDING_0=지금 가거라, <color=#B58300FF>미드나잇 존</color> 내에 <color=#B58300FF>자정의 외부 뜰</color>에 있는 몬스터들을 처치한다면 다음 지도 조각이 나타날 것이다.
+DIALOG_MUZ_QUEST_DEPTH_END_0=잘했다! 대혼란의 심연을 이제 지도를 통해 갈 수 있다! 난 여기서 그것들에 대해 알고 있는 부분까지만 도와줄 수 있어.
+
+DIALOG_MUZ_IDLE_0=언젠가 나도 몸이 있었으면 좋겠군. 그래야 이곳을 청소할 수 있으니!
+
+DIALOG_ORRA_IDLE_1_0=가끔 다른 포탈에서 나오는 것들이 있는데 그걸 방어하려면 당신의 도움이 필요해요.
+DIALOG_ORRA_IDLE_2_0=이제서야 음식을 즐길 수 있는 시간을 가질 수 있게 되었네요.
+
+DIALOG_HAVEN_ANAPIEL_IDLE_1_0=[LOCATION_AIRENE_TOWER]로 이동해서 제한된 자원으로 당신의 능력에 도전해보고 싶으신가요?
+DIALOG_HAVEN_ANAPIEL_ACTION_BTN_TEXT_1=[LOCATION_AIRENE_TOWER]로 가세요
+
+DIALOG_AIRENE_ANAPIEL_IDLE_1_0=[LOCATION_HIDDEN_HAVEN]로 돌아갈 준비가 됐나요?
+DIALOG_AIRENE_ANAPIEL_ACTION_BTN_TEXT_1=돌아가기
+
+DIALOG_AIRENE_ANAPIEL_INSIDE_IDLE_1_0=정말 타워를 나가시겠습니까? 다시 돌아올 수 없습니다!
+DIALOG_AIRENE_ANAPIEL_INSIDE_ACTION_BTN_TEXT_1=나가기
+
+DIALOG_MEVOR_IDLE_1_0=...
+DIALOG_EDWIN_IDLE_1_0=나와 오라, 메보르는 영원히 포탈을 지켜왔어요. 다른 지역에서 온 괴물들과 타락한 자들이 이곳의 힘을 얻고 싶어합니다. 포탈을 어떻게 닫는지 모르니 납골당에 못 들어오게 하는 게 우리 임무죠.
+DIALOG_GOLEM_IDLE_1_0=골렘 좋죠, 골렘이 당신의 기술과 능력을 시험할 수 있도록 도와줍니다.
+DIALOG_GOLEM_ACTION_BTN_TEXT_1=골렘과 싸우기
+
+DIALOG_AURDON_IDLE_1_0=납골당에 평화를 되찾아 주셔서 감사합니다.
+
+DIALOG_QUEST_FINISH_LOWMORE_START_0=저도 한때 이곳의 수호신 중 한 명이었죠, 어느 날 하늘에서 운석이 떨어지고 그 기운에 다른 수호신들이 다 타락해 버리기 전까진 말이죠.
+DIALOG_QUEST_FINISH_LOWMORE_START_1=저는 타락에서 벗어날 수 있었지만 다른 사람들에게 붙잡혔고 내 몸은 봉인되었습니다.
+DIALOG_QUEST_FINISH_LOWMORE_START_2=세월이 흘러 운석의 부패를 말끔히 씻어낼 방법을 알아냈지만, 내 몸과 몇 가지 더 필요한 게 있을 겁니다.
+DIALOG_QUEST_FINISH_LOWMORE_START_3=제 뒤의 납골당의 <color=#B58300FF>심연의 문</color>은 열쇠만 있으면 어디든 열 수 있습니다.
+DIALOG_QUEST_FINISH_LOWMORE_START_4=저는 <color=#B58300FF>로우모어</color> 열쇠를 가지고 있습니다. 다음 지도 조각이 분명히 그 안에 있다는 것을 알고 있어요.
+DIALOG_QUEST_FINISH_LOWMORE_START_5=<color=#B58300FF>로우모어</color>으로 떠나 지도 조각을 찾으세요. <color=#B58300FF>심연의 문</color> 안에서 움직이는 것들을 조심하시고, 이것들은 계속해서 바뀔 것입니다.
+DIALOG_QUEST_FINISH_LOWMORE_START_6=<color=#B58300FF>[LOCATION_PANDEMONIC_DEPTH]</color>에 있는 적들도 매우 강합니다. 이 구를 가져가면 더 강한 적을 상대하는 데 도움이 될 것입니다!
+
+DIALOG_QUEST_FINISH_LOWMORE_PENDING_0=<color=#B58300FF>로우모어</color>로 여정을 떠나세요, 다음 지도 조각은 가장 끝 방에 있을 겁니다.
+DIALOG_QUEST_FINISH_LOWMORE_END_0=내부 뜰을 지도에 추가했습니다.
+
+DIALOG_QUEST_FINISH_INNER_COURTYARD_START_0=다음 조각을 얻으려면 다른 열쇠가 필요합니다. 열쇠를 찾을 수 있는 곳은 <color=#B58300FF>자정의 안쪽 뜰</color>입니다.
+DIALOG_QUEST_FINISH_INNER_COURTYARD_PENDING_0=<color=#B58300FF>자정의 안쪽 뜰</color>의 몬스터들을 정리하십시오. 그리고 다음 열쇠를 얻으세요.
+DIALOG_QUEST_FINISH_INNER_COURTYARD_END_0=그것이 바로 <color=#B58300FF>심연</color>의 열쇠입니다. 정말 잘했어요!
+
+DIALOG_QUEST_GUARDIANS_START_0=최종 지도 조각은 <color=#B58300FF>심연</color>의 맨 끝에 있습니다. 열쇠를 사용하여 <color=#B58300FF>심연</color>으로 이동하세요. 그리고 마지막 지도 조각을 찾으세요.
+DIALOG_QUEST_GUARDIANS_PENDING_0=열쇠를 이용해 <color=#B58300FF>심연</color>으로 이동하세요. 그리고 마지막 지도 조각을 찾으세요.
+DIALOG_QUEST_GUARDIANS_END_0=목적지인 수호자의 동굴에 도착했습니다. 지도에 표시될 거에요!
+
+DIALOG_QUEST_DEFEAT_ALL_GUARDIANS_START_0=내 친구들...당신은 어떻게 되었나요? 제가 당신을 이 타락에서 해방시켜줄게요!
+DIALOG_QUEST_DEFEAT_ALL_GUARDIANS_START_1=타락를 씻어내려면 각 수호자들의 표식이 필요합니다. 제 몸을 회복되는대로 주문을 걸게요.
+DIALOG_QUEST_DEFEAT_ALL_GUARDIANS_START_2=가셔서 수호자들을 물리치시고 표식을 얻어 봉인에서 내 몸을 풀어주세요.
+DIALOG_QUEST_DEFEAT_ALL_GUARDIANS_PENDING_0=이거에요, 납골당의 운명은 당신 손에 달렸습니다. 이렇게 멀리까지 가는 사람을 본 적이 없어 저는 당신을 전적으로 믿습니다.
+DIALOG_QUEST_DEFEAT_ALL_GUARDIANS_END_0=정말 해냈다니 믿을 수가 없네요! 이 날이 오기만을 기다렸어요.
+DIALOG_QUEST_DEFEAT_ALL_GUARDIANS_END_1=그리고 <color=#B58300FF>구렁텅이의 문</color>의 또 다른 열쇠도 있습니다. 이 열쇠는 심연보다 훨씬 더욱 불안한 곳으로 이어질 수 있으니 주의해서 사용하세요.
+
+END

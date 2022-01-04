@@ -4,6 +4,13 @@ ARMORY_LOADOUT=Equipment Loadouts
 ARMORY_POSSIBLE_AUGMENTATIONS=Possible Augmentations
 ARMORY_POSSIBLE_MUTATIONS=Possible Mutations
 
+ARMORY_POSSIBLE_REROLL_ATTRIBUTES=Possible Attributes
+ARMORY_POSSIBLE_REROLL_ATTRIBUTES_RULE=Roll Rules
+ARMORY_ROLL_RULE_INTRINSTIC=A {0} {1} must have 1 attribute from the following pool
+ARMORY_ROLL_RULE_MAX=A {0} {1} can have up to x attribute(s) from the following pool. (x is the number of attributes on the item divided by half, rounded up)
+ARMORY_ROLL_RULE_MAX_TALENT_LEVEL=A {0} {1} can have up to {2} + talent level attribute(s)
+ARMORY_ROLL_RULE_FREE=A {0} {1} can roll the following attributes in general
+
 ARMORY_UNEQUIP_ALL=Unequip <br>all items
 ARMORY_SELL_ALL_UNCOMMON=Sell all <br>UnCommon
 ARMORY_SELL_ALL_NON_FAV=Sell all <br>Non-Favorited

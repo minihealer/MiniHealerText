@@ -1,0 +1,53 @@
+ARMORY_QUICKSELL=컨트롤 버튼 + 우 클릭으로 아이템을 빠르게 팔 수 있습니다
+ARMORY_LOADOUT=장비 세팅
+
+ARMORY_POSSIBLE_AUGMENTATIONS=가능한 증강
+ARMORY_POSSIBLE_MUTATIONS=가능한 변형
+
+ARMORY_UNEQUIP_ALL=모든 아이템 <br>장착 해제
+ARMORY_SELL_ALL_UNCOMMON=모두 판매 <br>고급
+ARMORY_SELL_ALL_NON_FAV=모두 판매 <br>즐겨찾기가 아님
+ARMORY_SELL_ALL_NON_PERFECT=모두 판매 <br>완전하지 않음
+
+ARMORY_SELL_CONFIRMATION=정말로 이 아이템을 파시겠어요?
+ARMORY_SELL_ALL_UNCOMMON_CONFIRMATION=정말로 모든 고급 아이템들을 파시겠어요?
+ARMORY_SELL_ALL_NON_PERFECT_CONFIRMATION=정말로 모든 불완전 아이템들을 파시겠어요?
+ARMORY_SELL_ALL_NON_FAV_CONFIRMATION=정말로 모든 즐겨찾기 하지 않은 아이템들을 파시겠어요?
+
+
+ARMORY_CHAOS_SLOT_UNLOCK_REQ=<color=#B58300FF>[MATERIAL_ASTRAL_FRAGMENT_NAME]</color> 3개를 모아서 잠금 해제
+
+ARMORY_SORT_TITLE=정렬
+ARMORY_SORT_LATEST=최신
+ARMORY_SORT_RARITY=희귀
+ARMORY_SORT_ITEMLVL=아이템 레벨
+
+ARMORY_SORT_FAVORITE=<color=#FF911F>즐겨찾기</color> - 즐겨찾는 아티팩트가 전체 팔기...에 포함되지 않습니다
+
+ARMORY_HOVER_DIVINE=<color=#FF911F>신성한 아티팩트</color> - {0}의 강화 버전
+ARMORY_HOVER_DIVINABLE=<color=#FF911F>신성화 가능</color> - 이 아티팩트는 [MATERIAL_DIVINATION_SPHERE_NAME]로 신성화되었을 때 더 강해질 수 있습니다
+ARMORY_HOVER_CHAOTIC=<color=#FF911F>혼돈의 아티팩트</color> - 보스가 카오스 등급일 때에만 드랍
+ARMORY_HOVER_ANOMALOUS=<color=#FF911F>변종 아티팩트</color> - 이것은 {0}의 살짝 다른 버전입니다
+ARMORY_HOVER_PERFECT=<color=#FF911F>완전한 아티팩트</color> - 기본 성능이 10 또는 그 이상
+
+ARMORY_FILTERS_TITLE=필터
+ARMORY_FILTERS_WEAPON=무기
+ARMORY_FILTERS_ARMOR=방어구
+ARMORY_FILTERS_ACCESSORY=장신구
+ARMORY_FILTERS_GEM=재료
+ARMORY_FILTERS_OTHER=기타
+ARMORY_FILTERS_AUGMENTED=증강됨
+ARMORY_FILTERS_HAS_SOCKETS=소켓가능
+ARMORY_FILTERS_UPGRADED=강화됨
+ARMORY_FILTERS_MUTATED=변형됨
+
+ARMORY_REROLL_AUGMENT_DESC=잠금을 원하는 증강을 선택하세요. <br>증강을 잠금하시면 리롤 비용이 증가합니다. <br>재증강 중에는 잠금한 증강이 리롤되지 않습니다
+ARMORY_UPGRADE_AUGMENT_DESC=[MATERIAL_THE_MAKER_NAME]을(를) 사용하여 확장 기능을 다음 티어로 증강
+ARMORY_UPGRADE_ERROR_MAX_TIER_REACHED=최대 티어에 도달
+ARMORY_TRIO_REAUG_SELECT_OLD=기존 증강 선택
+ARMORY_TRIO_REAUG_SELECT_NEW=새 증강 선택
+
+ARMORY_ITEM_ACQUIRED_X=<br>획득 : {0}
+ARMORY_ITEM_MAX_STACK_X=<color=#{0}>최대 스택: {1}</color>
+
+END

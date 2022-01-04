@@ -55,4 +55,7 @@ FAQ_22_DESC=No, you don't need anything specific equipped to be able to block or
 FAQ_23_TITLE=Why don't I see the bonus of my auras or aura effects on the stats view?
 FAQ_23_DESC=Currently auras are only active during battle. You can go to a battle and verify that the stats have increased with auras
 
+FAQ_24_TITLE=Is there a place to see what exactly can be rolled on an item?
+FAQ_24_DESC=Yes, here is a more detailed info of what can be rolled on what
+
 END
