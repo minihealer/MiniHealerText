@@ -114,7 +114,7 @@ SKILL_ANCIENT_ROOTS_DESC=Refresh all heal over time effects on all party members
 SKILL_ANCIENT_ROOTS_SHORT_DESC=[SKILL_ANCIENT_ROOTS_DESC]
 
 SKILL_COMBUSTION_NAME=Combustion
-SKILL_COMBUSTION_DESC=Heal all allies and deal [ATTRIBUTE_FIRE_DAMAGE] to all enemies in an area around you<br>The damage and healing is based on the number of unique buffs and auras on yourself <br><br>Can critically strike
+SKILL_COMBUSTION_DESC=Heal all allies and deal [ATTRIBUTE_FIRE_DAMAGE] to all enemies in an area around you<br>Damage and healing is based on <br>the number of unique buffs and auras on yourself <br><br>Can critically strike
 SKILL_COMBUSTION_SHORT_DESC=[SKILL_COMBUSTION_DESC]
 SKILL_COMBUSTION_UPGRADE_DESC=Each buff/aura will increase healing by {0}% and damage by {1}%
 
