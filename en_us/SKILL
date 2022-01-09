@@ -85,7 +85,7 @@ SKILL_SPIRIT_RITUAL_DESC=A single target heal over time, also heals the target a
 SKILL_SPIRIT_RITUAL_SHORT_DESC=Single target heal over time as well as at the end of the duration
 
 SKILL_VITALIZE_NAME=Vitalize
-SKILL_VITALIZE_DESC=Convert mana into vitalized energy. <br><br>Gaining a Vitalized stack for every second channeled <br><br> Each Vitalized stack will increase [ATTRIBUTE_INCREASE_HEALPOWER_FLAT_TEXT] and all party members' [ATTRIBUTE_BASE_DAMAGE_TEXT]
+SKILL_VITALIZE_DESC=Convert mana into vitalized energy. <br><br>Gaining a Vitalized stack for every second channeled <br><br>Each Vitalized stack will increase [ATTRIBUTE_INCREASE_HEALPOWER_FLAT_TEXT] and all party members' [ATTRIBUTE_BASE_DAMAGE_TEXT]
 SKILL_VITALIZE_STACK_DESC=Each Vitalized stack increases [ATTRIBUTE_INCREASE_HEALPOWER_FLAT_TEXT] by {0} as well as all party members' [ATTRIBUTE_BASE_DAMAGE_TEXT] by {1}%
 SKILL_VITALIZE_SHORT_DESC=[SKILL_VITALIZE_DESC]
 
