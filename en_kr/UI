@@ -273,8 +273,7 @@ UI_BLACKSMITH_AUG_VIEW_DESC=증강하면 아티팩트에 속성이 추가됩니�
 UI_BLACKSMITH_MUT_VIEW_TITLE=아티팩트 변형
 UI_BLACKSMITH_MUT_VIEW_DESC=변형은 일부 속성을 더 강력하게 만들지만 다른 속성은 감소합니다
 UI_BLACKSMITH_ORRA_VIEW_TITLE=[BOSS_ORRA_SHORT_NAME] 장비 강화
-"UI_BLACKSMITH_ORRA_VIEW_DESC=[BOSS_ORRA_SHORT_NAME]은(는) 당신이 성장하도록 도우며 추가적인 속성과 함께 심지어 마법부여까지도 가능합니다. 
-속성은 [BOSS_ORRA_SHORT_NAME]의 퀘스트를 완수한만큼 성장합니다"
+UI_BLACKSMITH_ORRA_VIEW_DESC=[BOSS_ORRA_SHORT_NAME]은(는) 당신이 성장하도록 도우며 추가적인 속성과 함께 심지어 마법부여까지도 가능합니다. 속성은 [BOSS_ORRA_SHORT_NAME]의 퀘스트를 완수한만큼 성장합니다
 UI_BLACKSMITH_MEVOR_VIEW_TITLE=[BOSS_MEVOR_SHORT_NAME] 장비 강화
 UI_BLACKSMITH_MEVOR_VIEW_DESC=[BOSS_MEVOR_SHORT_NAME]은(는) 당신이 성장하도록 도우며 추가적인 속성과 함께 심지어 마법부여까지도 가능합니다.  [BOSS_MEVOR_SHORT_NAME]의 퀘스트 완수한만큼 성장합니다
 UI_BLACKSMITH_EDWIN_VIEW_TITLE=[BOSS_EDWIN_SHORT_NAME] 장비 강화

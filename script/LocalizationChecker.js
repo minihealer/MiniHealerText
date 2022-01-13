@@ -3,14 +3,16 @@ const FS   = require("fs");
 const readline   = require("readline");
 
 // Path to all the localization folders
-const FOLDER_PATH= '../Local';
+const FOLDER_PATH= '../';
 
 const RESULT = {
-    'en_US':{},
-    'en_CN_S':{},
-    'en_CN_T':{},
-    'en_JP':{},
-    // 'en_RU':{}
+    'en_us':{},
+    // 'en_cn_s':{},
+    // 'en_cn_t':{},
+    // 'en_ja':{},
+    'en_kr':{},
+    // 'en_ru':{},
+    // 'en_ger':{}
 }
 
 // This script will run through all enUS folder
@@ -125,17 +127,17 @@ async function processLineByLine(filePath, language) {
 
     // loop through none US one to do the check
     for (const LANGUAGE of languageKeys) {    
-        if(LANGUAGE == 'en_US'){
+        if(LANGUAGE == 'en_us'){
             continue;
         }
 
         console.log(`Comparing....${LANGUAGE}`);
-        const US_KEYS = Object.keys(RESULT['en_US']);
+        const US_KEYS = Object.keys(RESULT['en_us']);
 
 
         for (const LINE_KEY of US_KEYS) {    
             const number = RESULT[LANGUAGE][LINE_KEY];
-            const usNumber = RESULT['en_US'][LINE_KEY];
+            const usNumber = RESULT['en_us'][LINE_KEY];
 
             // can't find in US, that's ok because it might be deleted
             if(usNumber == undefined){
