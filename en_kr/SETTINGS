@@ -116,4 +116,10 @@ SETTINGS_ACCESSIBILITY=접근성
 SETTINGS_ROUNDED_DEBUFFS_TITLE=디스펠/무효화 가능한 버프/디버프 둥글게 처리
 SETTINGS_ROUNDED_DEBUFFS_DESC=모든 디스펠 가능한 디퍼프 및 무효화 가능한 버프 모양이 원형인 반면, 디스펠/무효화 불가능한 디퍼프/버프의 모양은 정사각형으로 유지됩니다
 
+SETTINGS_HIDDEN_YOU_NAME=힐러의 이름에서 (당신)을 제거합니다
+SETTINGS_HIDDEN_YOU_DESC=끝에 붙는 (당신)이 가려집니다
+
+SETTINGS_SECONDARY_KEY=보조키
+
+
 END

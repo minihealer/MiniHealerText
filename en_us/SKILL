@@ -574,7 +574,7 @@ SKILL_ICE_BLAST_NAME=Ice Blast
 SKILL_ICE_BLAST_DESC=Blast the area, dealing moderate [ATTRIBUTE_ICE_DAMAGE]. <br><br>Prioritizes the healer whenever possible
 
 SKILL_FROST_BITE_NAME=Frostbite
-SKILL_FROST_BITE_DESC=Places a curse on all party members that deals small [ATTRIBUTE_LIGHTNING_DAMAGE] over time. The curse will deal additional massive [ATTRIBUTE_LIGHTNING_DAMAGE] if the target takes any [ATTRIBUTE_ICE_DAMAGE] from enemy.
+SKILL_FROST_BITE_DESC=Places a curse on all party members that deals small [ATTRIBUTE_LIGHTNING_DAMAGE] over time. <br><br>The curse will deal additional massive [ATTRIBUTE_LIGHTNING_DAMAGE] if the target takes any [ATTRIBUTE_ICE_DAMAGE] from enemy.
 SKILL_ELEMENTAL_CHARGE_NAME=Elemental Charge
 SKILL_ELEMENTAL_CHARGE_DESC=Places either a freezing charge or static charge on all party members. <br><br>Freezing charge deals moderate [ATTRIBUTE_ICE_DAMAGE] when expired, and deals moderate [ATTRIBUTE_LIGHTNING_DAMAGE] when dispelled <br><br>Static charge deals moderate [ATTRIBUTE_LIGHTNING_DAMAGE] when expired, and deals moderate [ATTRIBUTE_ICE_DAMAGE] when dispelled
 SKILL_LIGHTNING_NOVA_NAME=Lightning Nova

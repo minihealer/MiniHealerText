@@ -74,7 +74,7 @@ SKILL_REJUVENATE_TOWER_DESC=소량의 마나를 회복합니다
 SKILL_REJUVENATE_TOWER_DETAIL_DESC={0} 마나를 회복
 SKILL_REJUVENATE_TOWER_SHORT_DESC=[SKILL_REJUVENATE_TOWER_DESC]
 SKILL_SPIRIT_ORB_NAME=스피릿 오브
-SKILL_SPIRIT_ORB_DESC=스피릿 오브가 걸린 대상은 피해를 받으면, 스피릿 오브가 폭발하며 치료됩니다
+SKILL_SPIRIT_ORB_DESC=대상이 피해를 입으면 폭발하는 스피릿 오브를 배치하고, 대상을 치료합니다.
 SKILL_SPIRIT_ORB_SHORT_DESC=피해를 받으면 스피릿 오브가 치료
 SKILL_CLEANSING_RAY_NAME=정화의 빛
 SKILL_CLEANSING_RAY_DESC=빛의 힘을 채널링하여 매초마다 대상을 치유합니다. 초당 효과가 증가합니다
@@ -84,12 +84,17 @@ SKILL_SPIRIT_RITUAL_NAME=영혼의 의식
 SKILL_SPIRIT_RITUAL_DESC=단일 타겟을 지속적으로 치유하며, 지속시간의 끝에도 치유합니다
 SKILL_SPIRIT_RITUAL_SHORT_DESC=단일 대상을 지속시간 동안 치유함
 
+SKILL_VITALIZE_NAME=생기부여
+SKILL_VITALIZE_DESC=마나를 생기 에너지로 전환합니다. <br><br>매초마다 생기 스택을 받습니다 <br><br> 각 생기 스택은 [ATTRIBUTE_INCREASE_HEALPOWER_FLAT_TEXT] 및 모든 파티원의 [ATTRIBUTE_BASE_DAMAGE_TEXT]를 증가시킵니다
+SKILL_VITALIZE_STACK_DESC=각 생기 스택이 [ATTRIBUTE_INCREASE_HEALPOWER_FLAT_TEXT]를 {0}만큼 증가시키며 모든 파티원의 [ATTRIBUTE_BASE_DAMAGE_TEXT]를 {1} 증가시킵니다
+SKILL_VITALIZE_SHORT_DESC=[SKILL_VITALIZE_DESC]
+
 SKILL_NATURE_GIFT_NAME=자연의 선물
 SKILL_NATURE_GIFT_DESC=모든 파티원을 지속적으로 소량 치유
 SKILL_NATURE_GIFT_SHORT_DESC=[SKILL_NATURE_GIFT_DESC]
 
 SKILL_RESTORATION_NAME=가이아의 축복
-SKILL_RESTORATION_DESC=대상에게 버퍼를 주고 적당 지속시간 동안 대상의 모든 수치를 약간 증가시킵니다
+SKILL_RESTORATION_DESC=대상에게 버프를 주고 적당 지속시간 동안 대상의 모든 스탯을 약간 증가시킵니다
 SKILL_RESTORATION_SHORT_DESC=적당량의 지속시간 동안 모든 통계를 증가시키는 버프
 
 SKILL_RESTORATION_TOTEM_NAME=회복 토템
@@ -101,7 +106,7 @@ SKILL_STAR_CALL_DESC=대상 적에게 적당량 [ATTRIBUTE_ICE_DAMAGE]를 주는
 SKILL_STAR_CALL_SHORT_DESC=별을 소환해 현재 대상에 피해를 줍니다
 
 SKILL_IRON_VINES_NAME=강철 덩굴
-SKILL_IRON_VINES_DESC=타겟에게 버프를 걸어 짧은 지속시간 동안 모든 피해를 줄입니다
+SKILL_IRON_VINES_DESC=타겟에게 버프를 걸어 짧은 시간 동안 모든 피해를 감소시킵니다
 SKILL_IRON_VINES_SHORT_DESC=짧은 지속시간 동안 모든 피해를 줄여주는 버프 
 
 SKILL_ANCIENT_ROOTS_NAME=고대의 뿌리
@@ -109,7 +114,7 @@ SKILL_ANCIENT_ROOTS_DESC=모든 파티원에게 미치는 지속적인 모든 �
 SKILL_ANCIENT_ROOTS_SHORT_DESC=[SKILL_ANCIENT_ROOTS_DESC]
 
 SKILL_COMBUSTION_NAME=연소
-SKILL_COMBUSTION_DESC=독보적인 버프와 오라의 수에 따라 모든 아군을 치료하고 주변 지역의 모든 적에게 [ATTRIBUTE_FIRE_DAMAGE]를 줍니다. <br><br>치명적 타격 가능
+SKILL_COMBUSTION_DESC=모든 아군을 치료하고 주변 지역의 모든 적에게 [ATTRIBUTE_FIRE_DAMAGE]를 줍니다<br>피해와 회복은 <br>자신에게 있는 고유의 버프와 오라의 수를 기반으로 합니다 <br><br>치명타 가능
 SKILL_COMBUSTION_SHORT_DESC=[SKILL_COMBUSTION_DESC]
 SKILL_COMBUSTION_UPGRADE_DESC=각 버프/오라가 회복량을 {0}% 증가시키고 데미지를 {1}% 증가시킵니다
 
@@ -150,8 +155,8 @@ SKILL_BANISH_DESC=적을 저주하여 짧은 지속시간 동안 피해량을 �
 SKILL_BANISH_SHORT_DESC=적을 저주하고, 그들의 [ATTRIBUTE_ALL_DAMAGE_DEALT]를 줄입니다
 
 SKILL_SHADOW_RIPPLE_NAME=그림자 물결
-SKILL_SHADOW_RIPPLE_DESC=빠르고 효율적인 회복. 그러나 과열 시 마나가 5배 소모됩니다
-SKILL_SHADOW_RIPPLE_SHORT_DESC=빠르고 효율적인 치유지만 과열 시 더 많은 마나가 소모됩니다
+SKILL_SHADOW_RIPPLE_DESC=빠르고 효율적인 회복. 그러나 대상을 초과회복시 시 마나가 5배 소모됩니다
+SKILL_SHADOW_RIPPLE_SHORT_DESC=빠르고 효율적인 치유지만 초과회복시 더 많은 마나가 소모됩니다
 
 SKILL_MIND_RUSH_NAME=마인드 러시
 SKILL_MIND_RUSH_DESC=대상에게 버퍼를 주어 치유력을 높이고 대상의 진행 중인 주문을 중단 효과에 영향을 받지 않게 합니다
@@ -162,7 +167,7 @@ SKILL_DEMONIC_CONTRACT_DESC=마나를 대가로 파티원의 체력 일부를 �
 SKILL_DEMONIC_CONTRACT_SHORT_DESC=마나 회복을 위해 파티원 전원 체력의 일부를 희생합니다
 
 SKILL_VOID_ZONE_NAME=보이드 존
-SKILL_VOID_ZONE_DESC=아래에 다크존을 생성하면 해당 구역 내의 모든 파티원은 더 많은 피해를 입지만 회복은 덜 받게 됩니다
+SKILL_VOID_ZONE_DESC=아래에 다크존을 생성합니다. 해당 구역 내의 모든 파티원은 더 많은 피해를 입지만 회복은 덜 받게 됩니다
 SKILL_VOID_ZONE_SHORT_DESC=[ATTRIBUTE_ALL_DAMAGE_DEALT]는 증가시키고 [ATTRIBUTE_HEALING_RECEIVED]은 감소시키는 존
 
 SKILL_DIVINE_MEND_NAME=신성한 호전
@@ -194,7 +199,7 @@ SKILL_HAMMER_OF_RECKONING_SHORT_DESC=대상에 [ATTRIBUTE_PHYSICAL_DAMAGE]를 �
 SKILL_HAMMER_OF_RECKONING_EFFECT_DESC=사용된 [SKILL_SEAL_OF_LIGHT_NAME]당 효과 증가: {0}
 
 SKILL_SANCTUARY_NAME=성소
-SKILL_SANCTUARY_DESC=궁극의 신성한 성소로 대상에게 축복 상태로 만들어줍니다. 짧은 지속시간 동안 어떤 데미지에도 완전히 면역이 되도록 합니다
+SKILL_SANCTUARY_DESC=궁극의 신성한 성소로 대상에게 단기간 동안 어떠한 손상에도 완전히 면역이 되도록 만들어줍니다
 SKILL_SANCTUARY_SHORT_DESC=면역 방패로 대상에게 축복 상태로 만듭니다
 
 SKILL_RADIANCE_NAME=광휘
@@ -202,17 +207,17 @@ SKILL_RADIANCE_DESC=[TALENT_RING_OF_INFLUENCE_NAME]를 토글하여 2초마다 �
 SKILL_RADIANCE_SHORT_DESC=[TALENT_RING_OF_INFLUENCE_NAME]를 토글하여 치유하지만 마력을 소모합니다
 
 SKILL_DIVINE_FOCUS_NAME=신성한 집중
-SKILL_DIVINE_FOCUS_DESC=집중 상태로 들어가면 다음 번 팔라딘 주문은 상당히 강력해지고 마력도 들지 않습니다 <br><br>버프를 소모하면 [SKILL_DIVINE_FOCUS_NAME]의 재사용 대기시간이 시작됩니다
+SKILL_DIVINE_FOCUS_DESC=집중 상태로 들어갑니다. 다음 번 팔라딘 주문은 상당히 강력해지고 마력도 들지 않습니다 <br><br>버프를 소모하면 [SKILL_DIVINE_FOCUS_NAME]의 재사용 대기시간이 시작됩니다
 SKILL_DIVINE_FOCUS_SHORT_DESC=다음 팔라딘 주문은 더 강력해 질 것이며 <br>[ATTRIBUTE_MANA_COST]는 없을 것입니다
 
 SKILL_DIVINE_FOCUS_DIVINE_MEND_DESC=[SKILL_DIVINE_MEND_NAME] - 즉시 시전되어 {0}만큼 회복량이 높아집니다
 SKILL_DIVINE_FOCUS_SEAL_DESC=[SKILL_SEAL_OF_LIGHT_NAME] - 지속시간이 {0}초 증가하고 대신 모든 파티원에게 영향을 줍니다
-SKILL_DIVINE_FOCUS_INFUSION_DESC=[SKILL_SACRED_INFUSION_NAME] - 고취된 대상에게 행해진 모든 단일 대상 치유를 통해 다른 모든 파티원을 치유할 수 있습니다. [SKILL_SACRED_INFUSION_NAME] 비율의 50%를 사용합니다
+SKILL_DIVINE_FOCUS_INFUSION_DESC=[SKILL_SACRED_INFUSION_NAME] - 고취된 대상에게 행해진 모든 단일 대상 치유를 통해 [SKILL_SACRED_INFUSION_NAME] 비율의 50%를 사용하여 다른 모든 파티원을 치유할 수 있습니다
 SKILL_DIVINE_FOCUS_HAMMER_DESC=[SKILL_HAMMER_OF_RECKONING_NAME] - 잃은 마나의 {0} 회복합니다
 
 SKILL_CATACLYSM_NAME=격변
 SKILL_CATACLYSM_DESC=없음
-SKILL_RAPID_SHOT_NAME=신속한 화살
+SKILL_RAPID_SHOT_NAME=속사포
 SKILL_RAPID_SHOT_TOWER_DESC=현재 대상을 향해 6발의 화살을 발사하여, <br><br>각각 사전자의 [ATTRIBUTE_TOTAL_DAMAGE_TEXT] 중 {0}%를 [ATTRIBUTE_PHYSICAL_DAMAGE]를 주고 [ATTRIBUTE_CRITICAL_STRIKE_CHANCE_TEXT] 중 80%를 보유합니다. <br><br>피해량은 [SKILL_TAG_OFFENSIVE] [CONTEXT_SCROLL]당 {1}%씩 증가합니다. <br><br>재사용 대기시간은 [SKILL_TAG_UTILITY] [CONTEXT_SCROLL]당 {2}초씩 줄어듭니다
 SKILL_INSPIRE_NAME=인스파이어
 SKILL_INSPIRE_TOWER_DESC=파티원 전원에게 {0}의 체력 재생 및 [ATTRIBUTE_ALL_DAMAGE_DEALT] 중 {1}%씩 증가 <br><br>재생 효과가 [SKILL_TAG_DEFENSIVE] [CONTEXT_SCROLL]당 {2}%씩 증가 <br><br>피해 효과가 [SKILL_TAG_OFFENSIVE] [CONTEXT_SCROLL]당 {3}%씩 증가 <br><br>지속시간이 [SKILL_TAG_UTILITY] [CONTEXT_SCROLL]당 {4}초씩 증가합니다
@@ -654,7 +659,7 @@ SKILL_MADNESS_SWIPE_DESC=맹렬히 휘두르며 다수의 파티원에게 피해
 SKILL_CURSE_TORMENT_NAME=저주의 고통
 SKILL_CURSE_TORMENT_DESC=크게 포효하여 대상에 막대한 [ATTRIBUTE_NEMESIS_DAMAGE]를 줍니다. 라이칸들에게는 상당히 적은 피해를 줍니다
 SKILL_SEALED_FATE_NAME=운명의 인장
-SKILL_SEALED_FATE_DESC=대상에 운명의 인장을 씌워 기절시키며, 지속적으로 [ATTRIBUTE_NEMESIS_DAMAGE]를 줍니다. <br><br>힐러가 라이칸인 경우에만 디스펠 할 수 있습니다
+SKILL_SEALED_FATE_DESC=대상에 운명의 인장을 씌워 기절시키며, 지속적으로 [ATTRIBUTE_LIGHTNING_DAMAGE]를 줍니다. <br><br>힐러가 라이칸인 경우에만 디스펠 할 수 있습니다
 SKILL_ENOUGH_IS_ENOUGH_NAME=더 이상은 안된다
 SKILL_ENOUGH_IS_ENOUGH_DESC=러셔록스는 파티에서 라이칸의 저주를 몰아낼 뿐만 아니라 그의 진정한 힘을 발휘합니다
 SKILL_BLOOD_THIRSTY_BITE_NAME=피에 굶주린 물기

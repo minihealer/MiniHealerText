@@ -500,4 +500,6 @@ UI_TRANSMOG_DEFAULT=기본 값
 UI_SHOW_COMBAT_LOG=전투 기록 보기
 UI_SHOW_EXTRA_DETAIL=추가 전투 정보 표시
 
+UI_BETA_DESC=주의, 안정적이지 않고 아직 완전히 테스트되지 않은 새로운 기능이 포함된 베타버전의 게임을 플레이 중입니다
+
 END

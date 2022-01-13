@@ -459,7 +459,7 @@ EFFECT_ANARCHY_ENEMY_NAME=Anarchy Effect [0]
 EFFECT_ANARCHY_ENEMY_DESC_0=Siphon Life damage increased
 EFFECT_HEALTH_LINK_NAME=Health Link Effect [1]
 EFFECT_HEALTH_LINK_DESC_0=Environmental [5]
-EFFECT_HEALTH_LINK_DESC_1=Every 13 seconds heal the boss with the lowest health
+EFFECT_HEALTH_LINK_DESC_1=Every 13 seconds heal the golem with the lowest health
 EFFECT_HEALTH_LINK_DESC_2=to be the same as the one with the highest health
 
 EFFECT_HEALTH_LINK_SKILL_DESC=Every few seconds the 2 golems synchronize their health together, healing the one with the lower health to be the same health as the other one

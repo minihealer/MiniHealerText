@@ -4,6 +4,13 @@ ARMORY_LOADOUT=장비 세팅
 ARMORY_POSSIBLE_AUGMENTATIONS=가능한 증강
 ARMORY_POSSIBLE_MUTATIONS=가능한 변형
 
+ARMORY_POSSIBLE_REROLL_ATTRIBUTES=가능한 속성 정보
+ARMORY_POSSIBLE_REROLL_ATTRIBUTES_RULE=롤 규칙
+ARMORY_ROLL_RULE_INTRINSTIC={0} {1}은(는) 반드시 다음 풀의 속성이 1개 있어야 합니다
+ARMORY_ROLL_RULE_MAX={0} {1}은(는) 다음 풀의 속성이 최대 x개까지 있을 수 있습니다. (x는 아이템의 속성 수를 반으로 나눈 후 올림한 수)
+ARMORY_ROLL_RULE_MAX_TALENT_LEVEL={0} {1}은(는) 최대 {2} 이상의 특성 레벨의 속성을 가질 수 있습니다
+ARMORY_ROLL_RULE_FREE={0} {1}은(는) 일반적으로 다음 속성들을 롤 할 수 있습니다
+
 ARMORY_UNEQUIP_ALL=모든 아이템 <br>장착 해제
 ARMORY_SELL_ALL_UNCOMMON=모두 판매 <br>고급
 ARMORY_SELL_ALL_NON_FAV=모두 판매 <br>즐겨찾기가 아님
@@ -40,6 +47,7 @@ ARMORY_FILTERS_AUGMENTED=증강됨
 ARMORY_FILTERS_HAS_SOCKETS=소켓가능
 ARMORY_FILTERS_UPGRADED=강화됨
 ARMORY_FILTERS_MUTATED=변형됨
+ARMORY_FILTERS_FAVORITED=즐겨찾기됨
 
 ARMORY_REROLL_AUGMENT_DESC=잠금을 원하는 증강을 선택하세요. <br>증강을 잠금하시면 리롤 비용이 증가합니다. <br>재증강 중에는 잠금한 증강이 리롤되지 않습니다
 ARMORY_UPGRADE_AUGMENT_DESC=[MATERIAL_THE_MAKER_NAME]을(를) 사용하여 확장 기능을 다음 티어로 증강
