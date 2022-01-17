@@ -140,7 +140,7 @@ UI_ART_ATLAS_DROPPED_BY=Dropped by: {0}
 UI_ART_ATLAS_DIFFICULTY=Difficulty
 UI_ART_ATLAS_DROP_CHANCE=Drop chance: {0}%
 UI_ART_ATLAS_ZONE=Zone: {0}
-UI_ART_ATLAS_DIVINE_ACQUIRE=Can be acquired by letting Torram divining {0} or purchase with [MATERIAL_DIVINATION_SPHERE_NAME] here
+UI_ART_ATLAS_DIVINE_ACQUIRE=Can be acquired by letting Torram divine {0} or purchase with [MATERIAL_DIVINATION_SPHERE_NAME] here
 UI_ART_ATALS_PURCHASE_LOCK=Defeat the chaotic version of the boss to unlock
 
 UI_ART_ATLAS_TUT_TITLE=The <color=#B58300FF>Atlas</color> contains lots of information about all items in the game

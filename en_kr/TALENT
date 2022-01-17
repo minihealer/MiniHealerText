@@ -421,7 +421,7 @@ TALENT_RESILIENCE_NAME=탄력
 TALENT_BULWARK_NAME=방어벽
 
 TALENT_BLESSED_SPIRIT_NAME=축복받은 영혼
-TALENT_BLESSED_SPIRIT_DESC=모든 단일 대상에 대한 효과와 비회복 지속 회복 스킬을 {0}% 증가시킵니다<br><br>모든 버프 스킬의 효과를 {0}%만큼 증가시킵니다
+TALENT_BLESSED_SPIRIT_DESC=모든 단일 대상에 대한 효과와 비지속 회복 스킬을 {0}% 증가시킵니다<br><br>모든 버프 스킬의 효과를 {0}%만큼 증가시킵니다
 
 TALENT_REDEMPTION_NAME=구원
 TALENT_REDEMPTION_DESC=[LINK_SKILL_DIVINE_MEND] 시전시 모든 후속 [LINK_SKILL_DIVINE_MEND]의 효과가 {0}%만큼 증가합니다 <br><br>[LINK_SKILL_DIVINE_MEND], [LINK_SKILL_DIVINE_FOCUS], [LINK_SKILL_DISPEL], [LINK_SKILL_NEGATE] 이외 주문 시전시 보너스가 손실됩니다
@@ -514,7 +514,7 @@ TALENT_ANCIENT_ROOTS_NAME=고대의 뿌리
 TALENT_ANCIENT_ROOTS_DESC=[LINK_SKILL_ANCIENT_ROOTS] 스킬 부여
 
 TALENT_WORSHIP_NAME=숭배
-TALENT_WORSHIP_DESC=모든 파티원은 {1}초마다 [ATTRIBUTE_INCREASE_HEALPOWER_FLAT_TEXT]의 {0}%에 해당하는 보호막을 얻습니다 <br><br>보호막은 {2}초간 지속됩니다
+TALENT_WORSHIP_DESC=모든 파티원은채널링 {1}초마다 [ATTRIBUTE_INCREASE_HEALPOWER_FLAT_TEXT]의 {0}%에 해당하는 보호막을 얻습니다 <br><br>보호막은 {2}초간 지속됩니다
 TALENT_WORSHIP_MASTERY_DESC=-1초 동안 [TALENT_WORSHIP_NAME]가 발동되어야 함
 
 TALENT_TRAIL_OF_FATE_NAME=운명의 길

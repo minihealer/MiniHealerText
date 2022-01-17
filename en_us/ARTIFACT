@@ -233,7 +233,7 @@ ARTIFACT_TOXIC_MAKER_DIVINE_NAME=[ARTIFACT_TOXIC_MAKER_NAME]
 ARTIFACT_SWORD_SUN_MOON_DIVINE_NAME=[ARTIFACT_SWORD_SUN_MOON_NAME]
 ARTIFACT_UNHOLY_STEEL_NAME=Unholy Steel
 ARTIFACT_EQUALITY_NAME=Equality
-ARTIFACT_SOLARFLARE_NAME=SolarFlare
+ARTIFACT_SOLARFLARE_NAME=Solarflare
 ARTIFACT_DRACULA_WILL_NAME=Dracula's Will
 ARTIFACT_MIASMA_NAME=Miasma
 ARTIFACT_LOYALTY_NAME=Loyalty
@@ -496,7 +496,7 @@ ARTIFACT_RUNEWORD_INTERVAL_DESC=+1 all skill level<sprite=8>
 ARTIFACT_RUNEWORD_CHAOS=Chaos
 ARTIFACT_RUNEWORD_CHAOS_DESC_0=Every {0}-{1} seconds a random party member will receive the current level of one buff from the following - [LINK_SKILL_RESTORATION] , [LINK_SKILL_TOUGHEN] , or [LINK_SKILL_MIND_RUSH]
 ARTIFACT_RUNEWORD_REWIND=Rewind
-ARTIFACT_RUNEWORD_REWIND_DESC=Refreshes all debuffs on all enemies everytime you channel a spell for {0} seconds.
+ARTIFACT_RUNEWORD_REWIND_DESC=Extends all debuff duration on all enemies by {0} seconds everytime you channel a spell for {1} seconds.
 ARTIFACT_RUNEWORD_GATHERINGSTORM=Gathering Storm
 ARTIFACT_RUNEWORD_GATHERINGSTORM_DESC=Gain a [ARTIFACT_RUNEWORD_GATHERINGSTORM] stack everytime a heal over time effect expires on any party member. <br><br>Trigger [LINK_TALENT_TYPHOON] and remove all stacks when reaching {0} stacks
 
@@ -653,7 +653,7 @@ ARTIFACT_SUPERNOVA_SPECIAL_DESC=Party members can not attack <br><br>[CONTEXT_PA
 ARTIFACT_FROZEN_HELL_SPECIAL_DESC=[LINK_TALENT_CATACLYSM] now deals {0} damage instead
 ARTIFACT_RAMPAGE_DIVINE_SPECIAL_DESC=[ARTIFACT_RAMPAGE_SPECIAL_DESC]
 ARTIFACT_REVENGE_SPECIAL_DESC=[CONTEXT_PARTY_MEMBER_NAME_HEALER] deals 15% more damage for 4 seconds every time she takes damage, stacks 3 times
-ARTIFACT_STARLIGHT_SPECIAL_DESC=[LINK_SKILL_STAR_CALL] can now critically strike <br>[LINK_SKILL_STAR_CALL] [ATTRIBUTE_CRITICAL_STRIKE_CHANCE_TEXT]/mulitplier is equal to the [CONTEXT_PARTY_MEMBER_NAME_HEALER]'s [ATTRIBUTE_CRITICAL_STRIKE_CHANCE_TEXT]/mulitplier
+ARTIFACT_STARLIGHT_SPECIAL_DESC=[LINK_SKILL_STAR_CALL] can now critically strike <br>[LINK_SKILL_STAR_CALL] [ATTRIBUTE_CRITICAL_STRIKE_CHANCE_TEXT]/mulitplier is equal to the caster's [ATTRIBUTE_CRITICAL_STRIKE_CHANCE_TEXT]/mulitplier
 ARTIFACT_NIGHTKISS_DIVINE_SPECIAL_DESC=Reduce the damage of [LINK_TALENT_RAPID_SHOT] by {0}% <br>[LINK_TALENT_RAPID_SHOT] deals [ATTRIBUTE_NEMESIS_DAMAGE] instead
 ARTIFACT_PROLONGED_PAIN_SPECIAL_DESC=[LINK_TALENT_POISON] now lasts {0} seconds instead
 ARTIFACT_SPRINTER_OF_THE_FOREST_SPECIAL_DESC=All party members gain {0}% dodge chance during [LINK_SKILL_REJUVENATE] Effect
@@ -823,7 +823,7 @@ ARTIFACT_EDGE_OF_ETERNITY_DIVINE_SPECIAL_DESC=[ARTIFACT_EDGE_OF_ETERNITY_SPECIAL
 ARTIFACT_EDGE_OF_TIME_DIVINE_SPECIAL_DESC=[ARTIFACT_EDGE_OF_TIME_SPECIAL_DESC]
 ARTIFACT_ETERNAL_WARS_DIVINE_SPECIAL_DESC=Everytime any party member takes damage, they have a {0}% chance of gaining {1}% damage reduction for {2} seconds
 
-ARTIFACT_NETHERLIGHT_SPECIAL_DESC=Casting [LINK_SKILL_NEGATE] will also trigger the following based on the number of [LINK_TALENT_POISON] stack on the target:
+ARTIFACT_NETHERLIGHT_SPECIAL_DESC=Casting [LINK_SKILL_NEGATE] will remove all [LINK_TALENT_POISON] stacks on the target and trigger the following based on the number of [LINK_TALENT_POISON] stack removed:
 ARTIFACT_NETHERLIGHT_DIVINE_SPECIAL_DESC=[ARTIFACT_NETHERLIGHT_SPECIAL_DESC]
 ARTIFACT_NETHERLIGHT_ANOMALY_1_DESC=Casting [LINK_SKILL_NEGATE] will also trigger the following based on the number of [LINK_TALENT_POISON] stack on the target:
 ARTIFACT_NETHERLIGHT_HEAL_DESC=Heal all party members for {0}% of [ATTRIBUTE_INCREASE_HEALPOWER_FLAT_TEXT] per stack
@@ -979,6 +979,6 @@ ARTIFACT_WALL_OF_PAIN_SPECIAL_DESC=Whenever [CONTEXT_PARTY_MEMBER_NAME_TANK] blo
 ARTIFACT_RING_OF_FELLOWSHIP_NAME=Ring of Fellowship
 ARTIFACT_RING_OF_FELLOWSHIP_SPECIAL_DESC=Whenever each respective party member triggers [LINK_TALENT_BLESSED_COMPANY] - <br>[CONTEXT_PARTY_MEMBER_NAME_TANK] increases [ATTRIBUTE_PHYSICAL_RESIST] of all party members instead <br>[CONTEXT_PARTY_MEMBER_NAME_RANGER] marks the target, increasing [ATTRIBUTE_ALL_DAMAGE_TAKEN] from [LINK_TALENT_BLESSED_COMPANY] by {0}% for {1} seconds. <br>[CONTEXT_PARTY_MEMBER_NAME_HEALER] also restores {2} mana <br>[CONTEXT_PARTY_MEMBER_NAME_BERZERKER] deals additional [ATTRIBUTE_FIRE_DAMAGE] damage to all enemies equal to {3}% of the combined all damage of other party members
 
-ARTIFACT_INFINITY_SPECIAL_DESC=[LINK_TALENT_INFECTED_ARMOR] now refereshes the duration of all buffs instead
+ARTIFACT_INFINITY_SPECIAL_DESC=[LINK_SKILL_ANCIENT_ROOTS] now refereshes the duration of all buffs instead
 
 END
