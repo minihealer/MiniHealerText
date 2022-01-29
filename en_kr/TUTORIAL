@@ -2,7 +2,7 @@ TUTORIAL_HAVEN_TTILE=<color=#B58300FF>숨겨진 은신처</color>에 어서 오�
 TUTORIAL_HAVEN_TALENT_TTILE=다른 특성과 재료에 대해 배우시려면 <color=#B58300FF>특성의 방</color>을 방문해보세요. <br><br><color=#858585>레벨이 오를 때마다 특성 포인트를 획득합니다</color>
 TUTORIAL_HAVEN_MUTZ=은신처에도 아이템들이 있는지 확인해보시고, 준비가 되면 <color=#B58300FF>머츠</color>에게 말을 걸어보세요
 
-TUTORIAL_DESC_TALENT_TITLE=탤런트는 파티에 강한 보상이 됩니다.
+TUTORIAL_DESC_TALENT_TITLE=탤런트는 파티에 강한 이득이 됩니다.
 TUTORIAL_DESC_TALENT_UPGRADE=좌클릭으로 특성을 선택하세요. 그런 다음 좌클릭/우클릭을 하여 레벨을 올리거나 내리세요
 TUTORIAL_DESC_TALENT_UPGRADE_MANUAL=이 버튼으로도 레벨을 올리거나 내릴 수 있습니다
 TUTORIAL_DESC_TALENT_CLASSES=미니힐러에는 4가지 주요 직업 클래스가 있으며 각각 장단점이 있습니다
@@ -55,22 +55,22 @@ TUTORIAL_CURSE_CRAFT=<color=#FF911F>토람</color>은 이제 <color=#FF911F>저�
 TUTORIAL_CURSE_PURCHASE=<color=#FF911F>저주받은 영혼</color>을 사용하여 <color=#FF911F>Atlas</color>에서 본 대부분의 아이템을 구매할 수 있습니다
 
 TUTORIAL_BEATING_GAME=가디언들을 물리치고 미니힐러를 클리어하신 것을 축하합니다! 원하시는 바에 따라 다음과 같은 게임 모드로 자유롭게 도전할 수 있습니다. 
-TUTORIAL_BEATING_GAME_DEPTH=만약 최대/최소화 하고 싶다고 하면 심연에서 <color=#B58300FF>무한의 열쇠</color>를 사용하여 도전하고 얼마나 갈 수 있는지 보세요!
+TUTORIAL_BEATING_GAME_DEPTH=만약 당신의 빌드를 최적화/극대화 하고 싶다고 하면 심연에서 <color=#B58300FF>무한의 열쇠</color>를 사용하여 도전하고 얼마나 갈 수 있는지 보세요!
 TUTORIAL_BEATING_GAME_TOWER=만약 여러분이 약간의 로그라이크를 경험해보고 싶다면 [LOCATION_HIDDEN_HAVEN]에서 <color=#B58300FF>[CONTEXT_NPC_NAME_ANAPIEL]</color>과 대화하고 <color=#B58300FF>[LOCATION_AIRENE_TOWER]</color>으로 가세요!
 
 
-TUTORIAL_BATTLE_SELECT_CHARACTER_0=우리 탱커가 피해를 입은 것 같아요. 치료해요!
+TUTORIAL_BATTLE_SELECT_CHARACTER_0=우리 탱커가 피해를 입은 것 같아요. 힐 한번 해볼까요!
 TUTORIAL_BATTLE_SELECT_CHARACTER_1=우선, 초상화 또는 체력표시줄을 클릭하여 <color=#B58300FF>선택하세요</color>
 TUTORIAL_BATTLE_SELECT_CHARACTER_2=Q,W,E,R 키를 눌러 다른 파티원을 선택할 수 있습니다
 
 TUTORIAL_BATTLE_SELECT_SPELL_0=잘하셨어요! 이제 그에게 첫 주문인 <color=#ea8631>소량 치료</color>를 시전해보세요!
 TUTORIAL_BATTLE_SELECT_SPELL_1=주문이나 아이콘 위에 <color=#ea8631>마우스를 올려</color> 놓으면 무엇인지 표시됩니다. <br>그런 다음<color=#ea8631>1</color>을 눌러 탱커에게 시전하세요!
 
-TUTORIAL_BATTLE_MANA_0=다 고쳐졌어요! 그게 알아야하는 전부일 겁니다. <br>해골 기사를 물리치고 납골당으로 들어가세요.
+TUTORIAL_BATTLE_MANA_0=다 고쳐졌어요! 그것만 명심하시면 충분합니다. <br>해골 기사를 물리치고 납골당으로 들어가세요.
 TUTORIAL_BATTLE_MANA_1=마나를 다 소진하지 않도록 조심하세요. 그렇지 않으면 주문을 시전할 수 없습니다.
 
 TUTORIAL_BATTLE_RENEW_0=어랏, 탱커에게 출혈이 있는 것 같아요. 여기 도움이 될 새로운 스킬이 있으니 걱정하지 마세요!
-TUTORIAL_BATTLE_RENEW_1=<color=#ea8631>갱생이 잠금해제되었습니다!</color> <br>갱생은 다일 대상을 지속적으로 치유하는 데 유용합니다.<br><color=#ea8631>탱커</color>를 선택하고 <color=#ea8631>2</color>를 눌러 시전해보세요
+TUTORIAL_BATTLE_RENEW_1=<color=#ea8631>갱생이 잠금해제되었습니다!</color> <br>갱생은 단일 대상을 지속적으로 치유하는 데 유용합니다.<br><color=#ea8631>탱커</color>를 선택하고 <color=#ea8631>2</color>를 눌러 시전해보세요
 
 TUTORIAL_BATTLE_NEGATE_0=어떤 적들은 자신에게 강력한 버프를 시전하니 주의를 기울이고 필요하면 제거하세요.
 TUTORIAL_BATTLE_NEGATE_1=<color=#ea8631>무효화가 잠금해제되었습니다!</color> <br>무효화는 적에게 걸린 강력한 버프를 제거하는데 효과적입니다. <br>적을 선택하고 <color=#ea8631>4</color>를 눌러 시전해보세요
@@ -87,8 +87,8 @@ TUTORIAL_ENV_EFFECT=때때로 추가적인 <color=#B58300FF>환경 영향</color
 
 TUTORIAL_DISPEL_WATCH_OUT=어떤 해로운 디퍼프도 걸리지 않게 조심하세요!
 TUTORIAL_DISPEL_HOVER=<color=#ea8631>각 디버프에 마우스를 대고 효과를 확인하세요</color>
-TUTORIAL_DISPEL_CAN_BE_DISPEL=<color=#ea8631>->디스펠 할 수 없습니다</color>
-TUTORIAL_DISPEL_CAN_NOT_BE_DISPEL=<color=#ea8631>->디스펠 할 수 없습니다</color>
+TUTORIAL_DISPEL_CAN_BE_DISPEL=<color=#ea8631>->디스펠 불가능</color>
+TUTORIAL_DISPEL_CAN_NOT_BE_DISPEL=<color=#ea8631>->디스펠 </color>
 TUTORIAL_DISPEL_UNLOCK=<color=#ea8631>디스펠이 잠금해제되었습니다!</color> <br><br>디스펠은 파티원에게 해로운 영향을 제거할 수 있습니다
 
 
