@@ -1,15 +1,15 @@
 QUEST_UI_TITLE=퀘스트
 
 QUEST_MAP_FRAG_MIDNIGHT_TITLE=미드나잇 존으로 이동
-QUEST_MAP_FRAG_MIDNIGHT_DESC=광기 세피터스를 처치하고 다음 지도 조각을 획득하세요
+QUEST_MAP_FRAG_MIDNIGHT_DESC=광기 난이도 세피터스를 처치하고 다음 지도 조각을 획득하세요
 QUEST_MAP_FRAG_SOUL_QUARTER_TITLE=소울 쿼터로 이동
-QUEST_MAP_FRAG_SOUL_QUARTER_DESC=잔혹 세피터스를 처치하고 다음 지도 조각을 획득하세요
+QUEST_MAP_FRAG_SOUL_QUARTER_DESC=잔혹 난이도 세피터스를 처치하고 다음 지도 조각을 획득하세요
 QUEST_MAP_FRAG_BIO_QUARTER_TITLE=바이오 쿼터로 이동
 QUEST_MAP_FRAG_BIO_QUARTER_DESC=광기 난이도 거울을 처치하고 다음 지도 조각을 획득하세요
 QUEST_MAP_FRAG_DINING_HALL_TITLE=레벨 33에 도달
 QUEST_MAP_FRAG_DINING_HALL_DESC=레벨 33에 도달하여 머츠와 대화해 다음 지도 조각을 획득하세요
 QUEST_MAP_FRAG_OUTER_COURTYARD_TITLE=외부 뜰로 이동
-QUEST_MAP_FRAG_OUTER_COURTYARD_DESC=잔혹 아티엘 블랙셰이드를 처치하고 다음 지도 조각 획득
+QUEST_MAP_FRAG_OUTER_COURTYARD_DESC=잔혹 난이도 아티엘 블랙셰이드를 처치하고 다음 지도 조각 획득
 QUEST_FINISH_LOWMORE_TITLE=안쪽 뜰로 이동
 QUEST_FINISH_LOWMORE_DESC=로우모어의 보스의 방에서 승리하고 다음 지도 조각을 획득하세요
 QUEST_MAP_FRAG_INNER_COURTYARD_TITLE=구렁텅이의 열쇠 획득
