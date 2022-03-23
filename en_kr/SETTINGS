@@ -31,8 +31,8 @@ SETTINGS_WINDOWED_DESC=윈도우 모드와 전체화면 모드를 토글합니�
 SETTINGS_MUSIC=음악
 SETTINGS_SOUND=소리
 
-SETTINGS_MUTE_AUDIO_IN_BKG=맨 앞창이 아닐 때 음소거
-SETTINGS_MUTE_AUDIO_IN_BKG_DESC=옵션을 활성화 하면 게임 창이 최소화되거나 집중하고 있지 않을 때 음이 소거됩니다
+SETTINGS_MUTE_AUDIO_IN_BKG=창이 맨 위에 있지 않을 때 음소거
+SETTINGS_MUTE_AUDIO_IN_BKG_DESC=게임 창이 최소화되거나 비활성화 되었을 때 음소거됩니다
 
 SETTINGS_TARGET_FPS=FPS
 SETTINGS_TARGET_FPS_DESC=실행하길 원하는 FPS를 설정합니다. 60 FPS를 권장합니다.
@@ -43,35 +43,35 @@ SETTINGS_MILISEC_DESC=보스를 얼마나 빠르게 처치했는지 정확한 �
 SETTINGS_TALENT_HOVER=마우스를 올려서 특성 또는 스킬 선택
 SETTINGS_TALENT_HOVER_DESC=마우스 포인터에 있는 특성이나 스킬이 자동으로 선택되게 합니다
 
-SETTINGS_DISABLE_ITEM_HOVER=아이템 호버 툴팁 비활성화
-SETTINGS_DISABLE_ITEM_HOVER_DESC=옵션을 활성화 하면 마우스를 올려도 아이템 정보가 표시되지 않습니다
+SETTINGS_DISABLE_ITEM_HOVER=아이템 툴팁 비활성화
+SETTINGS_DISABLE_ITEM_HOVER_DESC=마우스를 올려도 아이템 정보가 표시되지 않게 합니다
 
 SETTINGS_ADDTIONAL_ARTIFACT_INFO=추가 아티팩트 정보 표시
 SETTINGS_ADDTIONAL_ARTIFACT_INFO_DESC=아이템의 총 수량 뿐만 아니라 속성의 티어도 표시합니다
 
 SETTINGS_ONLY_DMG_NUM=중요 피해 숫자만 표시
-SETTINGS_ONLY_DMG_NUM_DESC=보스들의 최대체력의 비율을 넘기는 피해만 표시합니다
+SETTINGS_ONLY_DMG_NUM_DESC=보스의 최대 체력 비율을 넘기는 피해만 표시합니다
 
-SETTINGS_ADDITIONAL_COMBAT_INFO=추가전투 정보 보기
-SETTINGS_ADDITIONAL_COMBAT_INFO_DESC=선택한 파티원의 현재 스탯뿐만 아니라 전투 중 선택한 적에 대한 정보를 표시합니다
+SETTINGS_ADDITIONAL_COMBAT_INFO=추가 전투 정보 보기
+SETTINGS_ADDITIONAL_COMBAT_INFO_DESC=선택한 파티원의 현재 스탯 뿐만 아니라 전투 중 선택한 적에 대한 정보를 표시합니다
 
 SETTINGS_AUTO_RESTART=자동 재시작
-SETTINGS_AUTO_RESTART_DESC=옵션을 활성화하면 전투를 5초 후 자동으로 재시작합니다. 자동 재시작을 취소하거나 인벤토리가 가득차면 중단됩니다
+SETTINGS_AUTO_RESTART_DESC=전투를 5초 후 자동으로 재시작합니다. 자동 재시작을 취소하거나 인벤토리가 가득 차면 중단됩니다
 SETTINGS_AUTO_RESTART_WITH_CHAOS=카오스 자동 재시작
-SETTINGS_AUTO_RESTART_WITH_CHAOS_DESC=이 옵션을 사용하도록 설정하면 동일한 양의 카오스 크리스탈로 자동 재시작합니다.
+SETTINGS_AUTO_RESTART_WITH_CHAOS_DESC=동일한 양의 카오스 크리스탈로 자동 재시작합니다.
 
 SETTINGS_QUICK_CAST=빠른 시전
 SETTINGS_QUICK_CAST_DESC=이 옵션을 선택하면 파티원이 마우스로 파티원을 가리킬 때 자동으로 선택됩니다.
 
 SETTINGS_KEYBINDINGS=키 조작
-SETTINGS_KEYBINDINGS_MOVE_LEFT=좌로 이동
-SETTINGS_KEYBINDINGS_MOVE_RIGHT=우로 이동
+SETTINGS_KEYBINDINGS_MOVE_LEFT=왼쪽으로 이동
+SETTINGS_KEYBINDINGS_MOVE_RIGHT=오른쪽으로 이동
 SETTINGS_KEYBINDINGS_JUMP=점프
 SETTINGS_KEYBINDINGS_SKILL_CAST=스킬 시전
 SETTINGS_KEYBINDINGS_CHARACTER_SELECT=캐릭터 선택
 
-SETTINGS_KEYBINDINGS_ENGAGE=개시
-SETTINGS_KEYBINDINGS_ENGAGE_DESC=전투 개시
+SETTINGS_KEYBINDINGS_ENGAGE=시작
+SETTINGS_KEYBINDINGS_ENGAGE_DESC=전투 시작
 SETTINGS_KEYBINDINGS_CANCEL_CAST=시전 취소
 SETTINGS_KEYBINDINGS_CANCEL_CAST_DESC=현재 시전된 주문 취소
 SETTINGS_KEYBINDINGS_SWITCH_TARGET=대상 변경
@@ -81,7 +81,7 @@ SETTINGS_SELECT_HOTKEYS_TO_CHANGE=변경할 바로가기 키를 선택하세요.
 SETTINGS_SELECT_HOTKEYS_ENTER_KEY=키를 입력하세요...
 
 
-SETTINGS_AUTO_ENGAGE=자동 전투개시
+SETTINGS_AUTO_ENGAGE=자동 전투 시작
 SETTINGS_AUTO_ENGAGE_DESC=불러와지면 자동으로 전투 시작
 
 SETTINGS_DISABLE_SCREENSHAKE=화면 흔들림 비활성화
@@ -114,7 +114,7 @@ SETTINGS_ALWAYS_USE_MAIN_TMOG_DESC=이렇게 되면 아이린 타워에 있는 �
 
 SETTINGS_ACCESSIBILITY=접근성
 SETTINGS_ROUNDED_DEBUFFS_TITLE=디스펠/무효화 가능한 버프/디버프 둥글게 처리
-SETTINGS_ROUNDED_DEBUFFS_DESC=모든 디스펠 가능한 디퍼프 및 무효화 가능한 버프 모양이 원형인 반면, 디스펠/무효화 불가능한 디퍼프/버프의 모양은 정사각형으로 유지됩니다
+SETTINGS_ROUNDED_DEBUFFS_DESC=디스펠/무효화 할 수 있는 모든 버프/디버프들을 원형으로 보이게 합니다. 디스펠/무효화가 불가능할 경우 정사각형으로 보입니다.
 
 SETTINGS_HIDDEN_YOU_NAME=힐러의 이름에서 (당신)을 제거합니다
 SETTINGS_HIDDEN_YOU_DESC=끝에 붙는 (당신)이 가려집니다
