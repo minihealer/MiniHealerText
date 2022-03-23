@@ -29,7 +29,7 @@ SETTINGS_WINDOWED=윈도우 모드
 SETTINGS_WINDOWED_DESC=윈도우 모드와 전체화면 모드를 토글합니다. 전체화면 해상도는 현재 시혐 단계입니다.
 
 SETTINGS_MUSIC=음악
-SETTINGS_SOUND=사운드
+SETTINGS_SOUND=소리
 
 SETTINGS_MUTE_AUDIO_IN_BKG=맨 앞창이 아닐 때 음소거
 SETTINGS_MUTE_AUDIO_IN_BKG_DESC=옵션을 활성화 하면 게임 창이 최소화되거나 집중하고 있지 않을 때 음이 소거됩니다
