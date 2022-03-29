@@ -24,3 +24,9 @@ whitecafe(or community as a whole) updates en_cn_s -> doge(or community as a who
 All rights reserved to 💪Sad Doge<br />
 Feel free to submit Issue for error, remind updating...etc. Or put up a PR here! 🚀 <br />
 Any contribution is greatly appreciated 🙏, don't hesitate to reach out if you want your name to appear in the game!<br />
+
+
+
+## Alternative Localization Tracker (WIP)
+Good old Google Sheet!
+https://docs.google.com/spreadsheets/d/1U1jVfTqTyFTtBWwMcx_a9bvJ-LZGFnbS8KIiBskxMCE/edit#gid=496338580
