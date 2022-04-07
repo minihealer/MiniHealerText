@@ -1,0 +1,101 @@
+RUNE_REQUIREMENT_DESC=Can only augment skills with {0} tags
+RUNE_INCOMPATIBLE_TAG_DESC=Can not augment skills with {0} tags
+RUNE_MANA_COST_MULTI_DESC=Increase augmented skill's mana cost by {0}%
+
+RUNE_HEALING_NAME=Rune of Healing
+RUNE_HEALING_DESC=Augmented skill heals {0}% more
+
+RUNE_GREATER_HEALING_NAME=Rune of Greater Healing
+RUNE_GREATER_HEALING_DESC=[RUNE_HEALING_DESC]
+
+RUNE_DECREASE_COOLDOWN_NAME=Rune of Decreased Cooldown
+RUNE_DECREASE_COOLDOWN_DESC=Decrease the base cooldown of the augmented skill by {0} seconds
+
+RUNE_ECHO_NAME=Rune of Echo
+RUNE_ECHO_DESC=Augmented skill has a {0}% chance to be casted twice on a random target or random location
+
+RUNE_INCREASE_DURATION_NAME=Rune of Increased Duration
+RUNE_INCREASE_DURATION_DESC=Increase the duration of the augmented skill by {0}%
+
+RUNE_WIDEN_NAME=Rune of Widen
+RUNE_WIDEN_DESC=Increase the area of effect radius of the augmented skill by {0}%
+
+RUNE_RECHARGE_NAME=Rune of Recharge
+RUNE_RECHARGE_DESC=Augmented skill cooldown {0}% faster when caster is on full life
+
+RUNE_MALICE_NAME=Rune of Malice
+RUNE_MALICE_DESC=Reduce the cooldown of augmented skill by {0} seconds whenever the caster's auto attacks critically strike
+
+RUNE_LIFE_OFFERING_NAME=Rune of Life Offering
+RUNE_LIFE_OFFERING_DESC=Augmented skill costs {0}% of [CONTEXT_PARTY_MEMBER_NAME_HEALER]'s [ATTRIBUTE_MAXIMUM_HEALTH] to cast instead of mana
+
+RUNE_MANA_BATTERY_NAME=Rune of Mana Battery
+RUNE_MANA_BATTERY_DESC=After you spent {0} mana with the augmented skill. Gain a buff that restores {1} mana per second for {2} seconds
+
+RUNE_PARTNERSHIP_NAME=Rune of Partnership
+RUNE_PARTNERSHIP_DESC=Augmented skill heals {0}% more on [CONTEXT_PARTY_MEMBER_NAME_TANK]. <br><br>Augmented skill heals {1}% less on all other party members
+
+RUNE_PROTECTION_NAME=Rune of Protection
+RUNE_PROTECTION_DESC=Augmented skill now shields the target for the same amount for {0} seconds instead of heals
+
+RUNE_VAMPIRISM_NAME=Rune of Vampirism
+RUNE_VAMPIRISM_DESC=Augmented skill heals the caster for {0}% of the damage dealt. <br><br>Increase the cooldown of the augmented skill by {1} seconds
+
+RUNE_MIGHT_NAME=Rune of Might
+RUNE_MIGHT_DESC=Augmented skill also grant 2 [LINK_MIGHT] stack to the caster when cast  <br><br>This effect can only happen every {0} seconds
+
+RUNE_FAITH_NAME=Rune of Faith
+RUNE_FAITH_DESC=Augmented skill also grant 2 [LINK_FAITH] stack to the caster when cast <br><br>This effect can only happen every {0} seconds
+
+RUNE_SWIFTNESS_NAME=Rune of Swiftness
+RUNE_SWIFTNESS_DESC=Increase the tick rate of the augmented skill by {0}%
+
+RUNE_CHANNELLING_NAME=Rune of Channelling
+RUNE_CHANNELLING_DESC=Automatically cast the augmented skill if it is off cooldown whenever [CONTEXT_PARTY_MEMBER_NAME_HEALER] channels for a total of {0} seconds. <br><br>Reduce the cooldown of agumented skill by {1}% <br><br>Augmented spell can no longer be casted manually
+
+RUNE_FLOW_NAME=Rune of Flow
+RUNE_FLOW_DESC=When the buff/debuff of the augmented skill expires, it will transfer to another random party member/enemy. <br><br>The effect can only happen once
+
+RUNE_BRUTALITY_NAME=Rune of Brutality
+RUNE_BRUTALITY_DESC=Augmented skill deals {0}% more damage <br><br>Silences the [CONTEXT_PARTY_MEMBER_NAME_HEALER] for {1} seconds whenever augmented skill is cast
+
+RUNE_DESTRUCTION_NAME=Rune of Destruction
+RUNE_DESTRUCTION_DESC=Augmented skill also reduces target's [ATTRIBUTE_ALL_RESISTS_TEXT] by {0}% for {1} seconds
+
+RUNE_FOCUS_NAME=Rune of Focus
+RUNE_FOCUS_DESC=Reduce augmented skill's mana cost by {0}%
+
+RUNE_NULLIFICATION_NAME=Rune of Nullification
+RUNE_NULLIFICATION_DESC=Augmented skill is no longer affected by increase in mana cost effect from [MATERIAL_RUNE_NAME]
+
+RUNE_FURY_NAME=Rune of Fury
+RUNE_FURY_DESC=Augmented skill will consume all [LINK_MIGHT] stacks on the caster and deals {0}% more damage per stack consumed
+
+RUNE_OVERPOWER_NAME=Rune of Overpower
+RUNE_OVERPOWER_DESC=Damage dealt from augmented skill can no longer be dodged or blocked
+
+RUNE_FERVOR_NAME=Rune of Fervor
+RUNE_FERVOR_DESC=Augmented skill has no cast time <br><br>Increase augmented skill's cooldown by {0} seconds
+
+RUNE_CULTIVATION_NAME=Rune of Cultivation
+RUNE_CULTIVATION_DESC=Augmented skill no longer overheals
+
+RUNE_RAGE_NAME=Rune of Rage
+RUNE_RAGE_DESC=Casting augmented skill grants caster a Rage stack <br><br>Caster's auto attacks will consume {0} Rage stacks and attack {1} additional times
+
+RUNE_RETALIATION_NAME=Rune of Retaliation
+RUNE_RETALIATION_DESC=Automatically cast the augmented skill whenever the caster takes a total damage equal to {0}% of their [ATTRIBUTE_MAXIMUM_HEALTH]. <br><br>Augmented spell can no longer be casted manually <br><br>This effect can only trigger every {1} seconds
+
+RUNE_DAZE_NAME=Rune of Daze
+RUNE_DAZE_DESC=Augmented skill deals {0}% less damage <br><br>Augmented skill applies 1 [LINK_DAZE] stack to the target for {1} seconds, stacks upto a maximum of {2} times
+
+RUNE_BULWARK_NAME=Rune of Bulwark
+RUNE_BULWARK_DESC=Augmented skill heals {0}% less <br><br>Augmented skill applies 1 [LINK_BULWARK] stack to the target for {1} seconds, stacks upto a maximum of {2} times
+
+RUNE_SERPENT_NAME=Rune of Serpent
+RUNE_SERPENT_DESC=Augmented skill heals and deals {0}% more healing and damage per {1} mana above 1000 <br><br>Permanently increase [ATTRIBUTE_MAXIMUM_MANA] by {2} everytime the augmented skill is cast. <br><br>This effect can only happen every {3} seconds
+
+RUNE_GLORY_NAME=Rune of Glory
+RUNE_GLORY_DESC=Augmented skill deals/heals no damage/healing if the caster is at 100% health, deals/heals up to {0}% the closer to 0% health the caster is. (Scales evenly)
+
+

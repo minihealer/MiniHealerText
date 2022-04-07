@@ -2,7 +2,7 @@ TUTORIAL_HAVEN_TTILE=<color=#B58300FF>숨겨진 은신처</color>에 어서 오�
 TUTORIAL_HAVEN_TALENT_TTILE=다른 특성과 재료에 대해 배우시려면 <color=#B58300FF>특성의 방</color>을 방문해보세요. <br><br><color=#858585>레벨이 오를 때마다 특성 포인트를 획득합니다</color>
 TUTORIAL_HAVEN_MUTZ=은신처에도 아이템들이 있는지 확인해보시고, 준비가 되면 <color=#B58300FF>머츠</color>에게 말을 걸어보세요
 
-TUTORIAL_DESC_TALENT_TITLE=탤런트는 파티에 강한 이득이 됩니다.
+TUTORIAL_DESC_TALENT_TITLE=탤런트는 파티에 강한 보상이 됩니다.
 TUTORIAL_DESC_TALENT_UPGRADE=좌클릭으로 특성을 선택하세요. 그런 다음 좌클릭/우클릭을 하여 레벨을 올리거나 내리세요
 TUTORIAL_DESC_TALENT_UPGRADE_MANUAL=이 버튼으로도 레벨을 올리거나 내릴 수 있습니다
 TUTORIAL_DESC_TALENT_CLASSES=미니힐러에는 4가지 주요 직업 클래스가 있으며 각각 장단점이 있습니다
@@ -87,7 +87,7 @@ TUTORIAL_ENV_EFFECT=때때로 추가적인 <color=#B58300FF>환경 영향</color
 
 TUTORIAL_DISPEL_WATCH_OUT=어떤 해로운 디버프도 걸리지 않게 조심하세요!
 TUTORIAL_DISPEL_HOVER=<color=#ea8631>각 디버프에 마우스를 대고 효과를 확인하세요</color>
-TUTORIAL_DISPEL_CAN_BE_DISPEL=<color=#ea8631>->디스펠 불가능</color>
+TUTORIAL_DISPEL_CAN_BE_DISPEL=<color=#ea8631>->해소할 수 있다</color>
 TUTORIAL_DISPEL_CAN_NOT_BE_DISPEL=<color=#ea8631>->디스펠 불가능</color>
 TUTORIAL_DISPEL_UNLOCK=<color=#ea8631>디스펠이 잠금해제되었습니다!</color> <br><br>디스펠은 파티원에게 해로운 영향을 제거할 수 있습니다
 

@@ -194,6 +194,7 @@ UI_SKILL_CAN_CRITICALLY_HEAL=Can critically heal
 
 UI_SKILL_SETUP_REACH_LEVEL_X_TO_UNLOCK=Reach level {0} to unlock
 
+UI_ENEMY_SKILL_MODAL_TITLE=<color=#B58300FF>Enemy Skills</color>
 
 
 UI_SKILL_SETUP_CURRENT_HEAL=Current healing: {0}
@@ -498,6 +499,7 @@ UI_TRANSMOG_DEFAULT=Default
 
 UI_SHOW_COMBAT_LOG=Show Combat Log
 UI_SHOW_EXTRA_DETAIL=Show Additional Combat Details
+UI_SHOW_ENEMY_SKILLS=Show Enemy Skills
 
 UI_BETA_DESC=Warning, you are playing the beta version of the game that may not be stable or contain new features that are not fully tested yet
 

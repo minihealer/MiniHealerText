@@ -5,7 +5,7 @@ ARMORY_POSSIBLE_AUGMENTATIONS=가능한 증강
 ARMORY_POSSIBLE_MUTATIONS=가능한 변형
 
 ARMORY_POSSIBLE_REROLL_ATTRIBUTES=가능한 속성 정보
-ARMORY_POSSIBLE_REROLL_ATTRIBUTES_RULE=롤 규칙
+ARMORY_POSSIBLE_REROLL_ATTRIBUTES_RULE=리롤 규칙
 ARMORY_ROLL_RULE_INTRINSTIC={0} {1}은(는) 반드시 다음 풀의 속성이 1개 있어야 합니다
 ARMORY_ROLL_RULE_MAX={0} {1}은(는) 다음 풀의 속성이 최대 x개까지 있을 수 있습니다. (x는 아이템의 속성 수를 반으로 나눈 후 올림한 수)
 ARMORY_ROLL_RULE_MAX_TALENT_LEVEL={0} {1}은(는) 최대 {2} 이상의 특성 레벨의 속성을 가질 수 있습니다

@@ -150,6 +150,7 @@ DEPTH_ROOM_DESC_MEVOR=Defeat [BOSS_MEVOR_SHORT_NAME] to acquire an anomalous wea
 DEPTH_ROOM_NAME_EDWIN=[BOSS_EDWIN_SHORT_NAME]'s Challenge
 DEPTH_ROOM_DESC_EDWIN=Defeat [BOSS_EDWIN_SHORT_NAME] to acquire an anomalous accessory
 
-
+DEPTH_NAME_CHAMPION=Vault of Champion
+DEPTH_DESCRIPTION_CHAMPION=Fight the champion of the old vault.
 
 END

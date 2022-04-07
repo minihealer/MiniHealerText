@@ -1,12 +1,13 @@
 AT_SECTION_NAME_LOW_GROUNDS=Section I: The Low Grounds
-AT_SECTION_NAME_MID_POINT=Section II: The Grand Height
+AT_SECTION_NAME_MID_POINT=Section II: The Mid Point
+AT_SECTION_NAME_GRAND_HEIGHT=Section III: The Grand Height
 
 AT_UI_MINOR_ENEMIES=Minor Enemies
 AT_UI_ELITES_ENEMIES=Elites
 AT_UI_MANA_OBLIESK=Mana Obelisk
 AT_UI_ATLAS=Tower Atlas
 AT_UI_SHOP=Shop
-AT_UI_SKILLDRAFT=Learn a new skill
+AT_UI_SKILLDRAFT=Choose a new skill
 AT_UI_ANA_OFFERING=[CONTEXT_NPC_NAME_ANAPIEL]'s Offering
 AT_UI_CHAOS_CRYSTAL=Chaos Crystal
 
@@ -19,6 +20,7 @@ AT_BLESSING_DESC=Grants additional stats bonus or special effects
 AT_ARTIFACT_DESC=Grants a random common artifact
 AT_ARTIFACT_ANCIENT_DESC=Select 1 ancient artifact
 AT_MANA_POTION_DESC=Restores {0}% of your [ATTRIBUTE_MAXIMUM_MANA]
+AT_RUNE_DESC=Can be socketed onto skills to greatly increase their effect
 
 AT_UI_VICTORY_TITLE=Victory!
 AT_UI_DEFEATED_TITLE=Defeated!
@@ -36,7 +38,6 @@ AT_UI_BLACKSMITH_EMPTY_TEXT=Select a scroll to upgrade
 
 AT_UI_TOWER_CHAOS_DESC=Increase the Chaos level <sprite=11> of the tower by adding Chaos attributes to it. <br>Every Chaos level will also increases the reward that the tower gives.
 
-
 AT_UI_TOWER_ATLAS_TITLE=Tower Atlas
 AT_UI_TOWER_ATLAS_DESC=Contains all information on what you will find in the tower
 AT_UI_TOWER_ATLAS_SEARCH_PLACEHOLDER=Enter text to search
@@ -44,7 +45,7 @@ AT_UI_TOWER_ATLAS_PICKED_DESC=You have picked this {0} {1} times
 AT_UI_TOWER_ATLAS_CURSED_DESC=You have been cursed by this {0} times
 
 AT_UI_SKILL_DRAFT_TITLE=Choose a Skill
-AT_UI_SKILL_DRAFT_DESC=Choose one of the following skills by dragging it to your skillbar
+AT_UI_SKILL_DRAFT_DESC=Choose one of the following skills
 
 AT_UI_SKILL_DRAFT_MAIN_TITLE=Choose Your Main Healing Skill
 
@@ -69,6 +70,10 @@ AT_UI_SCROLL_REROLL_DESC=Choose upto {0} scroll to reroll
 AT_UI_SCROLL_DRAFT_TITLE=Choose a Scroll
 AT_UI_SCROLL_DRAFT_DESC=Choose one of the following scrolls
 AT_UI_SCROLL_DRAFT_SKIP_DESC=Skip (+{0} <sprite=9> )
+AT_UI_SCROLL_DRAFT_SACRIFISE_SKIP_DESC=Skip to gain {0} [CONTEXT_SCROLLS]
+
+AT_UI_RUNE_DRAFT_TITLE=Choose a [MATERIAL_RUNE_NAME]
+AT_UI_RUNE_DRAFT_DESC=Choose one of the following [MATERIAL_RUNE_NAME]
 
 AT_UI_TINKERSPARK_SHOP=[CONTEXT_NPC_NAME_TORRI]'s Shop
 AT_UI_TINKERSPARK_DIALOG=My my...a customer! Everything's for sale here!
@@ -150,9 +155,8 @@ AT_AURA_MASTERY_DESC=All Auras no longer reduces maximum mana
 
 AT_DARK_MAGIC_DESC=+{0} [ATTRIBUTE_INCREASE_ALL_PHYSICAL_DAMAGE_FLAT_TEXT] per [SKILL_TAG_OFFENSIVE] scroll
 AT_SACRIFICE_DESC=You can now skip picking a [CONTEXT_BLESSING] and pick {0} [CONTEXT_SCROLLS] instead
-AT_SHADE_DOWNSIDE=[CONTEXT_SCROLLS] no longer provide health regeneration
 
-AT_EVERGREEN_DESC=-{0}% all skill cooldowns as well as all blessing cooldowns
+AT_EVERGREEN_DESC=-{0}% all blessing cooldowns
 
 AT_DIVINE_DECREE_DESC=Curses have {0}% less effect
 AT_OSMOSIS_DESC=+{0} seconds [LINK_SKILL_IRON_VINES] duration. <br><br>Whenever you cast [SKILL_IRON_VINES_NAME], you will also be affected by it.
@@ -170,7 +174,7 @@ AT_BLESSING_VOID_NAME=Void
 AT_BLESSING_VOID_DESC=Grants {0} [LINK_VOID_AURA]
 
 AT_BLESSING_PURIFICATION_NAME=Purification
-AT_BLESSING_PURIFICATION_DESC=Whenever a party member casts a skill. They will automatically consume all [LINK_MIGHT] and [LINK_FAITH] effects and heal themself for {0}% of their maximum life per stack consumed
+AT_BLESSING_PURIFICATION_DESC=Whenever a party member casts a skill. They will automatically consume all [LINK_MIGHT] and [LINK_FAITH] effects on themselvs to heal for {0}% of their maximum life per stack consumed
 
 AT_BLESSING_ANGELIC_EMBRACE_NAME=Angelic Embrance
 AT_BLESSING_ANGELIC_EMBRACE_DESC=Healing a party member below {0}% of health will grant you +{1}% [ATTRIBUTE_ALL_DAMAGE_DEALT] and +{2}% [ATTRIBUTE_HEALING_DONE] for {3} seconds
@@ -215,5 +219,7 @@ AT_BLESSING_REPLICA_DESC=Whenever a party member gains a stack of [LINK_MIGHT] o
 
 AT_BLESSING_SERPENTS_EMBRACE_NAME=Serpent's Embrace
 AT_BLESSING_SERPENTS_EMBRACE_DESC=Gain {0} [ATTRIBUTE_INCREASE_HEALPOWER_FLAT_TEXT] per {1} mana over {2} mana
+
+AT_BLESSING_PALADIN_REDEMPTION_NAME=Paladin's Redemption
 
 END

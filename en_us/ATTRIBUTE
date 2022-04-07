@@ -519,7 +519,7 @@ ATTRIBUTE_CHAOS_MOD_RELENTLESS_POST_TEXT=% cooldown reduction
 ATTRIBUTE_CHAOS_MOD_CLEAVE_TITLE=Cleave
 ATTRIBUTE_CHAOS_MOD_CLEAVE_PRE_TEXT=Auto attack now damages extra target
 ATTRIBUTE_CHAOS_MOD_EXPLOSIVE_TITLE=Explosive
-ATTRIBUTE_CHAOS_MOD_EXPLOSIVE_PRE_TEXT=Deals massive damage on death if it is not the last boss
+ATTRIBUTE_CHAOS_MOD_EXPLOSIVE_PRE_TEXT=Spawn an explosive orb that deals heavy [ATTRIBUTE_FIRE_DAMAGE] on death
 ATTRIBUTE_CHAOS_MOD_PACIFIED_TITLE=Pacified
 ATTRIBUTE_CHAOS_MOD_PACIFIED_PRE_TEXT=Stuns all enemies every 6 seconds for 2 seconds
 
