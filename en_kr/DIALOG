@@ -1,3 +1,4 @@
+
 DIALOG_QUEST_FREE_TORRAM_START_0=제 이름은 토람이고, 당신들과 비슷한 무리에 의해 여기 갇힌 적이 있습니다. 그들은 무기와 갑옷을 만들라고 나를 고문했어요.
 DIALOG_QUEST_FREE_TORRAM_START_1=이 감방에서 나갈 수 있게 도와주시면 더 좋은 장비를 만들 수 있도록 도와드리겠습니다.
 DIALOG_QUEST_FREE_TORRAM_START_2=이 셀을 열려면 열쇠가 필요합니다. <color=#B58300FF>소울 쿼터</color>에 있는 <color=#B58300FF>보통 난이도 거울</color>을 물리치십시오, 그들이 열쇠를 가지고 있을 겁니다.
@@ -72,8 +73,8 @@ DIALOG_MUZ_WELCOME_TO_VAULT_MUTZ_6=자, 다음 지도 조각은 <color=#B58300FF
 
 DIALOG_MUZ_WELCOME_TO_VAULT_MUTZ_COMPLETE_0=잘 했다! 소울 쿼터가 이제 지도에서 갈 수 있게 될거다!
 
-DIALOG_MUZ_MAP_FRAG_MIDNIGHT_START_0=보통 난이도 거울에게서도 지도 조각을 획득할 수 있으니 그것을 무찌르고 지도 조각을 다시 가져와라.
-DIALOG_MUZ_MAP_FRAG_MIDNIGHT_PENDING_0=어서 가거라, 보통 난이도 거울의 다음 지도 조각을 가져와.
+DIALOG_MUZ_MAP_FRAG_MIDNIGHT_START_0=광기 세피투스에게서 지도 조각을 획득할 수 있으니 그를 무찌르고 지도 조각을 다시 가져와라.
+DIALOG_MUZ_MAP_FRAG_MIDNIGHT_PENDING_0=어서 가거라, 광기 세피투스의 다음 지도 조각을 가져와.
 DIALOG_MUZ_MAP_FRAG_MIDNIGHT_COMPLETE_0=좋아! 지도에 추가해주마. 그럼... 됐다! 미드나잇 존이 이제 지도를 통해 이동할 수 있게 되었다!
 
 DIALOG_MUZ_MAP_FRAG_BIO_QUARTER_START_0=소울쿼터 안에는 거울이 있는데, 그 거울은 사람의 영혼을 복제해서 주인의 신체에 반하는 거울이지. 다음 지도 조각이 있을 거다.

@@ -180,7 +180,7 @@ AT_BLESSING_ANGELIC_EMBRACE_NAME=Angelic Embrance
 AT_BLESSING_ANGELIC_EMBRACE_DESC=Healing a party member below {0}% of health will grant you +{1}% [ATTRIBUTE_ALL_DAMAGE_DEALT] and +{2}% [ATTRIBUTE_HEALING_DONE] for {3} seconds
 
 AT_BLESSING_DIVINE_RESOLVE_NAME=Divine Resolve
-AT_BLESSING_DIVINE_RESOLVE_DESC=Whenever your shield fully absorbs, gain {0} mana back
+AT_BLESSING_DIVINE_RESOLVE_DESC=Whenever your shield fully absorbs, gain {0} mana back. This effect can only happen once every {1} seconds
 
 AT_BLESSING_REVERSAL_DESC=[ARTIFACT_RUNEWORD_REVERSAL_DESC] <br><br>Whenever a party member will gain a [LINK_FAITH] effect, they will gain a [LINK_MIGHT] effect instead. <br><br>Whenever a party member will gain a [LINK_MIGHT] effect, they will gain a [LINK_FAITH] effect instead.
 

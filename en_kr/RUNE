@@ -1,0 +1,102 @@
+RUNE_REQUIREMENT_DESC={0} 태그를 사용해 스킬을 향상시킬 수 있습니다
+RUNE_INCOMPATIBLE_TAG_DESC={0} 태그로 스킬을 향상시킬 수 없습니다
+RUNE_MANA_COST_MULTI_DESC=향상된 스킬의 마나 비용 {0}% 증가
+
+RUNE_HEALING_NAME=회복의 룬
+RUNE_HEALING_DESC=향상된 스킬은 {0}%를 더 회복합니다
+
+RUNE_GREATER_HEALING_NAME=대량 회복의 룬
+RUNE_GREATER_HEALING_DESC=[RUNE_HEALING_DESC]
+
+RUNE_DECREASE_COOLDOWN_NAME=재사용 대기시간 감소의 룬
+RUNE_DECREASE_COOLDOWN_DESC=향상된 스킬의 기본 재사용 대기시간이 {0}초 감소합니다
+
+RUNE_ECHO_NAME=메아리의 룬
+RUNE_ECHO_DESC=향상된 스킬은 무작위 대상 또는 무작위 위치에 두 번 시전될 확률이 {0}%입니다
+
+RUNE_INCREASE_DURATION_NAME=지속 시간 증가의 룬
+RUNE_INCREASE_DURATION_DESC=향상된 스킬의 지속 시간을 {0}% 증가시킵니다
+
+RUNE_WIDEN_NAME=확장의 룬
+RUNE_WIDEN_DESC=향상된 스킬의 효과 반경을 {0}% 증가시킵니다
+
+RUNE_RECHARGE_NAME=재충전의 룬
+RUNE_RECHARGE_DESC=시전자가 최대 체력일 때 향상된 기술의 재사용 대기시간이 {0}% 빨라집니다
+
+RUNE_MALICE_NAME=악의의 룬
+RUNE_MALICE_DESC=시전자의 자동 공격이 치명타일 때마다 향상된 스킬의 재사용 대기 시간이 {0}초 감소합니다
+
+RUNE_LIFE_OFFERING_NAME=생명 봉헌의 룬
+RUNE_LIFE_OFFERING_DESC=향상된 스킬 시전시 마나 대신 [CONTEXT_PARTY_MEMBER_NAME_HEALER]의 [ATTRIBUTE_MAXIMUM_HEALTH]의 {0}%을 소모합니다
+
+RUNE_MANA_BATTERY_NAME=마나 배터리의 룬
+RUNE_MANA_BATTERY_DESC=향상된 스킬 사용 후 {0}의 마나가 소모됩니다. {2}초 동안 초당 {1} 마나를 복원하는 버프를 획득합니다
+
+RUNE_PARTNERSHIP_NAME=파트너십의 룬
+RUNE_PARTNERSHIP_DESC=향상된 스킬은 [CONTEXT_PARTY_MEMBER_NAME_TANK]에게 {0}% 더 회복시킵니다. <br><br>향상된 스킬은 다른 모든 파티원들에게는 {1}% 더 적게 회복시킵니다
+
+RUNE_PROTECTION_NAME=보호의 룬
+RUNE_PROTECTION_DESC=이제 향상된 스킬이 회복 대신 {0}초 동안 대상에게 동일한 양의 보호막을 부여합니다
+
+RUNE_VAMPIRISM_NAME=뱀파이어의 룬
+RUNE_VAMPIRISM_DESC=향상된 스킬은 받는 피해의 {0}% 만큼을 시전자를 회복합니다. <br><br>향상된 스킬의 재사용 대기시간이 {1}초 증가합니다
+
+RUNE_MIGHT_NAME=힘의 룬
+RUNE_MIGHT_DESC=또한 향상된 스킬은 시전 시 시전자에게 2개의 [LINK_MIGHT] 스택을 부여합니다 <br><br>이 효과는 {0}초마다 발생할 수 있습니다.
+
+RUNE_FAITH_NAME=신념의 룬
+RUNE_FAITH_DESC=시전자가 향상된 스킬을 시전시 2개의 [LINK_FAITH] 스택을 부여합니다 <br><br>이 효과는 {0}초마다 발생할 수 있습니다
+
+RUNE_SWIFTNESS_NAME=신속의 룬
+RUNE_SWIFTNESS_DESC=향상된 스킬의 틱 속도가 {0}% 증가합니다
+
+RUNE_CHANNELLING_NAME=채널링의 룬
+RUNE_CHANNELLING_DESC=재사용 대기시간이 끝났다면 [CONTEXT_PARTY_MEMBER_NAME_HEALER](이)가 총 {0}초 동안 채널링을 할 때마다 증강된 스킬을 자동으로 시전합니다. <br><br>증강된 스킬의 재사용 대기시간이 {1}% 감소합니다 <br><br>증강된 주문은 더이상 수동으로 시전할 수 없습니다
+
+RUNE_FLOW_NAME=흐름의 룬
+RUNE_FLOW_DESC=향상된 스킬의 버프/디버프의 지속시간이 끝나면 무작위로 다른 파티원/적에게 전달됩니다. <br><br>효과는 단 한 번만 발생할 수 있습니다.
+
+RUNE_BRUTALITY_NAME=잔혹함의 룬
+RUNE_BRUTALITY_DESC=향상된 스킬이 {0}% 더 많은 피해를 줍니다 <br><br>증강된 스킬이 시전될 때 마다 {1}초 동안 [CONTEXT_PARTY_MEMBER_NAME_HEALER](을)를 침묵시킵니다
+
+RUNE_DESTRUCTION_NAME=파괴의 룬
+RUNE_DESTRUCTION_DESC=향상된 스킬이 대상의 [ATTRIBUTE_ALL_RESISTS_TEXT]도 {1}초 동안 {0}% 감소합니다
+
+RUNE_FOCUS_NAME=집중의 룬
+RUNE_FOCUS_DESC=향상되 스킬의 마나 소모량이 {0}% 감소합니다
+
+RUNE_NULLIFICATION_NAME=무효화의 룬
+RUNE_NULLIFICATION_DESC=향상된 스킬은 [MATERIAL_RUNE_NAME]의 마나 소모 효과 증가에 의한 영향을 더 이상 받지 않습니다. 
+
+RUNE_FURY_NAME=격노의 룬
+RUNE_FURY_DESC=향상된 스킬이 시전자의 [LINK_MIGHT] 스택을 모두 소모시키고 스택당 {0}% 더 많은 피해를 입힙니다
+
+RUNE_OVERPOWER_NAME=넘치는 힘의 룬
+RUNE_OVERPOWER_DESC=향상된 스킬로 인한 피해는 더 이상 회피하거나 방어할 수 없습니다
+
+RUNE_FERVOR_NAME=열정의 룬
+RUNE_FERVOR_DESC=향상된 스킬의 시전시간이 없앱니다 <br><br>증강된 스킬의 재사용 대기 시간이 {0}초 증가합니다
+
+RUNE_CULTIVATION_NAME=수양의 룬
+RUNE_CULTIVATION_DESC=향상된 스킬이 더 이상 넘치게 회복하지 않습니다
+
+RUNE_RAGE_NAME=분노의 룬
+RUNE_RAGE_DESC=시전자에게 증강된 스킬을 부여하여 분노 스택을 부여합니다 <br><br>시전자의 자동 공격은 {0} 분노 스택을 소모하여 {1}회 추가 공격합니다
+
+RUNE_RETALIATION_NAME=보복의 룬
+RUNE_RETALIATION_DESC=시전자가 [ATTRIBUTE_MAXIMUM_HEALTH]의 {0}%에 해당하는 총 피해를 입을 때마다 자동으로 증강된 스킬을 시전합니다 <br><br>증강된 주문은 더 이상 수동으로 시전할 수 없게 됩니다 <br><br>이 효과는 {1}초마다 발동시킬 수 있습니다
+
+RUNE_DAZE_NAME=멍함의 룬
+RUNE_DAZE_DESC=향상된 스킬이 {0}% 적은 피해를 줍니다 <br><br>증강된 스킬이 대상에게 1 [LINK_DAZE] 스택을 {1}초간 최대 {2}회까지 적용합니다
+
+RUNE_BULWARK_NAME=방어벽의 룬
+RUNE_BULWARK_DESC=향상된 스킬이 {0}% 덜 회복시킵니다 <br><br>증강된 스킬이 대상에게 1 [LINK_BULWARK] 스택을 {1}초간, 최대 {2}회까지 적용합니다
+
+RUNE_SERPENT_NAME=독사의 룬
+RUNE_SERPENT_DESC=향상된 스킬이 1000 이상의 {1} 마나당 {0}% 더 많은 회복 및 피해를 줍니다 <br><br>향상된 스킬을 시전할 때마다 [ATTRIBUTE_MAXIMUM_MANA]를 {2}만큼 영구적으로 증가시킵니다 <br><br>이 효과는 {3}초마다 발생할 수 있습니다
+
+RUNE_GLORY_NAME=영광의 룬
+RUNE_GLORY_DESC=향상된 스킬이 시전자의 체력이 100%일 때 공격/회복에 의한 피해량/회복량을 없애며, 시전자의 체력이 0%에 가까울 수록 비례하여 최대 {0}%까지 공격/회복합니다
+
+
+END

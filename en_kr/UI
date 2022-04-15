@@ -1,4 +1,4 @@
-UI_MENU_BUTTON_START=시작 
+UI_MENU_BUTTON_START=시작
 UI_MENU_BUTTON_SETTINGS=설정
 UI_MENU_BUTTON_EXIT=종료
 
@@ -48,7 +48,7 @@ UI_PURCHASE_HINT=구매 힌트
 UI_FEED=추가
 UI_CLEANSE=제거
 UI_CRAFT=장비 강화
-UI_TRAVEL_TO=다음으로 이동: 
+UI_TRAVEL_TO=다음으로 이동:
 UI_LOADING=불러오는 중...
 UI_SELL=판매
 UI_SELL_ALL=전체 판매
@@ -194,6 +194,7 @@ UI_SKILL_CAN_CRITICALLY_HEAL=극대화 회복 가능
 
 UI_SKILL_SETUP_REACH_LEVEL_X_TO_UNLOCK={0}레벨 도달시 잠금을 해제할 수 있습니다
 
+UI_ENEMY_SKILL_MODAL_TITLE=<color=#B58300FF>적 스킬</color>
 
 
 UI_SKILL_SETUP_CURRENT_HEAL=현재 회복: {0}
@@ -364,7 +365,7 @@ UI_LEVEL_DESC_MODAL_GUARDIANS_TEXT=수호자들은 단 한 가지 어려움만 �
 UI_LEVEL_DESC_MODAL_MIDNIGHT_ZONE_ITEMS_TEXT=자정에 특정 아이템이 드랍될 수 있도록 모든 층을 완성하세요. <br>개별 층을 다 채우면 개별 보스의 아이템만 떨어집니다.
 UI_LEVEL_DESC_MODAL_MIDNIGHT_ZONE_TEXT=수많은 보스들을 마주하는 도전을 해보세요. 보스를 더 많이 물리칠수록 보상은 더 좋아지겠죠!
 UI_LEVEL_DESC_MODAL_ARMORY_FULL_TEXT=[UI_ARMORY_TITLE]가 꽉찼습니다
-UI_LEVEL_DESC_MODAL_FEED_IT_A_X=다음을 사용하세요: 
+UI_LEVEL_DESC_MODAL_FEED_IT_A_X=다음을 사용하세요:
 UI_LEVEL_DESC_MODAL_CHAOS_ENCOUNTER_DESC=다음 만남에는 다음이 포함됩니다.
 UI_LEVEL_DESC_MODAL_CHAOS_LOCKED_DESC=잠금 해제를 위해 [MATERIAL_CHAOS_CRYSTAL_NAME]을 확보하세요
 UI_LEVEL_DESC_MODAL_EMPTY_SKILL_VIEW=이 보스는 스킬이 없습니다
@@ -498,7 +499,8 @@ UI_TRANSMOG_DEFAULT=기본 값
 
 UI_SHOW_COMBAT_LOG=전투 기록 보기
 UI_SHOW_EXTRA_DETAIL=추가 전투 정보 표시
+UI_SHOW_ENEMY_SKILLS=적 스킬 보기
 
 UI_BETA_DESC=주의, 안정적이지 않고 아직 완전히 테스트되지 않은 새로운 기능이 포함된 베타버전의 게임을 플레이 중입니다
 
-END
+END=
