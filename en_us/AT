@@ -46,6 +46,7 @@ AT_UI_TOWER_ATLAS_CURSED_DESC=You have been cursed by this {0} times
 
 AT_UI_SKILL_DRAFT_TITLE=Choose a Skill
 AT_UI_SKILL_DRAFT_DESC=Choose one of the following skills
+AT_UI_SKILL_DRAFT_DRAG_DESC=Select this skill by dragging it to your skill bar
 
 AT_UI_SKILL_DRAFT_MAIN_TITLE=Choose Your Main Healing Skill
 
@@ -73,7 +74,7 @@ AT_UI_SCROLL_DRAFT_SKIP_DESC=Skip (+{0} <sprite=9> )
 AT_UI_SCROLL_DRAFT_SACRIFISE_SKIP_DESC=Skip to gain {0} [CONTEXT_SCROLLS]
 
 AT_UI_RUNE_DRAFT_TITLE=Choose a [MATERIAL_RUNE_NAME]
-AT_UI_RUNE_DRAFT_DESC=Choose one of the following [MATERIAL_RUNE_NAME]
+AT_UI_RUNE_DRAFT_DESC=Drag a [MATERIAL_RUNE_NAME] to improve one of you or your party member's skill
 
 AT_UI_TINKERSPARK_SHOP=[CONTEXT_NPC_NAME_TORRI]'s Shop
 AT_UI_TINKERSPARK_DIALOG=My my...a customer! Everything's for sale here!
@@ -219,5 +220,7 @@ AT_BLESSING_REPLICA_DESC=Whenever a party member gains a stack of [LINK_MIGHT] o
 
 AT_BLESSING_SERPENTS_EMBRACE_NAME=Serpent's Embrace
 AT_BLESSING_SERPENTS_EMBRACE_DESC=Gain {0} [ATTRIBUTE_INCREASE_HEALPOWER_FLAT_TEXT] per {1} mana over {2} mana
+
+AT_BLESSING_PALADIN_REDEMPTION_NAME=Paladin's Redemption
 
 END

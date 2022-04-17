@@ -741,7 +741,7 @@ SKILL_MAGMA_RUPTURE_DESC=Melts the body of the enemies, reducing healing receive
 SKILL_SEAL_OF_FLAME_NAME=Seal of Flame
 SKILL_SEAL_OF_FLAME_DESC=Summons a seal of flame, making every spell cast more dangerous
 SKILL_LIVING_BOMB_NAME=Living Bomb
-SKILL_LIVING_BOMB_DESC=Ignite the target's body, making the target a living bomb, if the bomb expires it will explode, dealing massive damage to the target and all party members. Dispelling the bomb will pass the bomb to another random party member
+SKILL_LIVING_BOMB_DESC=Ignite the target's body, making the target a living bomb, if the bomb expires it will refresh and explode, dealing massive damage to the target and all party members. Dispelling the bomb will pass the bomb to another random party member
 SKILL_LESSER_HEAL_HOLY_ENCHANTED_NAME=Holy Light
 SKILL_LESSER_HEAL_HOLY_ENCHANTED_DESC=A small but effective heal
 SKILL_WELCOME_TO_THE_SHOW_NAME=Welcome to the Show
@@ -1054,3 +1054,7 @@ SKILL_SHIELDTHROW_DESC=Throws out the shield that will bounce around the battlef
 
 SKILL_BERZERKING_ROAR_NAME=Berzerking Roar
 SKILL_BERZERKING_ROAR_DESC=Enters into a berzerking mode, reducing all enemies' [ATTRIBUTE_MAXIMUM_HEALTH] by {0}% as well as increasing [ATTRIBUTE_ALL_DAMAGE_DEALT] by {1}%. This effect can stack
+
+SKILL_THE_SERPENT_MANA_SHIELD_NAME=[BOSS_UVORRIOS_NAME]'s Mana Shield
+
+END

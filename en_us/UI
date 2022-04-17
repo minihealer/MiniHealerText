@@ -87,6 +87,7 @@ UI_YOU=You
 UI_CHAOS=Chaos
 UI_ITEMS_SPOILS=Spoils
 UI_RESET=Reset
+UI_SELECT=Select
 
 UI_MENU_DIFFICULTY=Choose a Difficulty
 UI_MENU_DIFFICULTY_DESC=You can change them later!
