@@ -7,8 +7,8 @@ const FOLDER_PATH= '../';
 
 const RESULT = {
     'en_us':{},
-    // 'en_cn_s':{},
-    // 'en_cn_t':{},
+    'en_cn_s':{},
+    'en_cn_t':{},
     // 'en_ja':{},
     'en_kr':{},
     // 'en_ru':{},

@@ -190,9 +190,7 @@ SKILL_SEAL_OF_LIGHT_CONSUMPTION_DAMAGE_DESC=대미지 소모: {0}
 
 SKILL_SACRED_INFUSION_NAME=새크리드 인퓨전
 SKILL_SACRED_INFUSION_DESC=대상에게 빛의 힘을 고취시키면, 당신이 다른 파티원들에게 행하는 모든 직접적 단일 타겟 회복이 그들이 회복된 양의 비율만큼 이 스킬이 발효된 다른 파티원들도 회복하게 됩니다. 한 번에 단 1명의 파티원만이 가능합니다
-"SKILL_SACRED_INFUSION_SHORT_DESC=
-
-다른 멤버에게 수행된 모든 대상 치유가 <br>대상의 치유를 가능하게 하는 버프"
+SKILL_SACRED_INFUSION_SHORT_DESC=다른 멤버에게 수행된 모든 대상 치유가 <br>대상의 치유를 가능하게 하는 버프
 SKILL_SACRED_INFUSION_DETAIL_DESC=원래 대상의 {0}% 회복됩니다
 
 SKILL_ASCENSION_NAME=승천
@@ -646,7 +644,7 @@ SKILL_REANIMATE_GRUNZAR_NAME=형제여 일어나라
 SKILL_REANIMATE_GRUNZAR_DESC=금고에서 에이션트 원 소환
 SKILL_REANIMATE_GORL_NAME=형제여 일어나라
 SKILL_REANIMATE_GORL_DESC=금고에서 에이션트 원 소환
-#VALUE!
+SKILL_BLACK_BREW_NAME=다크 매직
 SKILL_BLACK_BREW_DESC=아군의 공격속도와 시전속도를 5초간 높이고, 효과가 끝난 후 아군은 5초간 기절합니다
 SKILL_EMBOLDEN_NAME=자신감 부여
 SKILL_EMBOLDEN_DESC=치유와 아군의 막기 확률이 증가합니다
@@ -892,77 +890,74 @@ SKILL_BLOOD_SACRIFICE_NAME=피의 희생
 SKILL_TELEPORT_PORTAL_NAME=텔레포트 포털
 
 SKILL_IGNITE_NAME=발화
-SKILL_IGNITE_DESC=압도
+SKILL_IGNITE_DESC=매초마다 [ATTRIBUTE_FIRE_DAMAGE]를 줍니다 <br>막대한 [ATTRIBUTE_FIRE_DAMAGE]를 줍니다<br>영향을 받는 대상의 체력이 {0}% 보다 많은 경우
 SKILL_ENGULF_NAME=영원한 서리
-SKILL_ENGULF_DESC=결빙파
+SKILL_ENGULF_DESC={0} 보너스 [ATTRIBUTE_FIRE_DAMAGE]를 줍니다
 
-SKILL_ETERNAL_FROST_NAME=파티를 조롱하여 모든 파티원이 짧은 지속시간 동안 시전자를 공격하게 하며, 모든 공격자에게 적당량의 [ATTRIBUTE_PHYSICAL_DAMAGE]를 줍니다
-SKILL_FREEZING_PULSE_NAME=
-SKILL_FREEZING_PULSE_DESC=충격
+SKILL_ETERNAL_FROST_NAME=영원한 서리
+SKILL_FREEZING_PULSE_NAME=결빙파
+SKILL_FREEZING_PULSE_DESC=매초마다 영향을 받는 대상의 주변 영역에 [ATTRIBUTE_ICE_DAMAGE] 파동 영향을 줍니다 <br>펄스 범위 내에 다른 파티원이 없으면 데미지가 크게 증가합니다
 
-SKILL_THORN_NAME=
-#REF!
+SKILL_THORN_NAME=가시
+SKILL_THORN_DESC=파티를 조롱하여 모든 파티원이 짧은 지속시간 동안 시전자를 공격하게 하며, 모든 공격자에게 적당량의 [ATTRIBUTE_PHYSICAL_DAMAGE]를 줍니다
 
-SKILL_SHOCK_NAME=황혼바람
-SKILL_SHOCK_DESC=수렴
+SKILL_SHOCK_NAME=충격
+SKILL_SHOCK_DESC=대상에게 충격을 주어 [ATTRIBUTE_ALL_DAMAGE_TAKEN]을 대폭 증가시킵니다
 
-SKILL_RECHARGE_NAME=대상들에 막대한 [ATTRIBUTE_NEMESIS_DAMAGE]를 주고 [SKILL_DECIMATE_NAME] 스택을 추가합니다 <br><br>{0}개의 스택에 도달하면 영향을 받는 대상을 즉시 제거합니다
-#REF!
+SKILL_RECHARGE_NAME=충전
+SKILL_RECHARGE_DESC=적당한 양의 대상을 치유합니다
 
-SKILL_DEEP_FROST_NAME=천둥구름
-SKILL_DEEP_FROST_DESC=적당량의  [ATTRIBUTE_LIGHTNING_DAMAGE]로  [CONTEXT_PARTY_MEMBER_NAME_HEALER]를(을) 공격하는 천둥구름을 소환합니다
+SKILL_DEEP_FROST_NAME=딥 프로스트
+SKILL_DEEP_FROST_DESC=대상에게 저주를 걸어 모든 치유량을 일정량 흡수합니다. <br><br>만료 시 [ATTRIBUTE_ICE_DAMAGE] 대규모 할인
 
-SKILL_DUSKWIND_NAME=전자기 일격
-SKILL_DUSKWIND_DESC=적당량의 [ATTRIBUTE_LIGHTNING_DAMAGE]를 입혀 대상을 공격합니다
+SKILL_DUSKWIND_NAME=황혼바람
+SKILL_DUSKWIND_DESC=대상 위치로 이동하여 그 안의 모든 것에 1초마다 [ATTRIBUTE_NEMESIS_DAMAGE]의 피해를 주는 바람을 소환합니다. <br><br>바람은 타격을 받으면 모든 [SKILL_DECIMATE_NAME] 스택도 제거합니다
+SKILL_CONVERGE_NAME=수렴
+SKILL_CONVERGE_DESC=전장의 모든 [SKILL_DUSKWIND_NAME]을 시전자에게 콜백합니다
+SKILL_DECIMATE_NAME=대량살상
+SKILL_DECIMATE_DESC=대상들에 막대한 [ATTRIBUTE_NEMESIS_DAMAGE]를 주고 [SKILL_DECIMATE_NAME] 스택을 추가합니다 <br><br>{0}개의 스택에 도달하면 영향을 받는 대상을 즉시 제거합니다
 
-SKILL_CONVERGE_NAME=에너지 폭발
-SKILL_CONVERGE_DESC=세 번째 자동 공격 때마다 추가적인 대량의 [ATTRIBUTE_LIGHTNING_DAMAGE]를 줍니다
+SKILL_THUNDERCLOUD_NAME=천둥구름
+SKILL_THUNDERCLOUD_DESC=적당량의  [ATTRIBUTE_LIGHTNING_DAMAGE]로  [CONTEXT_PARTY_MEMBER_NAME_HEALER]를(을) 공격하는 천둥구름을 소환합니다
 
-SKILL_DECIMATE_NAME=물의 분출
-SKILL_DECIMATE_DESC=전장 주변에 물을 분출하고 모든 피해로부터 조크를 보호하는 워터 실드를 얻습니다. <br>물은 [SKILL_THUNDERCLOUD_NAME]에 전기가 통할 수 있습니다. <br>전기가 흐르는 물 위에 서 있으면 모든 피해가 워터 실드로 가지만 모든 파티원이 받는 [ATTRIBUTE_LIGHTNING_DAMAGE]가 증가합니다
+SKILL_STATIC_STRIKE_NAME=전자기 일격
+SKILL_STATIC_STRIKE_DESC=적당량의 [ATTRIBUTE_LIGHTNING_DAMAGE]를 입혀 대상을 공격합니다
 
+SKILL_ENERGY_BURST_NAME=에너지 폭발
+SKILL_ENERGY_BURST_DESC=세 번째 자동 공격 때마다 추가적인 대량의 [ATTRIBUTE_LIGHTNING_DAMAGE]를 줍니다
 
-SKILL_THUNDERCLOUD_NAME=모든 파티원에게 적당량의 [ATTRIBUTE_ICE_DAMAGE]를 주고, 전투 나머지 동안 [ATTRIBUTE_ICE_RESIST]을 감소시킵니다
-SKILL_THUNDERCLOUD_DESC=
+SKILL_WATER_ERUPTION_NAME=물의 분출
+SKILL_WATER_ERUPTION_DESC=전장 주변에 물을 분출하고 모든 피해로부터 조크를 보호하는 워터 실드를 얻습니다. <br>물은 [SKILL_THUNDERCLOUD_NAME]에 전기가 통할 수 있습니다. <br>전기가 흐르는 물 위에 서 있으면 모든 피해가 워터 실드로 가지만 모든 파티원이 받는 [ATTRIBUTE_LIGHTNING_DAMAGE]가 증가합니다
 
-SKILL_STATIC_STRIKE_NAME=운석을 소환하여 대상에 떨어뜨립니다. 운석 충돌 시 폭발하여 목표물에 적당량의 [ATTRIBUTE_ICE_DAMAGE], 목표물 주위에 막대한 [ATTRIBUTE_ICE_DAMAGE]를 줍니다. <br><br>대상도 [LINK_FROST_METEOR]의 영향을 받습니다
-SKILL_STATIC_STRIKE_DESC=
+SKILL_HYPOTHERMIA_NAME=저체온증
+SKILL_HYPOTHERMIA_DESC=모든 파티원에게 적당량의 [ATTRIBUTE_ICE_DAMAGE]를 주고, 전투 나머지 동안 [ATTRIBUTE_ICE_RESIST]을 감소시킵니다
 
-SKILL_ENERGY_BURST_NAME=주기적으로 모든 피해로부터 시전자를 보호하는 방어막을 칩니다. <br><br>보호막은 항상 한 방향이 약하며 [CONTEXT_PARTY_MEMBER_NAME_HEALER]의 자동공격으로 약한 쪽을 공격하면 깨질 수 있습니다
-SKILL_ENERGY_BURST_DESC=
+SKILL_FROST_METEOR_NAME=서리 운석
+SKILL_FROST_METEOR_DESC=운석을 소환하여 대상에 떨어뜨립니다. 운석 충돌 시 폭발하여 목표물에 적당량의 [ATTRIBUTE_ICE_DAMAGE], 목표물 주위에 막대한 [ATTRIBUTE_ICE_DAMAGE]를 줍니다. <br><br>대상도 [LINK_FROST_METEOR]의 영향을 받습니다
 
-SKILL_WATER_ERUPTION_NAME=전투 프로스트링 소환
-SKILL_WATER_ERUPTION_DESC=
+SKILL_FROST_BARRIER_NAME=서리 보호막
+SKILL_FROST_BARRIER_DESC=주기적으로 모든 피해로부터 시전자를 보호하는 방어막을 칩니다. <br><br>보호막은 항상 한 방향이 약하며 [CONTEXT_PARTY_MEMBER_NAME_HEALER]의 자동공격으로 약한 쪽을 공격하면 깨질 수 있습니다
 
-SKILL_HYPOTHERMIA_NAME=대상에게 저주를 걸어 대상이 받는 모든 치유를 흡수하고 매초 적당량의 [ATTRIBUTE_ICE_DAMAGE]를 줍니다. <br><br>저주의 지속시간이 끝나면 대상이 기절하고, 짧은 지속기간 동안 치유할 수 없습니다
-SKILL_HYPOTHERMIA_DESC=
+SKILL_SUMMON_FROSTLINGS_NAME=프로스트링 소환
+SKILL_SUMMON_FROSTLINGS_DESC=전투 프로스트링 소환
 
-SKILL_FROST_METEOR_NAME=대량의 [ATTRIBUTE_ICE_DAMAGE]를 주며 대상 주변을 파괴합니다. <br><br>대상에게 명중할 때마다 추가 피해를 줍니다
-SKILL_FROST_METEOR_DESC=
+SKILL_PERMAFROST_NAME=영원의 빙결
+SKILL_PERMAFROST_DESC=대상에게 저주를 걸어 대상이 받은 모든 치유를 흡수하고 매초 적당량의 [ATTRIBUTE_ICE_DAMAGE]를 줍니다. <br><br>저주의 지속시간이 끝나면 대상이 기절하고, 짧은 지속기간 동안 치유할 수 없습니다
 
-SKILL_FROST_BARRIER_NAME=대상 주변을 파괴하여 막대한  [ATTRIBUTE_ICE_DAMAGE]를 줍니다 <br><br>이 피해는 모든 대상에게 나누어집니다
-SKILL_FROST_BARRIER_DESC=
+SKILL_HOWLING_STRIKE_NAME=통곡의 일격
+SKILL_HOWLING_STRIKE_DESC=대량의 [ATTRIBUTE_ICE_DAMAGE]를 주며 대상 주변을 파괴합니다. <br><br>대상에게 명중할 때마다 추가 피해를 줍니다
 
-SKILL_SUMMON_FROSTLINGS_NAME=대상의 뼈를 부러뜨려 대량의 [ATTRIBUTE_PHYSICAL_DAMAGE]를 주며, 짧은 지속시간 동안 대상이 치유되지 않도록 합니다
-SKILL_SUMMON_FROSTLINGS_DESC=
+SKILL_CONDENSED_BASH_NAME=집중 타격
+SKILL_CONDENSED_BASH_DESC=대상 주변을 파괴하여 막대한  [ATTRIBUTE_ICE_DAMAGE]를 줍니다 <br><br>이 피해는 모든 대상에게 나누어집니다
 
-SKILL_PERMAFROST_NAME=대상에 저주를 걸어 매초 가벼운  [ATTRIBUTE_ICE_DAMAGE]를 주고 디스펠 되거나 또는 지속시간이 끝날 때 막대한 [ATTRIBUTE_ICE_DAMAGE]를 줍니다. <br><br>남은 지속시간이 적을 수록 디스펠 될 때 주는 피해량이 감소합니다
-SKILL_PERMAFROST_DESC=
+SKILL_BONE_CRUSHER_NAME=본 크러셔
+SKILL_BONE_CRUSHER_DESC=대상의 뼈를 부러뜨려 대량의 [ATTRIBUTE_PHYSICAL_DAMAGE]를 주며, 짧은 지속시간 동안 대상이 치유되지 않도록 합니다
 
-SKILL_HOWLING_STRIKE_NAME=전장 주변의 공기를 얼리고 주기적으로 전장을 가로질러 왼쪽에서 오른쪽으로 또는 오른쪽에서 왼쪽으로 이동하는 얼음 파편을 소환합니다. <br><br>파편과 [CONTEXT_PARTY_MEMBER_NAME_HEALER]와(과) 충돌할 경우 모든 파티원들에게 [ATTRIBUTE_ICE_DAMAGE]의 강한 피해를 주고 모든 적에게 적당량의 치유를 합니다
-#REF!
+SKILL_HEX_OF_WINTER_NAME=겨울의 저주
+SKILL_HEX_OF_WINTER_DESC=대상에 저주를 걸어 매초 가벼운  [ATTRIBUTE_ICE_DAMAGE]를 주고 디스펠 되거나 또는 지속시간이 끝날 때 막대한 [ATTRIBUTE_ICE_DAMAGE]를 줍니다. <br><br>남은 지속시간이 적을 수록 디스펠 될 때 주는 피해량이 감소합니다
 
-#REF!
-#REF!
-
-#REF!
-#REF!
-
-#REF!
-#REF!
-
-#REF!
-#REF!
+SKILL_CONJURATION_OF_ICE_NAME=얼음의 주문
+SKILL_CONJURATION_OF_ICE_DESC=전장 주변의 공기를 얼리고 주기적으로 전장을 가로질러 왼쪽에서 오른쪽으로 또는 오른쪽에서 왼쪽으로 이동하는 얼음 파편을 소환합니다. <br><br>파편과 [CONTEXT_PARTY_MEMBER_NAME_HEALER]와(과) 충돌할 경우 모든 파티원들에게 [ATTRIBUTE_ICE_DAMAGE]의 강한 피해를 주고 모든 적에게 적당량의 치유를 합니다
 
 SKILL_DIVINE_GIFT_NAME=신성의 선물
 SKILL_DIVINE_GIFT_DESC=전장에서 무작위로 성수를 불러옵니다. <br><br>병을 집으면 [ATTRIBUTE_MAXIMUM_HEALTH]을 기준으로 모든 파티원이 치유되고 [ATTRIBUTE_MAXIMUM_MANA]를 기준으로 마나가 회복됩니다.
