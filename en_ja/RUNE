@@ -1,0 +1,102 @@
+RUNE_REQUIREMENT_DESC={0}タグによってのみ、スキルを増強可能
+RUNE_INCOMPATIBLE_TAG_DESC={0}タグによってスキルを増強できない
+RUNE_MANA_COST_MULTI_DESC=増強したスキルの消費マナが{0}%増加
+
+RUNE_HEALING_NAME=Rune of Healing
+RUNE_HEALING_DESC=増強したスキルの回復力が{0}%増加
+
+RUNE_GREATER_HEALING_NAME=Rune of Greater Healing
+RUNE_GREATER_HEALING_DESC=[RUNE_HEALING_DESC]
+
+RUNE_DECREASE_COOLDOWN_NAME=Rune of Decreased Cooldown
+RUNE_DECREASE_COOLDOWN_DESC=増強したスキルの基本クールダウンを{0}秒短縮する
+
+RUNE_ECHO_NAME=Rune of Echo
+RUNE_ECHO_DESC=増強したスキルは{0}%の確率で、ランダムなターゲットまたは場所に対して2回発動するようになる
+
+RUNE_INCREASE_DURATION_NAME=Rune of Increased Duration
+RUNE_INCREASE_DURATION_DESC=増強したスキルの効果時間が{0}%長くなる
+
+RUNE_WIDEN_NAME=Rune of Widen
+RUNE_WIDEN_DESC=増強したスキルは効果範囲が{0}%拡大する
+
+RUNE_RECHARGE_NAME=Rune of Recharge
+RUNE_RECHARGE_DESC=増強したスキルは使用者のヘルスが最大である場合、クールダウンが{0}%速くなる
+
+RUNE_MALICE_NAME=Rune of Malice
+RUNE_MALICE_DESC=使用者のオートアタックがクリティカルヒットするごとに、増強したスキルのクールダウンを{0}秒短縮する
+
+RUNE_LIFE_OFFERING_NAME=Rune of Life Offering
+RUNE_LIFE_OFFERING_DESC=増強したスキルはマナの代わりに[CONTEXT_PARTY_MEMBER_NAME_HEALER]の[ATTRIBUTE_MAXIMUM_HEALTH]の{0}%を消費するようになる
+
+RUNE_MANA_BATTERY_NAME=Rune of Mana Battery
+RUNE_MANA_BATTERY_DESC=増強したスキルで{0}マナを消費すると、{2}秒間、毎秒{1}マナ回復するバフを得る
+
+RUNE_PARTNERSHIP_NAME=Rune of Partnership
+RUNE_PARTNERSHIP_DESC=増強したスキルは[CONTEXT_PARTY_MEMBER_NAME_TANK]を{0}%多く回復するようになる<br><br>増強したスキルは他の仲間に対しては{1}%少なく回復するようになる
+
+RUNE_PROTECTION_NAME=Rune of Protection
+RUNE_PROTECTION_DESC=増強したスキルはターゲットを回復する代わりに、同量の{0}秒間のダメージシールドの効果になる
+
+RUNE_VAMPIRISM_NAME=Rune of Vampirism
+RUNE_VAMPIRISM_DESC=増強したスキルは使用者を与ダメージの{0}%回復するようになる<br><br>増強したスキルのクールダウンが{1}秒長くなる
+
+RUNE_MIGHT_NAME=Rune of Might
+RUNE_MIGHT_DESC=増強したスキルの使用時に、使用者に[LINK_MIGHT]を2スタック付与する<br><br>この効果は{0}秒に付き1回しか発動しない
+
+RUNE_FAITH_NAME=Rune of Faith
+RUNE_FAITH_DESC=増強したスキルの使用時に、使用者に[LINK_FAITH]を2スタック付与する<br><br>この効果は{0}秒に付き1回しか発動しない
+
+RUNE_SWIFTNESS_NAME=Rune of Swiftness
+RUNE_SWIFTNESS_DESC=増強したスキルのティックレートを{0}%上昇させる
+
+RUNE_CHANNELLING_NAME=Rune of Channelling
+RUNE_CHANNELLING_DESC=増強したスキルがクールダウン中でない場合、[CONTEXT_PARTY_MEMBER_NAME_HEALER]がチャネリングを合計{0}秒継続したときに自動で発動する<br><br>増強したスキルのクールダウンを{1}%短縮する<br><br>増強したスキルは手動では使用できなくなる
+
+RUNE_FLOW_NAME=Rune of Flow
+RUNE_FLOW_DESC=増強したスキルのバフ/デバフ効果が終了する時、その効果が別の仲間/敵に移動する<br><br>この効果は1回だけ発生する
+
+RUNE_BRUTALITY_NAME=Rune of Brutality
+RUNE_BRUTALITY_DESC=増強したスキルは{0}%大きいダメージを与える<br><br>増強したスキルの使用時に[CONTEXT_PARTY_MEMBER_NAME_HEALER]を{1}秒間沈黙状態にする
+
+RUNE_DESTRUCTION_NAME=Rune of Destruction
+RUNE_DESTRUCTION_DESC=増強したスキルは{1}秒間、ターゲットの[ATTRIBUTE_ALL_RESISTS_TEXT]を{0}%低下させる
+
+RUNE_FOCUS_NAME=Rune of Focus
+RUNE_FOCUS_DESC=増強したスキルの消費マナを{0}%軽減する
+
+RUNE_NULLIFICATION_NAME=Rune of Nullification
+RUNE_NULLIFICATION_DESC=増強したスキルは[MATERIAL_RUNE_NAME]による消費マナ増加の効果を受けなくなる
+
+RUNE_FURY_NAME=Rune of Fury
+RUNE_FURY_DESC=増強したスキルは使用者の[LINK_MIGHT]スタックを全て消費して、1スタックに付き{0}%プラスしたダメージを与える
+
+RUNE_OVERPOWER_NAME=Rune of Overpower
+RUNE_OVERPOWER_DESC=増強したスキルによるダメージは、回避やブロックされなくなる
+
+RUNE_FERVOR_NAME=Rune of Fervor
+RUNE_FERVOR_DESC=増強したスキルは詠唱時間が無くなる<br><br>増強したスキルはクールダウンが{0}秒長くなる
+
+RUNE_CULTIVATION_NAME=Rune of Cultivation
+RUNE_CULTIVATION_DESC=増強したスキルでは、オーバーヒールが発生しなくなる
+
+RUNE_RAGE_NAME=Rune of Rage
+RUNE_RAGE_DESC=増強したスキルを使用すると使用者にRageスタックが付く<br><br>使用者のオートアタック時、Rageスタックを{0}消費して{1}回の追加攻撃を行う
+
+RUNE_RETALIATION_NAME=Rune of Retaliation
+RUNE_RETALIATION_DESC=増強したスキルの使用者が受けた累積ダメージが自身の[ATTRIBUTE_MAXIMUM_HEALTH]の{0}%に達するごとに、増強したスキルを自動発動するようになる<br><br>増強したスペルは手動では発動できなくなる<br><br>この効果は{1}秒に付き1回しか発動しない
+
+RUNE_DAZE_NAME=Rune of Daze
+RUNE_DAZE_DESC=増強したスキルは与ダメージが{0}%低下する<br><br>増強したスキルはターゲットに{1}秒間、[LINK_DAZE]を1つ付与する（{2}回までスタックする）
+
+RUNE_BULWARK_NAME=Rune of Bulwark
+RUNE_BULWARK_DESC=増強したスキルは回復力が{0}%低下する<br><br>増強したスキルはターゲットに{1}秒間、[LINK_BULWARK]を1つ付与する（{2}回までスタックする）
+
+RUNE_SERPENT_NAME=Rune of Serpent
+RUNE_SERPENT_DESC=増強したスキルは、1000を超えた分のマナが{1}に達するごとに{0}%プラスした回復またはダメージの効果を与えることができます<br><br>増強したスキルを使用するごとに、[ATTRIBUTE_MAXIMUM_MANA]を{2}増加させます<br><br>この効果は{3}秒につき1回しか発生しません
+
+RUNE_GLORY_NAME=Rune of Glory
+RUNE_GLORY_DESC=増強したスキルは、使用者のヘルスが100%の場合は攻撃も回復もしなくなりますが、使用者のヘルスが0%に近づくにつれて{0}%の効果を発揮するようになります。（均等にスケールします）
+
+
+END
