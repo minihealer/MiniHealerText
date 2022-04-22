@@ -4,6 +4,13 @@ ARMORY_LOADOUT=装備セット
 ARMORY_POSSIBLE_AUGMENTATIONS=増強の付与候補を見る
 ARMORY_POSSIBLE_MUTATIONS=変異の付与候補を見る
 
+ARMORY_POSSIBLE_REROLL_ATTRIBUTES=リロールの付与候補について
+ARMORY_POSSIBLE_REROLL_ATTRIBUTES_RULE=ロールの法則
+ARMORY_ROLL_RULE_INTRINSTIC={0} {1} は以下のうち必ず一つの効果を持つ
+ARMORY_ROLL_RULE_MAX={0} {1} は以下の候補から最大 x の属性を持つことができる(xはアイテムの属性数を半分で割って切り上げたもの)
+ARMORY_ROLL_RULE_MAX_TALENT_LEVEL={0} {1} はタレントレベルを最大で {2} 上昇させる効果を持つ
+ARMORY_ROLL_RULE_FREE={0} {1} は一般的に以下の属性をロールすることができます
+
 ARMORY_UNEQUIP_ALL=<br>全ての装備を外す
 ARMORY_SELL_ALL_UNCOMMON=アンコモン（緑）の<br>アイテムを全て売る
 ARMORY_SELL_ALL_NON_FAV=お気に入り以外の<br>アイテムを全て売る
