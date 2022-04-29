@@ -1,0 +1,61 @@
+ARMORY_QUICKSELL=Ctrl + Clic Droit pour vendre rapidement les objets
+ARMORY_LOADOUT=Equipments équipés
+
+ARMORY_POSSIBLE_AUGMENTATIONS=Augmentations Possibles
+ARMORY_POSSIBLE_MUTATIONS=Mutations Possibles
+
+ARMORY_POSSIBLE_REROLL_ATTRIBUTES=Info des Attributs Possibles
+ARMORY_POSSIBLE_REROLL_ATTRIBUTES_RULE=Règle du jeu
+ARMORY_ROLL_RULE_INTRINSTIC=A {0} {1} doit avoir 1 attribut du pool suivant
+ARMORY_ROLL_RULE_MAX=A {0} {1} peut avoir jusqu'à x attribut(s) du pool suivant. (x est le nombre d'attributs de l'objet divisé par la moitié, arrondi à l'unité supérieure)
+ARMORY_ROLL_RULE_MAX_TALENT_LEVEL=A {0} {1} peut avoir jusqu'à {2} attribut(s) + niveau de talent
+ARMORY_ROLL_RULE_FREE=A {0} {1} peut en général obtenir les attributs suivant
+
+ARMORY_UNEQUIP_ALL=déséquipé <br>tout les objets
+ARMORY_SELL_ALL_UNCOMMON=Vendre tout les <br>PeuCommuns
+ARMORY_SELL_ALL_NON_FAV=Vendre tout les <br>Non-Favoris
+ARMORY_SELL_ALL_NON_PERFECT=Vendre tout les <br>Non-parfait
+
+ARMORY_SELL_CONFIRMATION=Es-tu sûr de vouloir vendre cet objet ?
+ARMORY_SELL_ALL_UNCOMMON_CONFIRMATION=Es-tu sûr de vouloir vendre tout les objets PeuCommuns ?
+ARMORY_SELL_ALL_NON_PERFECT_CONFIRMATION=Es-tu sûr de vouloir vendre tout les objets Non-Parfait ?
+ARMORY_SELL_ALL_NON_FAV_CONFIRMATION=Es-tu sûr de vouloir vendre tout les objets Non-Favoris ?
+
+
+ARMORY_CHAOS_SLOT_UNLOCK_REQ=Se débloque en collectant 3 pièces de <color=#B58300FF>[MATERIAL_ASTRAL_FRAGMENT_NAME]</color>
+
+ARMORY_SORT_TITLE=Trier
+ARMORY_SORT_LATEST=Plus récent
+ARMORY_SORT_RARITY=Rareté
+ARMORY_SORT_ITEMLVL=Niveau d'Objet
+
+ARMORY_SORT_FAVORITE=<color=#FF911F>Favorite</color> - Les artéfacts Favoris ne seront pas inclus dans l'action Vendre Tout...
+
+ARMORY_HOVER_DIVINE=<color=#FF911F>Artéfact Divin</color> - C'est une version plus puissante de {0}
+ARMORY_HOVER_DIVINABLE=<color=#FF911F>Peut étre Divinisé</color> - Cet artéfact peut devenir plus puissant une fois divinisé avec [MATERIAL_DIVINATION_SPHERE_NAME]
+ARMORY_HOVER_CHAOTIC=<color=#FF911F>Artéfact Chaotique</color> - Cet artéfact tombera seulement quand le boss est chaotique
+ARMORY_HOVER_ANOMALOUS=<color=#FF911F>Artéfact Anormal</color> - C'est une version légèrement différente de {0}
+ARMORY_HOVER_PERFECT=<color=#FF911F>Artéfact Parfait</color> - Cet artéfact a une qualité de base de 10 ou plus
+
+ARMORY_FILTERS_TITLE=Filtres
+ARMORY_FILTERS_WEAPON=Arme
+ARMORY_FILTERS_ARMOR=Armure
+ARMORY_FILTERS_ACCESSORY=Accessoire
+ARMORY_FILTERS_GEM=Matériel
+ARMORY_FILTERS_OTHER=Autre
+ARMORY_FILTERS_AUGMENTED=Augmenté
+ARMORY_FILTERS_HAS_SOCKETS=Avec chasse
+ARMORY_FILTERS_UPGRADED=Améliorer
+ARMORY_FILTERS_MUTATED=Muté
+ARMORY_FILTERS_FAVORITED=Favoris
+
+ARMORY_REROLL_AUGMENT_DESC=Choisis les augmentations à verrouiller. <br>Les augmentations verrouillées augmenterons le coût des relances. <br>Les augmentations verrouillées ne seront pas relancer pendant une réaugmentation
+ARMORY_UPGRADE_AUGMENT_DESC=Dépense [MATERIAL_THE_MAKER_NAME] pour améliorer une augmentation au pallier suivant
+ARMORY_UPGRADE_ERROR_MAX_TIER_REACHED=Pallier maximum atteint
+ARMORY_TRIO_REAUG_SELECT_OLD=Sélectionne une augmentation existante
+ARMORY_TRIO_REAUG_SELECT_NEW=Sélectionne une nouvelle augmentation
+
+ARMORY_ITEM_ACQUIRED_X=<br>Acquis: {0}
+ARMORY_ITEM_MAX_STACK_X=<color=#{0}>Pile maximum: {1}</color>
+
+END
