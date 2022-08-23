@@ -1,0 +1,143 @@
+
+DIALOG_QUEST_FREE_TORRAM_START_0=My name is Torram, I have been caged here by a group similar to you guys. They tortured me to make weapons and armors for them.
+DIALOG_QUEST_FREE_TORRAM_START_1=Help me get out of this cell and I can help you craft better equipment
+DIALOG_QUEST_FREE_TORRAM_START_2=You will need a key to open this cell, defeat the <color=#B58300FF>Normal Mirror</color> in <color=#B58300FF>Soul Quarter</color>, they should have the key.
+DIALOG_QUEST_FREE_TORRAM_END_0=Thank you! I will see you back at the Hidden Haven!
+DIALOG_QUEST_TORRAM_INTRO_END_0=Thanks again for saving me there. Talk to me anytime you want to upgrade an item.
+DIALOG_ORRA_QUEST_1_START_0=Hey you! Orra here! I need you to help me stabilize this portal. If you can help me I can teach you how upgrade your armors further!
+DIALOG_ORRA_QUEST_1_START_1=The <color=#B58300FF>Anomalous Bone Knight</color> from the <color=#B58300FF>Portal of Heartlessness</color> above should have the fragment I need to start.
+DIALOG_ORRA_QUEST_1_END_0=With this fragment we can start stabilizing the portal. Thank you for getting the fragment.
+DIALOG_ORRA_QUEST_2_START_0=Oh no, other parties from different dimensions are now coming into our world. Be careful, they seems to be corrupted and are carrying artifacts with them as well.
+DIALOG_ORRA_QUEST_2_START_1=Go and defeat the <color=#B58300FF>Fallen Party</color> from <color=#B58300FF>Portal of Heartlessness</color>.
+DIALOG_ORRA_QUEST_2_END_0=Good job, that should keep them away for a while.
+DIALOG_ORRA_QUEST_3_START_0=Urg, even the golem got corrupted as well?! We will take on this golem together, I will tank for you, don't let me die!
+DIALOG_ORRA_QUEST_3_START_1=Defeat the <color=#B58300FF>Heartless Golem</color> from <color=#B58300FF>Portal of Heartlessness</color>.
+DIALOG_ORRA_QUEST_3_END_0=That was close, good healing there.
+DIALOG_ORRA_QUEST_4_START_0=Looks like the fallen ones are back, this time with reinforcement and stronger artifacts. Defend!
+DIALOG_ORRA_QUEST_4_START_1=Go and defeat the <color=#B58300FF>Fallen Party</color> from <color=#B58300FF>Portal of Heartlessness</color>.
+DIALOG_ORRA_QUEST_4_END_0=That should show them who's in charge here. Also, take this fragment that I found a couple of years ago, I don't know how to use it but maybe it will be useful to you.
+DIALOG_ORRA_QUEST_5_START_0=By my beard...is that myself...coming out of the portal?! I am afraid I can no help you on this one.
+DIALOG_ORRA_QUEST_5_IN_PROGRESS_0=I guess you will have to fight a version of myself from <color=#B58300FF>Portal of Heartlessness</color>.
+DIALOG_ORRA_QUEST_5_END_0=Amazing! The portal seems to be stabilized, beings from the other dimensions should not be able to come to here anymore!
+DIALOG_MEVOR_QUEST_1_START_0=Name's Mevor, I'll help you with enchanting better weapons if you can help me deal with the portal above.
+DIALOG_MEVOR_QUEST_1_START_1=I'll need a fragment of it from <color=#B58300FF>Anomalous Tolmon</color> from the <color=#B58300FF>Portal of Hopelessness</color> above.
+DIALOG_MEVOR_QUEST_1_END_0=Honestly I wasn't expecting you can get it, but thanks for the help. I have a fragment that came from the portal a while ago, you can have it.
+DIALOG_MEVOR_QUEST_2_START_0=Seems like other parties from different dimensions wants a piece of this world.
+DIALOG_MEVOR_QUEST_2_START_1=Go and defeat the <color=#B58300FF>Fallen Party</color> from <color=#B58300FF>Portal of Hopelessness</color>.
+DIALOG_MEVOR_QUEST_2_END_0=We sent a clear message to them, good job.
+DIALOG_MEVOR_QUEST_3_START_0=Looks like the golem has gone rogue. This golem is too tough for you to deal damage to it, I will help you out on this one, you just need to help me tank this golem until I kill it.
+DIALOG_MEVOR_QUEST_3_START_1=Go and defeat the <color=#B58300FF>Hopeless Golem</color> from <color=#B58300FF>Portal of Hopelessness</color>.
+DIALOG_MEVOR_QUEST_3_END_0=You survived, impressive.
+DIALOG_MEVOR_QUEST_4_START_0=Urg, the fallen ones are back again, they seems to be significantly stronger this time.
+DIALOG_MEVOR_QUEST_4_START_1=Go and defeat the <color=#B58300FF>Fallen Party</color> from <color=#B58300FF>Portal of Hopelessness</color>.
+DIALOG_MEVOR_QUEST_4_END_0=Sigh...these guys never learn do they. I have a fragment from the meteor itself, it contains tremendous power when combined together. Have mine, maybe you will find more from Orra or Mevor.
+DIALOG_MEVOR_QUEST_5_START_0=Interesting...that seems to be...me coming out of the portal.
+DIALOG_MEVOR_QUEST_5_START_1=Go, this will be my last job for you. Defeat the corrupted version of myself from <color=#B58300FF>Portal of Hopelessness</color>. 
+DIALOG_MEVOR_QUEST_5_END_0=A job well done my friend, a job well done.
+DIALOG_EDWIN_QUEST_1_START_0=Greetings, my name is Edwin. Do you mind helping me stabilize the portal above me? I can teach you the ways of enchanting accessories after.
+DIALOG_EDWIN_QUEST_1_START_1=<color=#B58300FF>Anomalous Cassandra</color> from the <color=#B58300FF>Portal of Mindlessness</color> above should have what I want for now
+DIALOG_EDWIN_QUEST_1_END_0=Much appreciated. These portals have been acting up quite strangely recently.
+DIALOG_EDWIN_QUEST_2_START_0=Other parties who have succumbed into the corruption are here!
+DIALOG_EDWIN_QUEST_2_START_1=Go and stop the <color=#B58300FF>Fallen Party</color> from <color=#B58300FF>Portal of Mindlessness</color>.
+DIALOG_EDWIN_QUEST_2_END_0=Good work, that should buy us some time for the portal to stabilize.
+DIALOG_EDWIN_QUEST_3_START_0=The Golem that we captured has been corrupted as well. I will go with you and protect you from him for a short duration, you must kill it before my spell run out!
+DIALOG_EDWIN_QUEST_3_START_1=Go and defeat the <color=#B58300FF>Mindless Golem</color> from <color=#B58300FF>Portal of Mindlessness</color>.
+DIALOG_EDWIN_QUEST_3_END_0=You have my thanks.
+DIALOG_EDWIN_QUEST_4_START_0=The fallen parties don't seem to know when to stop, looks like they are back again, and this time they are way stronger.
+DIALOG_EDWIN_QUEST_4_START_1=Go and defeat the <color=#B58300FF>Fallen Party</color> from <color=#B58300FF>Portal of Mindlessness</color>.
+DIALOG_EDWIN_QUEST_4_END_0=Thank you, without you I couldn't have stopped the fallen parties this time.
+DIALOG_EDWIN_QUEST_5_START_0=My my...it has come down to this it seems like...
+DIALOG_EDWIN_QUEST_5_START_1=Your final task will be to defeat the corrupted version of myself from <color=#B58300FF>Portal of Mindlessness</color>. 
+DIALOG_EDWIN_QUEST_5_END_0=You did it! May the light embrace you.
+
+DIALOG_ENTER_VAULT_TANK_0=This must be the ancient vault that the villagers were talking about.
+DIALOG_ENTER_VAULT_HEALER_0=Once an ancient civilization, destroyed by a meteor crash 100 years ago.
+DIALOG_ENTER_VAULT_RANGER_0=The power of the meteor is very strong, it must have twisted the creatures within the vault, we should be careful.
+DIALOG_ENTER_VAULT_BERZERKER_0=....
+
+DIALOG_BONE_KNIGHT_TANK_0=Looks like we are not going to get in that easily.
+DIALOG_BONE_KNIGHT_RANGER_0=Us 3 will attack the enemies. <color=#B58300FF>Healer</color>! Keep us alive at all costs!
+DIALOG_BONE_KNIGHT_BERZERKER_0=Time's up, let's do this!
+
+DIALOG_HIDDEN_HAVEN_TANK_0=What's this? It looks like a map of this place.
+DIALOG_HIDDEN_HAVEN_RANGER_0=Some parts are missing though.
+DIALOG_HIDDEN_HAVEN_YOU_0=There's one place on here that's showing, the <color=#B58300FF>Hidden Haven</color>, let's follow this and get there.
+
+DIALOG_MUZ_WELCOME_TO_VAULT_MUTZ_0=Oh wow, it has been a while since I have seen adventurers coming here.
+DIALOG_MUZ_WELCOME_TO_VAULT_MUTZ_1=My name is Mutz, I came alive after the meteor crash 100 years ago and have been here ever since.
+DIALOG_MUZ_WELCOME_TO_VAULT_MUTZ_2=The meteor itself only brings life and power to the things around it. However there are evil beings that came and twisted the creatures within here.
+DIALOG_MUZ_WELCOME_TO_VAULT_MUTZ_3=I was lucky to be in the Haven and escaped the corruption.
+DIALOG_MUZ_WELCOME_TO_VAULT_MUTZ_4=Many heros have come to try to find and cleanse the meteor but they all failed and died in vain. Maybe you can be the party that finally brings peace to the Vault again.
+DIALOG_MUZ_WELCOME_TO_VAULT_MUTZ_5=Venture deep into the Vault. There are map fragments scattered around, find me the fragments and I can attach them on your map.
+DIALOG_MUZ_WELCOME_TO_VAULT_MUTZ_6=Go now, the next map fragment should be in the hands of the <color=#B58300FF>Brutal Sepitus</color> in <color=#B58300FF>Vault Entrance</color>.
+
+DIALOG_MUZ_WELCOME_TO_VAULT_MUTZ_COMPLETE_0=Good job! Soul Quarter should be unlocked now on your map!
+
+DIALOG_MUZ_MAP_FRAG_MIDNIGHT_START_0=I know Insanse Sepitus also drops a map fragment as well, defeat him and bring the map fragment back to me.
+DIALOG_MUZ_MAP_FRAG_MIDNIGHT_PENDING_0=Go now, bring me the next map fragment from Insanse Sepitus.
+DIALOG_MUZ_MAP_FRAG_MIDNIGHT_COMPLETE_0=Nice! Let me just add that to your map...and...done! The Midnight Zone should be availiable now on your map!
+
+DIALOG_MUZ_MAP_FRAG_BIO_QUARTER_START_0=Inside the Soul Quarter there is a Mirror that will copy one's soul and use them against the owner's body. The next map fragment should be on it.
+DIALOG_MUZ_MAP_FRAG_BIO_QUARTER_PENDING_0=Go now, the next map fragment should be in the hands of Insane Mirror in Soul Quarter.
+DIALOG_MUZ_MAP_FRAG_BIO_QUARTER_COMPLETE_0=Amazing! Bio Quarter should be unlocked now on your map!
+
+DIALOG_MUZ_MAP_FRAG_DINING_HALL_START_0=I also know a secret place in the Vault, when you are stronger come back to me and I will give you a map fragment.
+DIALOG_MUZ_MAP_FRAG_DINING_HALL_PENDING_0=You are still too weak, come back when you are stronger.
+DIALOG_MUZ_MAP_FRAG_DINING_HALL_COMPLETE_0=You look much stronger now, here's a fragment for the Dining Hall, there are others there that will help you further!
+
+DIALOG_MUZ_QUEST_OUTER_COURTYARD_START_0=The next fragment should be in the hands of Brutal Atiel Blackshade in the Bio Quarter.
+DIALOG_MUZ_QUEST_OUTER_COURTYARD_PENDING_0=Go now, the next map fragment should be in the hands of Brutal Atiel in Bio Quarter.
+DIALOG_MUZ_QUEST_OUTER_COURTYARD_END_0=Good job! The Outer Courtyard should be availiable now on your map!
+
+DIALOG_MUZ_QUEST_DEPTH_START_0=The next fragment we will have to go into the <color=#B58300FF>Midnight Zone</color> and clear out the monsters in <color=#B58300FF>Midnight Outer Courtyard</color>.
+DIALOG_MUZ_QUEST_DEPTH_PENDING_0=Go now, the next map fragment should appear if we can clear out the monsters in <color=#B58300FF>Midnight Outer Courtyard</color> in the <color=#B58300FF>Midnight Zone</color>.
+DIALOG_MUZ_QUEST_DEPTH_END_0=Good Job! The Pandemonic Depth should be availiable now on your map! I can only help you to here as those were the fragments that I know of.
+
+DIALOG_MUZ_IDLE_0=Some days I wish I have a body, so I can finally clean this place!
+
+DIALOG_ORRA_IDLE_1_0=Sometimes there are things that will come out of the portal from the other diemension and I will need your help to defend it.
+DIALOG_ORRA_IDLE_2_0=Now I can finally spend some time to enjoy the food.
+
+DIALOG_HAVEN_ANAPIEL_IDLE_1_0=Want to head to the [LOCATION_AIRENE_TOWER] and challenge your abilities with limited resources?
+DIALOG_HAVEN_ANAPIEL_ACTION_BTN_TEXT_1=Go to [LOCATION_AIRENE_TOWER]
+
+DIALOG_AIRENE_ANAPIEL_IDLE_1_0=Ready to head back to [LOCATION_HIDDEN_HAVEN]?
+DIALOG_AIRENE_ANAPIEL_ACTION_BTN_TEXT_1=Go back
+
+DIALOG_AIRENE_ANAPIEL_INSIDE_IDLE_1_0=Are you sure you want to exit the tower? You won't be able to come back!
+DIALOG_AIRENE_ANAPIEL_INSIDE_ACTION_BTN_TEXT_1=Head out
+
+DIALOG_MEVOR_IDLE_1_0=...
+DIALOG_EDWIN_IDLE_1_0=Me, Orra and Mevor have been guarding the portals for eternity. Monsters and corrupted parties from the other diemensions wants to acquire the power here. We don't know how to close the portals so it's our job to keep them out of the Vault.
+DIALOG_GOLEM_IDLE_1_0=Golem good, Golem helps you test your skills and abilities.
+DIALOG_GOLEM_ACTION_BTN_TEXT_1=Fight the Golem
+
+DIALOG_AURDON_IDLE_1_0=Thanks for restoring peace to the vault.
+
+DIALOG_QUEST_FINISH_LOWMORE_START_0=I used to be one of the guardians of this place until one day a meteor fell from the sky and all other guardians were corrupted by its energy.
+DIALOG_QUEST_FINISH_LOWMORE_START_1=I was able to escape the corruption but was caught by the others and my body was then sealed away.
+DIALOG_QUEST_FINISH_LOWMORE_START_2=After all these years I have figured out a way to cleanse the corruption of the meteor, but I will need my body back as well as a few more things.
+DIALOG_QUEST_FINISH_LOWMORE_START_3=Behind me is the <color=#B58300FF>Depth Door</color> of the Vault, it can open to anywhere as long as you have a key.
+DIALOG_QUEST_FINISH_LOWMORE_START_4=I have a key of <color=#B58300FF>Lowmore</color>, I know that the next map fragment is within it for sure.
+DIALOG_QUEST_FINISH_LOWMORE_START_5=Travel to <color=#B58300FF>Lowmore</color> and find the map fragment. Be careful that things in <color=#B58300FF>Depth Door</color> move around and is never the same everytime.
+DIALOG_QUEST_FINISH_LOWMORE_START_6=Enemies in <color=#B58300FF>[LOCATION_PANDEMONIC_DEPTH]</color> are also very strong, take this sphere, it should help you dealing with stronger enemies!
+
+DIALOG_QUEST_FINISH_LOWMORE_PENDING_0=Travel to <color=#B58300FF>Lowmore</color>, the next map fragment should be in one of the rooms in the very end.
+DIALOG_QUEST_FINISH_LOWMORE_END_0=I have added the Inner Courtyard to your map.
+
+DIALOG_QUEST_FINISH_INNER_COURTYARD_START_0=To get the next fragment we need another key. We should be able to find the key in <color=#B58300FF>Midnight Inner Courtyard</color>.
+DIALOG_QUEST_FINISH_INNER_COURTYARD_PENDING_0=Clear out the monsters in <color=#B58300FF>Midnight Inner Courtyard</color> and obtain the next key.
+DIALOG_QUEST_FINISH_INNER_COURTYARD_END_0=That's the key of <color=#B58300FF>Abyss</color>, amazing job!
+
+DIALOG_QUEST_GUARDIANS_START_0=The final map fragment will be at the very end of the <color=#B58300FF>Abyss</color>. Use the key to travel to the <color=#B58300FF>Abyss</color> and find the last map fragment.
+DIALOG_QUEST_GUARDIANS_PENDING_0=Use the key to travel to the <color=#B58300FF>Abyss</color> and find the last map fragment.
+DIALOG_QUEST_GUARDIANS_END_0=We have reached our destination, the Guardians' Cave, should now appear on your map!
+
+DIALOG_QUEST_DEFEAT_ALL_GUARDIANS_START_0=My friends...what have you become...I will free you from this corruption!
+DIALOG_QUEST_DEFEAT_ALL_GUARDIANS_START_1=To cleanse the corruption I will need a sigil from each of the guardians. As well as restoring my body back to channel the spell.
+DIALOG_QUEST_DEFEAT_ALL_GUARDIANS_START_2=Go and defeat each of the guardians to obtain their sigils and also free my body from the seal.
+DIALOG_QUEST_DEFEAT_ALL_GUARDIANS_PENDING_0=This is it, the fate of the vault lies in your hands. I have all my faith in you as I have never seen anyone go this far.
+DIALOG_QUEST_DEFEAT_ALL_GUARDIANS_END_0=I can't believe you actually did it! I have waited for this day to come.
+DIALOG_QUEST_DEFEAT_ALL_GUARDIANS_END_1=Also I have a another key to the <color=#B58300FF>Depth Door</color>. This key can lead to places that are much more volatile than the Abyss so use it with caution.
+
+END

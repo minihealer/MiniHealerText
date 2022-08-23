@@ -1,0 +1,156 @@
+DEPTH_NAME_LOWMORE=The Lowmore
+DEPTH_NAME_ABYSS=The Abyss
+DEPTH_NAME_INFINITE_CORRIDOR=The Infinite Corridor
+DEPTH_NAME_SACRIFICAL_CHAMBER=Sacrifical Ground
+DEPTH_NAME_CHAMBER_OF_PLENTY=Chamber of Plenty
+DEPTH_NAME_CONCEALED_UTOPIA=Concealed Utopia
+DEPTH_NAME_ABSOLUTE_ZERO=Absolute Zero
+
+DEPTH_NAME_MALEVOLENT_CHAMBER=Malevolent Chamber
+DEPTH_DESCRIPTION_MALEVOLENT_CHAMBER=A chamber with a malevolent aura
+
+DEPTH_DESCRIPTION_STRONG_BOSSES=Only the strongest can survive here
+DEPTH_DESCRIPTION_NO_MONSTER=No monsters here, you are free to move around
+DEPTH_COMPLETE_DESCRIPTION=Find and defeat the boss room here to clear the depth
+DEPTH_SELECT_UI_SELECT_KEY=Select a key to open the door with by dragging it to the mouth
+DEPTH_SELECT_UI_EMPTY_KEY_DETAIL=Place a key into the head to view its info
+DEPTH_SELECT_UI_ENTER_DEPTH=Enter depth
+DEPTH_SELECT_UI_EMPTY_INFUSIONS=No infusions
+DEPTH_SELECT_UI_INFUSIONS=Infusions
+DEPTH_SELECT_UI_INFUSIONS_TUT=You can select up to 4 additional infusions to infuse with the key and change the dynamic of the depth
+DEPTH_SELECT_UI_EMPTY_INFUSION_SELECT=Place a key into the head to infuse it
+DEPTH_SELECT_UI_INFUSIONS_LOCK=Complete the first floor of the [DEPTH_NAME_INFINITE_CORRIDOR] to unlock
+DEPTH_SELECT_UI_INFUSIONS_CANT_BE_APPLIED=This infusion can not be applied to this tier
+DEPTH_SELECT_UI_COMPLETE_T_X_IC_TO_UNLOCK=Complete tier {0} of the [DEPTH_NAME_INFINITE_CORRIDOR] to unlock
+DEPTH_SELECT_UI_IC_SELECT_TIER=Select the tier of the key
+DEPTH_SELECT_UI_IC_TIER_X=Tier {0}
+DEPTH_SELECT_UI_IC_ENEMY_HEALTH=+{0}% enemy health <br>({1}% for bosses)<br><br>
+DEPTH_SELECT_UI_IC_ENEMY_AUTO_ATTACK_DMG=+{0}% enemy auto attack damage <br>({1}% for bosses)<br><br>
+DEPTH_SELECT_UI_IC_ENEMY_SPELLPOWER=+{0}% enemy spell power <br>({1}% for bosses)<br><br>
+DEPTH_SELECT_UI_POTENTIAL_ARTIFACTS=Potential Artifacts
+DEPTH_SELECT_UI_POTENTIAL_ARTIFACTS_DESC=All potential artifacts that can drop in this depth. <br><br>As you acquire them, they will be added to the Atlas as well
+DEPTH_UI_DEPTH_INFO=Display depth info
+DEPTH_UI_BACK_TO_HAVEN=Go back to Haven<br><color=#858585FF>You will be able to come back</color>
+DEPTH_UI_CLOSE_DEPTH=Close depth<br><color=#858585FF>You will not be able to come back</color>
+DEPTH_UI_CLEAR_MESSAGE_DEFEAT_MONSTER=Defeat 1 monster room to move to adjacent rooms
+
+DEPTH_UI_NO_POTENTIAL_ARTIFACTS=Has no unique artifacts
+
+DEPTH_CONSUME_KEY=Traveling to this depth will consume the key
+DEPTH_ERROR_MAX_INFUSION=Maximum infusion reached
+
+DEPTH_ABANDONED_WEALTH_OPEN=You opened the chest and received the following
+
+DEPTH_DEPTH_ROOM=Depth Room
+
+
+DEPTH_NAME_SPECIAL_DESC_NO_MONSTERS=Contains no enemies
+DEPTH_NAME_SPECIAL_DESC_ONLY_BATTLE=Contains only battle rooms
+DEPTH_NAME_SPECIAL_DESC_NO_ART_MAT=Enemies do not drop any artifacts or materials
+DEPTH_NAME_SPECIAL_DESC_INCREASED_EXP=Enemies has 100% more base experience
+
+DEPTH_NAME_RANDOM_POSTFIX_ENCAMPMENT=Encampment
+DEPTH_NAME_RANDOM_POSTFIX_ACROPOLIS=Acropolis
+DEPTH_NAME_RANDOM_POSTFIX_STRONGHOLD=Stronghold
+DEPTH_NAME_RANDOM_POSTFIX_WATCH=Watch
+DEPTH_NAME_RANDOM_POSTFIX_HOLD=Hold
+DEPTH_NAME_RANDOM_POSTFIX_KEEP=Keep
+DEPTH_NAME_RANDOM_POSTFIX_PALACE=Palace
+DEPTH_NAME_RANDOM_POSTFIX_CITADEL=Citadel
+DEPTH_NAME_RANDOM_POSTFIX_CASTLE=Castle
+DEPTH_NAME_RANDOM_POSTFIX_STOCKADE=Stockade
+DEPTH_NAME_RANDOM_POSTFIX_SANCTUARY=Sanctuary
+DEPTH_NAME_RANDOM_POSTFIX_LAIR=Lair
+DEPTH_NAME_RANDOM_POSTFIX_SANCTUM=Sanctum
+DEPTH_NAME_RANDOM_POSTFIX_GARRISON=Garrison
+DEPTH_NAME_RANDOM_POSTFIX_DEN=Den
+DEPTH_NAME_RANDOM_POSTFIX_NEST=Nest
+DEPTH_NAME_RANDOM_POSTFIX_HALLWAY=Hallway
+DEPTH_NAME_RANDOM_POSTFIX_HOLLOW=Hollow
+
+DEPTH_NAME_RANDOM_PREFIX_SUNWEB=Sunweb
+DEPTH_NAME_RANDOM_PREFIX_NIGHTMARE=Nightmare
+DEPTH_NAME_RANDOM_PREFIX_EXALTED=Exalted
+DEPTH_NAME_RANDOM_PREFIX_SILVERHOWL=Silverhowl
+DEPTH_NAME_RANDOM_PREFIX_ARID=Arid
+DEPTH_NAME_RANDOM_PREFIX_RUNAWAY=Runaway
+DEPTH_NAME_RANDOM_PREFIX_WATCHER=Watcher's
+DEPTH_NAME_RANDOM_PREFIX_DREAMSPINE=Dreamspine
+DEPTH_NAME_RANDOM_PREFIX_DUSTY=Dusty
+DEPTH_NAME_RANDOM_PREFIX_EHCHANTED=Enchanted
+DEPTH_NAME_RANDOM_PREFIX_WINDLESS=Windless
+DEPTH_NAME_RANDOM_PREFIX_HAUNTED=Haunted
+DEPTH_NAME_RANDOM_PREFIX_ABANDONED=Abandoned
+DEPTH_NAME_RANDOM_PREFIX_DREADFUL=Dreadful
+
+DEPTH_INFUSION_CHAOTIC_TITLE=Chaotic
+DEPTH_INFUSION_CHAOTIC_DESC=Adds chaos attributes to all enemies in the depth
+
+DEPTH_INFUSION_MAZELIKE_TITLE=Mazelike
+DEPTH_INFUSION_MAZELIKE_DESC=The depth will have more rooms than usual
+DEPTH_INFUSION_MAZELIKE_ATTR_DESC=Contains additional rooms
+
+DEPTH_INFUSION_TRANSPARENT_TITLE=Transparent
+DEPTH_INFUSION_TRANSPARENT_DESC=The map of the depth as well as the boss room is revealed
+DEPTH_INFUSION_TRANSPARENT_ATTR_DESC=Layout is revealed
+
+DEPTH_INFUSION_TRIAL_TITLE=Trial
+DEPTH_INFUSION_TRIAL_DESC=The depth will guarentee to have Orra/Mevor/Edwin, drops one additional anomalous item when killed
+DEPTH_INFUSION_TRIAL_ATTR_DESC=Contains trio
+
+DEPTH_INFUSION_PLENTIFUL_TITLE=Plentiful
+DEPTH_INFUSION_PLENTIFUL_DESC=The boss room in the depth will drop one unique key
+DEPTH_INFUSION_PLENTIFUL_ATTR_DESC=Boss is guarenteed to drop at least one unique key
+
+DEPTH_WEALTH_ATTR_EXTRA_CHAOS_CRYSTALS=Contains extra Chaos Crystals
+DEPTH_WEALTH_ATTR_EXTRA_MUTATION_CRYSTALS=Contains extra Mutation Crystals
+DEPTH_WEALTH_ATTR_EXTRA_ANGELIC_CRYSTALS=Contains extra Angelic Crystals
+DEPTH_WEALTH_ATTR_EXTRA_ORES=Contains extra ores
+DEPTH_WEALTH_ATTR_UNIQUE=Contains one or more unique items
+DEPTH_WEALTH_ATTR_EXTRA_WEAPONS=Contains extra weapons
+DEPTH_WEALTH_ATTR_EXTRA_ARMORS=Contains extra armors
+DEPTH_WEALTH_ATTR_EXTRA_ACCESSORIES=Contains extra accessories
+
+DEPTH_ROOM_COMPLETED=Completed
+
+DEPTH_ROOM_NAME_MONSTER=Monster Room
+DEPTH_ROOM_DESC_MONSTER=Defeat the monsters to move deeper into the depth
+DEPTH_ROOM_DESC_MONSTER_BOSS=Defeat the monsters to complete the depth
+
+DEPTH_ROOM_DESC_MORE_MONSTERS=Contains more monsters
+DEPTH_ROOM_DESC_STRONGER_MONSTERS=Contains stronger monsters
+DEPTH_ROOM_DESC_ENHANCED_MONSTERS=Contains enhanced monsters
+DEPTH_ROOM_DESC_ENCHANTED_MONSTERS=Contains enchanted monsters
+DEPTH_ROOM_HAS_X_ENVIRONMENTAL_EFFECT=Has {0} environmental effect
+DEPTH_ROOM_CONTAINS_X=Contains {0}
+
+DEPTH_ROOM_NAME_ABANDONED_WEALTH=Abandoned Wealth
+DEPTH_ROOM_DESC_ABANDONED_WEALTH=Acquire lost treasures
+
+DEPTH_ROOM_NAME_ALTAR=Altar
+DEPTH_ROOM_DESC_ALTAR=Gain a buff and a debuff for the rest of the depth
+DEPTH_ROOM_ALTAR_COMPLETED=Touched
+
+DEPTH_ROOM_NAME_CURSED_POTION=Cursed Potion
+DEPTH_ROOM_DESC_CURSED_POTION=Replaces all monster rooms with a single cursed room on this level
+
+DEPTH_ROOM_NAME_MALEVOLENT_SHRINE=Malevolent Shrine
+DEPTH_ROOM_DESC_MALEVOLENT_SHRINE=A powerful shrine that can permanently lock an attribute of an item
+
+DEPTH_ROOM_NAME_TORI_NAME=[CONTEXT_NPC_NAME_TORRI]
+DEPTH_ROOM_NAME_TORI_DESC=Traveling merchant from the [LOCATION_AIRENE_TOWER]
+
+DEPTH_ROOM_NAME_ANAPIEL_NAME=[CONTEXT_NPC_NAME_ANAPIEL]
+DEPTH_ROOM_NAME_ANAPIEL_DESC=Challenges you with special bosses found in the [LOCATION_AIRENE_TOWER]
+
+DEPTH_ROOM_NAME_ORRA=[BOSS_ORRA_SHORT_NAME]'s Challenge
+DEPTH_ROOM_DESC_ORRA=Defeat [BOSS_ORRA_SHORT_NAME] to acquire an anomalous armor
+DEPTH_ROOM_NAME_MEVOR=[BOSS_MEVOR_SHORT_NAME]'s Challenge
+DEPTH_ROOM_DESC_MEVOR=Defeat [BOSS_MEVOR_SHORT_NAME] to acquire an anomalous weapon
+DEPTH_ROOM_NAME_EDWIN=[BOSS_EDWIN_SHORT_NAME]'s Challenge
+DEPTH_ROOM_DESC_EDWIN=Defeat [BOSS_EDWIN_SHORT_NAME] to acquire an anomalous accessory
+
+DEPTH_NAME_CHAMPION=Vault of Champion
+DEPTH_DESCRIPTION_CHAMPION=Fight the champion of the old vault.
+
+END

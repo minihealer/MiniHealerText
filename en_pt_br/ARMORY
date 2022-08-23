@@ -1,0 +1,61 @@
+ARMORY_QUICKSELL=Ctrl + Right Click will quick sell the item
+ARMORY_LOADOUT=Equipment Loadouts
+
+ARMORY_POSSIBLE_AUGMENTATIONS=Possible Augmentations
+ARMORY_POSSIBLE_MUTATIONS=Possible Mutations
+
+ARMORY_POSSIBLE_REROLL_ATTRIBUTES=Possible Attributes Info
+ARMORY_POSSIBLE_REROLL_ATTRIBUTES_RULE=Roll Rules
+ARMORY_ROLL_RULE_INTRINSTIC=A {0} {1} must have 1 attribute from the following pool
+ARMORY_ROLL_RULE_MAX=A {0} {1} can have up to x attribute(s) from the following pool. (x is the number of attributes on the item divided by half, rounded up)
+ARMORY_ROLL_RULE_MAX_TALENT_LEVEL=A {0} {1} can have up to {2} + talent level attribute(s)
+ARMORY_ROLL_RULE_FREE=A {0} {1} can roll the following attributes in general
+
+ARMORY_UNEQUIP_ALL=Unequip <br>all items
+ARMORY_SELL_ALL_UNCOMMON=Sell all <br>UnCommon
+ARMORY_SELL_ALL_NON_FAV=Sell all <br>Non-Favorited
+ARMORY_SELL_ALL_NON_PERFECT=Sell All <br>Non perfect
+
+ARMORY_SELL_CONFIRMATION=Are you sure you want to sell this item?
+ARMORY_SELL_ALL_UNCOMMON_CONFIRMATION=Are you sure you want to sell all Uncommon items?
+ARMORY_SELL_ALL_NON_PERFECT_CONFIRMATION=Are you sure you want to sell all non-perfect items?
+ARMORY_SELL_ALL_NON_FAV_CONFIRMATION=Are you sure you want to sell all non-favorited items?
+
+
+ARMORY_CHAOS_SLOT_UNLOCK_REQ=Unlocks by collecting 3 pieces of <color=#B58300FF>[MATERIAL_ASTRAL_FRAGMENT_NAME]</color>
+
+ARMORY_SORT_TITLE=Sort
+ARMORY_SORT_LATEST=Latest
+ARMORY_SORT_RARITY=Rarity
+ARMORY_SORT_ITEMLVL=Item Level
+
+ARMORY_SORT_FAVORITE=<color=#FF911F>Favorite</color> - Favorited artifacts will not be included in the Sell All ... actions
+
+ARMORY_HOVER_DIVINE=<color=#FF911F>Divine Artifact</color> - This is a stronger version of {0}
+ARMORY_HOVER_DIVINABLE=<color=#FF911F>Can be Divined</color> - This artifact can become stronger when divined with [MATERIAL_DIVINATION_SPHERE_NAME]
+ARMORY_HOVER_CHAOTIC=<color=#FF911F>Chaotic Artifact</color> - This artifact will only drop when the boss is chaotic
+ARMORY_HOVER_ANOMALOUS=<color=#FF911F>Anomalous Artifact</color> - This is a slightly different version of {0}
+ARMORY_HOVER_PERFECT=<color=#FF911F>Perfect Artifact</color> - This artifact has a base quality of 10 or above
+
+ARMORY_FILTERS_TITLE=Filters
+ARMORY_FILTERS_WEAPON=Weapon
+ARMORY_FILTERS_ARMOR=Armor
+ARMORY_FILTERS_ACCESSORY=Accessory
+ARMORY_FILTERS_GEM=Material
+ARMORY_FILTERS_OTHER=Other
+ARMORY_FILTERS_AUGMENTED=Augmented
+ARMORY_FILTERS_HAS_SOCKETS=Has Sockets
+ARMORY_FILTERS_UPGRADED=Upgraded
+ARMORY_FILTERS_MUTATED=Mutated
+ARMORY_FILTERS_FAVORITED=Favorited
+
+ARMORY_REROLL_AUGMENT_DESC=Select augmentations you want to lock. <br>Locking augmentations will increase reroll cost. <br>Locked augmentations will not be rerolled during reaugmentation
+ARMORY_UPGRADE_AUGMENT_DESC=Spend [MATERIAL_THE_MAKER_NAME] to upgrade an augment to the next tier
+ARMORY_UPGRADE_ERROR_MAX_TIER_REACHED=Maximum tier reached
+ARMORY_TRIO_REAUG_SELECT_OLD=Select an existing augmentation
+ARMORY_TRIO_REAUG_SELECT_NEW=Select a new augmentation
+
+ARMORY_ITEM_ACQUIRED_X=<br>Acquired: {0}
+ARMORY_ITEM_MAX_STACK_X=<color=#{0}>Maximum stack: {1}</color>
+
+END

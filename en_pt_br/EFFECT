@@ -1,0 +1,1641 @@
+EFFECT_CANNOT_BE_DISPELLED=Cannot be dispelled [1]
+EFFECT_CANNOT_BE_NEGATED=Cannot be negated [6]
+
+EFFECT_X_EFFECT={0} Effect
+
+EFFECT_X_INCREASED={0} increased
+EFFECT_X_REDUCED={0} reduced
+EFFECT_X_HEAVILY_REDUCED={0} heavily reduced
+EFFECT_X_INCREASED_BY_Y={0} increased by {1}
+EFFECT_X_INCREASED_BY_Y_PERCENTAGE={0} increased by {1}%
+EFFECT_X_REDUCED_BY_Y={0} reduced by {1}
+EFFECT_X_REDUCED_BY_Y_PERCENTAGE={0} reduced by {1}%
+
+EFFECT_GENERIC_ABSORB_DMG=Shielded, absorbing damage
+
+EFFECT_DEALING_X_DAMAGE_EVERY_SECOND=Dealing {0} damage every second
+EFFECT_TAKING_X_DAMAGE_EVERY_SECOND=Taking {0} damage every second
+
+EFFECT_DEALING_HEAVY_X_DAMAGE_EVERY_SECOND=Dealing heavy {0} damage every second
+EFFECT_TAKING_HEAVY_X_DAMAGE_EVERY_SECOND=Taking heavy {0} damage every second
+
+EFFECT_EBB_AND_FLOW_NAME=[TALENT_EBB_AND_FLOW_NAME]
+EFFECT_EBB_AND_FLOW_P1_DESC=[ATTRIBUTE_ALL_RESISTS_TEXT] increased <br>[ATTRIBUTE_HEALING_RECEIVED] decreased
+EFFECT_EBB_AND_FLOW_P2_DESC=[ATTRIBUTE_ALL_RESISTS_TEXT] decreased <br>[ATTRIBUTE_HEALING_RECEIVED] increased
+
+EFFECT_ABSORB_ALL_HEALING=Absorbing all healing received
+EFFECT_ABSORB_ALL_DAMAGE=Absorbing all damage
+
+EFFECT_DEALING_X_PERCENT_MORE_DAMAGE=Dealing {0}% more damage
+EFFECT_TAKING_X_PERCENT_MORE_DAMAGE=Taking {0}% more damage
+
+EFFECT_BALL_LIGHTNING_NAME=Ball Lightning
+EFFECT_BLOOD_THIRST_NAME=Blood Thirst
+EFFECT_BLOOD_EXTRACTOR_NAME=Blood Extractor
+
+EFFECT_DECREPIFICATION_AURA_NAME=Decrepification Aura [0]
+
+EFFECT_DIVINE_MEND_NAME=[SKILL_DIVINE_MEND_NAME] Effect [0]
+EFFECT_DIVINE_MEND_DESC_0=[ATTRIBUTE_PHYSICAL_RESIST] increased
+
+EFFECT_ASCEND_NAME=Ascend Effect [0]
+EFFECT_ASCEND_DESC_OVERRIDE=Upon reaching {0} stacks, grants [SKILL_ASCENSION_NAME]
+
+EFFECT_OATH_NAME=[UI_TOOLTIP_OATH_NAME] Effect [0]
+EFFECT_OATH_DESC_0=Casting [SKILL_FLASH_HEAL_NAME] with [TALENT_INFUSED_LUMINOSITY_NAME] will also cast on this target
+
+EFFECT_SEAL_OF_LIGHT_NAME=[SKILL_SEAL_OF_LIGHT_NAME] Effect [0]
+EFFECT_SEAL_OF_LIGHT_DESC_0=When healed by [SKILL_DIVINE_MEND_NAME] <br>The seal will explode, healing the target significantly <br>as well as dealing [ATTRIBUTE_FIRE_DAMAGE] too all enemies
+
+EFFECT_DIVINE_FOCUS_NAME=[SKILL_DIVINE_FOCUS_NAME] Effect [0]
+EFFECT_DIVINE_FOCUS_DESC_0=Focused, the next Paladin spell cast will be more powerful
+
+EFFECT_SANCTUARY_NAME=[SKILL_SANCTUARY_NAME] Effect [0]
+EFFECT_SANCTUARY_DESC_0=Complete protection against all damage
+
+EFFECT_REDEMPTION_NAME=[TALENT_REDEMPTION_NAME] Effect [0]
+EFFECT_REDEMPTION_DESC_0=[SKILL_DIVINE_MEND_NAME] healing increased. Loses all stacks if the next spell cast is not [SKILL_DIVINE_MEND_NAME]
+
+EFFECT_RING_OF_INFLUENCE_NAME=[TALENT_RING_OF_INFLUENCE_NAME] Effect [0]
+EFFECT_RING_OF_INFLUENCE_DESC_0=[ATTRIBUTE_HEALING_RECEIVED] increased
+
+EFFECT_DIVINATION_AURA_NAME=[TALENT_DIVINATION_AURA_NAME] Effect [0]
+EFFECT_DIVINATION_AURA_DESC_0=Mana regeneration increased <br>[ATTRIBUTE_NEMESIS_RESIST] increased
+
+EFFECT_SACRED_INFUSION_NAME=[SKILL_SACRED_INFUSION_NAME] Effect [0]
+EFFECT_SACRED_INFUSION_DESC_0=All single target non heal over time 
+EFFECT_SACRED_INFUSION_DESC_1=healing done to other party members
+EFFECT_SACRED_INFUSION_DESC_2=will also heal this party member
+
+EFFECT_ASCENSION_NAME=[SKILL_ASCENSION_NAME] Effect [0]
+EFFECT_ASCENSION_DESC_0=[ATTRIBUTE_HEALING_DONE] increased
+EFFECT_ASCENSION_DESC_1=[ATTRIBUTE_ALL_DAMAGE_DEALT] increased
+EFFECT_ASCENSION_DESC_2=[ATTRIBUTE_SHIELDING_EFFECT] increased
+EFFECT_ASCENSION_DESC_3=[ATTRIBUTE_MOVEMENT_SPEED] increased
+
+EFFECT_IQSIOR_CAPE_NAME=Iqsior's Cape Effect [0]
+EFFECT_IQSIOR_CAPE_DESC_0=[ATTRIBUTE_CRITICAL_HEAL_CHANCE] increased
+
+EFFECT_TANK_NAME=[CONTEXT_PARTY_MEMBER_NAME_TANK] Effect [0]
+EFFECT_TANK_DESC_0=Drawing the most attention from the boss
+EFFECT_TANK_DESC_1=Gains 20% [ATTRIBUTE_PHYSICAL_RESIST]
+EFFECT_SEAL_OF_LIGHT_NAME=[SKILL_SEAL_OF_LIGHT_NAME] Effect [0]
+EFFECT_RENEW_NAME=Renew Effect [0]
+EFFECT_RENEW_DESC_0=Restoring health every second
+EFFECT_REJUVENATE_NAME=Rejuvenate Effect [0]
+EFFECT_REJUVENATE_DESC_0=Restoring mana every second
+EFFECT_INSPIRE_NAME=Inspire Effect [0]
+EFFECT_INSPIRE_TOWER_NAME=[EFFECT_INSPIRE_NAME]
+EFFECT_INSPIRE_DESC_0=Regenerating HP
+EFFECT_INSPIRE_DESC_1=Damage increased
+EFFECT_POISON_NAME=Poison Effect [1]
+EFFECT_POISON_DESC_0=Taking [ATTRIBUTE_NEMESIS_DAMAGE] over time
+EFFECT_REGEN_AURA_NAME=Regen Aura Effect [0]
+EFFECT_REGEN_AURA_DESC_0=Regenerating health
+EFFECT_FORTIFICATION_AURA_NAME=Fortification Aura Effect [0]
+EFFECT_FORTIFICATION_AURA_DESC_0=Reduce all damage taken
+EFFECT_LIGHT_GUIDANCE_NAME=Light's Guidance Effect [0]
+EFFECT_LIGHT_GUIDANCE_DESC_0=Reduce all damage taken
+EFFECT_SPIRIT_FORM_NAME=Spirit Form Effect [0]
+EFFECT_SPIRIT_FORM_DESC_0=You are dead, but you can still cast spells
+EFFECT_SPIRIT_FORM_DESC_1=[ATTRIBUTE_INCREASE_HEALPOWER_FLAT_TEXT] is greatly reduced
+EFFECT_SPIRIT_FORM_DESC_2=[ATTRIBUTE_HEALING_DONE] is greatly reduced
+EFFECT_SPIRIT_FORM_DESC_3=You cannot move anymore
+EFFECT_DEMON_FORM_NAME=Demon Form Effect [0]
+EFFECT_DEMON_FORM_DESC_0=Dead, can still atack but damage is reduced
+EFFECT_SOUL_BOOST_NAME=Soul Boost Effect [0]
+EFFECT_SOUL_BOOST_DESC_0=Increase damage dealt
+EFFECT_DECAY_AURA_NAME=Decay Aura Effect [1]
+EFFECT_DECAY_AURA_DESC_0=Damage Taken Increased
+EFFECT_DECAY_AURA_DESC_1=Taking [ATTRIBUTE_NEMESIS_DAMAGE] per second
+EFFECT_FEARFUL_HOWL_NAME=Fearful Howl Effect [1]
+EFFECT_FEARFUL_HOWL_DESC_0=[ATTRIBUTE_ALL_DAMAGE_DEALT] decreased significantly
+EFFECT_ENRAGE_NAME=Enrage Effect [1]
+EFFECT_ENRAGE_DESC_0=Attack damage increased
+EFFECT_ENRAGE_DESC_1=Spell power increased
+EFFECT_BLEED_NAME=Bleed Effect [1]
+EFFECT_BLEED_DESC_0=Bleeding, taking [ATTRIBUTE_PHYSICAL_DAMAGE] every second
+EFFECT_DECAYING_WIND_NAME=Decaying Wind Effect [1]
+EFFECT_DECAYING_WIND_DESC_0=Taking [ATTRIBUTE_NEMESIS_DAMAGE] every second
+EFFECT_EROSION_NAME=[SKILL_EROSION_NAME] Effect [1]
+EFFECT_EROSION_DESC_0=[EFFECT_DECAYING_WIND_DESC_0]
+EFFECT_COLD_INFUSION_NAME=Cold Infusion Effect [1]
+EFFECT_COLD_INFUSION_DESC_0=Infused with the power of cold
+EFFECT_ICY_TOMB_NAME=Icy Tomb Effect [1]
+EFFECT_ICY_TOMB_FROST_TITAN_NAME=Icy Tomb Effect [1]
+EFFECT_ICY_TOMB_DESC_0=Frozen and taking damage
+EFFECT_ICY_TOMB_DESC_1=cannot be healed
+EFFECT_EARLY_THAW_NAME=Early Thaw Effect [1]
+EFFECT_EARLY_THAW_DESC_0=Taking damage
+EFFECT_FLAME_INFUSION_NAME=Flame Infusion Effect [1]
+EFFECT_FLAME_INFUSION_DESC_0=Infused with the power of flame
+EFFECT_ICE_ARMOR_NAME=Ice Armor Effect [0]
+EFFECT_ICE_ARMOR_DESC_0=Taking reduced damage
+EFFECT_EVER_LASTING_FLAME_NAME=Ever Lasting Flame Effect [1]
+EFFECT_EVER_LASTING_FLAME_DESC_0=Taking [ATTRIBUTE_FIRE_DAMAGE] over time
+EFFECT_DAY_NAME=Day Effect [0]
+EFFECT_DAY_DESC_0=Environmental [5]
+EFFECT_DAY_DESC_1=It is day time
+EFFECT_DAY_DESC_2=Solaria is stronger
+EFFECT_DAY_DESC_3=Lunaria is weaker
+
+EFFECT_DAY_SKILL_DESC=It is day time, Solaria is stronger and Lunaria is weaker. <br><br>Killing Lunaria will cause day time to stay forever.
+
+EFFECT_NIGHT_NAME=Night Effect [0]
+EFFECT_NIGHT_DESC_0=Environmental [5]
+EFFECT_NIGHT_DESC_1=It is night time
+EFFECT_NIGHT_DESC_2=Lunaria is stronger
+EFFECT_NIGHT_DESC_3=Solaria is weaker
+
+EFFECT_NIGHT_SKILL_DESC=It is night time, Lunaria is stronger and Solaria is weaker. <br><br>Killing Solaria will cause night time to stay forever.
+
+EFFECT_DAY_SOLARIA_NAME=Day Solaria Effect [0]
+EFFECT_DAY_SOLARIA_DESC_0=Dealing 20% more damage
+EFFECT_DAY_SOLARIA_DESC_1=Takes no damage if Lunaria is present
+EFFECT_DAY_SOLARIA_DESC_2=Takes reduced damage if Lunaria is not present
+EFFECT_NIGHT_SOLARIA_NAME=Night Solaria Effect [1]
+EFFECT_NIGHT_SOLARIA_DESC_0=Dealing 20% less damage
+EFFECT_DAY_LUNARIA_NAME=Day Lunaria Effect [1]
+EFFECT_DAY_LUNARIA_DESC_0=Dealing 20% less damage
+EFFECT_NIGHT_LUNARIA_NAME=Night Lunaria Effect [0]
+EFFECT_NIGHT_LUNARIA_DESC_0=Takes no damage if Solaria is present
+EFFECT_NIGHT_LUNARIA_DESC_1=Takes reduced damage if Solaria is not present
+EFFECT_STUNNED_NAME=Stunned Effect [1]
+EFFECT_STUNNED_DESC_0=Stunned
+EFFECT_FLARE_NAME=Flare Effect [1]
+EFFECT_FLARE_DESC_0=Taking increased damage
+EFFECT_ORB_OF_NIGHT_NAME=Orb of Night Effect [1]
+EFFECT_ORB_OF_NIGHT_DESC_0=Taking [ATTRIBUTE_NEMESIS_DAMAGE] every second
+EFFECT_MANAVOID_NAME=Mana Void Effect [1]
+EFFECT_MANAVOID_DESC_0=Environmental [5]
+EFFECT_MANAVOID_DESC_1=Mana regen is 0
+EFFECT_MANAVOID_DESC_2=You have 70% less maximum mana
+EFFECT_MANAVOID_DESC_3=Attacking the crystal will restore mana
+EFFECT_MANAVOID_DESC_4=Attacking the crystal will heal all other enemies
+
+EFFECT_MANAVOID_SKILL_DESC=Mana regeneration is 0 and maximum mana is reduced. <br><br>Attacking the crystal will regain a small bit of mana back but healing all other enemies by a small amount.
+
+EFFECT_CRYSTALIZE_NAME=Crystalize Effect [0]
+EFFECT_CRYSTALIZE_DESC_0=[ATTRIBUTE_ALL_DAMAGE_DEALT] increased
+EFFECT_SILENT_NAME=Silent Effect [1]
+EFFECT_SILENT_DESC_0=Cannot cast any healing skills
+EFFECT_NOXIOUS_WIND_NAME=Noxious Wind Effect [1]
+EFFECT_NOXIOUS_WIND_DESC_0=Attack Speed Decreased
+EFFECT_MOON_MIRROR_NAME=Mirror of the Moon Effect [0]
+EFFECT_MOON_MIRROR_DESC_0=Reflecting a portion of damage back to attacker
+EFFECT_HAUNT_NAME=Haunt Effect [1]
+EFFECT_HAUNT_DESC_0=Taking [ATTRIBUTE_ICE_DAMAGE] every second
+EFFECT_HAUNT_DESC_1=Jump to other party member when expired
+EFFECT_RETURNED_SOUL_NAME=Returned Soul Effect [0]
+EFFECT_RETURNED_SOUL_DESC_0=Increase all damage dealt by 5%
+EFFECT_RETURNED_SOUL_DESC_1=Increase all damage taken by 5%
+EFFECT_HAUNTED_NAME=Haunted Effect [1]
+EFFECT_HAUNTED_DESC_0=Taking damage
+EFFECT_NIGHTMARE_NAME=Nightmare Effect [1]
+EFFECT_NIGHTMARE_DESC_0=Sleeping
+EFFECT_NIGHTMARE_DESC_1=Will haunt the player when dispelled  [1]
+EFFECT_ARMOR_UP_NAME=[SKILL_ARMOR_UP_NAME] Effect [0]
+EFFECT_ARMOR_UP_DESC_0=[SKILL_ARMOR_UP_DESC]
+EFFECT_BERZERK_NAME=[SKILL_BERZERK_NAME] Effect [0]
+EFFECT_BERZERK_DESC_0=[SKILL_BERZERK_DESC]
+EFFECT_HEAVY_STRIKE_NAME=Heavy Strike Effect [1]
+EFFECT_HEAVY_STRIKE_DESC_0=Taking reduced healing
+EFFECT_GUMP_EYE_NAME=Gump's Eye Effect [0]
+EFFECT_GUMP_EYE_DESC_0=Damage reduced
+EFFECT_SHAKLE_NAME=Shackle Effect [1]
+EFFECT_SHAKLE_DESC_0=Attack speed greatly reduced
+EFFECT_SHAKLE_DESC_1=Summon a soul when dispelled
+
+EFFECT_SOUL_REVENGE_NAME=Soul's Revenge Effect [1]
+EFFECT_SOUL_REVENGE_DESC_0=Environmental [5]
+EFFECT_SOUL_REVENGE_DESC_1=Souls will periodically spawn
+EFFECT_SOUL_REVENGE_DESC_2=Souls can be killed by clicking on them
+EFFECT_SOUL_REVENGE_DESC_3=Killing a soul will deal [ATTRIBUTE_ICE_DAMAGE] to all party members
+EFFECT_SOUL_REVEGE_SKILL_DESC=Souls will periodically spawn and can be killed by clicking on them. <br><br>Killing a soul will deal [ATTRIBUTE_ICE_DAMAGE] to all party members. <br><br>Norrix is more powerful when there are souls on the field. <br><br>Norrix deals and take more damage the more souls he absorbs
+
+EFFECT_SPARK_BLAST_NAME=[SKILL_SPARK_BLAST_NAME] Effect [1]
+EFFECT_SPARK_BLAST_DESC_0=[ATTRIBUTE_INCREASE_HEALPOWER_FLAT_TEXT] decreased
+
+EFFECT_GAUNTLETS_OF_HOLY_MIGHT_NAME=[ARTIFACT_GAUNTLETS_OF_HOLY_MIGHT_NAME] Effect [1]
+EFFECT_GAUNTLETS_OF_HOLY_MIGHT_DESC_0=Damage taken from [SKILL_SEAL_OF_LIGHT_NAME] increased
+
+EFFECT_MIND_BLAST_NAME=Mind Blast Effect [1]
+EFFECT_MIND_BLAST_DESC_0=Cast speed greatly reduced
+EFFECT_MIND_BLAST_DESC_1=Summon a soul when dispelled
+EFFECT_NIMBLE_AURA_NAME=Nimble Aura Effect [0]
+EFFECT_NIMBLE_AURA_DESC_0=Attack speed increased
+EFFECT_NIMBLE_AURA_DESC_1=[ATTRIBUTE_DODGE_CHANCE_TEXT] increased
+EFFECT_PROTECTION_AURA_NAME=Protection Aura Effect [0]
+EFFECT_PROTECTION_AURA_DESC_0=Health increased
+EFFECT_PROTECTION_AURA_DESC_1=Healing received increased
+EFFECT_LAST_STAND_NAME=Last Stand Effect [0]
+EFFECT_LAST_STAND_DESC_0=Damage is greatly increased
+EFFECT_HAVOC_AURA_NAME=Havoc Aura Effect [0]
+EFFECT_HAVOC_AURA_DESC_0=Critical chance increased
+EFFECT_MARK_OF_DEATH_NAME=Mark of Death Effect [0]
+EFFECT_MARK_OF_DEATH_DESC_0=[ATTRIBUTE_NEMESIS_DAMAGE] taken increased
+EFFECT_VOODOO_MAGIC_NAME=Voodoo Magic Effect [0]
+EFFECT_VOODOO_MAGIC_DESC_0=This character will heal when taking a fatal blow
+EFFECT_STRESS_NAME=Stress Effect [1]
+EFFECT_STRESS_DESC_0=Each stress stack will
+EFFECT_STRESS_DESC_1=Reduce 10% healing received for all party members
+EFFECT_STRESS_DESC_2=Takes and Deals 15% more damage for all party members
+EFFECT_TORMENT_NAME=Torment Effect [1]
+EFFECT_TORMENT_DESC_0=This character is being tormented
+EFFECT_TORMENT_DESC_1=Attack damage is greatly increased
+EFFECT_TORMENT_DESC_2=Suffer stress when debuff expire
+EFFECT_DRENCH_NAME=Drench Effect [1]
+EFFECT_DRENCH_DESC_0=Drench in water, increasing damage taken
+EFFECT_RELENTLESS_NAME=Relentless Effect [0]
+EFFECT_RELENTLESS_DESC_0=Filled with vengence, 
+EFFECT_RELENTLESS_DESC_1=this character will come back from death
+EFFECT_TORTURE_NAME=Torture Effect [1]
+EFFECT_TORTURE_DESC_0=Being tortured, taking increased damage every tick
+EFFECT_TORTURE_DESC_1=Dispelling this effect will transfer 
+EFFECT_TORTURE_DESC_2=it onto other party member
+EFFECT_DEVOUR_NAME=Devour Effect [0]
+EFFECT_DEVOUR_DESC_0=Devouring the world, 
+EFFECT_DEVOUR_DESC_1=redirecting all healing to the boss
+EFFECT_BRUTALITY_AURA_NAME=Brutality Aura Effect [0]
+EFFECT_BRUTALITY_AURA_DESC_0=All Damage increased by 5%
+EFFECT_SHOCK_NAME=Shock Effect [1]
+EFFECT_SHOCK_DESC_0=Damage taken increased
+EFFECT_ELECTRIFY_NAME=Electrify Effect [0]
+EFFECT_ELECTRIFY_DESC_0=Attack speed increased
+EFFECT_IMPAIR_NAME=Impair Effect [1]
+EFFECT_IMPAIR_DESC_0=Stunned
+EFFECT_IMPAIR_DESC_1=Healing enemies every second 
+EFFECT_IMPAIR_DESC_2=until the character is fully healed
+EFFECT_HEMORRHAGE_NAME=Hemorrhage Effect [1]
+EFFECT_HEMORRHAGE_DESC_0=Bleeding
+EFFECT_INFECTION_NAME=Infection Effect [1]
+EFFECT_INFECTION_DESC_0=Infected, heavily reducing healing done
+EFFECT_EMPOWER_NAME=Empower Effect [0]
+EFFECT_EMPOWER_DESC_0=Attack speed increased
+EFFECT_PETRIFY_NAME=Petrify Effect [1]
+EFFECT_PETRIFY_DESC_0=Turned into a massive stone
+EFFECT_PETRIFY_DESC_1=Stunned and cannot be healed  [1]
+EFFECT_PETRIFY_DESC_2=Dispelling this effect will cause
+EFFECT_PETRIFY_DESC_3=another party member to become petrified
+EFFECT_BARRIER_NAME=Barrier Effect [0]
+EFFECT_BARRIER_DESC_0=Immune to damage
+EFFECT_RAMPAGE_NAME=Rampage Effect [0]
+EFFECT_RAMPAGE_DESC_0=[ATTRIBUTE_CRITICAL_STRIKE_DAMAGE_TEXT] increased
+EFFECT_CORRUPTED_BARRIER_NAME=Corrupted Barrier Effect [0]
+EFFECT_CORRUPTED_BARRIER_DESC_0=Sargaris starts with 25% health and is immune to damage 
+EFFECT_CORRUPTED_BARRIER_DESC_1=Barrier is removed once Sargaris' health reaches 75%
+EFFECT_CORRUPTED_BARRIER_DESC_2=Lose if Saragris dies with Barrier
+EFFECT_CHANNEL_HEAL_NAME=Channel Heal Effect [1]
+EFFECT_CHANNEL_HEAL_DESC_0=Healing done to this character is also
+EFFECT_CHANNEL_HEAL_DESC_1=amplified and transfered to Sargaris
+EFFECT_CHANNEL_HEAL_DESC_2=Other characters without the Channel Heal Effect will lose health
+EFFECT_CHANNEL_HEAL_DESC_3=equal to 70% of the amount healed
+EFFECT_DECAY_NAME=Decay Effect [1]
+EFFECT_DECAY_DESC_0=Losing health every second
+EFFECT_UNHOLY_MIGHT_NAME=Unholy Might Effect [0]
+EFFECT_UNHOLY_MIGHT_DESC_0=Damage increased
+EFFECT_UNHOLY_MIGHT_DESC_1=Damage taken increased
+EFFECT_LOYALTY_NAME=Loyalty Effect [0]
+EFFECT_LOYALTY_DESC_0=All damage increased
+EFFECT_LOYALTY_DESC_1=Attack speed increased
+EFFECT_MOURN_NAME=Mourn Effect [0]
+EFFECT_MOURN_DESC_0=All damage increased
+EFFECT_MOURN_DESC_1=Attack speed increased
+EFFECT_EDGE_OF_ETERNITY_NAME=Edge Of Eternity Effect [0]
+EFFECT_EDGE_OF_ETERNITY_DESC_0=All enemies' damage reduced
+EFFECT_BORROWED_TIME_NAME=Borrowed Time Effect [1]
+EFFECT_BORROWED_TIME_DESC_0=Taking [ATTRIBUTE_ICE_DAMAGE] every second
+EFFECT_BREAK_WEAPONS_NAME=Break Weapons Effect [1]
+EFFECT_BREAK_WEAPONS_DESC_0=All damage reduced
+EFFECT_TEAR_FLESH_NAME=Tear Flesh Effect [1]
+EFFECT_TEAR_FLESH_DESC_0=Taking [ATTRIBUTE_PHYSICAL_DAMAGE]
+EFFECT_TEAR_FLESH_DESC_1=Healing received reduced
+EFFECT_DRAIN_SHOT_NAME=Drain Shot Effect [1]
+EFFECT_DRAIN_SHOT_DESC_0=Losing Mana
+EFFECT_FREEZE_TRAP_NAME=Freeze Trap Effect [1]
+EFFECT_FREEZE_TRAP_DESC_0=Frozen
+EFFECT_SAVAGE_NAME=Savage Effect [0]
+EFFECT_SAVAGE_DESC_0=Attack damage increased
+EFFECT_BLAZE_NAME=Blaze Effect [1]
+EFFECT_BLAZE_DESC_0=Taking damage
+EFFECT_INFERNO_NAME=Inferno Effect [1]
+EFFECT_INFERNO_DESC_0=Taking damage
+EFFECT_GLACIAL_NAME=Glacial Effect [1]
+EFFECT_GLACIAL_DESC_0=Frozen
+EFFECT_ICY_NAME=Icy Effect [1]
+EFFECT_ICY_DESC_0=Attack speed is slowed
+EFFECT_SHOCKING_NAME=Shocking Effect [1]
+EFFECT_SHOCKING_DESC_0=Taking increased damage
+EFFECT_VIGOROUS_NAME=Vigorous Effect [0]
+EFFECT_VIGOROUS_DESC_0=Regenerating health
+EFFECT_UNBREAKABLE_WILL_NAME=Unbreakable Effect [0]
+EFFECT_UNBREAKABLE_WILL_DESC_0=Taking reduced damage
+EFFECT_SWAP_NAME=Swap Effect [0]
+EFFECT_SWAP_DESC_0=Environmental [5]
+EFFECT_SWAP_DESC_1=A new swap action has been added
+EFFECT_SWAP_DESC_2=between the [CONTEXT_PARTY_MEMBER_NAME_TANK] and [CONTEXT_PARTY_MEMBER_NAME_BERZERKER]'s portrait
+EFFECT_SWAP_DESC_3=click the button to switch the current tank from
+EFFECT_SWAP_DESC_4=[CONTEXT_PARTY_MEMBER_NAME_TANK] to [CONTEXT_PARTY_MEMBER_NAME_BERZERKER] or vise versa
+
+EFFECT_SWAP_SKIL_DESC=You can perform a tank swap in this fight by clicking on a new action button added between the [CONTEXT_PARTY_MEMBER_NAME_TANK] and [CONTEXT_PARTY_MEMBER_NAME_BERZERKER]'s portrait when engaged
+
+EFFECT_IMBUE_POISON_NAME=Imbue Poison Effect [0]
+EFFECT_IMBUE_POISON_DESC_0=Every attack will deal extra [ATTRIBUTE_NEMESIS_DAMAGE]
+EFFECT_IMBUE_POISON_DESC_1=to [CONTEXT_PARTY_MEMBER_NAME_RANGER] and [CONTEXT_PARTY_MEMBER_NAME_HEALER] 
+EFFECT_IMBUE_POISON_DESC_2=Negating this effect will cause the [CONTEXT_PARTY_MEMBER_NAME_HEALER] to be
+EFFECT_IMBUE_POISON_DESC_3=silenced for a short duration
+EFFECT_CORRODE_NAME=Corrode Effect [1]
+EFFECT_CORRODE_DESC_0=Taking increased damage per stack
+EFFECT_DEFILE_NAME=Defile Effect [1]
+EFFECT_DEFILE_DESC_0=Damage reduced
+EFFECT_DEFILE_DESC_1=[EFFECT_ABSORB_ALL_HEALING]
+EFFECT_GARROTE_NAME=Garrote Effect [1]
+EFFECT_GARROTE_DESC_0=Losing Health
+EFFECT_WITHER_NAME=Wither Effect [1]
+EFFECT_WITHER_DESC_0=Attack speed is slowed
+EFFECT_WITHER_DESC_1=Losing Health
+EFFECT_ETERNAL_WAR_NAME=Eternal War Effect [0]
+EFFECT_ETERNAL_WAR_DESC_0=Taking less damage
+EFFECT_SMITE_NAME=Smite Effect [1]
+EFFECT_SMITE_DESC_0=Taking increased damage
+EFFECT_MIRRORED_SMITE_NAME=Smite Effect [1]
+EFFECT_MIRRORED_SMITE_DESC_0=[ATTRIBUTE_ALL_DAMAGE_DEALT] decreased
+EFFECT_SPIRIT_RITUAL_NAME=Spirit Ritual Effect [0]
+EFFECT_SPIRIT_RITUAL_DESC_0=Healing for a small amount every second
+EFFECT_SPIRIT_RITUAL_DESC_1=Heal for a moderate amount at the end of the duration
+EFFECT_NATURE_GIFT_NAME=Nature's Gift Effect [0]
+EFFECT_NATURE_GIFT_DESC_0=Restoring health every second
+EFFECT_INFERNAL_CURSE_NAME=Inferno Curse Effect [1]
+EFFECT_INFERNAL_CURSE_NO_DISPEL_NAME=[EFFECT_INFERNAL_CURSE_NAME]
+EFFECT_INFERNAL_CURSE_DESC_0=[ATTRIBUTE_FIRE_RESIST] reduced
+EFFECT_INFERNAL_CURSE_DESC_1=Dispelling this effect will cause all other
+EFFECT_INFERNAL_CURSE_DESC_2=Inferno Curses to become non dispelable
+EFFECT_BLESSING_OF_THE_FLAME_GOD_NAME=Blessing of The Flame God Effect [0]
+EFFECT_BLESSING_OF_THE_FLAME_GOD_DESC_0=[ATTRIBUTE_FIRE_RESIST] increased
+EFFECT_BLESSING_OF_THE_FLAME_GOD_DESC_1=[ATTRIBUTE_FIRE_DAMAGE] increased
+EFFECT_BLESSING_OF_THE_FLAME_GOD_DESC_2=Dealing extra [ATTRIBUTE_FIRE_DAMAGE] on auto attacks
+EFFECT_BLESSING_OF_THE_FLAME_GOD_DESC_3=Pyro Hammer now stuns for 2 seconds
+EFFECT_ENHANCE_REGEN_NAME=Enhance Regen Effect [0]
+EFFECT_ENHANCE_REGEN_DESC_0=Restoring health every second
+EFFECT_ENHANCE_BLOCK_NAME=Enhance Block Effect [0]
+EFFECT_ENHANCE_BLOCK_DESC_0=Has a chance to block enemy attacks
+EFFECT_ENHANCE_DAMAGE_REDUCTION_NAME=Enhance Damage Reduction Effect [0]
+EFFECT_ENHANCE_DAMAGE_REDUCTION_DESC_0=Damage taken reduced
+EFFECT_ENHANCE_CRITICAL_DAMAGE_REDUCTION_NAME=Enhance critical damage reduction Effect [0]
+EFFECT_ENHANCE_CRITICAL_DAMAGE_REDUCTION_DESC_0=Takes reduced [ATTRIBUTE_CRITICAL_STRIKE_DAMAGE_TEXT]
+EFFECT_ENHANCE_DODGE_NAME=Enhance Dodge Effect [0]
+EFFECT_ENHANCE_DODGE_DESC_0=Has a chance to dodge enemy attacks
+EFFECT_ENHANCE_DAMAGE_TAKEN_NAME=Enhance Damage Taken Effect [0]
+EFFECT_ENHANCE_DAMAGE_TAKEN_DESC_0=Increase damage taken
+EFFECT_ENHANCE_HEALPOWER_DECREASE_NAME=Enhance [ATTRIBUTE_INCREASE_HEALPOWER_FLAT_TEXT] Decrease Effect [0]
+EFFECT_ENHANCE_HEALPOWER_DECREASE_DESC_0=Enemy [ATTRIBUTE_INCREASE_HEALPOWER_FLAT_TEXT] is reduced
+EFFECT_ENHANCE_SHIELD_DECREASE_NAME=Enhance Shield Decrease Effect [0]
+EFFECT_ENHANCE_SHIELD_DECREASE_DESC_0=Shielding done is reduced
+EFFECT_ENHANCE_HEALING_RECEIVED_DECREASE_NAME=Enhance Healing Received Decrease Effect [0]
+EFFECT_ENHANCE_HEALING_RECEIVED_DECREASE_DESC_0=Healing received is reduced
+EFFECT_ENHANCE_SPELLPOWER_NAME=Enhance Spellpower Effect [0]
+EFFECT_ENHANCE_SPELLPOWER_DESC_0=Spellpower is increased
+EFFECT_ENHANCE_CRITICAL_STRIKE_NAME=Enhance Critical Strike Effect [0]
+EFFECT_ENHANCE_CRITICAL_STRIKE_DESC_0=[ATTRIBUTE_CRITICAL_STRIKE_CHANCE_TEXT] is increased
+EFFECT_ENHANCE_ATTACK_DAMAGE_NAME=Enhance Attack Damage Effect [0]
+EFFECT_ENHANCE_ATTACK_DAMAGE_DESC_0=Attack damage is increased
+EFFECT_ENHANCE_ATTACK_SPEED_NAME=Enhance Attack Speed Effect [0]
+EFFECT_ENHANCE_ATTACK_SPEED_DESC_0=Attack speed is increased
+EFFECT_HOLY_WHIP_NAME=Holy Whip Effect [1]
+EFFECT_HOLY_WHIP_DESC_0=[ATTRIBUTE_INCREASE_HEALPOWER_FLAT_TEXT] is reduced
+EFFECT_BLESSING_OF_LIGHT_NAME=Blessing of Light Effect [0]
+EFFECT_BLESSING_OF_LIGHT_DESC_0=Heals when the buff expires
+EFFECT_THROW_POISON_NAME=Throw Poison Effect [1]
+EFFECT_THROW_POISON_DESC_0=Taking damage every second
+EFFECT_DARK_SEAL_NAME=Dark Seal Effect [1]
+EFFECT_DARK_SEAL_DESC_0=Healing received is reduced
+EFFECT_ANGELIC_INFUSION_NAME=Angelic Infusion Effect [0]
+EFFECT_ANGELIC_INFUSION_DESC_0=[ATTRIBUTE_INCREASE_HEALPOWER_FLAT_TEXT] and castspeed increased
+EFFECT_ANGELIC_INFUSION_DESC_1=Manacost reduced
+EFFECT_CATACLYSM_NAME=Cataclysm Effect [0]
+EFFECT_CATACLYSM_DESC_0=Regenerating health
+EFFECT_REACTIVE_INSTINCT_NAME=Reactive Instinct Effect [0]
+EFFECT_REACTIVE_INSTINCT_DESC_0=Dodge change increased
+EFFECT_BANISH_NAME=Banish Effect [1]
+EFFECT_BANISH_DESC_0=Damage decreased
+EFFECT_BANISH_AURA_NAME=Banish Effect [1]
+EFFECT_BANISH_AURA_DESC_0=Damage decreased
+EFFECT_DECEPTION_INCREASE_NAME=Deception Increase Effect [0]
+EFFECT_DECEPTION_INCREASE_DESC_0=All resistances increased
+EFFECT_DECEPTION_DECREASE_NAME=Deception Decrease Effect [1]
+EFFECT_DECEPTION_DECREASE_DESC_0=All resistances decreased
+EFFECT_BLOSSOM_NAME=Blossom Effect [0]
+EFFECT_BLOSSOM_DESC_0=Elemental resistances increased
+EFFECT_SALVATION_NAME=Salvation Effect [0]
+EFFECT_SALVATION_DESC_0=Damage taken is massively reduced
+EFFECT_SIPHON_LIFE_NAME=Siphon Life Effect [1]
+EFFECT_SIPHON_LIFE_DESC_0=Losing health and healing the
+EFFECT_SIPHON_LIFE_DESC_1=currently selected character
+EFFECT_DROUGHT_NAME=Drought Effect [1]
+EFFECT_DROUGHT_DESC_0=Mana cost is doubled
+EFFECT_IMMOLATE_NAME=Immolate Effect [0]
+EFFECT_IMMOLATE_DESC_0=Dealing extra [ATTRIBUTE_FIRE_DAMAGE]
+EFFECT_FALLEN_FLAMES_NAME=Fallen Flames Effect [1]
+EFFECT_HELL_EDGE_NAME=Hell's Edge Effect [1]
+EFFECT_HELL_EDGE_DESC_0=Taking [ATTRIBUTE_FIRE_DAMAGE] every second
+EFFECT_TRIUNE_STONE_FIRE_NAME=Triune Stone Fire Effect [1]
+EFFECT_TRIUNE_STONE_FIRE_DESC_0=[ATTRIBUTE_FIRE_RESIST] reduced
+EFFECT_TRIUNE_STONE_ICE_NAME=Triune Stone Ice Effect [1]
+EFFECT_TRIUNE_STONE_ICE_DESC_0=[ATTRIBUTE_ICE_RESIST] reduced
+EFFECT_TRIUNE_STONE_LIGHTNING_NAME=Triune Stone Lightning Effect [1]
+EFFECT_TRIUNE_STONE_LIGHTNING_DESC_0=[ATTRIBUTE_LIGHTNING_RESIST] reduced
+EFFECT_INNER_FLAME_NAME=Inner Flame Effect [0]
+EFFECT_INNER_FLAME_DESC_0=Reducing [ATTRIBUTE_ELE_RESISTS_TEXT]
+EFFECT_INNER_FLAME_DESC_1=Increasing Healing Received
+EFFECT_LIGHTS_FAITH_NAME=Light's Faith Effect [0]
+EFFECT_LIGHTS_FAITH_DESC_0=Reduce all damage taken
+EFFECT_CHARGED_SMITE_NAME=Charged Smite Effect [1]
+EFFECT_CHARGED_SMITE_DESC_0=Reduce all damage dealt
+EFFECT_CULL_THE_WEAK_NAME=Cull The Weak Effect [1]
+EFFECT_CULL_THE_WEAK_DESC_0=Deals massive damage at the end of its duration
+EFFECT_CULL_THE_WEAK_DESC_1=Removed if the character is fully healed
+EFFECT_POISON_ARROW_NAME=Poison Arrow Effect [1]
+EFFECT_POISON_ARROW_DESC_0=Dealing [ATTRIBUTE_NEMESIS_DAMAGE] every second
+EFFECT_FROZEN_SPIRIT_NAME=Frozen Spirit Effect [1]
+EFFECT_FROZEN_SPIRIT_DESC_0=Attack speed decreased
+EFFECT_FROZEN_SPIRIT_DESC_1=[ATTRIBUTE_ICE_RESIST] decreased
+EFFECT_VOODOO_MAGIC_USED_NAME=Voodoo Magic Used Effect [0]
+EFFECT_VOODOO_MAGIC_USED_DESC_0=Voodoo Magic is on cooldown
+EFFECT_ANARCHY_NAME=Anarchy Effect [0]
+EFFECT_ANARCHY_DESC_0=Siphon Life damage increased
+EFFECT_ANARCHY_ENEMY_NAME=Anarchy Effect [0]
+EFFECT_ANARCHY_ENEMY_DESC_0=Siphon Life damage increased
+EFFECT_HEALTH_LINK_NAME=Health Link Effect [1]
+EFFECT_HEALTH_LINK_DESC_0=Environmental [5]
+EFFECT_HEALTH_LINK_DESC_1=Every 13 seconds heal the golem with the lowest health
+EFFECT_HEALTH_LINK_DESC_2=to be the same as the one with the highest health
+
+EFFECT_HEALTH_LINK_SKILL_DESC=Every few seconds the 2 golems synchronize their health together, healing the one with the lower health to be the same health as the other one
+
+EFFECT_FIRE_WALKER_NAME=Fire Walker Effect [0]
+EFFECT_FIRE_WALKER_DESC_0=Taking reduced [ATTRIBUTE_FIRE_DAMAGE]
+EFFECT_FIRE_WALKER_DESC_1=Taking increased [ATTRIBUTE_ICE_DAMAGE]
+EFFECT_ICE_WALKER_NAME=Ice Walker Effect [0]
+EFFECT_ICE_WALKER_DESC_0=Taking reduced [ATTRIBUTE_ICE_DAMAGE]
+EFFECT_ICE_WALKER_DESC_1=Taking increased [ATTRIBUTE_FIRE_DAMAGE]
+EFFECT_WARMING_MIST_NAME=Warming Mist Effect [1]
+EFFECT_WARMING_MIST_DESC_0=Healing Brney every second
+EFFECT_WARMING_MIST_DESC_1=Dispel itself when affected target's health is below 50%
+EFFECT_GAS_CHAMBER_NAME=Gas Chamber Effect [1]
+EFFECT_GAS_CHAMBER_DESC_0=Environmental [5]
+EFFECT_GAS_CHAMBER_DESC_1=Reducing attack speed
+EFFECT_GAS_CHAMBER_DESC_2=Reducing mana regen
+EFFECT_GAS_CHAMBER_DESC_3=Reducing cast speed
+EFFECT_GAS_CHAMBER_DESC_4=Amount reduced is based on Mump's missing health
+EFFECT_BANEFUL_INFECTION_NAME=Baneful Infection Effect [1]
+EFFECT_BANEFUL_INFECTION_DESC_0=Taking [ATTRIBUTE_NEMESIS_DAMAGE] every second
+EFFECT_FILLED_WITH_GAS_NAME=Filled with Gas Effect [0]
+EFFECT_FILLED_WITH_GAS_DESC_0=This unit will explode on death
+EFFECT_FILLED_WITH_GAS_DESC_1=Affecting every unit in the battlefield with diseases
+EFFECT_TOXIC_GAS_NAME=Toxic Gas Effect [1]
+EFFECT_TOXIC_GAS_DESC_0=Taking greatly increased damage from all sources
+EFFECT_BREAK_WEAPON_LITE_NAME=Break Weapon Lite Effect [1]
+EFFECT_BREAK_WEAPON_LITE_DESC_0=Damage slightly reduced
+EFFECT_EXPOSE_ARMOR_LITE_NAME=Expose Armor Lite Effect [1]
+EFFECT_EXPOSE_ARMOR_LITE_DESC_0=Damage taken slightly increased
+EFFECT_NUMBING_STRIKE_NAME=Numbing Strike Effect [1]
+EFFECT_NUMBING_STRIKE_DESC_0=Attack speed reduced by 40%
+EFFECT_MANA_SPARK_NAME=Mana Spark Effect [1]
+EFFECT_MANA_SPARK_DESC_0=Taking [ATTRIBUTE_LIGHTNING_DAMAGE] over time
+EFFECT_MANA_SPARK_DESC_1=The lower the current mana, the higher the damage
+EFFECT_MIND_SPIKE_NAME=Mind Spike Effect [1]
+EFFECT_MIND_SPIKE_DESC_0=Stunned
+EFFECT_MIND_SPIKE_DESC_1=Losing Mana each second
+EFFECT_THE_REVERSE_NAME=The Reverse Effect [1]
+EFFECT_THE_REVERSE_DESC_0=Environmental [5]
+EFFECT_THE_REVERSE_DESC_1=Whenver a party member is healed,
+EFFECT_THE_REVERSE_DESC_2=they will take [ATTRIBUTE_NEMESIS_DAMAGE] instead
+EFFECT_THE_REVERSE_DESC_3=Whenver a party member takes damage
+EFFECT_THE_REVERSE_DESC_4=they will be healed instead
+EFFECT_CLARA_CURSE_NAME=Clara's Curse Effect [1]
+EFFECT_CLARA_CURSE_DESC_0=Increase [ATTRIBUTE_MAXIMUM_HEALTH] by 10%
+EFFECT_CLARA_CURSE_DESC_1=You die when reaches 0 health
+EFFECT_CLARA_CURSE_DESC_2=You die when reaches [ATTRIBUTE_MAXIMUM_HEALTH] 
+EFFECT_CLARA_CURSE_DESC_3=Start at 30% health
+EFFECT_CLARA_CURSE_SKILL_DESC=Increase [ATTRIBUTE_MAXIMUM_HEALTH] by 10%. <br><br>When a party member's health reaches 0 or full, they will instantly die. <br><br>Start with 30% health
+EFFECT_UNHOLY_MAGIC_NAME=Unholy Magic Effect [1]
+EFFECT_UNHOLY_MAGIC_DESC_0=Either take [ATTRIBUTE_FIRE_DAMAGE] for the entire duration
+EFFECT_UNHOLY_MAGIC_DESC_1=or receive healing for the entire duration
+EFFECT_UNREACHABLE_BALANCE_NAME=Unreachable Balance Effect [1]
+EFFECT_UNREACHABLE_BALANCE_DESC_0=Reduce 50% attack speed if health is below 50%
+EFFECT_UNREACHABLE_BALANCE_DESC_1=Reduce 25% [ATTRIBUTE_INCREASE_HEALPOWER_FLAT_TEXT] if health if above 50%
+EFFECT_NULLIFY_NAME=Nullify Effect [1]
+EFFECT_NULLIFY_DESC_0=Is not affected by The Reverse Effect
+EFFECT_STONESKIN_NAME=StoneSkin Effect [0]
+EFFECT_STONESKIN_DESC_0=Taking heavily reduced [ATTRIBUTE_PHYSICAL_DAMAGE]
+EFFECT_STONESKIN_DESC_1=Taking slightly reduced [ATTRIBUTE_NEMESIS_DAMAGE]
+EFFECT_SPECTRESKIN_NAME=SpectreSkin Effect [0]
+EFFECT_SPECTRESKIN_DESC_0=Taking heavily reduced [ATTRIBUTE_ELE_DAMAGE_TEXT]
+EFFECT_NO_MAGIC_NAME=No Magic! Effect [1]
+EFFECT_NO_MAGIC_DESC_0=You lose additional 50 mana everytime
+EFFECT_NO_MAGIC_DESC_1=any party member casts a spell
+EFFECT_HYPERDRIVE_NAME=Hyperdrive Effect [0]
+EFFECT_HYPERDRIVE_CLINT_NAME=[EFFECT_HYPERDRIVE_NAME]
+EFFECT_HYPERDRIVE_DESC_0=Attack speed is significantly increased
+EFFECT_HYPERDRIVE_DESC_1=[ATTRIBUTE_PHYSICAL_DAMAGE] is significantly increased
+EFFECT_DISRUPTION_NAME=Disruption Effect [1]
+EFFECT_DISRUPTION_DESC_0=Environmental [5]
+EFFECT_DISRUPTION_DESC_1=Movement direction is swapped
+EFFECT_POSSESSION_NAME=Possession Effect [1]
+EFFECT_POSSESSION_DESC_0=Losing damage and [ATTRIBUTE_INCREASE_HEALPOWER_FLAT_TEXT] and giving
+EFFECT_POSSESSION_DESC_1=them to Beezt every second
+EFFECT_POSSESSION_DESC_2=Jumps to the next party member if dispeled
+EFFECT_POSSESSION_DESC_3=Dispels itself after one rotation
+EFFECT_POSSESSED_NAME=Possessed Effect [1]
+EFFECT_POSSESSED_DESC_0=Losing 3% damage and 15 [ATTRIBUTE_INCREASE_HEALPOWER_FLAT_TEXT]
+EFFECT_POSSESSED_DESC_1=Beezt gains 3% damage and 15 spellpower
+EFFECT_LIGHTNING_NOVA_NAME=Lightning Nova Effect [1]
+EFFECT_LIGHTNING_NOVA_DESC_0=[ATTRIBUTE_CRITICAL_STRIKE_CHANCE_TEXT] reduced by 30%
+EFFECT_INFUSED_MANTLE_POS_RES_NAME=Infused Mantle Pos Res Effect [0]
+EFFECT_INFUSED_MANTLE_POS_RES_DESC_0=[ATTRIBUTE_ELE_RESISTS_TEXT] increased
+EFFECT_INFUSED_MANTLE_NEG_RES_NAME=Infused Mantle Neg Res Effect [1]
+EFFECT_INFUSED_MANTLE_NEG_RES_DESC_0=[ATTRIBUTE_ELE_RESISTS_TEXT] reduced
+EFFECT_NUMB_NAME=Numb Effect [1]
+EFFECT_NUMB_DESC_0=Body is getting colder
+EFFECT_NUMBED_NAME=Numbed Effect [1]
+EFFECT_NUMBED_DESC_0=[ATTRIBUTE_ICE_RESIST] is 0
+EFFECT_REVENAGE_NAME=Revenage Effect [0]
+EFFECT_REVENAGE_DESC_0=Increase damage by 10%
+EFFECT_TWISTED_BARGAIN_NAME=Twisted Bargain Effect [0]
+EFFECT_TWISTED_BARGAIN_DESC_0=Increase damage by 15%
+EFFECT_TWISTED_BARGAIN_DESC_1=Increase all [ATTRIBUTE_ELE_RESISTS_TEXT] by 15%
+EFFECT_DISRUPTED_NAME=Disrupted Effect [1]
+EFFECT_DISRUPTED_DESC_0=Heavily damage the attacker once reaches 15 stack
+EFFECT_REVITALIZED_NAME=Revitalized Effect [0]
+EFFECT_REVITALIZED_DESC_0=Healing every second
+EFFECT_ENERGY_AURA_NAME=Energy Aura Effect [0]
+EFFECT_ENERGY_AURA_DESC_0=[ATTRIBUTE_PHYSICAL_DAMAGE] Increased
+EFFECT_ENERGY_AURA_DESC_1=[ATTRIBUTE_LIGHTNING_DAMAGE] Increased
+EFFECT_ENERGY_AURA_DESC_2=Adding additional [ATTRIBUTE_LIGHTNING_DAMAGE] on hit
+EFFECT_QUEEN_TRIBUTE_NAME=Queen's Tribute Effect [0]
+EFFECT_QUEEN_TRIBUTE_DESC_0=base [ATTRIBUTE_LIGHTNING_DAMAGE] increased
+EFFECT_RUNE_FORGED_BLADE_NAME=Rune Forged Blade Effect [0]
+EFFECT_RUNE_FORGED_BLADE_DESC_0=Dealing Increased [ATTRIBUTE_FIRE_DAMAGE]
+EFFECT_ASHWOOD_NAME=Ashwood Effect [1]
+EFFECT_TIME_WARP_NAME=Time Warp Effect [1]
+EFFECT_TIME_WARP_DESC_0=Environmental [5]
+EFFECT_TIME_WARP_DESC_1=Every 1 second all enemies and party member will gain an age stack
+EFFECT_TIME_WARP_DESC_2=Healing a party member will decrease the age stack
+EFFECT_TIME_WARP_DESC_3=Party members die when reached 0 or 50 age stack
+EFFECT_AGE_NAME=Age Effect [1]
+EFFECT_AGE_DESC_0=The older ( >25 stacks ), 
+EFFECT_AGE_DESC_1=the more damage you deal and take
+EFFECT_AGE_DESC_2=The younger ( <25 stacks ),
+EFFECT_AGE_DESC_3=the less damage you deal and take
+EFFECT_AGE_BOSS_NAME=Age Boss Effect [0]
+EFFECT_AGE_BOSS_DESC_0=Dealing increased damage
+EFFECT_EQUALITY_NAME=Equality Effect [0]
+EFFECT_EQUALITY_DESC_0=All resistances increased
+EFFECT_TIME_LOCK_NAME=Time Lock Effect [1]
+EFFECT_TIME_LOCK_DESC_0=Does not age but takes [ATTRIBUTE_ICE_DAMAGE] every second
+EFFECT_BARRIER_NAME=Barrier Effect [0]
+EFFECT_BARRIER_DESC_0=Immune to damage
+EFFECT_SHOCK_THERAPY_NAME=Shock Therapy Effect [1]
+EFFECT_SHOCK_THERAPY_DESC_0=Taking [ATTRIBUTE_LIGHTNING_DAMAGE] every second
+EFFECT_SHOCK_THERAPY_DESC_1=Massively increases movement speed if
+EFFECT_SHOCK_THERAPY_DESC_2=this debuff expires
+EFFECT_ARCANE_PROTECTION_NAME=Arcane Protection Effect [0]
+EFFECT_ARCANE_PROTECTION_DESC_0=Raldon has significant amount of [ATTRIBUTE_PHYSICAL_RESIST] and [ATTRIBUTE_NEMESIS_RESIST]
+EFFECT_FIERY_DEATH_NAME=Fiery Death Effect [1]
+EFFECT_FIERY_DEATH_DESC_0=Taking [ATTRIBUTE_FIRE_DAMAGE] every second
+EFFECT_FROZEN_GRAVE_NAME=Frozen Grave Effect [1]
+EFFECT_FROZEN_GRAVE_DESC_0=Healing receive reduced
+EFFECT_SHOCKING_DEMISE_NAME=Shocking Demise Effect [1]
+EFFECT_SHOCKING_DEMISE_DESC_0=All [ATTRIBUTE_ELE_RESISTS_TEXT] reduced
+EFFECT_STAR_GRASP_NAME=Star's Grasp Effect [0]
+EFFECT_STAR_GRASP_DESC_0=[ATTRIBUTE_ICE_DAMAGE] increased
+EFFECT_MEND_NAME=Mend Effect [0]
+EFFECT_MEND_DESC_0=Mending, casting Lesser Heal at 7 stacks
+EFFECT_HOWL_NAME=Howl Effect [1]
+EFFECT_HOWL_DESC_0=Feared, reducing all [ATTRIBUTE_PHYSICAL_DAMAGE] dealt
+EFFECT_AZURE_SHIELD_NAME=Azure Shield Effect [0]
+EFFECT_AZURE_SHIELD_DESC_0=Massively increase all Resistances
+EFFECT_AZURE_SHIELD_DESC_1=Negating this will remove 400 mana
+EFFECT_BLACK_ICE_NAME=Black Ice Effect [0]
+EFFECT_BLACK_ICE_DESC_0=Increase [ATTRIBUTE_ICE_DAMAGE] dealt
+EFFECT_BLACK_ICE_DIVINE_NAME=[EFFECT_BLACK_ICE_NAME]
+EFFECT_BLACK_ICE_DIVINE_DESC_0=[EFFECT_BLACK_ICE_DESC_0]
+EFFECT_KILT_OF_SPRING_NAME=Kilt of Spring Effect [0]
+EFFECT_KILT_OF_SPRING_DESC_0=Increase all [ATTRIBUTE_ELE_DAMAGE_TEXT]
+EFFECT_BLESSING_GIANT_NAME=Giant's Blessing Effect [0]
+EFFECT_BLESSING_GIANT_DESC_0=All damage cannot exceed 5% of this unit's maximum life
+EFFECT_OPEN_VEIN_NAME=Open Vein Effect [1]
+EFFECT_OPEN_VEIN_DESC_0=Bleeding heavily, taking [ATTRIBUTE_PHYSICAL_DAMAGE] every second
+EFFECT_PIN_STRIKE_NAME=Pin Strike Effect [1]
+EFFECT_PIN_STRIKE_DESC_0=Pinned down, stunned.
+EFFECT_PIN_STRIKE_DESC_1=Can only be dispelled if the [CONTEXT_PARTY_MEMBER_NAME_HEALER] is close to the target
+EFFECT_WEAKEN_MIND_NAME=Weaken Mind Effect [1]
+EFFECT_WEAKEN_MIND_DESC_0=Reduce all damage dealt by 40%
+EFFECT_LASH_NAME=Lash Effect [0]
+EFFECT_LASH_DESC_0=Increase all damage dealt by 10%
+EFFECT_BULKWORK_NAME=Bulkwork Effect [0]
+EFFECT_BULKWORK_DESC_0=Increase [ATTRIBUTE_BLOCK_CHANCE_TEXT] by 30%
+EFFECT_FLOURISH_NAME=Flourish Effect [0]
+EFFECT_FLOURISH_DESC_0=The next Lesser Heal or Flash Heal will consume the seeds
+EFFECT_FLOURISH_DESC_1=Increase the healing by 30% per seed
+EFFECT_SHADE_NAME=Shade Effect [0]
+EFFECT_SHADE_DESC_0=Regenerating health
+EFFECT_SCULPTER_OF_THE_SUN_NAME=Sculpter Of the Sun Effect [0]
+EFFECT_SCULPTER_OF_THE_SUN_DESC_0=Dealing extra [ATTRIBUTE_FIRE_DAMAGE]
+EFFECT_PEACESONG_NAME=Peacesong Effect [0]
+EFFECT_PEACESONG_DESC_0=[ATTRIBUTE_INCREASE_HEALPOWER_FLAT_TEXT] is increased
+EFFECT_PEACESONG_DESC_1=Loses all bonus when you cast a spell
+EFFECT_RIDDLE_NAME=Riddle Effect [1]
+EFFECT_RIDDLE_DESC_0=All damage decreased
+EFFECT_REACTIVE_ARMOR_NAME=Reactive Armor Effect [0]
+EFFECT_REACTIVE_ARMOR_DESC_0=Health regeneration increased
+EFFECT_SERPANT_CLAW_NAME=Serpant's Claw Effect [0]
+EFFECT_SERPANT_CLAW_DESC_0=Critical heal chance increased
+EFFECT_SERPANT_CLAW_DESC_1=Critical chance increased
+EFFECT_INSIGHT_NAME=Insight Effect [0]
+EFFECT_INSIGHT_DESC_0=Ignoring enemies [ATTRIBUTE_ELE_RESISTS_TEXT]
+EFFECT_SILENT_SHADOW_NAME=Silent Shadow Effect [0]
+EFFECT_SILENT_SHADOW_DESC_0=Attacking an additional time
+EFFECT_UMBRA_LIGHTNING_NAME=Umbra Lightning Effect [0]
+EFFECT_UMBRA_LIGHTNING_DESC_0=Gathering the power of shadow [ATTRIBUTE_LIGHTNING_DAMAGE]
+EFFECT_UMBRA_LIGHTNING_DESC_1=Casting Ample Heal will release this energy
+EFFECT_BLACK_BREW_NAME=Black Brew Effect [0]
+EFFECT_BLACK_BREW_DESC_0=Increase attack speed and cast speed
+EFFECT_BLACK_BREW_DESC_1=Skill cooldowns are reduced
+EFFECT_BLACK_BREW_DESC_2=Stunned for 5 seconds after the effect end
+EFFECT_EMBOLDEN_NAME=Embolden Effect [0]
+EFFECT_EMBOLDEN_DESC_0=Healing and increasing [ATTRIBUTE_BLOCK_CHANCE_TEXT] of all allies
+EFFECT_STRINGED_PUPPET_NAME=Stringed Puppet Effect [1]
+EFFECT_STRINGED_PUPPET_DESC_0=Being controlled, dealing no damage
+EFFECT_STRINGED_PUPPET_DESC_1=Cannot cast any skills
+EFFECT_STRINGED_PUPPET_DESC_2=Dispelling this effect will deal heavy [ATTRIBUTE_ICE_DAMAGE]
+EFFECT_STRINGED_PUPPET_DESC_3=to self
+EFFECT_PUPPET_MASTER_I_NAME=Puppet Master I Effect [0]
+EFFECT_PUPPET_MASTER_I_DESC_0=Attack speed increased
+EFFECT_PUPPET_MASTER_I_DESC_1=Abilities improved
+EFFECT_PUPPET_MASTER_II_NAME=Puppet Master II Effect [0]
+EFFECT_PUPPET_MASTER_II_DESC_0=Elemental Resistances increased
+EFFECT_PUPPET_MASTER_II_DESC_1=Abilities improved
+EFFECT_PUPPET_MASTER_III_NAME=Puppet Master III Effect [0]
+EFFECT_PUPPET_MASTER_III_DESC_0=Attack damage increased
+EFFECT_PUPPET_MASTER_III_DESC_1=Abilities improved
+EFFECT_DECAYING_SKIN_NAME=Decaying Skin Effect [0]
+EFFECT_DECAYING_SKIN_DESC_0=Puppet master is slowly dying, corrupting everything around him
+EFFECT_DECAYING_SKIN_DESC_1=All enemies lose 0.5% percent of their [ATTRIBUTE_MAXIMUM_HEALTH] per second
+EFFECT_SUFFERING_NAME=Suffering Effect [1]
+EFFECT_SUFFERING_DESC_0=Losing 35 [ATTRIBUTE_INCREASE_HEALPOWER_FLAT_TEXT] every second until health is lower than 30% 
+EFFECT_SUFFERING_STACK_NAME=Suffering Stack Effect [1]
+EFFECT_SUFFERING_STACK_DESC_0=Reduce [ATTRIBUTE_INCREASE_HEALPOWER_FLAT_TEXT] by 35
+EFFECT_UNBREAKABLEWILL_NAME=UnbreakableWill Effect [0]
+EFFECT_UNBREAKABLEWILL_DESC_0=Massively increase all resists
+EFFECT_UNBREAKABLEWILL_DESC_1=Massively increase [ATTRIBUTE_BLOCK_CHANCE_TEXT]
+EFFECT_UNBREAKABLEWILL_DESC_2=Maximum elemental resistances increased
+EFFECT_DEVIL_TAIL_NAME=Devil's Tail Effect [0]
+EFFECT_DEVIL_TAIL_DESC_0=Auto attack will always crtically strike
+EFFECT_ILLUMINA_NAME=Illumina Effect [0]
+EFFECT_ILLUMINA_DIVINE_NAME=[EFFECT_ILLUMINA_NAME]
+EFFECT_ILLUMINA_DESC_0=Healing every second
+EFFECT_VIGOR_AURA_NAME=Vigor Aura Effect [0]
+EFFECT_VIGOR_AURA_DESC_0=Increased healing received by 5%
+EFFECT_SANGUINE_AURA_NAME=Sanguine Aura Effect [0]
+EFFECT_SANGUINE_AURA_DESC_0=Increased [ATTRIBUTE_PHYSICAL_DAMAGE] by 8%
+EFFECT_SANGUINE_AURA_DESC_1=Increased [ATTRIBUTE_PHYSICAL_RESIST] by 2%
+EFFECT_LYCAN_CURSE_NAME=Lycan's Curse Effect [1]
+EFFECT_LYCAN_CURSE_DESC_0=Transformed into a Lycan, taking [ATTRIBUTE_LIGHTNING_DAMAGE] every second
+EFFECT_LYCAN_CURSE_DESC_1=The damage increases every second
+EFFECT_LYCAN_CURSE_DESC_2=Dispelling any party member will move the curse to him/her
+EFFECT_MADNESS_SWIPE_NAME=Madness Swipe Effect [1]
+EFFECT_MADNESS_SWIPE_DESC_0=Increased [ATTRIBUTE_LIGHTNING_DAMAGE] taken by 8%
+EFFECT_SEALED_FATE_NAME=Sealed Fate Effect [1]
+EFFECT_SEALED_FATE_DESC_0=Stunned and taking [ATTRIBUTE_LIGHTNING_DAMAGE] over time
+EFFECT_SEALED_FATE_DESC_1=Can only be dispeled if the [CONTEXT_PARTY_MEMBER_NAME_HEALER] has the Lycan's Curse
+EFFECT_INTIMIDATING_HOWL_NAME=Intimidating Howl Effect [1]
+EFFECT_INTIMIDATING_HOWL_DESC_0=All damage reduced
+EFFECT_FULL_MOON_NAME=Full Moon Effect [0]
+EFFECT_FULL_MOON_DESC_0=[BOSS_RUNSHERROX_SHORT_NAME] imbue itself with the power of the moon
+EFFECT_FULL_MOON_DESC_1=Significantly increase ability damage
+EFFECT_FULL_MOON_DESC_2=Ability cooldown decreased
+EFFECT_FULL_MOON_DESC_3=All [ATTRIBUTE_ELE_RESISTS_TEXT] decreased
+EFFECT_SPIRIT_ORB_NAME=Spirit Orb Effect [0]
+EFFECT_SPIRIT_ORB_DESC_0=This character will be healed
+EFFECT_SPIRIT_ORB_DESC_1=the next time he/she takes damage
+EFFECT_SAVE_THE_SPIRIT_NAME=Save the spirit Effect [1]
+EFFECT_SAVE_THE_SPIRIT_DESC_0=Environmental [5]
+EFFECT_SAVE_THE_SPIRIT_DESC_1=All your healing spells now also heals Aurdon if he is selected
+EFFECT_SAVE_THE_SPIRIT_DESC_2=Win if Aurdon's health reaches full
+EFFECT_SAVE_THE_SPIRIT_DESC_3=Lose if Aurdon's health reaches 0
+EFFECT_SAVE_THE_SPIRIT_DESC_4=Killing Seal Guardians will also heal [BOSS_AURDON_NAME] for a moderate amount
+EFFECT_ANCIENT_SEAL_NAME=Ancient Seal Effect [1]
+EFFECT_ANCIENT_SEAL_DESC_0=Sealed by dark magic, cannot move or cast
+EFFECT_ANCIENT_SEAL_DESC_1=Immune to all party members' damage
+EFFECT_ANCIENT_SEAL_ACTIVE_NAME=Ancient Seal Active Effect [1]
+EFFECT_ANCIENT_SEAL_ACTIVE_DESC_0=Seal is active, cannot be healed
+EFFECT_ANCIENT_SEAL_ACTIVE_DESC_1=Seal is active, cannot be damaged
+EFFECT_SEAL_GUARDIAN_NAME=Seal's Guardian Effect [0]
+EFFECT_SEAL_GUARDIAN_DESC_0=Summoned by a dark being to protect the seal
+EFFECT_SEAL_GUARDIAN_DESC_1=[ATTRIBUTE_MAXIMUM_HEALTH] will increase by 50% when health reached 0
+EFFECT_SEAL_GUARDIAN_DESC_2=Heal to full when health reached 0
+EFFECT_SEAL_GUARDIAN_DESC_3=Heals Aurdon for 6% of his maximum life when health reached 0
+EFFECT_FOCUSED_NAME=Focused Effect [0]
+EFFECT_FOCUSED_DESC_0=Does not attack the party
+EFFECT_FOCUSED_DESC_1=Attacks Aurdon instead
+EFFECT_DECAYING_STRIKE_NAME=Decaying Strike Effect [1]
+EFFECT_DECAYING_STRIKE_DESC_0=Taking [ATTRIBUTE_PHYSICAL_DAMAGE] every second
+EFFECT_RAISE_THE_ALARM_I_NAME=Raise the Alarm I Effect [0]
+EFFECT_RAISE_THE_ALARM_I_DESC_0=Attack damage increased
+EFFECT_RAISE_THE_ALARM_I_DESC_1=Abilities improved
+EFFECT_RAISE_THE_ALARM_II_NAME=Raise the Alarm II Effect [0]
+EFFECT_RAISE_THE_ALARM_II_DESC_0=Attack damage increased
+EFFECT_RAISE_THE_ALARM_II_DESC_1=Abilities improved
+EFFECT_BLIGHT_NAME=Blight Effect [1]
+EFFECT_BLIGHT_DESC_0=Reduce [ATTRIBUTE_INCREASE_HEALPOWER_FLAT_TEXT] by 100
+EFFECT_BLIGHT_DESC_1=Dispel itself when the affected
+EFFECT_BLIGHT_DESC_2=party member's health is full
+EFFECT_THE_FINAL_SEAL_NAME=The Final Seal Effect [1]
+EFFECT_THE_FINAL_SEAL_DESC_0=Cannot be healed
+EFFECT_HEARTLESS_GOLEM_NAME=Heartless Golem Effect [0]
+EFFECT_HEARTLESS_GOLEM_DESC_0=This golem can only be damaged by [BOSS_ORRA_SHORT_NAME]
+EFFECT_ORRA_REQUEST_NAME=[BOSS_ORRA_SHORT_NAME]'s Request Effect [0]
+EFFECT_ORRA_REQUEST_DESC_0=[BOSS_ORRA_SHORT_NAME] can be damaged by the Golem
+EFFECT_ORRA_REQUEST_DESC_1=[BOSS_ORRA_SHORT_NAME] can also be healed when selected
+EFFECT_ORRA_REQUEST_DESC_2=Lose if [BOSS_ORRA_SHORT_NAME]'s health reaches 0
+
+EFFECT_ORRA_REQUEST_SKILL_DESC=[BOSS_ORRA_SHORT_NAME] will help you tank and fight the golem. <br><br>Orra can be damaged by the golem but can also be healed by you if he is selected. <br><br>Lose if [BOSS_ORRA_SHORT_NAME]'s health reaches 0.
+
+EFFECT_SHADOW_STEP_NAME=Shadow Step Effect [0]
+EFFECT_SHADOW_STEP_DESC_0=Immune to all damage
+EFFECT_HOPELESS_GOLEM_NAME=Hopeless Golem Effect [0]
+EFFECT_HOPELESS_GOLEM_DESC_0=Can only be damaged by [BOSS_MEVOR_SHORT_NAME]
+EFFECT_DIVINE_PROTECTION_NAME=Divine Protection Effect [0]
+EFFECT_DIVINE_PROTECTION_DESC_0=Taking no damage
+EFFECT_DIVINE_PROTECTION_DESC_1=Only lasts 30 seconds
+EFFECT_TOUGHNESS_GOLEM_NAME=Toughness Golem Effect [0]
+EFFECT_TOUGHNESS_GOLEM_DESC_0=Enraging in 30 seconds
+EFFECT_CHILL_TO_THE_BONE_NAME=Chill to the bone Effect [1]
+EFFECT_CHILL_TO_THE_BONE_DESC_0=Dealing [ATTRIBUTE_ICE_DAMAGE]
+EFFECT_CHILL_TO_THE_BONE_DESC_1=to [BOSS_ORRA_SHORT_NAME] every second 
+EFFECT_CHILL_TO_THE_BONE_DESC_2=until the character is fully healed
+EFFECT_GAZE_INTO_ABYSS_NAME=Gaze into the abyss Effect [1]
+EFFECT_GAZE_INTO_ABYSS_DESC_0=[ATTRIBUTE_INCREASE_HEALPOWER_FLAT_TEXT] reduced
+EFFECT_GAZE_INTO_ABYSS_DESC_1=Deals significant [ATTRIBUTE_ICE_DAMAGE] when dispeled
+EFFECT_CONJURED_FOLLOWER_SOURCERY_NAME=Conjured Follower Sourcery Effect [0]
+EFFECT_CONJURED_FOLLOWER_SOURCERY_DESC_0=Attacking [BOSS_ORRA_SHORT_NAME]
+EFFECT_CONJURED_FOLLOWER_SOURCERY_DESC_1=Gives [BOSS_ORRA_SHORT_NAME] 10% [ATTRIBUTE_BLOCK_CHANCE_TEXT] when killed
+EFFECT_INCREASED_BLOCK_CHANCE_NAME=Increased [ATTRIBUTE_BLOCK_CHANCE_TEXT] Effect [0]
+EFFECT_INCREASED_BLOCK_CHANCE_DESC_0=Increase [ATTRIBUTE_BLOCK_CHANCE_TEXT] by 10%
+EFFECT_CONJURED_FOLLOWER_HOSTILITY_NAME=Conjured Follower Hostility Effect [0]
+EFFECT_CONJURED_FOLLOWER_HOSTILITY_DESC_0=Ignoring Tank buff, attacking randomly
+EFFECT_CONJURED_FOLLOWER_HOSTILITY_DESC_1=Deals 10% of Hostility Golem's [ATTRIBUTE_MAXIMUM_HEALTH]
+EFFECT_CONJURED_FOLLOWER_HOSTILITY_DESC_2=to Hostility Golem when killed
+EFFECT_WEAKEN_SPIRIT_NAME=Weaken Spirit Effect [1]
+EFFECT_WEAKEN_SPIRIT_DESC_0=Reducing [ATTRIBUTE_INCREASE_HEALPOWER_FLAT_TEXT]
+EFFECT_WEAKEN_SPIRIT_DESC_1=until the character is fully healed
+EFFECT_WEAKEN_MUSCLE_NAME=Weaken Muscle Effect [1]
+EFFECT_WEAKEN_MUSCLE_DESC_0=Stunned until the character is fully healed
+EFFECT_ROCK_SOLID_NAME=Rock Solid Effect [0]
+EFFECT_ROCK_SOLID_DESC_0=[ATTRIBUTE_BLOCK_CHANCE_TEXT] increased
+EFFECT_ROCK_SOLID_DESC_1=All resistances increased
+EFFECT_FLAME_RUNNER_NAME=The Flame Runner Effect [0]
+EFFECT_FLAME_RUNNER_DESC_0=[ATTRIBUTE_FIRE_RESIST] increased
+EFFECT_FLAME_RUNNER_DESC_1=[ATTRIBUTE_FIRE_DAMAGE] increased
+EFFECT_HONOR_NAME=Honor Effect [0]
+EFFECT_HONOR_DESC_0=[ATTRIBUTE_INCREASE_HEALPOWER_FLAT_TEXT] increased
+EFFECT_CHAOSSONG_NAME=Chaossong Effect [0]
+EFFECT_CHAOSSONG_DESC_0=Regen Aura effect increased
+EFFECT_CHAOSSONG_DESC_1=Decay Aura effect increased
+EFFECT_TYPHOON_NAME=Typhoon Effect [0]
+EFFECT_TYPHOON_DESC_0=All enemies' attack speed reduced
+EFFECT_TYPHOON_DESC_1=All enemies' damage taken increased
+EFFECT_ASTRAL_SHIFT_HEALPOWER_NAME=Astral Shift [ATTRIBUTE_INCREASE_HEALPOWER_FLAT_TEXT] Effect [0]
+EFFECT_ASTRAL_SHIFT_HEALPOWER_DESC_0=[ATTRIBUTE_INCREASE_HEALPOWER_FLAT_TEXT] increased
+EFFECT_ASTRAL_SHIFT_CAST_SPEED_NAME=Astral Shift Cast Speed Effect [0]
+EFFECT_ASTRAL_SHIFT_CAST_SPEED_DESC_0=Cast speed increased
+EFFECT_ENIGMA_NAME=Enigma Effect [0]
+EFFECT_ENIGMA_DESC_0=2 random targets of your [SKILL_RADIANT_HEAL_NAME]
+EFFECT_ENIGMA_DESC_1=will be casted Ample Heal instead
+EFFECT_LIGHTNING_APPRENTICE_NAME=Lightning Apprentice Effect [0]
+EFFECT_LIGHTNING_APPRENTICE_DESC_0=Smite's damage increased
+EFFECT_LIGHTNING_APPRENTICE_ENEMY_NAME=Lightning Apprentice Effect [0]
+EFFECT_LIGHTNING_APPRENTICE_ENEMY_0=Smite's damage increased
+EFFECT_SERPANT_BLOOD_NAME=Serpant's Blood Effect [0]
+EFFECT_SERPANT_BLOOD_DESC_0=[ATTRIBUTE_INCREASE_HEALPOWER_FLAT_TEXT] is increased the lower the mana is
+EFFECT_THE_HOLY_FLAME_NAME=The Holy Flame Effect [1]
+EFFECT_THE_HOLY_FLAME_DESC_0=Taking [ATTRIBUTE_FIRE_DAMAGE] every second
+EFFECT_SURVIVAL_INSTINCT_NAME=Survival Instinct Effect [0]
+EFFECT_SURVIVAL_INSTINCT_DESC_0=Receives additional healing
+EFFECT_A_TRUE_WORLD_NAME=A True World Effect [1]
+EFFECT_A_TRUE_WORLD_DESC_0=A portal to the dream world is now open
+EFFECT_A_TRUE_WORLD_DESC_1=Click the dream portal to go into the dream world
+EFFECT_A_TRUE_WORLD_DESC_2=Click the reality portal to go back to the reality
+EFFECT_A_TRUE_WORLD_DESC_3=Dispeling a party member can switch them individually
+EFFECT_DREAM_NAME=Dream Effect [1]
+EFFECT_DREAM_DESC_0=This character is in a dream world
+EFFECT_DREAM_DESC_1=Casting dispel on this character will also
+EFFECT_DREAM_DESC_2=bring him/her back to reality
+EFFECT_REALITY_NAME=Reality Effect [1]
+EFFECT_REALITY_DESC_0=This character is in reality
+EFFECT_REALITY_DESC_1=Casting dispel on this character will also
+EFFECT_REALITY_DESC_2=bring him/her into the dream world
+
+EFFECT_REALITY_SKILL_DESC=Back to the reality, can damage Sedok and is immune to Shatter Dream. Dispelling this will switch the target into dream state. <br><br>Clicking on the Reality Portal will immediately switch all party members to the reality state
+EFFECT_DREAM_SKILL_DESC=Inside the dream state, can damage Sedok's shadow and is immune to Shatter Reality. Dispelling this will switch the target into reality state. <br><br>Clicking on the Dream Portal will immediately switch all party members to the dream state
+
+EFFECT_SHADOW_SLASH_NAME=Shadow Slash Effect [1]
+EFFECT_SHADOW_SLASH_DESC_0=Reduce all resists by 10%
+EFFECT_SHADOW_SLASH_DESC_1=Reduce [ATTRIBUTE_BLOCK_CHANCE_TEXT] by 10%
+EFFECT_SILENCING_STRIKE_NAME=Silencing Strike Effect [1]
+EFFECT_SILENCING_STRIKE_DESC_0=Cannot cast any healing spells
+EFFECT_HEART_PIERCING_BLOW_NAME=Heart Piercing Blow Effect [1]
+EFFECT_HEART_PIERCING_BLOW_DESC_0=Cannot be healed
+EFFECT_MIND_SEAR_NAME=Mind Sear Effect [1]
+EFFECT_MIND_SEAR_DESC_0=Increase damage taken by 30%
+EFFECT_MIND_SEAR_DESC_1=Can be cleansed by taking a hit from Shatter Reality
+EFFECT_MIND_SEAR_DESC_2=Shatter Reality cannot damage you
+EFFECT_DEMONIC_CONTRACT_NAME=Demonic Contract Effect [0]
+EFFECT_DEMONIC_CONTRACT_DESC_0=Gaining Mana every second
+EFFECT_TOWER_OF_FEAR_NAME=Tower of Fear Effect [0]
+EFFECT_TOWER_OF_FEAR_DESC_0=[ATTRIBUTE_PHYSICAL_DAMAGE] reduced
+EFFECT_WICKED_WING_NAME=Wicked Wing Effect [1]
+EFFECT_WICKED_WING_DESC_0=Losing mana every second
+EFFECT_TOUGHEN_NAME=Toughen Effect [0]
+EFFECT_TOUGHEN_DESC_0=[ATTRIBUTE_MAXIMUM_HEALTH] increased
+EFFECT_RESTORATION_NAME=Blessing of Gaia Effect [0]
+EFFECT_RESTORATION_DESC_0=All [ATTRIBUTE_ELE_RESISTS_TEXT] increased
+EFFECT_RESTORATION_DESC_1=Base damage increased
+EFFECT_RESTORATION_DESC_2=[ATTRIBUTE_CRITICAL_STRIKE_CHANCE_TEXT] increased
+EFFECT_RESTORATION_DESC_3=[ATTRIBUTE_DODGE_CHANCE_TEXT] increased
+EFFECT_RESTORATION_DESC_4=Health regeneration increased
+EFFECT_IRON_VINES_NAME=Iron Vines Effect [0]
+EFFECT_IRON_VINES_DESC_0=Heavily reducing all damage taken
+EFFECT_HEAVEN_MELODY_NAME=Heaven's Melody Effect [0]
+EFFECT_HEAVEN_MELODY_DESC_0=Increase healing received
+EFFECT_HEAVEN_MELODY_DESC_1=Increase shielding received
+EFFECT_MIND_RUSH_NAME=Mind Rush Effect [0]
+EFFECT_MIND_RUSH_DESC_0=[ATTRIBUTE_INCREASE_HEALPOWER_FLAT_TEXT] increased
+EFFECT_MIND_RUSH_DESC_1=Immune to interruption
+EFFECT_FLAME_MIST_NAME=Flame On! Effect [1]
+EFFECT_FLAME_MIST_DESC_0=The room is full of heat
+EFFECT_FLAME_MIST_DESC_1=Dealing [ATTRIBUTE_FIRE_DAMAGE] to all party members
+EFFECT_FLAME_MIST_DESC_2=every second
+EFFECT_TURN_UP_THE_HEAT_NAME=Turn up the Heat! Effect [1]
+EFFECT_TURN_UP_THE_HEAT_DESC_0=The room is now hotter, dealing more [ATTRIBUTE_FIRE_DAMAGE]
+EFFECT_MAXIMUM_FIRE_NAME=Maximum Fire! Effect [1]
+EFFECT_MAXIMUM_FIRE_DESC_0=The room is now fully combusted
+EFFECT_MAXIMUM_FIRE_DESC_1=dealing more [ATTRIBUTE_FIRE_DAMAGE]
+EFFECT_MAXIMUM_FIRE_DESC_2=also burning mana every second
+EFFECT_LIVING_BOMB_NAME=Living Bomb Effect [1]
+EFFECT_LIVING_BOMB_DESC_0=When expires, deals heavy damage to 
+EFFECT_LIVING_BOMB_DESC_1=all party members
+EFFECT_LIVING_BOMB_DESC_2=Jumps to another random party member
+EFFECT_LIVING_BOMB_DESC_3= when dispelled
+EFFECT_LIVING_BOMB_RECENT_NAME=Living Bomb Recent Effect [1]
+EFFECT_LIVING_BOMB_RECENT_DESC_0=Recently affected by Living Bomb
+EFFECT_LIVING_BOMB_RECENT_DESC_1=Cannot be affected again for the duration
+EFFECT_MOLTEN_SUREGE_NAME=Molten Surge Effect [1]
+EFFECT_MOLTEN_SUREGE_DESC_0=[ATTRIBUTE_FIRE_RESIST] reduced
+EFFECT_MAGMA_RUPTURE_NAME=Magma Rupture Effect [1]
+EFFECT_MAGMA_RUPTURE_DESC_0=Healing received reduced
+EFFECT_MAGMA_RUPTURE_DESC_1=Taking [ATTRIBUTE_FIRE_DAMAGE] every second
+EFFECT_SEAL_OF_FLAME_NAME=Seal of Flame Effect [1]
+EFFECT_SEAL_OF_FLAME_DESC_0=Everytime [CONTEXT_PARTY_MEMBER_NAME_HEALER] casts a spell
+EFFECT_SEAL_OF_FLAME_DESC_1=Increase all party members'
+EFFECT_SEAL_OF_FLAME_DESC_2=[ATTRIBUTE_FIRE_DAMAGE] taken by 1%
+EFFECT_SEAL_OF_FLAME_TAKEN_NAME=Seal of Flame Taken Effect [1]
+EFFECT_SEAL_OF_FLAME_TAKEN_DESC_0=[ATTRIBUTE_FIRE_DAMAGE] taken increased
+EFFECT_TURNED_UP_NAME=Turned up! Effect [0]
+EFFECT_TURNED_UP_DESC_0=All damage increased
+EFFECT_TURNED_UP_DESC_1=All resistances increased
+EFFECT_TURNED_UP_DESC_2=[ATTRIBUTE_BLOCK_CHANCE_TEXT] increased
+EFFECT_TURNED_UP_DESC_3=[ATTRIBUTE_DODGE_CHANCE_TEXT] increased
+EFFECT_HEIGHTENED_SENSES_NAME=Heightened Senses Effect [0]
+EFFECT_HEIGHTENED_SENSES_DESC_0=[ATTRIBUTE_ICE_DAMAGE] increased
+EFFECT_HEIGHTENED_SENSES_DESC_1=[ATTRIBUTE_INCREASE_HEALPOWER_FLAT_TEXT] increased
+EFFECT_GARGOYLE_NAME=Gargoyle Effect [0]
+EFFECT_GARGOYLE_DESC_0=Attack speed reduced
+EFFECT_HOPELESS_SPIRAL_NAME=Hopeless Spiral Effect [0]
+EFFECT_HOPELESS_SPIRAL_DESC_0=[ATTRIBUTE_NEMESIS_DAMAGE] increased
+EFFECT_HOPELESS_SPIRAL_HEALPOWER_DESC_0=[ATTRIBUTE_INCREASE_HEALPOWER_FLAT_TEXT] increased
+EFFECT_WICKED_BLOOM_NAME=Wicked Bloom Effect [0]
+EFFECT_WICKED_BLOOM_DESC_0=Next Shadow Ripple
+EFFECT_WICKED_BLOOM_DESC_1=has no overhealing penalty
+EFFECT_PUPPET_OF_FEAR_NAME=Puppet of Fear Effect [1]
+EFFECT_PUPPET_OF_FEAR_DESC_0=Keto's presence makes you shiver
+EFFECT_PUPPET_OF_FEAR_DESC_1=Reaching 25 stacks of Dread will die instantly
+EFFECT_PUPPET_OF_FEAR_DESC_2=Gain 1 Dread stack every 3 seconds
+EFFECT_WELCOME_TO_THE_SHOW_NAME=Welcome to the Show Effect [1]
+EFFECT_WELCOME_TO_THE_SHOW_DESC_0=Keto welcomes you
+EFFECT_WELCOME_TO_THE_SHOW_DESC_1=Reduces all resistances by 20%
+EFFECT_ANNIHILATION_STAB_NAME=Annihilation Stab Effect [1]
+EFFECT_ANNIHILATION_STAB_DESC_0=Bleeding, taking small amount of [ATTRIBUTE_PHYSICAL_DAMAGE]
+EFFECT_ANNIHILATION_STAB_DESC_1=per second until healed to over 90% of [ATTRIBUTE_MAXIMUM_HEALTH]
+EFFECT_DREAD_NAME=Dread Effect [1]
+
+EFFECT_DREAD_DESC_0=Shivering in fear, taking more careful actions
+EFFECT_DREAD_DESC_1=Reduces all damage taken by 2% per stack
+EFFECT_DREAD_DESC_2=Instantly die if reaches 25 stacks
+
+EFFECT_DISSECT_NAME=Dissect Effect [1]
+EFFECT_DISSECT_DESC_0=Healing received is massively reduced
+EFFECT_ABSORBING_FEAR_NAME=Absorbing Dread Effect [0]
+EFFECT_ABSORBING_FEAR_DESC_0=Absorbing Dread
+EFFECT_ABSORBING_FEAR_DESC_1=Negating this effect will stop the 
+EFFECT_ABSORBING_FEAR_DESC_2=Crystal from absorbing Dread
+EFFECT_ABSORBING_FEAR_DISABLED_NAME=Absorbing Dread Disabled Effect [1]
+EFFECT_ABSORBING_FEAR_DISABLED_DESC_0=Is not absorbing Dread
+EFFECT_ABSORBING_FEAR_DISABLED_DESC_1=If negated, Crystal will start absorbing
+EFFECT_ABSORBING_FEAR_DISABLED_DESC_2=Dread again
+EFFECT_SHARPENED_BLADE_NAME=Sharpened Blade Effect [0]
+EFFECT_SHARPENED_BLADE_DESC_0=Increase all damage dealt by 100%
+EFFECT_PUPPETFY_NAME=Puppetfy Effect [1]
+EFFECT_PUPPETFY_DESC_0=Stunned, soul is ripped out of the body
+EFFECT_PUPPET_DOLL_NAME=Puppet Doll Effect [1]
+EFFECT_PUPPET_DOLL_DESC_0=If this effect expires, the body of the puppet dies
+EFFECT_PUPPET_DOLL_DESC_1=If the doll dies before the effect expires
+EFFECT_PUPPET_DOLL_DESC_2=the soul is returned to the body
+EFFECT_PUPPET_DOLL_DESC_3=Puppet Doll's stats are scaled 
+EFFECT_PUPPET_DOLL_DESC_4=with the party member's stat
+EFFECT_THUNDER_ASSAULT_NAME=Thunder Assult Effect [0]
+EFFECT_THUNDER_ASSAULT_DESC_0=Charging up
+EFFECT_TARGET_DUMMY_NAME=Target Dummy Effect [0]
+EFFECT_TARGET_DUMMY_DESC_0=Recovers all damage taken
+EFFECT_TARGET_DUMMY_DESC_1=Displaying DPS/HPS information
+
+EFFECT_TARGETS_SKILL_DESC=Stone Golem will recover all damage taken and display DPS/HPS information
+
+EFFECT_PUPPET_STRING_NAME=Puppet String Effect [1]
+EFFECT_PUPPET_STRING_DESC_0=Dealing 100% more damage
+EFFECT_PUPPET_STRING_DESC_1=Gain a stack of Dread every second
+EFFECT_THE_CHALLENGER_DECREASE_NAME=The Challenger Decrease Effect [1]
+EFFECT_THE_CHALLENGER_DECREASE_DESC_0=[ATTRIBUTE_PHYSICAL_RESIST] decreased
+EFFECT_THE_CHALLENGER_INCREASE_NAME=The Challenger Increase Effect [0]
+EFFECT_THE_CHALLENGER_INCREASE_DESC_0=[ATTRIBUTE_PHYSICAL_RESIST] increased
+EFFECT_DECREPIFICATION_AURA_NAME=Decrepification Aura Effect [1]
+EFFECT_DECREPIFICATION_AURA_DESC_0=[ATTRIBUTE_BLOCK_CHANCE_TEXT] reduced by 10%
+EFFECT_DECREPIFICATION_AURA_DESC_1=[ATTRIBUTE_DODGE_CHANCE_TEXT] reduced by 10%
+EFFECT_DECREPIFICATION_AURA_DESC_2=All resistances reduced by 10%
+
+EFFECT_MERCILESS_PRESENCE_NAME=Merciless Presence Effect [1]
+EFFECT_MERCILESS_PRESENCE_DESC_OVERRIDE_0=Whenever a party member is healed, they gain a merciless stack.
+EFFECT_MERCILESS_PRESENCE_DESC_OVERRIDE_1=Upon reaching {0} stacks, reduce healing received by {1}% for a short duration
+
+EFFECT_MERCILESS_NAME=Merciless Effect [1]
+EFFECT_MERCILESS_REDUCTION_NAME=Merciless Reduction Effect [1]
+EFFECT_MERCILESS_STACK_DESC_OVERRIDE_0=Upon reaching {0} stacks, reduce healing received by {1}%
+EFFECT_MERCILESS_REDUCTION_DESC_OVERRIDE_0=Reduce healing received by {0}%
+
+EFFECT_RUNE_CHAMBER_NAME=Rune Zones Effect [1]
+EFFECT_RUNE_CHAMBER_DESC_OVERRIDE_0=2 rune zones have been summoned
+
+EFFECT_DREAM_PROTECTION_NAME=Dream Protection Effect [0]
+EFFECT_DREAM_PROTECTION_DESC_0=Can only be damage by being in Reality
+EFFECT_REALITY_PROTECTION_NAME=Reality Protection Effect [0]
+EFFECT_REALITY_PROTECTION_DESC_0=Can only be damage by being in Dream
+EFFECT_INVIGORATE_NAME=Invigorate Effect [0]
+EFFECT_INVIGORATE_DESC_0=Skill cooldown reduced
+
+EFFECT_DEATH_CALLING_NAME=Death's Calling Effect [1]
+EFFECT_DEATH_CALLING_DESC_OVERRIDE=Increase the damage taken from Death's Calling by {0}% per stack
+
+EFFECT_SILENCED_NAME=Silenced Effect [1]
+EFFECT_SILENCED_DESC_0=Cannot cast any healing skills
+EFFECT_MINION_NAME=Minion Effect [1]
+EFFECT_MINION_DESC_0=This minon will also die when all other bosses dies
+EFFECT_HELLFIRE_BURST_NAME=Hellfire Burst Effect [1]
+EFFECT_HELLFIRE_BURST_DESC_0=Deals [ATTRIBUTE_FIRE_DAMAGE] when expired
+EFFECT_HELLFIRE_BURST_DESC_1=The damage is increased by 1%
+EFFECT_HELLFIRE_BURST_DESC_2=per 1% missing health
+EFFECT_REVENGE_NAME=Revenge Effect [0]
+EFFECT_REVENGE_DESC_0=Dealing increased damage
+EFFECT_REFLECTIVE_SHIELD_NAME=Reflective Shield Effect [0]
+EFFECT_REFLECTIVE_SHIELD_DESC_0=Reflecting damage back to the attacker
+EFFECT_UNHOLY_BLESSING_NAME=Unholy Blessing Effect [0]
+EFFECT_UNHOLY_BLESSING_DESC_0=This unit has significantly more health
+
+EFFECT_SOUL_LINK_NAME=Soul Link Effect [1]
+EFFECT_SOUL_LINK_DESC_OVERRIDE_0=Lose if any party member dies
+
+EFFECT_FRENZY_NAME=Frenzy Effect [1]
+EFFECT_FRENZY_DESC_OVERRIDE_0=All enemies will gain 200% damage bonus after 3 minutes
+
+EFFECT_FRENZIED_NAME=Frenzied Effect [1]
+EFFECT_FRENZIED_DESC_OVERRIDE_0=Frenzied, damage is massively increased
+
+EFFECT_CORRUPTION_NAME=Corruption Effect [1]
+EFFECT_CORRUPTION_DESC_OVERRIDE_0=Enemies' attacks now deal [ATTRIBUTE_NEMESIS_DAMAGE] instead
+
+EFFECT_POISON_GEYSER_NAME=Poison Geyser Effect [1]
+EFFECT_POISON_GEYSER_DESC_OVERRIDE_0=Contains 5 poison geysers, geysers will periodically erupt
+EFFECT_POISON_GEYSER_DESC_OVERRIDE_1=Eruption will deal massive [ATTRIBUTE_NEMESIS_DAMAGE] to anyone hit with it
+
+
+EFFECT_TOGETHER_WE_STAND_NAME=Together We Stand Effect [1]
+EFFECT_TOGETHER_WE_STAND_DESC_OVERRIDE_0=[CONTEXT_PARTY_MEMBER_NAME_RANGER] and [CONTEXT_PARTY_MEMBER_NAME_HEALER] now stays closer together
+EFFECT_TOGETHER_WE_STAND_DESC_OVERRIDE_1=Lose the battle if both [CONTEXT_PARTY_MEMBER_NAME_RANGER] and [CONTEXT_PARTY_MEMBER_NAME_HEALER] die
+
+EFFECT_CAUSTIC_STRIKE_NAME=Caustic Strike Effect [1]
+EFFECT_CAUSTIC_STRIKE_DESC_0=Deals additional [ATTRIBUTE_FIRE_DAMAGE] that is increased by 5% 
+EFFECT_CAUSTIC_STRIKE_DESC_1=per 1% of the target's health missing
+EFFECT_DELAYED_DISCHARGE_NAME=Delayed Discharge Effect [1]
+EFFECT_DELAYED_DISCHARGE_DESC_0=Deals heavy [ATTRIBUTE_FIRE_DAMAGE] to all party members when expired
+EFFECT_PARALYZE_NAME=Paralyze Effect [1]
+EFFECT_PARALYZE_ZOK_NAME=[EFFECT_PARALYZE_NAME]
+EFFECT_PARALYZE_DESC_0=Stunned
+EFFECT_VISAGE_OF_TRUTH_NAME=Visage of Truth Effect [0]
+EFFECT_VISAGE_OF_TRUTH_DESC_0=Healing received from Lesser Heal increased
+EFFECT_INTERROGATOR_NAME=[ARTIFACT_INTERROGATOR_NAME] Effect [1]
+EFFECT_INTERROGATOR_DESC_0=[ATTRIBUTE_PHYSICAL_RESIST] decreased
+EFFECT_BURNING_SOUL_NAME=Burning Soul Effect [0]
+EFFECT_BURNING_SOUL_DESC_0=Base damage increased
+EFFECT_FROST_AURA_NAME=Frost Aura Effect [0]
+EFFECT_FROST_AURA_DESC_0=Adding additional [ATTRIBUTE_ICE_DAMAGE] on hit
+EFFECT_FLAME_AURA_NAME=Flame Aura Effect [0]
+EFFECT_FLAME_AURA_DESC_0=Adding additional [ATTRIBUTE_FIRE_DAMAGE] on hit
+EFFECT_REFLECTIVE_SHIELD_PREP_NAME=Reflective Shield Preparing Effect [0]
+EFFECT_REFLECTIVE_SHIELD_PREP_DESC_0=Gain an reflective shield when this expires
+EFFECT_VOID_ZONE_NAME=Void Zone Effect [0]
+EFFECT_VOID_ZONE_DESC_0=Damage increased
+EFFECT_VOID_ZONE_DESC_1=Healing received reduced
+EFFECT_TWIN_ELEMENTAL_RING_NAME=Twin Elemental Ring Effect [0]
+
+EFFECT_RING_OF_FLAME_NAME=Ring of Flame Effect [0]
+EFFECT_RING_OF_FLAME_DESC_OVERRIDE_0=[ATTRIBUTE_FIRE_DAMAGE] taken massively increased
+EFFECT_RING_OF_FLAME_DESC_OVERRIDE_1=[ATTRIBUTE_ICE_DAMAGE] taken massively reduced
+
+
+EFFECT_RING_OF_FROST_NAME=Ring of Frost Effect [0]
+EFFECT_RING_OF_FROST_DESC_OVERRIDE_0=[ATTRIBUTE_ICE_DAMAGE] taken massively increased
+EFFECT_RING_OF_FROST_DESC_OVERRIDE_1=[ATTRIBUTE_FIRE_DAMAGE] taken massively reduced
+
+EFFECT_RING_OF_THUNDER_NAME=Ring of Thunder Effect [0]
+EFFECT_RESTORATION_TOTEM_NAME=Restoration Totem Effect [0]
+EFFECT_RESTORATION_TOTEM_DESC_0=Healing every second
+
+EFFECT_POISON_CLOUD_NAME=Poison Cloud Effect [1]
+EFFECT_POISON_CLOUD_DESC_OVERRIDE=Dispeling this will leave the cloud on the floor
+
+EFFECT_POISON_CLOUD_DISPEL_NAME=Poison Cloud Effect [1]
+
+EFFECT_STONE_FEET_NAME=Stone Feet Effect [1]
+EFFECT_STONE_FEET_CANT_MOVE=You can not move in this fight
+
+EFFECT_MASTER_OF_BEASTS_NAME=Master of Beasts Effect [1]
+EFFECT_MASTER_OF_BEASTS_DESC_OVERRIDE=When Droto or Lockjaw dies, the other one will try to revive the dead partner
+
+EFFECT_INTO_THE_FRAY_NAME=[TALENT_INTO_THE_FRAY_NAME] Effect [0]
+EFFECT_INTO_THE_FRAY_DESC_0=Can attack while casting
+
+EFFECT_TAUNT_NAME=Taunt Effect [0]
+EFFECT_TAUNT_DESC_0=Taunting, making all enemies have to focus on the caster
+EFFECT_MIRROR_TANK_TOWER_THORN_NAME=Thorn Effect [0]
+EFFECT_MIRROR_TANK_TOWER_THORN_DESC_0=Taunting, making all enemies have to focus on the caster
+EFFECT_MIRROR_TANK_TOWER_THORN_DESC_1=Also reflecting [ATTRIBUTE_PHYSICAL_DAMAGE] damage back to the attacker
+EFFECT_TAUNTED_NAME=Taunted Effect [1]
+EFFECT_TAUNTED_DESC_0=Taunted, will have to focus the taunting target
+EFFECT_SUN_RAY_NAME=Sun Ray Effect [1]
+EFFECT_SUN_RAY_DESC_0=Taking [ATTRIBUTE_FIRE_DAMAGE] every second
+EFFECT_SUN_RAY_DESC_1=Applying 1 Burn stack every second
+EFFECT_BURN_NAME=Burn Effect [1]
+
+EFFECT_BURN_DESC_0=Taking increased [ATTRIBUTE_FIRE_DAMAGE]
+EFFECT_BURN_DESC_1=Taking damage from Stiffen will remove all stacks
+
+EFFECT_STIFFEN_NAME=Stiffen Effect [1]
+EFFECT_STIFFEN_DESC_0=Taking increased [ATTRIBUTE_ICE_DAMAGE]
+EFFECT_STIFFEN_DESC_1=Taking damage from Sun Ray will remove all stacks
+EFFECT_RUNE_ZONES_NAME=Rune Zones Effect [1]
+EFFECT_MANA_DEFICIENCY_NAME=Mana Deficiency Effect [1]
+EFFECT_MANA_DEFICIENCY_DESC_0=Environmental [5]
+EFFECT_MANA_DEFICIENCY_DESC_1=Lose if your mana reaches 0
+EFFECT_MANA_SURPLUS_NAME=Mana Surplus Effect [1]
+EFFECT_MANA_SURPLUS_DESC_0=Environmental [5]
+EFFECT_MANA_SURPLUS_DESC_1=Gain mana instead of spend mana when casting spells
+EFFECT_MANA_SURPLUS_DESC_2=Lose if your mana reaches full
+EFFECT_MANA_SPRING_NAME=Mana Spring Effect [0]
+EFFECT_MANA_SPRING_DESC_0=Gain a percentage of maximum mana every second
+EFFECT_FEARED_NAME=Feared Effect [1]
+EFFECT_FEARED_DESC_0=Feared, running around aimlessly
+EFFECT_FLAME_TOTEM_NAME=Flame Totem Effect [1]
+EFFECT_FLAME_TOTEM_DESC_0=Periodically heals all enemies as well as
+EFFECT_FLAME_TOTEM_DESC_1=granting them a small damage increase
+EFFECT_ICE_TOTEM_NAME=Ice Totem Effect [1]
+EFFECT_ICE_TOTEM_DESC_0=Periodically debuff party members
+EFFECT_ICE_TOTEM_DESC_1=with healing absorbtion
+EFFECT_LIGHTNING_TOTEM_NAME=Lightning Totem Effect [1]
+EFFECT_LIGHTNING_TOTEM_DESC_0=Periodically deals [ATTRIBUTE_LIGHTNING_DAMAGE]
+EFFECT_LIGHTNING_TOTEM_DESC_1=to all party members
+EFFECT_LIGHTNING_TOTEM_DESC_2=Instantly kills any party members
+EFFECT_LIGHTNING_TOTEM_DESC_3=who is below 15% health
+
+EFFECT_FLAME_TOTEM_SKILL_DESC=Every 12 seconds, Flame Totem will heal all enemies for a small amount of health as well as giving them a permanent 5% damage bonus
+EFFECT_ICE_TOTEM_SKILL_DESC=Every 8 seconds, Ice Totem will debuff 1 random party members with Hypothermia, absorbing a moderate amount of healing received.
+EFFECT_LIGHTNING_TOTEM_SKILL_DESC=Every 2 seconds, Lightning Totem will deal a small amount of [ATTRIBUTE_LIGHTNING_DAMAGE] to all party members. The damage will also instantly kill any party member that is below 15% health.
+
+EFFECT_SHOCKED_NAME=Shocked Effect [1]
+EFFECT_SHOCKED_DESC_OVERRIDE=Instantly killed if health drops below 15%
+
+EFFECT_WINTER_EMBRACE_NAME=Winter's Embrace Effect [1]
+
+EFFECT_ANGER_NAME=Anger Effect [0]
+EFFECT_ANGER_TOTEM_DAMAGE=Totem damage
+EFFECT_TOTEM_SELECT_DESCOVERRIDE=Pick a totem to let Raldon activate by clicking on one the three totems
+
+EFFECT_DISSOLVE_ESSENCE_NAME=Dissolve Essence Effect [1]
+EFFECT_DISSOLVE_ESSENCE_DESC_OVERRIDE=Taking massively increased damage from Harvest
+
+EFFECT_HARVEST_NAME=Harvest Effect [1]
+EFFECT_AGONY_NAME=Agony Effect [1]
+EFFECT_HOLDING_POTION_DMG_NAME=Holding Potion Effect [1]
+EFFECT_HOLDING_POTION_DMG_DESC_0=holding an unstable concoction
+EFFECT_HOLDING_POTION_DMG_DESC_1=dispelling this effect will drop the concoction 
+EFFECT_HOLDING_POTION_HEAL_NAME=Holding Potion Effect [1]
+EFFECT_HOLDING_POTION_HEAL_DESC_0=holding an unstable concoction
+EFFECT_HOLDING_POTION_HEAL_DESC_1=dispelling this effect will drop the concoction 
+
+EFFECT_UNSTABLE_CONCOCTION_NAME=Unstable Concoction Effect [0]
+EFFECT_UNSTABLE_CONCOCTION_OVERRIDE_DESC_0=Volkan will periodically throw out 2 types of potion.
+EFFECT_UNSTABLE_CONCOCTION_OVERRIDE_DESC_1=You can pick up potions by walking over them.
+EFFECT_UNSTABLE_CONCOCTION_OVERRIDE_DESC_2=You can drop potions by dispelling yourself while holding a potion.
+EFFECT_UNSTABLE_CONCOCTION_OVERRIDE_DESC_3=Purple potion will deal heavy [ATTRIBUTE_NEMESIS_DAMAGE]
+EFFECT_UNSTABLE_CONCOCTION_OVERRIDE_DESC_4=Green potion will heal Volkan for a moderate amount
+
+EFFECT_SHOCK_THERAPY_BONUS_NAME=Shock Therapy Bonus Effect [0]
+EFFECT_SHOCK_THERAPY_BONUS_DESC_0=Movement speed is massively increased
+EFFECT_BERZERK_POITION_NAME=Berzerking Potion Effect [0]
+EFFECT_BERZERK_POITION_DESC_0=[ATTRIBUTE_ATTACK_DAMAGE] is massively increased
+EFFECT_BERZERK_POITION_DESC_1=[ATTRIBUTE_ATTACK_SPEED] is massively increased
+EFFECT_IMPURE_BLOOM_NAME=Impure Bloom Effect [1]
+EFFECT_IMPURE_BLOOM_DESC_0=Taking heavy [ATTRIBUTE_NEMESIS_DAMAGE] every second
+EFFECT_IMPURE_BLOOM_SECONDARY_NAME=Impure Bloom Secondary Effect [1]
+EFFECT_IMPURE_BLOOM_SECONDARY_DESC_0=Taking [ATTRIBUTE_NEMESIS_DAMAGE] every second
+
+EFFECT_CURSE_OF_THE_HEARTLESS_NAME=Curse of the Heartless Effect [1]
+EFFECT_CURSE_OF_THE_HEARTLESS_DESC_0=All overhealing now causes the healed target to lose health
+EFFECT_CURSE_OF_THE_HEARTLESS_DESC_1=equal to double the amount overhealed
+
+EFFECT_CURSE_OF_THE_HOPELESS_NAME=Curse of the Hopeless Effect [1]
+EFFECT_CURSE_OF_THE_HOPELESS_DESC_0=All spells to have a global cooldown of 2.5 seconds
+
+EFFECT_CURSE_OF_THE_MINDLESS_NAME=Curse of the Mindless Effect [1]
+EFFECT_CURSE_OF_THE_MINDLESS_DESC_0=All party members gain a permanent shield equal to their [ATTRIBUTE_MAXIMUM_HEALTH]
+EFFECT_CURSE_OF_THE_MINDLESS_DESC_1=All healing done to the party member will recharge the shield instead
+EFFECT_CURSE_OF_THE_MINDLESS_SHIELD_DESC=All healing done will recharge this shield instead
+
+EFFECT_STATIC_FIELD_NAME=Static Field Effect [1]
+EFFECT_STATIC_FIELD_DESC_0=Environmental [5]
+EFFECT_STATIC_FIELD_DESC_1=Left side of the room is filled with static
+EFFECT_STATIC_FIELD_DESC_2=Staying inside will deal heavy
+EFFECT_STATIC_FIELD_DESC_3=[ATTRIBUTE_LIGHTNING_DAMAGE] per second
+EFFECT_ACTIVATE_TOTEM_NAME=Activate Totem Effect [1]
+EFFECT_SUFFOCATION_ARROW_NAME=Suffocation Arrow Effect [1]
+EFFECT_SUFFOCATION_ARROW_DESC_0=stunned
+EFFECT_EDWIN_DIVINE_PROTECTION_NAME=[BOSS_EDWIN_SHORT_NAME]'s Divine Protection Effect [0]
+EFFECT_EDWIN_DIVINE_PROTECTION_DESC_0=Immune to all damage
+EFFECT_EDWIN_DIVINE_PROTECTION_DESC_1=The protection is removed when the 2 golems are killed
+EFFECT_ATONE_NAME=Atone Effect [1]
+EFFECT_ATONE_GREEN_NAME=[EFFECT_ATONE_NAME]
+EFFECT_ATONE_YELLOW_NAME=[EFFECT_ATONE_NAME]
+EFFECT_ATONE_RED_NAME=[EFFECT_ATONE_NAME]
+EFFECT_ATONE_DESC_0=Only 1 of the Atone debuff has the real sin. 
+EFFECT_ATONE_DESC_1=Dispelling the wrong Atone debuff will deal
+EFFECT_ATONE_DESC_2=heavy [ATTRIBUTE_NEMESIS_DAMAGE] to all party members
+EFFECT_STEALTH_NAME=Stealth Effect [0]
+EFFECT_STEALTH_DESC_0=Hidden in the shadow
+EFFECT_STEALTH_DESC_1=Invisible
+EFFECT_STEALTH_DESC_2=Cannot be targeted
+EFFECT_DARK_SEAL_NAME=Dark Seal Effect [1]
+EFFECT_DARK_SEAL_DESC_0=Healing received is massively reduced
+EFFECT_SHADOW_BLESSING_NAME=Shadow's Blessing Effect [0]
+EFFECT_SHADOW_BLESSING_DESC_0=All elemental resistances are massively increased
+EFFECT_SHADOW_BLESSING_DESC_1=[ATTRIBUTE_NEMESIS_RESIST] is massively increased
+EFFECT_INCAPACITATED_NAME=Incapacitated Effect [1]
+EFFECT_INCAPACITATED_DESC_0=Incapacitated by [BOSS_MEVOR_SHORT_NAME] in the shadow
+EFFECT_INCAPACITATED_DESC_1=[BOSS_MEVOR_SHORT_NAME] will strike this target next
+EFFECT_VITALIZED_NAME=Vitalized Effect [0]
+EFFECT_VITALIZED_DESC_0=[ATTRIBUTE_INCREASE_HEALPOWER_FLAT_TEXT] increased
+EFFECT_VITALIZED_DESC_1=All party members' [ATTRIBUTE_BASE_DAMAGE_TEXT] increased
+EFFECT_FEATHERED_FOOTWORK_NAME=Feathered Footwork Effect [1]
+EFFECT_FEATHERED_FOOTWORK_DESC_0=Movement speed decreased
+EFFECT_FEATHERED_FOOTWORK_DESC_1=Mana cost increased
+EFFECT_DEVOTION_NAME=Devotion Effect [0]
+EFFECT_DEVOTION_DESC_0=[ATTRIBUTE_PHYSICAL_RESIST] and [ATTRIBUTE_NEMESIS_RESIST] increased
+EFFECT_DEVOTION_DESC_1=[ATTRIBUTE_BLOCK_CHANCE_TEXT] increased
+EFFECT_DEVOTION_DESC_2=Damage increased
+EFFECT_SOUL_CONDUIT_NAME=Soul Conduit Effect [0]
+EFFECT_SOUL_CONDUIT_DESC_0=[ATTRIBUTE_ATTACK_SPEED] increased
+EFFECT_SOUL_CONDUIT_DESC_1=Base damage increased
+EFFECT_VOID_AURA_0_NAME=Void Aura Effect [0]
+EFFECT_VOID_AURA_1_NAME=[EFFECT_VOID_AURA_0_NAME]
+EFFECT_VOID_AURA_2_NAME=[EFFECT_VOID_AURA_0_NAME]
+EFFECT_VOID_AURA_3_NAME=[EFFECT_VOID_AURA_0_NAME]
+EFFECT_VOID_AURA_DESC=Aura of the void, does nothing
+EFFECT_INFECTED_STRIKER_NAME=Infected Striker Effect [0]
+EFFECT_INFECTED_STRIKER_DESC_0=The bow is infected,
+EFFECT_INFECTED_STRIKER_DESC_1=dealing extra [ATTRIBUTE_NEMESIS_DAMAGE] on the next attack
+EFFECT_BLOOD_LUST_NAME=Blood Lust Effect [0]
+EFFECT_BLOOD_LUST_DESC_0=Gain 20% base [ATTRIBUTE_PHYSICAL_DAMAGE] 
+EFFECT_BLOOD_LUST_DESC_1=and re-enable Vampirism's healing
+EFFECT_CRAVE_NAME=Crave Effect [0]
+EFFECT_CRAVE_DESC_0=Craving for blood
+EFFECT_FORTUNATE_FAITH_NAME=Fortunate Faith Effect [0]
+EFFECT_FORTUNATE_FAITH_DESC_0=Your next Ample Heal will be casted instantly
+EFFECT_BOLSTER_LESSER_HEAL_NAME=Bolster Lesser Heal Effect [0]
+EFFECT_BOLSTER_FLASH_HEAL_NAME=Bolster Flash Heal Effect [0]
+EFFECT_IMMORTALITY_NAME=Immortality Effect [0]
+EFFECT_IMMORTALITY_DESC_0=[ATTRIBUTE_BLOCK_CHANCE_TEXT] increased
+EFFECT_GATHERED_WIND_NAME=Gathered Wind Effect [0]
+EFFECT_GATHERED_WIND_DESC_0=You have gathered some wind
+EFFECT_GATHERED_WIND_DESC_1=moving will consume the wind
+EFFECT_GUST_NAME=Gust Effect [0]
+EFFECT_GUST_DESC_0=Movement speed increased
+EFFECT_GUST_DESC_1=Cast speed increased
+EFFECT_SUN_BURST_NAME=Sun Burst Effect [1]
+EFFECT_SUN_BURST_DESC_0=Deals heavy [ATTRIBUTE_FIRE_DAMAGE] when expired
+EFFECT_FROST_BURST_NAME=Frost Burst Effect [1]
+EFFECT_FROST_BURST_DESC_0=Deals heavy [ATTRIBUTE_ICE_DAMAGE] when expired
+EFFECT_ELEMENTAL_BURST_NAME=Elemental Burst Effect [1]
+EFFECT_ELEMENTAL_BURST_DESC_0=Deals either heavy [CONTEXT_ELEMENT_FIRE] or heavy [CONTEXT_ELEMENT_ICE]
+EFFECT_ELEMENTAL_BURST_DESC_1=damage when expired
+
+EFFECT_FROST_BITE_NAME=Frostbite Effect [1]
+EFFECT_FROST_BITE_DESC_0=Deals small [ATTRIBUTE_LIGHTNING_DAMAGE] over time
+EFFECT_FROST_BITE_DESC_1=Will explode if the affected target takes [ATTRIBUTE_ICE_DAMAGE]
+EFFECT_FROST_BITE_DESC_2=dealing massive [ATTRIBUTE_ICE_DAMAGE]
+
+EFFECT_FREEZING_CHARGE_NAME=Freezing Charge Effect [1]
+EFFECT_FREEZING_CHARGE_DESC_0=Deals moderate [ATTRIBUTE_ICE_DAMAGE] when expired
+EFFECT_FREEZING_CHARGE_DESC_1=Deals moderate [ATTRIBUTE_LIGHTNING_DAMAGE] when dispeled
+
+EFFECT_STATIC_CHARGE_NAME=Static Charge Effect [1]
+EFFECT_STATIC_CHARGE_DESC_0=Deals moderate [ATTRIBUTE_LIGHTNING_DAMAGE] when expired
+EFFECT_STATIC_CHARGE_DESC_1=Deals moderate [ATTRIBUTE_ICE_DAMAGE] when dispeled
+
+EFFECT_FROZEN_SPHERE_NAME=Frozen Sphere Effect [1]
+EFFECT_FROZEN_SPHERE_DESC_0=[ATTRIBUTE_ICE_RESIST] reduced
+EFFECT_NIGHTMARE_CURTAIN_NAME=Nightmare Curtain Effect [1]
+EFFECT_NIGHTMARE_CURTAIN_I_NAME=Nightmare Curtain Effect [1]
+EFFECT_NIGHTMARE_CURTAIN_II_NAME=Nightmare Curtain Effect [1]
+EFFECT_NIGHTMARE_CURTAIN_III_NAME=Nightmare Curtain Effect [1]
+
+EFFECT_NIGHTMARE_CURTAIN_DESC_LESS_HEAL=Party members in the dark receives {0}% less healing
+EFFECT_NIGHTMARE_CURTAIN_DESC_LOSE_HP=Party members in the dark will lose {0}% of their maximum health every second
+
+EFFECT_THE_CURTAIN_FALLS_NAME=The Curtain Falls Effect [1]
+EFFECT_BLOOD_EXTRACTOR_NAME=Blood Extractor Effect [1]
+EFFECT_BLOOD_EXTRACTOR_DESC_0=Sacrificing health to the extractor every second
+EFFECT_BLOOD_SACRIFICE_NAME=Blood Sacrifice Effect [1]
+
+EFFECT_BLOOD_SACRIFICE_DESC_0=Standing in the Blood Vessel will sacrifice
+EFFECT_BLOOD_SACRIFICE_DESC_1=all party members' [ATTRIBUTE_MAXIMUM_HEALTH] per second and
+EFFECT_BLOOD_SACRIFICE_DESC_2=charge it with blood.
+EFFECT_BLOOD_SACRIFICE_DESC_3=Blood Vessel will slowly lose blood overtime.
+EFFECT_BLOOD_SACRIFICE_DESC_4=Vagut is much more dangerous if the Blood Vessel is empty
+
+EFFECT_BLOOD_SAC_SKILL_DESC=Vagut's lust for blood makes him much more dangerous if the Blood Vessel is empty. <br><br>Standing in the Blood Vessel will sacrifice all party members' [ATTRIBUTE_MAXIMUM_HEALTH] per second and charge it with blood. <br><br>Blood Vessel will slowly lose blood overtime.
+
+EFFECT_BLOOD_THIRST_NAME=Blood Thirst Effect [0]
+EFFECT_BLOOD_THIRST_DESC_0=Thirsty for blood, damage is massively increased
+EFFECT_INFECTED_CLEAVER_NAME=Infected Cleaver Effect [1]
+EFFECT_INFECTED_CLEAVER_DESC_0=Healing received reduced
+EFFECT_HAMSTRING_NAME=Hamstring Effect [1]
+EFFECT_HAMSTRING_DESC_0=Movement speed reduced
+EFFECT_RITUAL_TOTEM_NAME=Ritual Totem Effect [1]
+EFFECT_RITUAL_TOTEM_DESC_0=Can not be healed
+EFFECT_FRAGILE_BODY_NAME=Fragile Body Effect [1]
+EFFECT_FRAGILE_BODY_DESC_0=Automatically perish when this effect expires
+EFFECT_OBLITERATING_CURSE_NAME=Obliterating Curse Effect [1]
+EFFECT_OBLITERATING_CURSE_DESC_0=Taking massive [ATTRIBUTE_NEMESIS_DAMAGE] every second
+EFFECT_VIVID_NAME=Vivid Effect [0]
+EFFECT_VIVID_DESC_0=All heal over time healing effect increased
+EFFECT_VIVID_RECONSTRUCTION_TOWER_NAME=Vivid Heal Effect [0]
+EFFECT_VIVID_RECONSTRUCTION_TOWER_DESC_0=Healing every second
+EFFECT_ENERGY_CHARGE_NAME=Energy Charge Effect [0]
+EFFECT_ENERGY_CHARGE_DESC_0=Gathering energy, moving will gain stacks
+EFFECT_ENERGIZED_NAME=Energized Effect [0]
+EFFECT_ENERGIZED_DESC_0=[CONTEXT_ELEMENT_PHYSICAL] auto attacks deal extra [ATTRIBUTE_LIGHTNING_DAMAGE]
+EFFECT_APOCALYPSE_TOME_NAME=Apocalypse Tome Effect [0]
+EFFECT_APOCALYPSE_TOME_DESC_0=Attacking an additional time
+EFFECT_SYMBOL_OF_HOPE_NAME=Symbol of Hope Effect [0]
+EFFECT_SYMBOL_OF_HOPE_DESC_0=[ATTRIBUTE_INCREASE_HEALPOWER_FLAT_TEXT] increased
+EFFECT_SYMBOL_OF_HOPE_DESC_1=Shield effect increased
+EFFECT_SYMBOL_OF_HOPE_DESC_2=All party members' base damage increased
+EFFECT_SYMBOL_OF_HOPE_DESC_3=All party members' block/[ATTRIBUTE_DODGE_CHANCE_TEXT] increased
+EFFECT_SHADOW_POOL_NAME=Shadow Pool Effect [1]
+EFFECT_SHADOW_POOL_DESC_0=All damage decreased by 1% per stack
+EFFECT_VITAL_GRIP_NAME=Vital Grip Effect [1]
+EFFECT_VITAL_GRIP_DESC_0=Deals massive [ATTRIBUTE_PHYSICAL_DAMAGE] if expires
+EFFECT_VITAL_GRIP_DESC_1=Can only be dispelled if the [CONTEXT_PARTY_MEMBER_NAME_HEALER] is close to the target
+EFFECT_ALTAR_NAME=Altar Effect [5]
+EFFECT_TELEPORT_PORTAL_NAME=Teleport Portal Effect [0]
+EFFECT_TELEPORT_PORTAL_DESC_OVERRIDE_0=Two portals are summoned at the left and right of the battlefield
+EFFECT_TELEPORT_PORTAL_DESC_OVERRIDE_1=Any object going into one of the portals will come out of the other one
+
+EFFECT_TWIN_ELEMENTAL_RING_NAME=Twin Elemental Ring Effect [1]
+EFFECT_TWIN_ELEMENTAL_RING_DESC_OVERRIDE_0=Standing in the Ring of Flame will increase [ATTRIBUTE_FIRE_DAMAGE] taken and reduce [ATTRIBUTE_ICE_DAMAGE] taken for the entire party
+EFFECT_TWIN_ELEMENTAL_RING_DESC_OVERRIDE_1=Standing in Ring of Frost will increase [ATTRIBUTE_ICE_DAMAGE] taken and reduce [ATTRIBUTE_FIRE_DAMAGE] taken for the entire party.
+
+EFFECT_WORSHIP_NAME=Worship Effect [0]
+EFFECT_WORSHIP_DESC_0=[EFFECT_ABSORB_ALL_DAMAGE]
+EFFECT_LOYALTY_SHIELD_NAME=Loyalty Shield Effect [0]
+EFFECT_LOYALTY_SHIELD_DESC_0=[EFFECT_ABSORB_ALL_DAMAGE]
+EFFECT_CELESTIA_SHIELD_NAME=Celestia Shield Effect [0]
+EFFECT_CELESTIA_SHIELD_DESC_0=[EFFECT_ABSORB_ALL_DAMAGE]
+EFFECT_MINDLESS_SHIELD_NAME=Mindless Shield Effect [0]
+EFFECT_AMPLE_HEAL_NAME=Ample Heal Effect [0]
+EFFECT_AMPLE_HEAL_DESC_0=[EFFECT_ABSORB_ALL_DAMAGE]
+EFFECT_HOLY_SHIELD_NAME=Holy Shield Effect [0]
+EFFECT_HOLY_SHIELD_DESC_0=[EFFECT_ABSORB_ALL_DAMAGE]
+EFFECT_HOLY_HALO_NAME=Holy Halo Effect [0]
+EFFECT_HOLY_HALO_DESC_0=[EFFECT_ABSORB_ALL_DAMAGE]
+EFFECT_PURE_IN_HEART_SHIELD_NAME=Pure In Heart Shield Effect [0]
+EFFECT_PURE_IN_HEART_SHIELD_DESC_0=[EFFECT_ABSORB_ALL_DAMAGE]
+
+EFFECT_FATE_NAME=Fate Effect [0]
+EFFECT_FATE_DESC_0=Heal the target again when expired
+
+EFFECT_INFUSED_LUMINOSITY_NAME=[TALENT_INFUSED_LUMINOSITY_NAME] Effect [0]
+EFFECT_INFUSED_LUMINOSITY_DESC_0=The next [SKILL_FLASH_HEAL_NAME] will heal more <br> The next [SKILL_FLASH_HEAL_NAME] will deal [ATTRIBUTE_FIRE_DAMAGE]
+
+EFFECT_INFUSED_LUMINOSITY_RES_NAME=[TALENT_INFUSED_LUMINOSITY_NAME] Resist Reduction Effect [0]
+EFFECT_INFUSED_LUMINOSITY_RES_DESC_0=[ATTRIBUTE_ALL_RESISTS_TEXT] reduced
+
+EFFECT_ZEAL_NAME=[TALENT_ZEAL_NAME] Effect [0]
+EFFECT_ZEAL_DESC_0=[ATTRIBUTE_ATTACK_SPEED] increased <br>[ATTRIBUTE_BASE_DAMAGE_TEXT] increased
+
+EFFECT_LESSER_HEAL_DREAMBINDER_NAME=[SKILL_LESSER_HEAL_NAME] [ARTIFACT_DREAMBINDER_NAME] Effect [0]
+EFFECT_AMPLE_HEAL_DREAMBINDER_NAME=[SKILL_AMPLE_HEAL_NAME] [ARTIFACT_DREAMBINDER_NAME] Effect [0]
+EFFECT_FLASH_HEAL_DREAMBINDER_NAME=[SKILL_FLASH_HEAL_NAME] [ARTIFACT_DREAMBINDER_NAME] Effect [0]
+EFFECT_DIVINE_MEND_DREAMBINDER_NAME=[SKILL_DIVINE_MEND_NAME] [ARTIFACT_DREAMBINDER_NAME] Effect [0]
+EFFECT_DREAM_BINDER_DESC=Healing every second
+
+EFFECT_DIVINE_DECREE_HEAL_NAME=[TALENT_DIVINE_DECREE_NAME] Effect [1]
+EFFECT_DIVINE_DECREE_HEAL_DESC_0=Can not be healed
+
+EFFECT_DIVINE_DECREE_BLOCKDODGE_NAME=[TALENT_DIVINE_DECREE_NAME] Effect [1]
+EFFECT_DIVINE_DECREE_BLOCKDODGE_DESC_0=Can not dodge or block
+
+EFFECT_TRANSFUSION_NAME=Transfusion Effect [1]
+EFFECT_TRANSFUSION_DESC_0=Can not be healed, transfering life from other party members within the radius
+
+EFFECT_TRANSFUSION_AFFECTED_NAME=[EFFECT_TRANSFUSION_NAME]
+EFFECT_TRANSFUSION_AFFECTED_DESC_0=Transferring life to the affected target of the ring
+
+EFFECT_PIERCING_THRUST_NAME=[SKILL_PIERCING_THRUST_NAME] Effect [1]
+EFFECT_PIERCING_THRUST_DESC_0=Loses more health from [SKILL_TRANSFUSION_NAME]
+
+EFFECT_BLOOD_LEECH_NAME=[SKILL_BLOOD_LEECH_NAME] Global Effect [1]
+EFFECT_BLOOD_LEECH_DESC_0=Every few seconds a blood leech will spawn on a random party member
+
+EFFECT_LEECH_NAME=Leech Effect [1]
+EFFECT_LEECH_DESC_0=Reduce [ATTRIBUTE_HEALING_RECEIVED] by 15%
+
+EFFECT_LEECH_HEALING_NAME=Leech Effect [0]
+EFFECT_LEECH_HEALING_DESC_0=Healing every second
+
+EFFECT_SANGUINE_BLADE_NAME=[SKILL_SANGUINE_BLADE_NAME] Effect [0]
+EFFECT_SANGUINE_BLADE_DESC_0=Every attack will heal for a moderate amount <br>This effect stacks
+
+EFFECT_IMMOVABLE_FORTRESS_NAME=[TALENT_IMMOVABLE_FORTRESS_NAME] Effect [0]
+EFFECT_IMMOVABLE_FORTRESS_DESC_0=[ATTRIBUTE_ALL_DAMAGE_TAKEN] decreased
+
+EFFECT_BLESSED_COMPANY_NAME=[TALENT_BLESSED_COMPANY_NAME] Effect [0]
+EFFECT_BLESSED_COMPANY_DESC_0=[ATTRIBUTE_PHYSICAL_RESIST] increased
+
+EFFECT_CONVICTION_NAME=[TALENT_CONVICTION_NAME] Effect [1]
+EFFECT_CONVICTION_DESC_0=[ATTRIBUTE_ALL_DAMAGE_DEALT] decreased
+
+EFFECT_CURSE_SERPENT_TRIGGER_NAME=[AT_CURSE_SERPENT_NAME] Effect [1]
+EFFECT_CURSE_SERPENT_TRIGGER_DESC_0=[ATTRIBUTE_MANA_COST] increased
+EFFECT_CURSE_SERPENT_NAME=[AT_CURSE_SERPENT_NAME] Effect [1]
+EFFECT_CURSE_SERPENT_DESC_0=Increase the [ATTRIBUTE_MANA_COST] of all spells every few seconds
+
+EFFECT_IGNITE_NAME=Ignite Effect [1]
+EFFECT_IGNITE_DESC_0=Dealing [ATTRIBUTE_FIRE_DAMAGE] every second
+EFFECT_IGNITE_DESC_1=Deals massive [ATTRIBUTE_FIRE_DAMAGE] if the affected target's health is
+EFFECT_IGNITE_DESC_2=greater than {0}% when dispelled
+
+EFFECT_ENGULF_NAME=Engulf Effect [0]
+EFFECT_ENGULF_DESC=Dealing {0} bonus [ATTRIBUTE_FIRE_DAMAGE]
+
+EFFECT_ETERNAL_FROST_ENV_NAME=[SKILL_ETERNAL_FROST_NAME] Effect[1]
+EFFECT_ETERNAL_FROST_ENV_DESC_0=Every {0} seconds all party members will gain an [SKILL_ETERNAL_FROST_NAME] stack
+EFFECT_ETERNAL_FROST_ENV_DESC_1=Each [SKILL_ETERNAL_FROST_NAME] stack will reduce [ATTRIBUTE_INCREASE_ALL_HEALING_RECEIVED_TEXT] by {0}%
+EFFECT_ETERNAL_FROST_ENV_DESC_2=Picking up Eternal Flames orb will remove all [SKILL_ETERNAL_FROST_NAME] stacks
+
+EFFECT_ETERNAL_FROST_NAME=[SKILL_ETERNAL_FROST_NAME] Effect[1]
+EFFECT_ETERNAL_FROST_DESC_0=[ATTRIBUTE_INCREASE_ALL_HEALING_RECEIVED_TEXT] reduced by {0}% per stack
+
+EFFECT_FREEZING_PULSE_NAME=[SKILL_FREEZING_PULSE_NAME] Effect [1]
+EFFECT_FREEZING_PULSE_DESC=Pulsing [ATTRIBUTE_ICE_DAMAGE] to around the area of the affected target every second
+EFFECT_FREEZING_PULSE_DESC2=Pulse damage is reduced by {0}% per party member hit
+
+EFFECT_PATH_END_NAME=[TALENT_PATHS_END_NAME] Effect [0]
+EFFECT_PATH_END_DESC_0=[ATTRIBUTE_INCREASE_HEALPOWER_FLAT_TEXT] increased
+
+EFFECT_HEAVEN_AID_NAME=[TALENT_HEAVEN_AID_NAME] Effect [0]
+EFFECT_HEAVEN_AID_DESC_0=[EFFECT_GENERIC_ABSORB_DMG]
+
+EFFECT_SHOCK_NAME=Shocked Effect [1]
+EFFECT_SHOCK_DESC_0=Shocked, [ATTRIBUTE_ALL_DAMAGE_TAKEN] is significantly increased
+
+EFFECT_CRYSTALIZE_TOWER_NAME=Crystalize Effect [0]
+EFFECT_CRYSTALIZE_TOWER_DESC_0=[ATTRIBUTE_ALL_DAMAGE_DEALT] increased
+
+EFFECT_DEEP_FROST_NAME=Deep Frost Effect[1]
+EFFECT_DEEP_FROST_DESC_0=Absorbing healing, deals significant [ATTRIBUTE_ICE_DAMAGE] if allowed to expire
+
+EFFECT_DECIMATE_NAME=[SKILL_DECIMATE_NAME] Effect[1]
+EFFECT_DECIMATE_DESC=Instantly kills the affected target when reaches {0} stacks
+EFFECT_DECIMATE_DESC2=Can only be removed by taking damage from [SKILL_DUSKWIND_NAME]
+
+EFFECT_BLACKOUT_NAME=[SKILL_BLACKOUT_NAME] Effect[1]
+EFFECT_BLACKOUT_DESC=Deals massive [ATTRIBUTE_NEMESIS_DAMAGE] when expired
+EFFECT_BLACKOUT_DESC2=Deals [ATTRIBUTE_NEMESIS_DAMAGE] based on remaining duraion when dispelled
+EFFECT_BLACKOUT_DESC3=The lower the remaining duration is, the lower the damage
+
+EFFECT_QUICKSILVER_NAME=[ARTIFACT_QUICKSILVER_NAME] Effect[0]
+EFFECT_QUICKSILVER_DESC=Heal all party members upon reaching {0} stacks
+
+EFFECT_DIVINE_NOVA_NAME=[SKILL_DIVINE_NOVA_NAME] Effect[0]
+EFFECT_DIVINE_NOVA_DESC_0=[EFFECT_GENERIC_ABSORB_DMG]
+
+EFFECT_BESTOW_FAITH_SHIELD_NAME=[SKILL_BESTOW_FAITH_NAME] Effect[0]
+EFFECT_BESTOW_FAITH_SHIELD_DESC_0=[EFFECT_GENERIC_ABSORB_DMG]
+
+EFFECT_BESTOW_FAITH_DMG_NAME=[SKILL_BESTOW_FAITH_NAME] Effect[0]
+EFFECT_BESTOW_FAITH_DMG_DESC_0=Heals whenever [CONTEXT_PARTY_MEMBER_NAME_HEALER] deals damage
+
+EFFECT_GARRISON_NAME=[UI_TOOLTIP_GARRISON_NAME] Effect[0]
+
+EFFECT_MIGHT_NAME=[UI_TOOLTIP_MIGHT_NAME] Effect[0]
+
+EFFECT_FAITH_NAME=[UI_TOOLTIP_FAITH_NAME] Effect[0]
+
+EFFECT_ENERGY_BURST_NAME=Energy Burst Effect[0]
+EFFECT_ENERGY_BURST_DESC=Every {0} attacks will deal extra {1}% attack damage as [ATTRIBUTE_LIGHTNING_DAMAGE]
+
+EFFECT_WATER_BARRIER_NAME=Water Barrier Effect[0]
+EFFECT_WATER_BARRIER_DESC_0=Can only be damaged when the attacker is electrified
+
+EFFECT_ELECTRIFIED_NAME=Electrifed Effect[1]
+EFFECT_ELECTRIFIED_DESC_DMG=+{0}% [ATTRIBUTE_ALL_DAMAGE_DEALT]
+EFFECT_ELECTRIFIED_DESC_HEAL=+{0}% [ATTRIBUTE_HEALING_RECEIVED]
+EFFECT_ELECTRIFIED_DESC_L_DMG_TAKEN=+{0}% [ATTRIBUTE_LIGHTNING_DAMAGE] taken
+
+EFFECT_SHAMANIC_CODEX_SHIELD_NAME=[ARTIFACT_SHAMANIC_CODEX_NAME] Effect[0]
+EFFECT_SHAMANIC_CODEX_SHIELD_DESC_0=[EFFECT_GENERIC_ABSORB_DMG]
+
+EFFECT_INTIMIDATING_SHOUT_NAME=[SKILL_INTIMIDATING_SHOUT_NAME] Effect[1]
+EFFECT_INTIMIDATING_SHOUT_DESC_0=[ATTRIBUTE_ALL_DAMAGE_DEALT] reduced
+
+EFFECT_ALACRITY_NAME=[SKILL_ALACRITY_NAME] Effect[0]
+
+EFFECT_RUPTURE_NAME=[SKILL_RUPTURE_NAME] Effect[1]
+EFFECT_RUPTURE_DESC_0=Taking [ATTRIBUTE_PHYSICAL_DAMAGE] every second
+
+EFFECT_EXPOSE_WEAKNESS_NAME=[SKILL_EXPOSE_WEAKNESS_NAME] Effect[1]
+EFFECT_EXPOSE_WEAKNESS_DESC_0=[ATTRIBUTE_ALL_DAMAGE_TAKEN] increased
+EFFECT_EXPOSE_WEAKNESS_DESC_1=taking more damage from critical strikes
+
+EFFECT_ANGELIC_EMBRACE_NAME=[AT_BLESSING_ANGELIC_EMBRACE_NAME] Effect[0]
+EFFECT_ANGELIC_EMBRACE_DESC_0=[ATTRIBUTE_ALL_DAMAGE_DEALT] increased
+EFFECT_ANGELIC_EMBRACE_DESC_1=[ATTRIBUTE_HEALING_DONE] increased
+
+EFFECT_FORCED_SUBMISSION_NAME=[ARTIFACT_FORCED_SUBMISSION_NAME] Effect[0]
+EFFECT_FORCED_SUBMISSION_DESC_0=[ATTRIBUTE_ALL_DAMAGE_DEALT] increased
+EFFECT_FORCED_SUBMISSION_DESC_1=[ATTRIBUTE_HEALING_RECEIVED] increased
+
+EFFECT_COLISEUM_NAME=[ARTIFACT_COLISEUM_NAME] Effect[0]
+EFFECT_COLISEUM_DESC_0=[ATTRIBUTE_BLOCK_CHANCE_TEXT] increased
+EFFECT_COLISEUM_DESC_1=[ATTRIBUTE_DODGE_CHANCE_TEXT] increased
+
+EFFECT_KINGS_HANDS_NAME=[ARTIFACT_KINGS_HANDS_NAME] Effect [0]
+EFFECT_KINGS_HANDS_DESC_0=[ATTRIBUTE_PHYSICAL_DAMAGE] increased
+
+EFFECT_HUSH_ZONE_NAME=[SKILL_HUSH_ZONE_NAME] Effect[1]
+
+EFFECT_DESECRATE_NAME=[SKILL_DESECRATE_NAME] Effect[1]
+EFFECT_DESECRATE_DESC_0=Spawn a delayed explosion every second
+EFFECT_DESECRATE_DESC_1=that will deal [ATTRIBUTE_NEMESIS_DAMAGE] at their location
+
+EFFECT_FROST_METEOR_NAME=Frost Meteor Effect [1]
+EFFECT_FROST_METEOR_DESC_0=Dealing [ATTRIBUTE_ICE_DAMAGE] every second
+EFFECT_FROST_METEOR_DESC_1=Can only be dispeled when close to another party member
+
+EFFECT_WALL_OF_PAIN_NAME=[ARTIFACT_WALL_OF_PAIN_NAME] Effect [1]
+EFFECT_WALL_OF_PAIN_DESC_0=Transferring {0}% of current base damage to other party members as bonus damage
+
+EFFECT_HYPOTHERMIA_NAME=[SKILL_HYPERDRIVE_NAME] Effect [1]
+EFFECT_HYPOTHERMIA_DESC_0=[ATTRIBUTE_ICE_RESIST] reduced
+
+EFFECT_FROST_BARRIER_NAME=[SKILL_FROST_BARRIER_NAME] Effect [1]
+EFFECT_FROST_BARRIER_DESC_0=Immune to damage
+EFFECT_FROST_BARRIER_DESC_1=Can be destroyed by attacking its weak side
+
+EFFECT_FROST_BARRIER_GLOBAL_DESC_0=Periodically shields the enemies with Frost Barrier
+
+EFFECT_PERMAFROST_NAME=[SKILL_PERMAFROST_NAME] Effect [1]
+EFFECT_PERMAFROST_DESC_0=Dealing [ATTRIBUTE_ICE_DAMAGE] every second
+EFFECT_PERMAFROST_DESC_1=Absorbing all healing
+EFFECT_PERMAFROST_DESC_2=When expires, stunned the target for a short duration
+
+EFFECT_PERMAFROST_STUNNED_DESC=Stunned and can not be healed
+
+EFFECT_BONE_CRUSHER_NAME=[SKILL_BONE_CRUSHER_NAME] Effect [1]
+EFFECT_BONE_CRUSHER_DESC_0=Can not be healed
+
+EFFECT_HEX_OF_WINTER_NAME=[SKILL_HEX_OF_WINTER_NAME] Effect [1]
+EFFECT_HEX_OF_WINTER_DESC_0=Dealing [ATTRIBUTE_ICE_DAMAGE] every second
+EFFECT_HEX_OF_WINTER_DESC_1=Deals [ATTRIBUTE_ICE_DAMAGE] when dispeled
+
+EFFECT_CONJURATION_OF_ICE_NAME=[SKILL_CONJURATION_OF_ICE_NAME] Effect [1]
+EFFECT_CONJURATION_OF_ICE_DESC_0=Spawning ice shards every few seconds
+
+EFFECT_RING_OF_FELLOWSHIP_NAME=[ARTIFACT_RING_OF_FELLOWSHIP_NAME] Effect [1]
+EFFECT_RING_OF_FELLOWSHIP_DESC_0=Taking more damage from [TALENT_BLESSED_COMPANY_NAME]
+
+EFFECT_BRITTLE_NAME=Brittled Effect [1]
+EFFECT_SLOTH_NAME=Sloth Effect [1]
+
+
+EFFECT_ARTIFACT_RUNEWORD_GATHERINGSTORM_NAME=[ARTIFACT_RUNEWORD_GATHERINGSTORM] Effect [0]
+EFFECT_ARTIFACT_RUNEWORD_GATHERINGSTORM_DESC=Trigger [TALENT_TYPHOON_NAME] and remove all stacks when reaching {0} stacks
+
+EFFECT_REWIND_NAME=[ARTIFACT_RUNEWORD_REWIND] Effect[0]
+EFFECT_REWIND_DESC_0=[ARTIFACT_RUNEWORD_REWIND] is currently on cooldown
+
+
+EFFECT_SACRED_BANNER_NAME=[SKILL_SACRED_BANNER_NAME] Effect[0]
+
+EFFECT_BLOOD_BOIL_NAME=[SKILL_BLOOD_BOIL_NAME] Effect[0]
+EFFECT_BLOOD_BOIL_LOSING_HEALTH=Losing health every second
+
+EFFECT_SPELLSLINGER_MARK_NAME=[SKILL_SPELLSLINGER_MARK_NAME] Effect[0]
+EFFECT_SPELLSLINGER_MARK_DESC_0=[SKILL_SPELLSLINGER_MARK_DESC]
+
+EFFECT_DAZE_NAME=[RUNE_DAZE_NAME] Effect[0]
+EFFECT_DAZE_DESC=Damage from auto attacks reduced by {0}%
+
+EFFECT_DESTRUCTION_NAME=[RUNE_DESTRUCTION_NAME] Effect[0]
+EFFECT_DESTRUCTION_DESC_0=[ATTRIBUTE_ALL_RESISTS_TEXT] reduced
+
+
+EFFECT_RELEASE_SPORE_PURPLE_NAME=[SKILL_RELEASE_SPORE_NAME] Effect[1]
+EFFECT_RELEASE_SPORE_PURPLE_DESC=[ATTRIBUTE_HEALING_RECEIVED] and [ATTRIBUTE_SHIELDING_RECEIVED] reduced by {0}%
+EFFECT_RELEASE_SPORE_RED_NAME=[SKILL_RELEASE_SPORE_NAME] Effect[0]
+EFFECT_RELEASE_SPORE_RED_DESC=[ATTRIBUTE_ALL_DAMAGE_DEALT] increased by {0}%
+EFFECT_RELEASE_SPORE_YELLOW_NAME=[SKILL_RELEASE_SPORE_NAME] Effect[1]
+EFFECT_RELEASE_SPORE_YELLOW_DESC=[ATTRIBUTE_ALL_RESISTS_TEXT] reduced by {0}% per stack
+
+
+EFFECT_HEADBUTT_NAME=[SKILL_HEADBUTT_NAME] Effect[1]
+EFFECT_HEADBUTT_DESC_0=Dealing [ATTRIBUTE_PHYSICAL_DAMAGE] every second
+EFFECT_HEADBUTT_DESC_1=Stunning for a short duration every few seconds until healed full
+
+EFFECT_FRENZY_NAME=[SKILL_FRENZY_NAME] Effect[0]
+EFFECT_FRENZY_DESC_0=[ATTRIBUTE_ATTACK_SPEED] is massively increased
+
+EFFECT_RABID_BITE_NAME=[SKILL_RABID_BITE_NAME] Effect[1]
+EFFECT_RABID_BITE_DESC=[ATTRIBUTE_HEALING_RECEIVED] and [ATTRIBUTE_SHIELDING_RECEIVED] reduced by {0}% per stack
+
+EFFECT_CHAOS_FLUX_NAME=[SKILL_CHAOS_FLUX_NAME] Effect [1]
+EFFECT_CHAOS_FLUX_DESC_0=Will lose a portion of [ATTRIBUTE_MAXIMUM_HEALTH] when moving
+
+EFFECT_CHAOS_SUPRESSION_NAME=[SKILL_CHAOS_SUPRESSION_NAME] Effect [1]
+EFFECT_CHAOS_SUPRESSION_DESC_0=Stunned <br><br>Can only be dispelled when [CONTEXT_PARTY_MEMBER_NAME_HEALER] is close
+
+EFFECT_THE_SERPENT_NAME=The Serpent Effect [0]
+EFFECT_THE_SERPENT_DESC_0=[BOSS_UVORRIOS_NAME] gains mana every second
+EFFECT_THE_SERPENT_DESC_1=Once the mana reaches full, [BOSS_UVORRIOS_NAME] will gain a mana shield that
+EFFECT_THE_SERPENT_DESC_2=absorbs all incoming damage dealt and deals [ATTRIBUTE_ICE_DAMAGE] to all enemies every second
+
+EFFECT_THE_SERPENT_FANG_NAME=Serpent's Fang Effect [1]
+EFFECT_THE_SERPENT_FANG_DESC=Poisoned by the serpent
+EFFECT_THE_SERPENT_FANG_DESC_PROC=Upon reaching {0} stacks, [BOSS_UVORRIOS_NAME] will gain a massive amount of mana
+
+EFFECT_THE_SERPENT_STRENGTH_NAME=Serpent's Strength Effect [0]
+EFFECT_THE_SERPENT_STRENGTH_DESC=[BOSS_UVORRIOS_NAME] grows stronger permanently each second with mana shield
+EFFECT_THE_SERPENT_STRENGTH_DESC_SCALING=Gaining {0}% [ATTRIBUTE_ALL_DAMAGE_DEALT]
+
+EFFECT_SERPENTS_CURSE_NAME=[SKILL_SERPENTS_CURSE_NAME] Effect [1]
+EFFECT_SERPENTS_CURSE_DESC_0=Freeze the target when expired
+EFFECT_SERPENTS_CURSE_DESC_1=[BOSS_UVORRIOS_NAME] gains mana if dispelled before the target is frozen.
+
+EFFECT_DESOLATE_CHAINS_NAME=[SKILL_DESOLATE_CHAINS_NAME] Effect [1]
+EFFECT_DESOLATE_CHAINS_DESC_0=Moving too far from the other chained party member will break the chain
+EFFECT_DESOLATE_CHAINS_DESC_1=and deal heavy [ATTRIBUTE_FIRE_DAMAGE] too all party members
+
+EFFECT_BLOOD_SEAL_NAME=[SKILL_BLOOD_SEAL_NAME] Effect [1]
+EFFECT_BLOOD_SEAL_DESC_0=Dealing [ATTRIBUTE_FIRE_DAMAGE] every second
+EFFECT_BLOOD_SEAL_DESC_1=Dispelling this effect will heavily reduce [CONTEXT_PARTY_MEMBER_NAME_HEALER]'s
+EFFECT_BLOOD_SEAL_DESC_2=[ATTRIBUTE_MOVEMENT_SPEED] for a few seconds
+
+EFFECT_BLOOD_SEAL_SLOW_NAME=[SKILL_BLOOD_SEAL_NAME] Effect [1]
+EFFECT_BLOOD_SEAL_DESC_0=[ATTRIBUTE_MOVEMENT_SPEED] heavily reduced
+
+EFFECT_RAGE_NAME=[RUNE_RAGE_NAME] Effect [0]
+EFFECT_RAGE_DESC=Comsume {0} stacks to attack multiple times
+
+EFFECT_DECAYING_CORPSE_NAME=Decaying Corpse
+EFFECT_DECAYING_CORPSE_DESC=Losing {0}% of [ATTRIBUTE_MAXIMUM_HEALTH] every second. <br>The health loss effect grows stronger as time passes
+
+END
