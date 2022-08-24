@@ -1,35 +1,35 @@
-LOCATION_MAP_OF_VAULT=Map of the Vault
-LOCATION_DESC_MAP_OF_VAULT=Click to travel to anywhere within the Vault
+LOCATION_MAP_OF_VAULT=Mapa da Cripta
+LOCATION_DESC_MAP_OF_VAULT=Clique para viajar para qualquer lugar dentro da Cripta
 
-LOCATION_HIDDEN_HAVEN=Hidden Haven
-LOCATION_VAULT_ENTRANCE=Vault Entrance
-LOCATION_SOUL_QUARTER=Soul Quarter
-LOCATION_BIO_QUARTER=Bio Quarter
-LOCATION_MIDNIGHT=Midnight Zone
-LOCATION_OUTER_COURTYARD=Outer Courtyard
-LOCATION_INNER_COURTYARD=Inner Courtyard
-LOCATION_PANDEMONIC_DEPTH=Pandemonic Depth
-LOCATION_GUARIDANS=Guardians' Cave
-LOCATION_DINING_HALL=Dining Hall
+LOCATION_HIDDEN_HAVEN=Refúgio Oculto
+LOCATION_VAULT_ENTRANCE=Entrada da Cripta
+LOCATION_SOUL_QUARTER=Bairro de Almas
+LOCATION_BIO_QUARTER=Bairro Bio
+LOCATION_MIDNIGHT=Zona da Meia-Noite
+LOCATION_OUTER_COURTYARD=Pátio Externo
+LOCATION_INNER_COURTYARD=Pátio Interno
+LOCATION_PANDEMONIC_DEPTH=Profundidade Pandemônica
+LOCATION_GUARIDANS=Caverna dos Guardiões
+LOCATION_DINING_HALL=Refeitório
 LOCATION_INFINITE_CORRIDOR=[DEPTH_NAME_INFINITE_CORRIDOR]
-LOCATION_AIRENE_TOWER=Airene Tower
-LOCATION_TOWER_ENTRANCE=Tower Entrance
+LOCATION_AIRENE_TOWER=Torre Airene
+LOCATION_TOWER_ENTRANCE=Entrada da Torre
 
-LOCATION_MIDNIGHT_NO_ZONE=Midnight
-LOCATION_MIDNIGHT_WITH_AUG=Midnight {0}
+LOCATION_MIDNIGHT_NO_ZONE=Meia-Noite
+LOCATION_MIDNIGHT_WITH_AUG={0} de Meia-Noite
 
-LOCATION_DESC_HIDDEN_HAVEN=Stop and take a rest
-LOCATION_DESC_VAULT_ENTRANCE=Your adventure begins here
-LOCATION_DESC_SOUL_QUARTER=Where all the souls of fallen heroes go
-LOCATION_DESC_BIO_QUARTER=Full of mad experiments and mutated creatures
-LOCATION_DESC_MIDNIGHT=No light, only endless torment
-LOCATION_DESC_OUTER_COURTYARD=The elite warriors of the Vault
-LOCATION_DESC_INNER_COURTYARD=The elite warriors of the Vault
-LOCATION_DESC_PANDEMONIC_DEPTH=The door is locked by some sort of an enchantment, maybe we need a special key to open it
-LOCATION_DESC_GUARIDANS=The cave that holds the most dangerous monsters of the vault
-LOCATION_DESC_DINING_HALL=The secret dining hall of the vault, you might find some unexpected adventurers here
+LOCATION_DESC_HIDDEN_HAVEN=Pare e Descanse
+LOCATION_DESC_VAULT_ENTRANCE=Sua aventura começa aqui
+LOCATION_DESC_SOUL_QUARTER=Onde todas as almas dos heróis caídos vão
+LOCATION_DESC_BIO_QUARTER=Cheio de experimentos loucos e criaturas mutantes
+LOCATION_DESC_MIDNIGHT=Sem luz, apenas tormento sem fim
+LOCATION_DESC_OUTER_COURTYARD=Os guerreiros de elite da Cripta
+LOCATION_DESC_INNER_COURTYARD=Os guerreiros de elite da Cripta
+LOCATION_DESC_PANDEMONIC_DEPTH=A porta está trancada por algum tipo de encantamento, talvez precisemos de uma chave especial para abri-la
+LOCATION_DESC_GUARIDANS=A caverna que contém os monstros mais perigosos da cripta
+LOCATION_DESC_DINING_HALL=O refeitório secreto da cripta, você pode encontrar alguns aventureiros inesperados aqui
 
-LOCATION_UNLOCK_PRE_TEXT=You have gotten a map fragment of
-LOCATION_UNLOCK_POST_TEXT=is now unlocked on the map
+LOCATION_UNLOCK_PRE_TEXT=Você obteve um fragmento de mapa de
+LOCATION_UNLOCK_POST_TEXT=agora está desbloqueado no mapa
 
 END
