@@ -1,226 +1,226 @@
-AT_SECTION_NAME_LOW_GROUNDS=Section I: The Low Grounds
-AT_SECTION_NAME_MID_POINT=Section II: The Mid Point
-AT_SECTION_NAME_GRAND_HEIGHT=Section III: The Grand Height
+AT_SECTION_NAME_LOW_GROUNDS=Seção I: Os Terrenos Baixos
+AT_SECTION_NAME_MID_POINT=Seção II: O Ponto Médio
+AT_SECTION_NAME_GRAND_HEIGHT=Seção III: A Grande Altura
 
-AT_UI_MINOR_ENEMIES=Minor Enemies
+AT_UI_MINOR_ENEMIES= Inimigos Menores
 AT_UI_ELITES_ENEMIES=Elites
-AT_UI_MANA_OBLIESK=Mana Obelisk
-AT_UI_ATLAS=Tower Atlas
-AT_UI_SHOP=Shop
-AT_UI_SKILLDRAFT=Choose a new skill
-AT_UI_ANA_OFFERING=[CONTEXT_NPC_NAME_ANAPIEL]'s Offering
-AT_UI_CHAOS_CRYSTAL=Chaos Crystal
+AT_UI_MANA_OBLIESK= Obelisco de Mana
+AT_UI_ATLAS= Torre Atlas
+AT_UI_SHOP= Loja
+AT_UI_SKILLDRAFT=Escolha uma nova habilidade
+AT_UI_ANA_OFFERING= Oferta de [CONTEXT_NPC_NAME_ANAPIEL]
+AT_UI_CHAOS_CRYSTAL= Cristal do Caos
 
-AT_UI_EMPTY_SCROLLS=You don't have any scrolls yet
+AT_UI_EMPTY_SCROLLS=Você ainda não tem pergaminhos
 
-AT_GOLD_DESC=The currency that is mainly used in the tower
-AT_SOLARSILK_DESC=Can be used to purchase transmog at the wardrobe
-AT_SCROLL_DESC=Slightly improves the overall stats of the party
-AT_BLESSING_DESC=Grants additional stats bonus or special effects
-AT_ARTIFACT_DESC=Grants a random common artifact
-AT_ARTIFACT_ANCIENT_DESC=Select 1 ancient artifact
-AT_MANA_POTION_DESC=Restores {0}% of your [ATTRIBUTE_MAXIMUM_MANA]
-AT_RUNE_DESC=Can be socketed onto skills to greatly increase their effect
+AT_GOLD_DESC= A moeda que é usada principalmente na torre
+AT_SOLARSILK_DESC= Pode ser usado para comprar transmogs no guarda-roupa
+AT_SCROLL_DESC= Melhora ligeiramente as estatísticas gerais do grupo
+AT_BLESSING_DESC=Concede bônus de estatísticas adicionais ou efeitos especiais
+AT_ARTIFACT_DESC=Concede um artefato comum aleatório
+AT_ARTIFACT_ANCIENT_DESC=Selecione 1 artefato ancestral
+AT_MANA_POTION_DESC=Restaura {0}% do seu [ATTRIBUTE_MAXIMUM_MANA]
+AT_RUNE_DESC= Pode ser encaixado em habilidades para aumentar muito seu efeito
 
-AT_UI_VICTORY_TITLE=Victory!
-AT_UI_DEFEATED_TITLE=Defeated!
-AT_UI_CONQUERED_TITLE=Conquered!
-AT_UI_VICTORY_DESC=You acquired the following
+AT_UI_VICTORY_TITLE=Vitória!
+AT_UI_DEFEATED_TITLE= Derrotado!
+AT_UI_CONQUERED_TITLE= Conquistado!
+AT_UI_VICTORY_DESC=Você adquiriu o seguinte
 
 
-AT_UI_VICTORY_DESC_MAP=You have conquered the [LOCATION_AIRENE_TOWER]!
-AT_UI_VICTORY_STATS_TIME_TAKEN=Total time: {0}
-AT_UI_VICTORY_STATS_NUM_OF_DEATHS=Total deaths: {0}
+AT_UI_VICTORY_DESC_MAP=Você conquistou a [LOCATION_AIRENE_TOWER]!
+AT_UI_VICTORY_STATS_TIME_TAKEN=Tempo total: {0}
+AT_UI_VICTORY_STATS_NUM_OF_DEATHS=Total de mortes: {0}
 
-AT_UI_BACK_END_RUN=This will end your current run!
+AT_UI_BACK_END_RUN=Isso terminará sua corrida atual!
 
-AT_UI_BLACKSMITH_EMPTY_TEXT=Select a scroll to upgrade
+AT_UI_BLACKSMITH_EMPTY_TEXT=Selecione um pergaminho para melhorar
 
-AT_UI_TOWER_CHAOS_DESC=Increase the Chaos level <sprite=11> of the tower by adding Chaos attributes to it. <br>Every Chaos level will also increases the reward that the tower gives.
+AT_UI_TOWER_CHAOS_DESC=Aumente o nível de Caos <sprite=11> da torre adicionando atributos de Caos a ela. <br>Cada nível de Caos também aumenta a recompensa que a torre oferece.
 
-AT_UI_TOWER_ATLAS_TITLE=Tower Atlas
-AT_UI_TOWER_ATLAS_DESC=Contains all information on what you will find in the tower
-AT_UI_TOWER_ATLAS_SEARCH_PLACEHOLDER=Enter text to search
-AT_UI_TOWER_ATLAS_PICKED_DESC=You have picked this {0} {1} times
-AT_UI_TOWER_ATLAS_CURSED_DESC=You have been cursed by this {0} times
+AT_UI_TOWER_ATLAS_TITLE= Torre Atlas
+AT_UI_TOWER_ATLAS_DESC=Contém todas as informações sobre o que você encontrará na torre
+AT_UI_TOWER_ATLAS_SEARCH_PLACEHOLDER=Digite o texto para pesquisar
+AT_UI_TOWER_ATLAS_PICKED_DESC=Você escolheu isso {0} {1} vezes
+AT_UI_TOWER_ATLAS_CURSED_DESC=Você foi amaldiçoado por isso {0} vezes
 
-AT_UI_SKILL_DRAFT_TITLE=Choose a Skill
-AT_UI_SKILL_DRAFT_DESC=Choose one of the following skills
-AT_UI_SKILL_DRAFT_DRAG_DESC=Select this skill by dragging it to your skill bar
+AT_UI_SKILL_DRAFT_TITLE=Escolha uma Habilidade
+AT_UI_SKILL_DRAFT_DESC=Escolha uma das seguintes habilidades
+AT_UI_SKILL_DRAFT_DRAG_DESC=Selecione esta habilidade arrastando-a para sua barra de habilidades
 
-AT_UI_SKILL_DRAFT_MAIN_TITLE=Choose Your Main Healing Skill
+AT_UI_SKILL_DRAFT_MAIN_TITLE=Escolha sua Habilidade de Cura Principal
 
-AT_UI_BLESSING_DRAFT_TITLE=Gain a Blessing
-AT_UI_BLESSING_DRAFT_DESC=Select the blessing to gain its power
+AT_UI_BLESSING_DRAFT_TITLE= Ganhar uma Bênção
+AT_UI_BLESSING_DRAFT_DESC=Selecione a bênção para ganhar seu poder
 
-AT_UI_ARTIFACT_DRAFT_TITLE=Choose an Artifact
-AT_UI_ARTIFACT_DRAFT_DESC=Choose one of the following artifacts
+AT_UI_ARTIFACT_DRAFT_TITLE=Escolha um Artefato
+AT_UI_ARTIFACT_DRAFT_DESC=Escolha um dos seguintes artefatos
 
-AT_UI_PARTY_DRAFT_TITLE=Choose a Party
-AT_UI_PARTY_DRAFT_DESC=Choose one of the following parties to enter the tower with
+AT_UI_PARTY_DRAFT_TITLE=Escolha um Grupo
+AT_UI_PARTY_DRAFT_DESC=Escolha um dos seguintes grupos para entrar na torre com
 
-AT_UI_CURSE_SELECT_TITLE=Choose {0} Curse 
-AT_UI_CURSE_REMOVAL_DESC=Choose {0} curse to remove
+AT_UI_CURSE_SELECT_TITLE=Escolha {0} Maldição
+AT_UI_CURSE_REMOVAL_DESC=Escolha {0} maldição para remover
 
-AT_UI_ARTIFACT_SELECT_TITLE=Choose {0} Artifact 
-AT_UI_ARTIFACT_REROLL_DESC=Choose {0} artifact to reroll
+AT_UI_ARTIFACT_SELECT_TITLE=Escolha {0} Artefato
+AT_UI_ARTIFACT_REROLL_DESC=Escolha {0} artefato para rolar novamente
 
-AT_UI_SCROLL_SELECT_TITLE=Choose {0} Scroll 
-AT_UI_SCROLL_REROLL_DESC=Choose upto {0} scroll to reroll
+AT_UI_SCROLL_SELECT_TITLE=Escolha {0} Pergaminho
+AT_UI_SCROLL_REROLL_DESC=Escolha até {0} peraminho(s) para rolar novamente
 
-AT_UI_SCROLL_DRAFT_TITLE=Choose a Scroll
-AT_UI_SCROLL_DRAFT_DESC=Choose one of the following scrolls
-AT_UI_SCROLL_DRAFT_SKIP_DESC=Skip (+{0} <sprite=9> )
-AT_UI_SCROLL_DRAFT_SACRIFISE_SKIP_DESC=Skip to gain {0} [CONTEXT_SCROLLS]
+AT_UI_SCROLL_DRAFT_TITLE=Escolha um Pergaminho
+AT_UI_SCROLL_DRAFT_DESC=Escolha um dos seguintes pergaminhos
+AT_UI_SCROLL_DRAFT_SKIP_DESC=Pular (+{0} <sprite=9> )
+AT_UI_SCROLL_DRAFT_SACRIFISE_SKIP_DESC=Pular para ganhar {0} [CONTEXT_SCROLLS]
 
-AT_UI_RUNE_DRAFT_TITLE=Choose a [MATERIAL_RUNE_NAME]
-AT_UI_RUNE_DRAFT_DESC=Drag a [MATERIAL_RUNE_NAME] to improve one of you or your party member's skill
+AT_UI_RUNE_DRAFT_TITLE=Escolha um [MATERIAL_RUNE_NAME]
+AT_UI_RUNE_DRAFT_DESC=Arraste um [MATERIAL_RUNE_NAME] para melhorar a habilidade de um de vocês ou de um membro do seu grupo
 
-AT_UI_TINKERSPARK_SHOP=[CONTEXT_NPC_NAME_TORRI]'s Shop
-AT_UI_TINKERSPARK_DIALOG=My my...a customer! Everything's for sale here!
+AT_UI_TINKERSPARK_SHOP=Loja de [CONTEXT_NPC_NAME_TORRI]
+AT_UI_TINKERSPARK_DIALOG=Meu meu...um cliente! Tudo está à venda aqui!
 
-AT_DRUID_SIGIL_DESC=Restores {0} [CONTEXT_MANA] every {1} floor <br><br>+{2} [ATTRIBUTE_MANA_REGEN_FLAT_TEXT]
-AT_PRIEST_SIGIL_DESC=+{0} [ATTRIBUTE_INCREASE_HEALPOWER_FLAT_TEXT] <br>+{1}% [ATTRIBUTE_CAST_SPEED] <br><br>+{2} [ATTRIBUTE_INCREASE_HEALPOWER_FLAT_TEXT] every {3} floors
-AT_OCCULTIST_SIGIL_DESC=+{0} [ATTRIBUTE_INCREASE_ALL_PHYSICAL_DAMAGE_FLAT_TEXT] <br>-{1}[ATTRIBUTE_INCREASE_ALL_HP_PERCENT_TEXT] <br><br>+{2} [ATTRIBUTE_INCREASE_ALL_PHYSICAL_DAMAGE_FLAT_TEXT] for every enemies slain
-AT_PALADIN_SIGIL_DESC=<br>+{0} [ATTRIBUTE_INCREASE_ALL_HPREGEN_FLAT_TEXT] <br>+{1}[ATTRIBUTE_INCREASE_TANK_BLOCKCHANCE_TEXT] <br><br>+{2} [ATTRIBUTE_INCREASE_ALL_HP_FLAT_TEXT] every {3} floors
+AT_DRUID_SIGIL_DESC=Restaura {0} [CONTEXT_MANA] a cada {1} andar <br><br>+{2} [ATTRIBUTE_MANA_REGEN_FLAT_TEXT]
+AT_PRIEST_SIGIL_DESC=+{0} [ATTRIBUTE_INCREASE_HEALPOWER_FLAT_TEXT] <br>+{1}% [ATTRIBUTE_CAST_SPEED] <br><br>+{2} [ATTRIBUTE_INCREASE_HEALPOWER_FLAT_TEXT] a cada {3} andares
+AT_OCCULTIST_SIGIL_DESC=+{0} [ATTRIBUTE_INCREASE_ALL_PHYSICAL_DAMAGE_FLAT_TEXT] <br>-{1}[ATTRIBUTE_INCREASE_ALL_HP_PERCENT_TEXT] <br><br>+{2} [ATTRIBUTE_INCREASE_ALL_PHYSICAL_DAMAGE_FLAT_TEXT] para cada inimigo morto
+AT_PALADIN_SIGIL_DESC=<br>+{0} [ATTRIBUTE_INCREASE_ALL_HPREGEN_FLAT_TEXT] <br>+{1}[ATTRIBUTE_INCREASE_TANK_BLOCKCHANCE_TEXT] <br><br>+{2} [ATTRIBUTE_INCREASE_ALL_HP_FLAT_TEXT] a cada {3} andares
 
-AT_UI_TUT_SOLARSILK_BTN=What is [MATERIAL_SOLARSILK_NAME]?
-AT_UI_OBTAINED_SCROLLS=Obtained [CONTEXT_SCROLLS]
-AT_UI_SCROLLS_TOTAL_STATS=Total stats
+AT_UI_TUT_SOLARSILK_BTN=O que é [MATERIAL_SOLARSILK_NAME]?
+AT_UI_OBTAINED_SCROLLS=Obtido [CONTEXT_SCROLLS]
+AT_UI_SCROLLS_TOTAL_STATS= Estatísticas totais
 
-AT_LVL_NAME_TOSSING_PARTY=Sword Tossing Party
+AT_LVL_NAME_TOSSING_PARTY= Festa de Lançamento de Espadas
 
-AT_CHAOS_LOCKED_DESC=Defeat tower with {0} chaotic level or more to unlock
-AT_CHAOS_MOD_REWARD_DESC=Gain {0}% more [MATERIAL_SOLARSILK_NAME]
-AT_CHAOS_MOD_REWARD_MAX_CHAOTIC_DESC=Permanently increases the maximum chaos level of the tower if successfully completed
+AT_CHAOS_LOCKED_DESC= Derrote a torre com {0} nível caótico ou mais para desbloquear
+AT_CHAOS_MOD_REWARD_DESC=Ganhe {0}% mais [MATERIAL_SOLARSILK_NAME]
+AT_CHAOS_MOD_REWARD_MAX_CHAOTIC_DESC= Aumenta permanentemente o nível máximo de caos da torre se concluído com sucesso
 
-AT_CHAOS_MOD_RUST_DESC=You no longer have starting gold
-AT_CHAOS_MOD_CRUEL_DESC=Enemies deals {0}% more damage
-AT_CHAOS_MOD_IMPOSING_DESC=Enemies has {0}% more [ATTRIBUTE_MAXIMUM_HEALTH]
-AT_CHAOS_MOD_DROUGHT_1_DESC=Elite enemies now drop [CONTEXT_SMALL] [CONTEXT_MANA_POTION] instead
-AT_CHAOS_MOD_DROUGHT_2_DESC=Bosses now drop [CONTEXT_MEDIUM] [CONTEXT_MANA_POTION] instead
-AT_CHAOS_MOD_MISERY_DESC=Enemies now drop {0}% less gold
-AT_CHAOS_MOD_TORMENT_DESC=Whenever another party member dies, all other party members lose health equal to {0}% of their [ATTRIBUTE_MAXIMUM_HEALTH]
-AT_CHAOS_MOD_BAD_BLOOD_DESC=Whenever you overheal with direct and non heal overtime healing skills, you lose health equal to {0}% of the amount overhealed
-AT_CHAOS_MOD_HEAVY_DESC=Your skills now have an additional {0} second global cooldown
+AT_CHAOS_MOD_RUST_DESC=Você não tem mais ouro inicial
+AT_CHAOS_MOD_CRUEL_DESC=Inimigos causam {0}% mais dano
+AT_CHAOS_MOD_IMPOSING_DESC=Os inimigos têm {0}% mais [ATTRIBUTE_MAXIMUM_HEALTH]
+AT_CHAOS_MOD_DROUGHT_1_DESC=Inimigos de elite agora dropam [CONTEXT_SMALL] [CONTEXT_MANA_POTION]
+AT_CHAOS_MOD_DROUGHT_2_DESC=Chefes agora soltam [CONTEXT_MEDIUM] [CONTEXT_MANA_POTION] em vez disso
+AT_CHAOS_MOD_MISERY_DESC= Os inimigos agora dropam {0}% menos ouro
+AT_CHAOS_MOD_TORMENT_DESC=Sempre que outro membro do grupo morre, todos os outros membros do grupo perdem saúde igual a {0}% de seus [ATTRIBUTE_MAXIMUM_HEALTH]
+AT_CHAOS_MOD_BAD_BLOOD_DESC=Sempre que você sobrecura com habilidades de cura diretas e que não curem com o passar do tempo, você perde saúde igual a {0}% da quantidade sobrecurada
+AT_CHAOS_MOD_HEAVY_DESC=Suas habilidades agora têm uma recarga global adicional de {0} segundos
 
-AT_CURSE_CHAIN_NAME=Curse of Chains
-AT_CURSE_CHAIN_DESC=All spells now have a global cooldown of {0} second
-AT_CURSE_EXPOSURE_NAME=Curse of Exposure
-AT_CURSE_MALEDICTION_NAME=Curse of Malediction
-AT_CURSE_MALEDICTION_DESC=All overhealing now casuses the healed targt to lose health equal to {0}% of the amount overhealed
-AT_CURSE_SERPENT_NAME=Curse of the Serpent
-AT_CURSE_SERPENT_DESC=Every {0} seconds, increase the mana cost of all spells by {1}% for {2} seconds
-AT_CURSE_GRIEF_NAME=Curse of Grief
-AT_CURSE_GRIEF_DESC=Lose {0} gold everytime a party member dies
-AT_CURSE_DECAY_NAME=Curse of Decay
-AT_CURSE_DECAY_DESC=Party members can not regenerate health
-AT_CURSE_FAMINE_NAME=Curse of Famine
-AT_CURSE_FAMINE_DESC=-1 choice when choosing a [CONTEXT_SCROLL]
-AT_CURSE_SNAIL_NAME=Curse of Snail
-AT_CURSE_STIFFENING_NAME=Curse of Stiffening
-AT_CURSE_STIFFENING_DESC=Dodging and Blocking now have a {0} seconds cooldown
-AT_CURSE_IMBALANCE_NAME=Curse of Imbalance
-AT_CURSE_IMBALANCE_DESC=All party members' Fire, Ice, and Lightning damage value is always equal to the lowest one among the 3
-AT_CURSE_DROUGHT_NAME=Curse of Drought
-AT_CURSE_DROUGHT_DESC=Mana Obelisk now restores {0}% less mana
-AT_CURSE_GREED_NAME=Curse of Greed
-AT_CURSE_GREED_DESC=-{0}% Gold gained from battle
-AT_CURSE_PACIFISM_NAME=Curse of Pacifism
-AT_CURSE_PACIFISM_DESC=Every {0} seconds, all party members will be stunned for {1} seconds
+AT_CURSE_CHAIN_NAME= Maldição das Correntes
+AT_CURSE_CHAIN_DESC=Todos os feitiços agora têm uma recarga global de {0} segundo
+AT_CURSE_EXPOSURE_NAME= Maldição da Exposição
+AT_CURSE_MALEDICTION_NAME= Maldição da Maldição
+AT_CURSE_MALEDICTION_DESC=Todas as sobrecuras agora fazem com que o alvo curado perca saúde igual a {0}% da quantidade sobrecurada
+AT_CURSE_SERPENT_NAME= Maldição da Serpente
+AT_CURSE_SERPENT_DESC=A cada {0} segundos, aumenta o custo de mana de todos os feitiços em {1}% por {2} segundos
+AT_CURSE_GRIEF_NAME= Maldição da Dor
+AT_CURSE_GRIEF_DESC=Perder {0} ouro toda vez que um membro do grupo morre
+AT_CURSE_DECAY_NAME=Maldição da Decadência
+AT_CURSE_DECAY_DESC=Os membros do grupo não podem regenerar a saúde
+AT_CURSE_FAMINE_NAME=Maldição da Fome
+AT_CURSE_FAMINE_DESC=-1 opção ao escolher um [CONTEXT_SCROLL]
+AT_CURSE_SNAIL_NAME=Maldição do Caracol
+AT_CURSE_STIFFENING_NAME=Maldição do Enrijecimento
+AT_CURSE_STIFFENING_DESC=Esquivar e Bloquear agora têm um tempo de espera de {0} segundos
+AT_CURSE_IMBALANCE_NAME=Maldição do Desequilíbrio
+AT_CURSE_IMBALANCE_DESC=O valor de dano de Fogo, Gelo e Raio de todos os membros do grupo é sempre igual ao menor entre os 3
+AT_CURSE_DROUGHT_NAME=Maldição da Seca
+AT_CURSE_DROUGHT_DESC=O Obelisco de Mana agora restaura {0}% menos mana
+AT_CURSE_GREED_NAME=Maldição da Ganância
+AT_CURSE_GREED_DESC=-{0}% de ouro ganho na batalha
+AT_CURSE_PACIFISM_NAME=Maldição do Pacifismo
+AT_CURSE_PACIFISM_DESC=A cada {0} segundos, todos os membros do grupo ficarão atordoados por {1} segundos
 
-AT_EVENT_MANA_OBSELISK_TITLE=Obelisk
-AT_EVENT_MANA_OBSELISK_DESC=A magical obelisk found in the Airene Tower. Has the potential of restoring some mana. <br><br>Choose one of the following
+AT_EVENT_MANA_OBSELISK_TITLE=Obelisco
+AT_EVENT_MANA_OBSELISK_DESC=Um obelisco mágico encontrado na Torre Airene. Tem o potencial de restaurar alguma mana. <br><br>Escolha um dos seguintes
 
-AT_EVENT_MANA_OBSELISK_OPTION_GAIN_MANA_TITLE=Restore mana
-AT_EVENT_MANA_OBSELISK_OPTION_GAIN_MANA_DESC=Restores {0}% of [ATTRIBUTE_MAXIMUM_MANA]
-AT_EVENT_MANA_OBSELISK_OPTION_REMOVE_CURSE_TITLE=Remove curse
-AT_EVENT_MANA_OBSELISK_OPTION_REMOVE_CURSE_DESC=Remove a curse of your choice
+AT_EVENT_MANA_OBSELISK_OPTION_GAIN_MANA_TITLE=Restaurar Mana
+AT_EVENT_MANA_OBSELISK_OPTION_GAIN_MANA_DESC=Restaura {0}% de [ATTRIBUTE_MAXIMUM_MANA]
+AT_EVENT_MANA_OBSELISK_OPTION_REMOVE_CURSE_TITLE=Remover Maldição
+AT_EVENT_MANA_OBSELISK_OPTION_REMOVE_CURSE_DESC=Remova uma maldição de sua escolha
 
 AT_EVENT_ANA_OFFERING_TITLE=[AT_UI_ANA_OFFERING]
-AT_EVENT_ANA_OFFERING_DESC=Choose one of the following
+AT_EVENT_ANA_OFFERING_DESC=Escolha um dos seguintes
 
-AT_BLESSING_ALCHEMY_NAME=Alchemy
-AT_BLESSING_ALCHEMY_DESC=Whenever you gain gold, you also gain [ATTRIBUTE_INCREASE_HEALPOWER_FLAT_TEXT] equal to the {0}% gold gained
+AT_BLESSING_ALCHEMY_NAME=Alquimia
+AT_BLESSING_ALCHEMY_DESC=Sempre que você ganha ouro, você também ganha [ATTRIBUTE_INCREASE_HEALPOWER_FLAT_TEXT] igual aos {0}% de ouro ganho
 
-AT_BLESSING_CONJURATION_DESC=+{0} [ATTRIBUTE_INCREASE_HEALPOWER_FLAT_TEXT] per other [SKILL_TAG_UTILITY] [CONTEXT_SCROLL]
-AT_BLESSING_ABUNDANT_GROWTH_DESC=[TALENT_ABUNDANT_GROWTH_MANA_DESC] per [SKILL_TAG_OFFENSIVE] [CONTEXT_SCROLL]
+AT_BLESSING_CONJURATION_DESC=+{0} [ATTRIBUTE_INCREASE_HEALPOWER_FLAT_TEXT] por outro [SKILL_TAG_UTILITY] [CONTEXT_SCROLL]
+AT_BLESSING_ABUNDANT_GROWTH_DESC=[TALENT_ABUNDANT_GROWTH_MANA_DESC] por [SKILL_TAG_OFFENSIVE] [CONTEXT_SCROLL]
 AT_BLESSING_TYPHOON_DESC=[TALENT_TYPHOON_DESC]
 
-AT_BLOOD_RITUAL_DESC=+{0} [ATTRIBUTE_INCREASE_ALL_HP_FLAT_TEXT] and +{1} [ATTRIBUTE_MAXIMUM_MANA] permanently everytime you kill an enemy.
-AT_HAGGLE_NAME=Haggle
-AT_HAGGLE_DESC=Reduce the price of all shop items by {0}%
-AT_PATHS_END_DESC=Whenever a party member dies, +{0}% [ATTRIBUTE_INCREASE_HEALPOWER_FLAT_TEXT]. <br><br>Dying no longer reduces [ATTRIBUTE_INCREASE_HEALPOWER_FLAT_TEXT]
-AT_ABSOLUTION_DESC=+{0}% [ATTRIBUTE_SHIELDING_EFFECT] per [SKILL_TAG_DEFENSIVE] scroll
-AT_AURA_MASTERY_DESC=All Auras no longer reduces maximum mana
+AT_BLOOD_RITUAL_DESC=+{0} [ATTRIBUTE_INCREASE_ALL_HP_FLAT_TEXT] e +{1} [ATTRIBUTE_MAXIMUM_MANA] permanentemente toda vez que você matar um inimigo.
+AT_HAGGLE_NAME=Pechinchar
+AT_HAGGLE_DESC=Reduza o preço de todos os itens da loja em {0}%
+AT_PATHS_END_DESC=Sempre que um membro do grupo morre, +{0}% [ATTRIBUTE_INCREASE_HEALPOWER_FLAT_TEXT]. <br><br>Morrer não reduz mais [ATTRIBUTE_INCREASE_HEALPOWER_FLAT_TEXT]
+AT_ABSOLUTION_DESC=+{0}% [ATTRIBUTE_SHIELDING_EFFECT] por rolagem de [SKILL_TAG_DEFENSIVE]
+AT_AURA_MASTERY_DESC=Todas as Auras não reduzem mais o máximo de mana
 
-AT_DARK_MAGIC_DESC=+{0} [ATTRIBUTE_INCREASE_ALL_PHYSICAL_DAMAGE_FLAT_TEXT] per [SKILL_TAG_OFFENSIVE] scroll
-AT_SACRIFICE_DESC=You can now skip picking a [CONTEXT_BLESSING] and pick {0} [CONTEXT_SCROLLS] instead
+AT_DARK_MAGIC_DESC=+{0} [ATTRIBUTE_INCREASE_ALL_PHYSICAL_DAMAGE_FLAT_TEXT] por rolagem de [SKILL_TAG_OFFENSIVE]
+AT_SACRIFICE_DESC=Agora você pode pular a escolha de um [CONTEXT_BLESSING] e escolher {0} [CONTEXT_SCROLLS]
 
-AT_EVERGREEN_DESC=-{0}% all blessing cooldowns
+AT_EVERGREEN_DESC=-{0}% de todas as recargas de bênçãos
 
-AT_DIVINE_DECREE_DESC=Curses have {0}% less effect
-AT_OSMOSIS_DESC=+{0} seconds [LINK_SKILL_IRON_VINES] duration. <br><br>Whenever you cast [SKILL_IRON_VINES_NAME], you will also be affected by it.
-AT_ENERGY_AURA_SCROLL_DESC=+{0} additional [ATTRIBUTE_INCREASE_ALL_LIGHTNING_DAMAGE_FLAT_TEXT] per scroll containing Lightning related attributes
+AT_DIVINE_DECREE_DESC=Maldições têm {0}% menos efeito
+AT_OSMOSIS_DESC=+{0} segundos de duração de [LINK_SKILL_IRON_VINES]. <br><br>Sempre que você conjurar [SKILL_IRON_VINES_NAME], você também será afetado por ele.
+AT_ENERGY_AURA_SCROLL_DESC=+{0} [ATTRIBUTE_INCREASE_ALL_LIGHTNING_DAMAGE_FLAT_TEXT] adicionais por pergaminho contendo atributos relacionados ao Relâmpago
 
-AT_BLESSING_FORTIFY_NAME=Fortify
-AT_BLESSING_FORTIFY_DESC=[CONTEXT_PARTY_MEMBER_NAME_TANK] now always have [LINK_GARRISON] <br><br>[CONTEXT_PARTY_MEMBER_NAME_TANK] effect no longer grant [ATTRIBUTE_PHYSICAL_RESIST]
+AT_BLESSING_FORTIFY_NAME=Fortalecer
+AT_BLESSING_FORTIFY_DESC=[CONTEXT_PARTY_MEMBER_NAME_TANK] agora sempre tem [LINK_GARRISON] <br><br>O efeito [CONTEXT_PARTY_MEMBER_NAME_TANK] não concede mais [ATTRIBUTE_PHYSICAL_RESIST]
 
-AT_BLESSING_IMORTAL_SOULS_NAME=Imortal Souls
-AT_BLESSING_IMORTAL_SOULS_DESC=Your critical heal grants the target [LINK_GARRISON] for {0} seconds
+AT_BLESSING_IMORTAL_SOULS_NAME=Almas Imortais
+AT_BLESSING_IMORTAL_SOULS_DESC=Sua cura crítica concede ao alvo [LINK_GARRISON] por {0} segundos
 
-AT_LAST_STAND_DESC=Party members have [LINK_GARRISON] effect when their health is below {0}%
+AT_LAST_STAND_DESC=Os membros do grupo têm efeito [LINK_GARRISON] quando sua saúde está abaixo de {0}%
 
-AT_BLESSING_VOID_NAME=Void
-AT_BLESSING_VOID_DESC=Grants {0} [LINK_VOID_AURA]
+AT_BLESSING_VOID_NAME=Vazio
+AT_BLESSING_VOID_DESC=Concede {0} [LINK_VOID_AURA]
 
-AT_BLESSING_PURIFICATION_NAME=Purification
-AT_BLESSING_PURIFICATION_DESC=Whenever a party member casts a skill. They will automatically consume all [LINK_MIGHT] and [LINK_FAITH] effects on themselvs to heal for {0}% of their maximum life per stack consumed
+AT_BLESSING_PURIFICATION_NAME=Purificação
+AT_BLESSING_PURIFICATION_DESC=Sempre que um membro do grupo conjura uma habilidade. Eles consumirão automaticamente todos os efeitos [LINK_MIGHT] e [LINK_FAITH] em si mesmos para curar {0}% de sua vida máxima por pilha consumida
 
-AT_BLESSING_ANGELIC_EMBRACE_NAME=Angelic Embrance
-AT_BLESSING_ANGELIC_EMBRACE_DESC=Healing a party member below {0}% of health will grant you +{1}% [ATTRIBUTE_ALL_DAMAGE_DEALT] and +{2}% [ATTRIBUTE_HEALING_DONE] for {3} seconds
+AT_BLESSING_ANGELIC_EMBRACE_NAME=Abraço Angélico
+AT_BLESSING_ANGELIC_EMBRACE_DESC=Curar um membro do grupo com menos de {0}% de saúde concederá a você +{1}% [ATTRIBUTE_ALL_DAMAGE_DEALT] e +{2}% [ATTRIBUTE_HEALING_DONE] por {3} segundos
 
-AT_BLESSING_DIVINE_RESOLVE_NAME=Divine Resolve
-AT_BLESSING_DIVINE_RESOLVE_DESC=Whenever your shield fully absorbs, gain {0} mana back. This effect can only happen once every {1} seconds
+AT_BLESSING_DIVINE_RESOLVE_NAME=Determinação Divina
+AT_BLESSING_DIVINE_RESOLVE_DESC=Sempre que seu escudo for totalmente absorvido, ganhe {0} de mana de volta. Este efeito só pode acontecer uma vez a cada {1} segundos
 
-AT_BLESSING_REVERSAL_DESC=[ARTIFACT_RUNEWORD_REVERSAL_DESC] <br><br>Whenever a party member will gain a [LINK_FAITH] effect, they will gain a [LINK_MIGHT] effect instead. <br><br>Whenever a party member will gain a [LINK_MIGHT] effect, they will gain a [LINK_FAITH] effect instead.
+AT_BLESSING_REVERSAL_DESC=[ARTIFACT_RUNEWORD_REVERSAL_DESC] <br><br>Sempre que um membro do grupo ganhar um efeito [LINK_FAITH], ele ganhará um efeito [LINK_MIGHT]. <br><br>Sempre que um membro do grupo ganhar um efeito [LINK_MIGHT], ele ganhará um efeito [LINK_FAITH].
 
-AT_BLESSING_LEFT_VISION_OF_THE_BEHOLDER_NAME=Left Vision of the Beholder
-AT_BLESSING_LEFT_VISION_OF_THE_BEHOLDER_DESC=When pick up, you may reroll a common artifact.
+AT_BLESSING_LEFT_VISION_OF_THE_BEHOLDER_NAME=Visão Esquerda do Observador
+AT_BLESSING_LEFT_VISION_OF_THE_BEHOLDER_DESC=Ao pegar, você pode rolar novamente um artefato comum.
 
-AT_BLESSING_RIGHT_VISION_OF_THE_BEHOLDER_NAME=Right Vision of the Beholder
-AT_BLESSING_RIGHT_VISION_OF_THE_BEHOLDER_DESC=When pick up, you may reroll up to {0} scrolls.
+AT_BLESSING_RIGHT_VISION_OF_THE_BEHOLDER_NAME=Visão Correta de Quem Vê
+AT_BLESSING_RIGHT_VISION_OF_THE_BEHOLDER_DESC=Ao retirar, você pode rolar novamente até {0} pergaminhos.
 
-AT_BLESSING_RECKONING_NAME=Reckoning
-AT_BLESSING_RECKONING_DESC=Whenever [CONTEXT_PARTY_MEMBER_NAME_TANK] blocks, [CONTEXT_PARTY_MEMBER_NAME_BERZERKER] and [CONTEXT_PARTY_MEMBER_NAME_RANGER] will both gain a stack of [LINK_MIGHT] effect for {0} seconds
+AT_BLESSING_RECKONING_NAME=Acerto de Contas
+AT_BLESSING_RECKONING_DESC=Sempre que [CONTEXT_PARTY_MEMBER_NAME_TANK] bloquear, [CONTEXT_PARTY_MEMBER_NAME_BERZERKER] e [CONTEXT_PARTY_MEMBER_NAME_RANGER] ganharão uma pilha de efeito [LINK_MIGHT] por {0} segundos
 
-AT_BLESSING_PAIN_REFLECTION_NAME=Pain Reflection
-AT_BLESSING_PAIN_REFLECTION_DESC=Every {0} seconds, all enemies and all party members will take [ATTRIBUTE_PHYSICAL_DAMAGE] equal to {1}% of [CONTEXT_PARTY_MEMBER_NAME_BERZERKER]'s [ATTRIBUTE_TOTAL_DAMAGE_TEXT]
+AT_BLESSING_PAIN_REFLECTION_NAME=Reflexão da Dor
+AT_BLESSING_PAIN_REFLECTION_DESC=A cada {0} segundos, todos os inimigos e todos os membros do grupo receberão [ATTRIBUTE_PHYSICAL_DAMAGE] igual a {1}% dos [ATTRIBUTE_TOTAL_DAMAGE_TEXT] de [CONTEXT_PARTY_MEMBER_NAME_BERZERKER]
 
-AT_BLESSING_UNHOLY_MIGHT_NAME=Unholy Might
-AT_BLESSING_UNHOLY_MIGHT_DESC=[LINK_MIGHT] effect also causes the affected target to lose {0}% of their maximum life per second
+AT_BLESSING_UNHOLY_MIGHT_NAME=Poder Profano
+AT_BLESSING_UNHOLY_MIGHT_DESC=O efeito [LINK_MIGHT] também faz com que o alvo afetado perca {0}% de sua vida máxima por segundo
 
-AT_BLESSING_ENDURING_TOTEM_NAME=Enduring Totem
-AT_BLESSING_ENDURING_TOTEM_DESC=[LINK_SKILL_RESTORATION_TOTEM] also grant [LINK_GARRISON] effect
+AT_BLESSING_ENDURING_TOTEM_NAME=Totem Duradouro
+AT_BLESSING_ENDURING_TOTEM_DESC=[LINK_SKILL_RESTORATION_TOTEM] também concede o efeito [LINK_GARRISON]
 
-AT_BLESSING_AURAMANCER_RESOLVE_NAME=Auramancer's Resolve
-AT_BLESSING_AURAMANCER_RESOLVE_DESC=[CONTEXT_PARTY_MEMBER_NAME_TANK] always have [LINK_GARRISON] effect when affected by at least {0} auras
+AT_BLESSING_AURAMANCER_RESOLVE_NAME=Determinação do Auramante
+AT_BLESSING_AURAMANCER_RESOLVE_DESC=[CONTEXT_PARTY_MEMBER_NAME_TANK] sempre tem efeito [LINK_GARRISON] quando afetado por pelo menos {0} auras
 
-AT_BLESSING_AURAMANCER_GRASP_NAME=Auramancer's Grasp
-AT_BLESSING_AURAMANCER_GRASP_DESC=All party members will gain a stack of [LINK_FAITH] effect every {0} seconds when affected by at least {1} auras. <br><br>All party members will gain a stack of [LINK_MIGHT] effect every {0} seconds when affected by at least {2} auras 
+AT_BLESSING_AURAMANCER_GRASP_NAME=Garra do Auramante
+AT_BLESSING_AURAMANCER_GRASP_DESC=Todos os membros do grupo ganharão uma pilha de efeito [LINK_FAITH] a cada {0} segundos quando afetados por pelo menos {1} auras. <br><br>Todos os membros do grupo ganharão uma pilha de efeitos [LINK_MIGHT] a cada {0} segundos quando afetados por pelo menos {2} auras
 
-AT_BLESSING_VIVID_EXPANSION_NAME=Vivid Expansion
-AT_BLESSING_VIVID_EXPANSION_DESC=Your non heal over time critical heal will extend the duration of all heal over time effect on the target for {0} second
+AT_BLESSING_VIVID_EXPANSION_NAME=Expansão Vívida
+AT_BLESSING_VIVID_EXPANSION_DESC=Sua cura crítica sem cura ao longo do tempo estenderá a duração de todo o efeito de cura ao longo do tempo no alvo por {0} segundo
 
-AT_BLESSING_SANCTIFY_NAME=Sanctify
-AT_BLESSING_SANCTIFY_DESC=Whenever a [LINK_MIGHT] or [LINK_FAITH] effect expires on [CONTEXT_PARTY_MEMBER_NAME_HEALER]. It will jump to a random other party member instead.
+AT_BLESSING_SANCTIFY_NAME=Santificar
+AT_BLESSING_SANCTIFY_DESC=Sempre que um efeito [LINK_MIGHT] ou [LINK_FAITH] expirar em [CONTEXT_PARTY_MEMBER_NAME_HEALER]. Em vez disso, ele pulará para um outro membro aleatório do grupo.
 
-AT_BLESSING_REPLICA_NAME=Replica
-AT_BLESSING_REPLICA_DESC=Whenever a party member gains a stack of [LINK_MIGHT] or [LINK_FAITH] effect. They always gain an additional stack.
+AT_BLESSING_REPLICA_NAME=Réplica
+AT_BLESSING_REPLICA_DESC=Sempre que um membro do grupo ganha uma pilha de efeito [LINK_MIGHT] ou [LINK_FAITH]. Eles sempre ganham uma pilha adicional.
 
-AT_BLESSING_SERPENTS_EMBRACE_NAME=Serpent's Embrace
-AT_BLESSING_SERPENTS_EMBRACE_DESC=Gain {0} [ATTRIBUTE_INCREASE_HEALPOWER_FLAT_TEXT] per {1} mana over {2} mana
+AT_BLESSING_SERPENTS_EMBRACE_NAME=Abraço da Serpente
+AT_BLESSING_SERPENTS_EMBRACE_DESC=Ganhe {0} [ATTRIBUTE_INCREASE_HEALPOWER_FLAT_TEXT] por {1} mana sobre {2} mana
 
-AT_BLESSING_PALADIN_REDEMPTION_NAME=Paladin's Redemption
+AT_BLESSING_PALADIN_REDEMPTION_NAME=Redenção do Paladino
 
 END
