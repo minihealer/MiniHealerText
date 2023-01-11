@@ -1,0 +1,35 @@
+LOCATION_MAP_OF_VAULT=Carte du Caveau
+LOCATION_DESC_MAP_OF_VAULT=Cliquez pour voyager n'importe où dans le Caveau
+
+LOCATION_HIDDEN_HAVEN=Refuge Caché
+LOCATION_VAULT_ENTRANCE=Entrée du Caveau
+LOCATION_SOUL_QUARTER=Quartier des Âmes
+LOCATION_BIO_QUARTER=Quartier Bio
+LOCATION_MIDNIGHT=Zone Nocturne
+LOCATION_OUTER_COURTYARD=Cour Extérieure
+LOCATION_INNER_COURTYARD=Cour Intérieure
+LOCATION_PANDEMONIC_DEPTH=Profondeur Pandémique
+LOCATION_GUARIDANS=Grotte des Gardiens
+LOCATION_DINING_HALL=Salle à Manger
+LOCATION_INFINITE_CORRIDOR=[DEPTH_NAME_INFINITE_CORRIDOR]
+LOCATION_AIRENE_TOWER=Tour Airene
+LOCATION_TOWER_ENTRANCE=Entrée de la Tour
+
+LOCATION_MIDNIGHT_NO_ZONE=Nocturne
+LOCATION_MIDNIGHT_WITH_AUG=Nocturne {0}
+
+LOCATION_DESC_HIDDEN_HAVEN=S'arrêter et se reposer
+LOCATION_DESC_VAULT_ENTRANCE=Votre aventure commence ici
+LOCATION_DESC_SOUL_QUARTER=Où vont toutes les âmes des héros tombés au combat
+LOCATION_DESC_BIO_QUARTER=Rempli d'expériences étranges et de créatures mutantes
+LOCATION_DESC_MIDNIGHT=Pas de lumière, seulement un tourment sans fin
+LOCATION_DESC_OUTER_COURTYARD=Les guerriers d'élite du Caveau
+LOCATION_DESC_INNER_COURTYARD=Les guerriers d'élite du Caveau
+LOCATION_DESC_PANDEMONIC_DEPTH=La porte est verrouillée par une sorte d'enchantement, peut-être qu'on a besoin d'une clé spéciale pour l'ouvrir
+LOCATION_DESC_GUARIDANS=La grotte qui abrite les monstres les plus dangereux du Caveau
+LOCATION_DESC_DINING_HALL=La salle à manger secrète du Caveau, vous pourriez trouver des aventuriers inattendus ici
+
+LOCATION_UNLOCK_PRE_TEXT=Vous avez obtenu un fragment de carte de
+LOCATION_UNLOCK_POST_TEXT=est maintenant débloqué sur la carte
+
+END
