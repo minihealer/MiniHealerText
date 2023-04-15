@@ -42,7 +42,7 @@ TALENT_MASTERY_POINTS_COST=Costs {0} Mastery point
 TALENT_MASTERY_POINTS_REQUIREMENT=Requires {0} Mastery points invested in {1}
 TALENT_MASTERY_UNLOCK_REQUIREMENT=Reach level 10 to unlock talent mastery
 
-TALENT_MASTERY_NO_MASTERY=No Mastery Availiable
+TALENT_MASTERY_NO_MASTERY=No Mastery Available
 
 TALENT_CLASS_MASTERY_BONUS_TITLE={0} Mastery bonus
 TALENT_MASTERY_BONUS_TITLE=Mastery bonus<color=#555555>{0}</color>
@@ -122,7 +122,7 @@ TALENT_VOODOO_MAGIC_DESC=Whenever a party member receives fatal damage for the f
 TALENT_VOODOO_MASTERY_DESC=% Voodoo Magic health restored percentage
 TALENT_AGONY_DESC=Whenever [LINK_SKILL_SHADOW_RIPPLE] overheals, [CONTEXT_PARTY_MEMBER_NAME_HEALER] is healed for {0}% of the amount overhealed
 TALENT_AGONY_SAC_DESC=Further increases the ratio of the overhealing heal by {0}% per sacrificed talent point
-TALENT_AGONY_MASTERY_DESC=% Shadow Ripple healpower ratio
+TALENT_AGONY_MASTERY_DESC=% [LINK_SKILL_SHADOW_RIPPLE] healpower ratio
 TALENT_BANISH_DESC=[LINK_SKILL_BANISH] also reduces [ATTRIBUTE_ELE_RESISTS_TEXT] by {0}%
 TALENT_HEXING_MASTERY_DESC=% Hexing attack speed reduction
 TALENT_HEXING_ATK_SPD_DESC=[LINK_SKILL_BANISH] also reduces [ATTRIBUTE_ATTACK_SPEED] by {0}%
@@ -164,11 +164,11 @@ TALENT_CATA_CAST_DESC=[CONTEXT_PARTY_MEMBER_NAME_HEALER] will occasionally cast 
 TALENT_CATA_CAST_DMG_DESC=Each fireball deals ({0}% * [ATTRIBUTE_INCREASE_HEALPOWER_FLAT_TEXT]) [ATTRIBUTE_FIRE_DAMAGE] to all enemies and 2% of its damage to all party members
 TALENT_CATA_CAST_SAC_DESC=Each fireball deals 1% more damage per sacrificed talent point
 TALENT_CATA_MASTERY_DESC=% Cataclysm Fireball's healpower ratio
-TALENT_NEMESIS_INFUSION_MORPH_DESC=Party members' basic attacks have a {0}% chance to deal [ATTRIBUTE_NEMESIS_DAMAGE] instead
+TALENT_NEMESIS_INFUSION_MORPH_DESC=Party members' auto attacks have a {0}% chance to deal [ATTRIBUTE_NEMESIS_DAMAGE] instead
 TALENT_NEMESIS_INFUSION_SAC_DESC=Increases the proc chance of [TALENT_NEMESIS_INFUSION_NAME] by {0}% per sacrificed talent point
 TALENT_NEMESIS_INFUSION_MASTERY_DESC=% Nemesis Infusion [ATTRIBUTE_NEMESIS_DAMAGE] chance
 TALENT_SHOCK_MASTERY_DESC=% [LINK_SKILL_SMITE]'s damage increase percentage
-TALENT_PATHS_END_DESC=When a party member dies, increase [ATTRIBUTE_INCREASE_HEALPOWER_FLAT_TEXT] by {0}%
+TALENT_PATHS_END_DESC=When a party member dies, increase [ATTRIBUTE_INCREASE_HEALPOWER_FLAT_TEXT] by {0}%.
 TALENT_PATHS_END_MASTERY=% Path's End Healpower bonus
 
 TALENT_VIRTUOUS_SPIRIT_DESC=Casting [LINK_SKILL_RADIANT_HEAL] will decrease the cooldown of [LINK_SKILL_HEAVEN_MELODY] by {0} seconds
@@ -267,9 +267,9 @@ TALENT_FROST_BITE_BASE_ICE_DMG_DESC=[LINK_SKILL_REJUVENATE] also increases {0}% 
 TALENT_FROST_BITE_MASTERY_PRE_TEXT=[SKILL_REJUVENATE_NAME] adds additional 
 TALENT_FROST_BITE_MASTERY_POST_TEXT= [ATTRIBUTE_ICE_DAMAGE]
 
-TALENT_TRANQUILITY_LVL1_DESC=At level 1, your [LINK_SKILL_RENEW] can also now critically heal
-TALENT_TRANQUILITY_LVL2_DESC=At level 2, your [LINK_SKILL_SPIRIT_RITUAL] can also now critically heal
-TALENT_TRANQUILITY_LVL3_DESC=At level 3, your [LINK_SKILL_NATURE_GIFT] can also now critically heal
+TALENT_TRANQUILITY_LVL1_DESC=At talent level 1, your [LINK_SKILL_RENEW] can also now critically heal
+TALENT_TRANQUILITY_LVL2_DESC=At talent level 2, your [LINK_SKILL_SPIRIT_RITUAL] can also now critically heal
+TALENT_TRANQUILITY_LVL3_DESC=At talent level 3, your [LINK_SKILL_NATURE_GIFT] can also now critically heal
 TALENT_REACTIVE_INSTINCT_DESC=All party members gain {0}% [ATTRIBUTE_DODGE_CHANCE_TEXT] for 3 seconds whenever an enemy casts a spell
 TALENT_REACTIVE_INSTINCT_MASTERY=% [TALENT_REACTIVE_INSTINCT_NAME] [ATTRIBUTE_DODGE_CHANCE_TEXT]
 
@@ -432,7 +432,7 @@ TALENT_ZEAL_DESC=[LINK_SKILL_CLEANSING_RAY] grants a Zeal stack to the target ev
 TALENT_ZEAL_MASTERY_DESC= [TALENT_ZEAL_NAME] maximum stack
 
 TALENT_FULLFILLMENT_NAME=Fullfillment
-TALENT_FULLFILLMENT_DESC=At level 1, [LINK_SKILL_SEAL_OF_LIGHT] can critically heal. <br><br>At level 2, [LINK_SKILL_SEAL_OF_LIGHT] can critically strike. <br><br>At level 3, [LINK_SKILL_SEAL_OF_LIGHT] can now stacks to a maximum of 2 times
+TALENT_FULLFILLMENT_DESC=At talent level 1, [LINK_SKILL_SEAL_OF_LIGHT] can critically heal. <br><br>At talent level 2, [LINK_SKILL_SEAL_OF_LIGHT] can critically strike. <br><br>At talent level 3, [LINK_SKILL_SEAL_OF_LIGHT] can now stacks to a maximum of 2 times
 
 TALENT_FOCUSED_GLORY_NAME=Focused Glory
 TALENT_FOCUSED_GLORY_DESC=[LINK_SKILL_RENEW] now heals {0}% more per tick if there is only 1 party member affected by it
@@ -514,7 +514,7 @@ TALENT_ANCIENT_ROOTS_NAME=Ancient Roots
 TALENT_ANCIENT_ROOTS_DESC=Grants [LINK_SKILL_ANCIENT_ROOTS] skill
 
 TALENT_WORSHIP_NAME=Worship
-TALENT_WORSHIP_DESC=All party members will gain a shield equal to {0}% of [ATTRIBUTE_INCREASE_HEALPOWER_FLAT_TEXT] for every {1} seconds channelled <br><br>The shield lasts {2} seconds
+TALENT_WORSHIP_DESC=All party members will gain a shield equal to {0}% of [ATTRIBUTE_INCREASE_HEALPOWER_FLAT_TEXT] for every {1} seconds channeled <br><br>The shield lasts {2} seconds
 TALENT_WORSHIP_MASTERY_DESC=-1 second needed to trigger [TALENT_WORSHIP_NAME]
 
 TALENT_TRAIL_OF_FATE_NAME=Trail of Fate
@@ -529,6 +529,6 @@ TALENT_CONVICTION_DESC=Whenever [CONTEXT_PARTY_MEMBER_NAME_TANK] or [CONTEXT_PAR
 TALENT_CONVICTION_MASTERY_DESC=% [TALENT_CONVICTION_NAME] trigger chance
 
 TALENT_REINFORCED_BARRIER_NAME=Reinforced Barrier
-TALENT_REINFORCED_BARRIER_DESC=Whenever a shielded party member takes damage in one hit greater than {0}% of their [ATTRIBUTE_MAXIMUM_HEALTH], there is a {1}% chance that the damgage taken will be reduced to {0}% of the party member's [ATTRIBUTE_MAXIMUM_HEALTH]
+TALENT_REINFORCED_BARRIER_DESC=Whenever a shielded party member takes damage in one hit greater than {0}% of their [ATTRIBUTE_MAXIMUM_HEALTH], there is a {1}% chance that the damage taken will be reduced to {0}% of the party member's [ATTRIBUTE_MAXIMUM_HEALTH]
 
 END

@@ -88,6 +88,7 @@ UI_CHAOS=Chaos
 UI_ITEMS_SPOILS=Spoils
 UI_RESET=Reset
 UI_SELECT=Select
+UI_REFORGE=Reforge
 
 UI_MENU_DIFFICULTY=Choose a Difficulty
 UI_MENU_DIFFICULTY_DESC=You can change them later!
@@ -221,6 +222,7 @@ UI_SKILL_SETUP_BASE_DMG_PER_SECOND=Base damage: {0} per second
 UI_SKILL_SETUP_CURRENT_DMG=Current damage: {0}
 UI_SKILL_SETUP_CURRENT_DMG_PER_SECOND=Current damage: {0} per second
 UI_SKILL_SETUP_DMG_REDUCTION=Damage reduction: {0}
+UI_SKILL_SETUP_CURRENT_DMG_REDUCTION=Current damage reduction: {0}
 UI_SKILL_SETUP_HEALTH_RESTORED=Health restored: {0}
 
 UI_SKILL_MISSING_HEALTH_PERCENTAGE=Total healing: {0} + {1}% of missing health
@@ -258,7 +260,7 @@ UI_MALEVOLENT_SHRINE_EMPTY_TEXT=Select an artifact to lock its attributes
 UI_MALEVOLENT_SHRINE_NON_UNIQUE_TEXT=Only non unique artifacts can be locked
 UI_MALEVOLENT_SHRINE_MAX_LOCK_TEXT=Item already has maximum locked attributes
 UI_MALEVOLENT_SHRINE_TITLE=[DEPTH_ROOM_NAME_MALEVOLENT_SHRINE]
-UI_MALEVOLENT_SHRINE_DESC=The [DEPTH_ROOM_NAME_MALEVOLENT_SHRINE] can lock an attirbute of an non unique artifact. Locked attribute will not change when rerolled from Torram's Cursed Crafting
+UI_MALEVOLENT_SHRINE_DESC=The [DEPTH_ROOM_NAME_MALEVOLENT_SHRINE] can lock an attribute of an non unique artifact. Locked attribute will not change when rerolled from Torram's Cursed Crafting
 
 UI_BLACKSMITH_INVENTORY=Equipped items & Inventory
 UI_BLACKSMITH_MATERIAL_INVENTORY=Material Inventory
@@ -503,5 +505,11 @@ UI_SHOW_EXTRA_DETAIL=Show Additional Combat Details
 UI_SHOW_ENEMY_SKILLS=Show Enemy Skills
 
 UI_BETA_DESC=Warning, you are playing the beta version of the game that may not be stable or contain new features that are not fully tested yet
+
+UI_TUT_ENEMY_TARGET=While an enemy is casting, you can also see which party member they are targetting
+
+UI_HEAVEN_INFINITE_CORRIDOR_FLAG_DESC=The deepest floor you delved in the [DEPTH_NAME_INFINITE_CORRIDOR]
+UI_HEAVEN_AIRENE_TOWER_FLAG_DESC=The fastest time you achieved in beating the [LOCATION_AIRENE_TOWER]
+UI_HEAVEN_INFINITE_TOWER_FLAG_DESC=The highest floor you climbed in the [AT_UI_INFINITY_TOWER]
 
 END

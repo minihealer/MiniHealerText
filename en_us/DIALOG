@@ -67,15 +67,15 @@ DIALOG_MUZ_WELCOME_TO_VAULT_MUTZ_0=Oh wow, it has been a while since I have seen
 DIALOG_MUZ_WELCOME_TO_VAULT_MUTZ_1=My name is Mutz, I came alive after the meteor crash 100 years ago and have been here ever since.
 DIALOG_MUZ_WELCOME_TO_VAULT_MUTZ_2=The meteor itself only brings life and power to the things around it. However there are evil beings that came and twisted the creatures within here.
 DIALOG_MUZ_WELCOME_TO_VAULT_MUTZ_3=I was lucky to be in the Haven and escaped the corruption.
-DIALOG_MUZ_WELCOME_TO_VAULT_MUTZ_4=Many heros have come to try to find and cleanse the meteor but they all failed and died in vain. Maybe you can be the party that finally brings peace to the Vault again.
+DIALOG_MUZ_WELCOME_TO_VAULT_MUTZ_4=Many heroes have come to try to find and cleanse the meteor but they all failed and died in vain. Maybe you can be the party that finally brings peace to the Vault again.
 DIALOG_MUZ_WELCOME_TO_VAULT_MUTZ_5=Venture deep into the Vault. There are map fragments scattered around, find me the fragments and I can attach them on your map.
 DIALOG_MUZ_WELCOME_TO_VAULT_MUTZ_6=Go now, the next map fragment should be in the hands of the <color=#B58300FF>Brutal Sepitus</color> in <color=#B58300FF>Vault Entrance</color>.
 
 DIALOG_MUZ_WELCOME_TO_VAULT_MUTZ_COMPLETE_0=Good job! Soul Quarter should be unlocked now on your map!
 
-DIALOG_MUZ_MAP_FRAG_MIDNIGHT_START_0=I know Insanse Sepitus also drops a map fragment as well, defeat him and bring the map fragment back to me.
+DIALOG_MUZ_MAP_FRAG_MIDNIGHT_START_0=I know Insane Sepitus also drops a map fragment as well, defeat him and bring the map fragment back to me.
 DIALOG_MUZ_MAP_FRAG_MIDNIGHT_PENDING_0=Go now, bring me the next map fragment from Insanse Sepitus.
-DIALOG_MUZ_MAP_FRAG_MIDNIGHT_COMPLETE_0=Nice! Let me just add that to your map...and...done! The Midnight Zone should be availiable now on your map!
+DIALOG_MUZ_MAP_FRAG_MIDNIGHT_COMPLETE_0=Nice! Let me just add that to your map...and...done! The Midnight Zone should be available now on your map!
 
 DIALOG_MUZ_MAP_FRAG_BIO_QUARTER_START_0=Inside the Soul Quarter there is a Mirror that will copy one's soul and use them against the owner's body. The next map fragment should be on it.
 DIALOG_MUZ_MAP_FRAG_BIO_QUARTER_PENDING_0=Go now, the next map fragment should be in the hands of Insane Mirror in Soul Quarter.
@@ -87,15 +87,15 @@ DIALOG_MUZ_MAP_FRAG_DINING_HALL_COMPLETE_0=You look much stronger now, here's a 
 
 DIALOG_MUZ_QUEST_OUTER_COURTYARD_START_0=The next fragment should be in the hands of Brutal Atiel Blackshade in the Bio Quarter.
 DIALOG_MUZ_QUEST_OUTER_COURTYARD_PENDING_0=Go now, the next map fragment should be in the hands of Brutal Atiel in Bio Quarter.
-DIALOG_MUZ_QUEST_OUTER_COURTYARD_END_0=Good job! The Outer Courtyard should be availiable now on your map!
+DIALOG_MUZ_QUEST_OUTER_COURTYARD_END_0=Good job! The Outer Courtyard should be available now on your map!
 
 DIALOG_MUZ_QUEST_DEPTH_START_0=The next fragment we will have to go into the <color=#B58300FF>Midnight Zone</color> and clear out the monsters in <color=#B58300FF>Midnight Outer Courtyard</color>.
 DIALOG_MUZ_QUEST_DEPTH_PENDING_0=Go now, the next map fragment should appear if we can clear out the monsters in <color=#B58300FF>Midnight Outer Courtyard</color> in the <color=#B58300FF>Midnight Zone</color>.
-DIALOG_MUZ_QUEST_DEPTH_END_0=Good Job! The Pandemonic Depth should be availiable now on your map! I can only help you to here as those were the fragments that I know of.
+DIALOG_MUZ_QUEST_DEPTH_END_0=Good Job! The Pandemonic Depth should be available now on your map! I can only help you to here as those were the fragments that I know of.
 
 DIALOG_MUZ_IDLE_0=Some days I wish I have a body, so I can finally clean this place!
 
-DIALOG_ORRA_IDLE_1_0=Sometimes there are things that will come out of the portal from the other diemension and I will need your help to defend it.
+DIALOG_ORRA_IDLE_1_0=Sometimes there are things that will come out of the portal from the other dimension and I will need your help to defend it.
 DIALOG_ORRA_IDLE_2_0=Now I can finally spend some time to enjoy the food.
 
 DIALOG_HAVEN_ANAPIEL_IDLE_1_0=Want to head to the [LOCATION_AIRENE_TOWER] and challenge your abilities with limited resources?
@@ -104,11 +104,11 @@ DIALOG_HAVEN_ANAPIEL_ACTION_BTN_TEXT_1=Go to [LOCATION_AIRENE_TOWER]
 DIALOG_AIRENE_ANAPIEL_IDLE_1_0=Ready to head back to [LOCATION_HIDDEN_HAVEN]?
 DIALOG_AIRENE_ANAPIEL_ACTION_BTN_TEXT_1=Go back
 
-DIALOG_AIRENE_ANAPIEL_INSIDE_IDLE_1_0=Are you sure you want to exit the tower? You won't be able to come back!
+DIALOG_AIRENE_ANAPIEL_INSIDE_IDLE_1_0=Are you sure you want to exit the tower? You will be able to come back later!
 DIALOG_AIRENE_ANAPIEL_INSIDE_ACTION_BTN_TEXT_1=Head out
 
 DIALOG_MEVOR_IDLE_1_0=...
-DIALOG_EDWIN_IDLE_1_0=Me, Orra and Mevor have been guarding the portals for eternity. Monsters and corrupted parties from the other diemensions wants to acquire the power here. We don't know how to close the portals so it's our job to keep them out of the Vault.
+DIALOG_EDWIN_IDLE_1_0=Me, Orra and Mevor have been guarding the portals for eternity. Monsters and corrupted parties from the other dimensions wants to acquire the power here. We don't know how to close the portals so it's our job to keep them out of the Vault.
 DIALOG_GOLEM_IDLE_1_0=Golem good, Golem helps you test your skills and abilities.
 DIALOG_GOLEM_ACTION_BTN_TEXT_1=Fight the Golem
 
@@ -139,5 +139,9 @@ DIALOG_QUEST_DEFEAT_ALL_GUARDIANS_START_2=Go and defeat each of the guardians to
 DIALOG_QUEST_DEFEAT_ALL_GUARDIANS_PENDING_0=This is it, the fate of the vault lies in your hands. I have all my faith in you as I have never seen anyone go this far.
 DIALOG_QUEST_DEFEAT_ALL_GUARDIANS_END_0=I can't believe you actually did it! I have waited for this day to come.
 DIALOG_QUEST_DEFEAT_ALL_GUARDIANS_END_1=Also I have a another key to the <color=#B58300FF>Depth Door</color>. This key can lead to places that are much more volatile than the Abyss so use it with caution.
+
+
+DIALOG_ANAPIEL_TOWER_OFFERING=Tower is dangerous! Before you go in, choose one of my gifts to you to go with!
+
 
 END

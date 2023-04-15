@@ -61,7 +61,7 @@ SETTINGS_AUTO_RESTART_WITH_CHAOS=Auto Restart with Chaos
 SETTINGS_AUTO_RESTART_WITH_CHAOS_DESC=Enabling this option will also cause Auto Restart  to try and restart the level with the same amount of chaos crystals
 
 SETTINGS_QUICK_CAST=Quick cast
-SETTINGS_QUICK_CAST_DESC=Enabling this will cause the party member to automatically be selected when the mouse is hovered onto him/her
+SETTINGS_QUICK_CAST_DESC=Enabling this will cause the party member to automatically be selected when the mouse is hovered onto them
 
 SETTINGS_KEYBINDINGS=Key Bindings
 SETTINGS_KEYBINDINGS_MOVE_LEFT=Move left
@@ -120,6 +120,9 @@ SETTINGS_HIDDEN_YOU_NAME=Remove (you) from Healer's name
 SETTINGS_HIDDEN_YOU_DESC=The extra (you) at the end will be hidden
 
 SETTINGS_SECONDARY_KEY=Secondary Key
+
+SETTINGS_HIDE_AURAS_NAME=Hide Aura effects
+SETTINGS_HIDE_AURAS_DESC=Auras effects around the healer will be hidden
 
 
 END

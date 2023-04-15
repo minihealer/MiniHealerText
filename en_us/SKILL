@@ -3,6 +3,9 @@ SKILL_TITLE_PLURAL=Skills
 SKILL_CATEGORY_INITIAL=Initial Skills
 SKILL_CATEGORY_X_SKILLS={0} Skills
 
+RUNE_CATEGORY_SKILL=Skill runes
+RUNE_CATEGORY_CHARACTER=Character runes
+
 SKILL_NUMBER_OF_TARGETS=Number of targets
 SKILL_CAST_TIME=Cast time
 SKILL_COOLDOWN=Cooldown
@@ -34,7 +37,6 @@ SKILL_TAG_DISPELABLE_DESC=This skill's effect can be dispelled
 SKILL_TAG_NEGATABLE_DESC=This skill's effect can be negated
 SKILL_TAG_NONDISPELABLE_DESC=This skill's effect can not be dispelled
 SKILL_TAG_NONNEGATABLE_DESC=This skill's effect can not be negated
-SKILL_TAG_PASSIVE=This skill is a passive skill
 
 SKILL_DESC_CASTIME=[SKILL_CAST_TIME]: {0} seconds
 SKILL_DESC_COOLDOWN=[SKILL_COOLDOWN]: {0} seconds
@@ -54,7 +56,7 @@ SKILL_LIFE_FUNNEL_NAME=Life Funnel
 SKILL_LIFE_FUNNEL_DESC=Heal the target based on your [ATTRIBUTE_MAXIMUM_HEALTH]. <br>But also takes [ATTRIBUTE_PHYSICAL_DAMAGE] based on your own [ATTRIBUTE_MAXIMUM_HEALTH]. <br>Can not be cast when dead
 SKILL_LIFE_FUNNEL_SHORT_DESC=[SKILL_LIFE_FUNNEL_DESC]
 SKILL_BESTOW_FAITH_NAME=Bestow Faith
-SKILL_BESTOW_FAITH_DESC=Shield the target as well as placing a long lasting buff on them that will heal them based on your damage dealt.
+SKILL_BESTOW_FAITH_DESC=Shield the target as well as placing a long lasting buff on them that will heal them based on your damage dealt.<br>The healing is halved if the damage is dealt to immune targets <br><br>The healing does not trigger from [CONTEXT_RUNES]' damage
 SKILL_BESTOW_FAITH_DMG_DESC=Heal <color=#FF911F>{0}%</color> of the damage the [CONTEXT_PARTY_MEMBER_NAME_HEALER] dealt. <br>This healing is reduced by {1}% for auto attacks.
 SKILL_BESTOW_FAITH_NEGATE_DMG=[SKILL_NEGATE_NAME] now deals <color=#FF911F>{0}%</color> of [CONTEXT_PARTY_MEMBER_NAME_HEALER]'s [ATTRIBUTE_TOTAL_DAMAGE_TEXT] as [ATTRIBUTE_LIGHTNING_DAMAGE] to the target
 SKILL_BESTOW_FAITH_SHORT_DESC=Shield the target as well as heal the target based on your damage dealt
@@ -227,6 +229,9 @@ SKILL_INSPIRE_NAME=Inspire
 SKILL_INSPIRE_TOWER_DESC=Regenerates {0} health per second for all party members as well as increases [ATTRIBUTE_ALL_DAMAGE_DEALT] by {1}% <br><br>The regeneration effect is increased by {2}% per [SKILL_TAG_DEFENSIVE] [CONTEXT_SCROLL] <br><br>The damage dealt effect is increased by {3}% per [SKILL_TAG_OFFENSIVE] [CONTEXT_SCROLL] <br><br>The duration is increased by {4} second per [SKILL_TAG_UTILITY] [CONTEXT_SCROLL]
 
 
+SKILL_RETALIATE_NAME=Retaliate
+SKILL_RETALIATE_DESC=When attacked, there is a {0}% chance to counterattack the attacker. <br><br>Always trigger [SKILL_RETALIATE_NAME] on block
+
 SKILL_DIVINE_LIGHT_NAME=Divine Light
 SKILL_DIVINE_LIGHT_TOWER_DESC=A self heal that heals for {0}% of the caster's missing health. <br><br>The healing is increased by {1}% per [SKILL_TAG_DEFENSIVE] [CONTEXT_SCROLL] <br><br>The cooldown is reduced by {2} second per [SKILL_TAG_UTILITY] [CONTEXT_SCROLL]
 
@@ -323,11 +328,11 @@ SKILL_CRESENT_SWEEP_B_DESC=A quick sweep to the backline, dealing moderate amoun
 SKILL_ORB_OF_NIGHT_NAME=Orb of Night
 SKILL_ORB_OF_NIGHT_DESC=Place a curse onto the target, dealing moderate amount of [ATTRIBUTE_NEMESIS_DAMAGE] overtime
 SKILL_SWIPE_NAME=Swipe
-SKILL_SWIPE_DESC=A furious blow to multiple targets, dealing multiple [ATTRIBUTE_NEMESIS_DAMAGE] in succession
+SKILL_SWIPE_DESC=Deals [ATTRIBUTE_NEMESIS_DAMAGE] to the targets in quick succession
 SKILL_SWIPE_B_NAME=Swipe
-SKILL_SWIPE_B_DESC=A furious blow to multiple targets, dealing multiple [ATTRIBUTE_NEMESIS_DAMAGE] in succession
+SKILL_SWIPE_B_DESC=Deals [ATTRIBUTE_NEMESIS_DAMAGE] to the targets in quick succession
 SKILL_SILENT_NAME=Silent
-SKILL_SILENT_DESC=Slience the target, making them unable to cast certain spells.
+SKILL_SILENT_DESC=Silence the target, making them unable to cast certain spells.
 SKILL_CRYSTALIZE_NAME=Crystalize
 SKILL_CRYSTALIZE_DESC=Harden the target's weapon, making him/her deal increased amount of damage
 SKILL_ELEMENTAL_INFUSION_NAME=Elemental Infusion
@@ -403,7 +408,7 @@ SKILL_DRENCH_DESC=Drench the target in water, increasing all damage taken
 SKILL_STATIC_FIELD_NAME=Static Field
 SKILL_STATIC_FIELD_DESC=Create a static field at the back of the battlefield that deals moderate [ATTRIBUTE_LIGHTNING_DAMAGE] per second to [CONTEXT_PARTY_MEMBER_NAME_HEALER] within it
 SKILL_BALL_LIGHTNING_NAME=Ball Lightning
-SKILL_BALL_LIGHTNING_DESC=Places a ball of lightning orb on the target, when the debuff expires it will deals heavy [ATTRIBUTE_LIGHTNING_DAMAGE] to anyone within its radius. <br><br>Healer is immune to the explosion's damage.
+SKILL_BALL_LIGHTNING_DESC=Places a ball of lightning orb on the [CONTEXT_PARTY_MEMBER_NAME_HEALER], when the debuff expires it will deals heavy [ATTRIBUTE_LIGHTNING_DAMAGE] to anyone within its radius. <br><br>Healer is immune to the explosion's damage.
 SKILL_IMPAIR_NAME=Impair
 SKILL_IMPAIR_DESC=Impair the targets, removing a portion of their health and making them unable to attack while healing the caster every second. <br>Healing the character to full health will remove the effect
 SKILL_HEMORRHAGE_NAME=Hemorrhage
@@ -465,7 +470,7 @@ SKILL_REVIVE_DROTO_DESC=Revive Droto to 50% health, can only be cast if Droto is
 SKILL_DEATH_CALLING_NAME=Death's Calling
 SKILL_DEATH_CALLING_DESC=Curse the enemy with heavy [ATTRIBUTE_FIRE_DAMAGE], also increases the next damage taken from subsequent Death's Calling
 SKILL_DESPAIR_SWIPE_NAME=Despair Swipe
-SKILL_DESPAIR_SWIPE_DESC=A furious blow to multiple targets, dealing multiple [ATTRIBUTE_NEMESIS_DAMAGE] in quick succession
+SKILL_DESPAIR_SWIPE_DESC=Deals [ATTRIBUTE_NEMESIS_DAMAGE] to the targets in quick succession
 SKILL_DEFILE_NAME=Defile
 SKILL_DEFILE_DESC=Place a curse onto the target that will absorb a certain amount of healing done to the target from all sources
 SKILL_WITHER_NAME=Wither
@@ -501,7 +506,7 @@ SKILL_HOLY_FURY_DESC=Deals moderate [ATTRIBUTE_FIRE_DAMAGE] <br><br>Can only be 
 SKILL_FANATIC_NAME=Fanatic
 SKILL_FANATIC_DESC=This golem deals additional [ATTRIBUTE_FIRE_DAMAGE] on auto attacks as well as increased attack speed
 SKILL_EXTRA_FIST_NAME=Extra Fist
-SKILL_EXTRA_FIST_DESC=This golem's auto attacks deals splash damage to 1 additional random party members
+SKILL_EXTRA_FIST_DESC=This golem's auto attacks deal splash damage to 1 additional random party members
 SKILL_BREAK_WEAPONS_NAME=Break Weapons
 SKILL_BREAK_WEAPONS_DESC=Breaks the targets weapons, making them deals less damage.
 SKILL_DEMORALIZING_SHOUT_NAME=Demoralizing Shout
@@ -533,7 +538,7 @@ SKILL_MIRRORED_SMITE_DESC=Smite multiple targets, dealing [ATTRIBUTE_LIGHTNING_D
 SKILL_MIRRORED_CHAOS_STRIKE_NAME=Chaos Strike
 SKILL_MIRRORED_CHAOS_STRIKE_DESC=Deals heavy [ATTRIBUTE_NEMESIS_DAMAGE] to targets
 SKILL_CULL_THE_WEAK_NAME=Cull The Weak
-SKILL_CULL_THE_WEAK_DESC=Deals massive damage at the end of the the duration if the target is not fully healed
+SKILL_CULL_THE_WEAK_DESC=Deals massive damage at the end of the duration if the target is not fully healed
 SKILL_POISON_ARROW_NAME=Poison Arrow
 SKILL_POISON_ARROW_DESC=Poison the target, dealing heavy [ATTRIBUTE_NEMESIS_DAMAGE] every second
 SKILL_ELEMENTAL_SHOT_NAME=Elemental Shot
@@ -689,13 +694,13 @@ SKILL_HEAVY_STRIKE_CLINT_DESC=A heavy blow to the target, dealing heavy [ATTRIBU
 SKILL_BLIGHT_NAME=Blight
 SKILL_BLIGHT_DESC=Deals a moderate amount of [ATTRIBUTE_ICE_DAMAGE] to the target, as well as making all healing less effective
 SKILL_SILENT_CLINT_NAME=Silent
-SKILL_SILENT_CLINT_DESC=Slience the target, making them unable to cast certain spells.
+SKILL_SILENT_CLINT_DESC=Silence the target, making them unable to cast certain spells.
 SKILL_THE_FINAL_SEAL_NAME=The Final Seal
 SKILL_THE_FINAL_SEAL_DESC=Inflict the dark seal on the target, making them unable to be healed
 SKILL_FROZEN_PUNCH_NAME=Frozen Punch
 SKILL_FROZEN_PUNCH_DESC=Punch the targets, dealing heavy [ATTRIBUTE_ICE_DAMAGE]
 SKILL_CHILL_BONE_NAME=Chill to the bone
-SKILL_CHILL_BONE_DESC=Chill one of the party members until him/her is healed to full. <br><br>While chilled, Orra will be taking moderate [ATTRIBUTE_ICE_DAMAGE] every second.
+SKILL_CHILL_BONE_DESC=Chill one of the party members until they are healed to full. <br><br>While chilled, Orra will be taking moderate [ATTRIBUTE_ICE_DAMAGE] every second.
 SKILL_GAZE_INTO_ABYSS_NAME=Gaze into the abyss
 SKILL_GAZE_INTO_ABYSS_DESC=Places a curse onto all party members. Dispelling the curse will deal heavy [ATTRIBUTE_ICE_DAMAGE] to the affected party member.
 SKILL_BOULDER_SMASH_NAME=Boulder Smash
@@ -769,7 +774,7 @@ SKILL_ERUPTION_P2_DESC=Trigger a series of eruptions from the geyers
 SKILL_BLIGHT_BURST_NAME=Blight Burst
 SKILL_BLIGHT_BURST_DESC=Explode a blight spore on the target, dealing moderate [ATTRIBUTE_NEMESIS_DAMAGE]
 SKILL_CAUSTIC_STRIKE_NAME=Caustic Strike
-SKILL_CAUSTIC_STRIKE_DESC=Deals heavy Fire damgage to the target, then after 6 seconds deals additional [ATTRIBUTE_FIRE_DAMAGE] that is increased by 5% per 1% of the target's health missing
+SKILL_CAUSTIC_STRIKE_DESC=Deals heavy Fire damage to the target, then after 6 seconds deals additional [ATTRIBUTE_FIRE_DAMAGE] that is increased by 5% per 1% of the target's health missing
 SKILL_DELAYED_DISCHARGE_NAME=Delayed Discharge
 SKILL_DELAYED_DISCHARGE_DESC=Place a curse on to the target that deals heavy [ATTRIBUTE_FIRE_DAMAGE] to all party members when expired
 SKILL_PARALYZE_NAME=Paralyze
@@ -960,7 +965,7 @@ SKILL_HEX_OF_WINTER_NAME=Hex of Winter
 SKILL_HEX_OF_WINTER_DESC=Places a hex onto the target, dealing light [ATTRIBUTE_ICE_DAMAGE] every second and massive [ATTRIBUTE_ICE_DAMAGE] when dispelled or expired <br><br>The less remaining duration, the less damage it deals when dispelled. 
 
 SKILL_CONJURATION_OF_ICE_NAME=Conjuration of Ice
-SKILL_CONJURATION_OF_ICE_DESC=Freeze the air around the battlefield, periodically summons ice shards that travels from left to right or right to left across the battlefield. <br><br>The shard will deal heavy [ATTRIBUTE_ICE_DAMAGE] to all party members heal all enemies for a moderate amount if it collides with [CONTEXT_PARTY_MEMBER_NAME_HEALER]
+SKILL_CONJURATION_OF_ICE_DESC=Freeze the air around the battlefield, periodically summons ice shards that travels from left to right or right to left across the battlefield. <br><br>The shard will deal heavy [ATTRIBUTE_ICE_DAMAGE] to all party members and heal all enemies for a moderate amount if it collides with [CONTEXT_PARTY_MEMBER_NAME_HEALER]
 
 SKILL_DIVINE_GIFT_NAME=Divine Gift
 SKILL_DIVINE_GIFT_DESC=Conjure a divine bottle randomly on the battlefield. <br><br>Picking up the bottle will heal all party members based on their [ATTRIBUTE_MAXIMUM_HEALTH] and restore mana based on [ATTRIBUTE_MAXIMUM_MANA]
@@ -973,6 +978,7 @@ SKILL_DIVINE_GIFT_MANA_STORE=Restores {0}% of [ATTRIBUTE_MAXIMUM_MANA]
 SKILL_CYCLONE_SHOT_NAME=Cyclone Shot
 SKILL_CYCLONE_SHOT_DESC=Fires multiple cyclones into the battlefield that will deal [ATTRIBUTE_PHYSICAL_DAMAGE] to any enemy they touch <br><br>The cyclones last for a few seconds and will bounce off the edge of the battlefield
 SKILL_CYCLONE_SHOT_SHORT_DESC=[SKILL_CYCLONE_SHOT_DESC]
+SKILL_CYCLONE_SHOT_NUM_DESC=Fires {0} cyclones
 SKILL_CYCLONE_SHOT_SCALING_DESC=Damage is increased by {0}% per [SKILL_TAG_OFFENSIVE] [CONTEXT_SCROLL]. <br><br>Fires 1 additional cyclone per {1} [SKILL_TAG_UTILITY] [CONTEXT_SCROLL] 
 
 SKILL_SACRED_BANNER_NAME=Sacred Banner
@@ -984,7 +990,7 @@ SKILL_SPELLSLINGER_MARK_DESC=Places a buff on a party member. <br>Refreshes the 
 SKILL_SPELLSLINGER_MARK_SHORT_DESC=[SKILL_SPELLSLINGER_MARK_DESC]
 
 SKILL_SAFEGUARD_NAME=Safeguard
-SKILL_SAFEGUARD_DESC=Instantly teleport to the party member, healing them for a moderate amount. <br><br>Also consumes 1 [LINK_FAITH] stack on the party member to heal for significant amount and instantly refreshes the cooldown
+SKILL_SAFEGUARD_DESC=Instantly teleport to the party member, healing them for a moderate amount. <br><br>Also consumes 1 [LINK_FAITH] stack on the party member to <br>heal for significant amount and instantly refreshes the cooldown
 SKILL_SAFEGUARD_SHORT_DESC=[SKILL_SAFEGUARD_DESC]
 SKILL_SAFEGUARD_CONSUMPTION_DESC=Heals for {0}% more if 1 [LINK_FAITH] stack was consumed
 
@@ -1010,7 +1016,7 @@ SKILL_MUTILATE_NAME=Mutilate
 SKILL_MUTILATE_DESC=Mutilate the targets, dealing [ATTRIBUTE_PHYSICAL_DAMAGE] every second as well as reducing [ATTRIBUTE_CAST_SPEED] and [ATTRIBUTE_MOVEMENT_SPEED]
 
 SKILL_CHAOS_FLUX_NAME=Chaos Flux
-SKILL_CHAOS_FLUX_DESC=Channel the power of chaos. All enemies that move while channelling will lose health based on distance moved and maximum health.
+SKILL_CHAOS_FLUX_DESC=Channel the power of chaos. All enemies that move while channeling will lose health based on distance moved and maximum health.
 SKILL_CHAOS_SLASH_NAME=Chaos Slash
 SKILL_CHAOS_SLASH_DESC=Slashes the enemies, dealing moderate [ATTRIBUTE_NEMESIS_DAMAGE]
 SKILL_CHAOS_SUPRESSION_NAME=Chaos Suppression
@@ -1019,13 +1025,13 @@ SKILL_SUMMON_CHAOS_EYE_NAME=Summon Chaos Eye
 SKILL_SUMMON_CHAOS_EYE_DESC=Summon one Chaos Eye that will cast Terrify to fear enemies
 
 SKILL_DESOLATE_CHAINS_NAME=Desolate Chains
-SKILL_DESOLATE_CHAINS_DESC=Chains [CONTEXT_PARTY_MEMBER_NAME_HEALER] with another party member. <br><br>The chain will break if the 2 party member are too further away from each other, dealing massive [ATTRIBUTE_FIRE_DAMAGE] to all party members
+SKILL_DESOLATE_CHAINS_DESC=Chains [CONTEXT_PARTY_MEMBER_NAME_HEALER] with another party member. <br><br>The chain will break if the 2 party member are too far away from each other, dealing massive [ATTRIBUTE_FIRE_DAMAGE] to all party members
 SKILL_CHANNEL_DREAD_NAME=Channel Dread
-SKILL_CHANNEL_DREAD_DESC=Channel dread into the enemies. All party members except [CONTEXT_PARTY_MEMBER_NAME_HEALER] will be feared for the duration fo the channel
+SKILL_CHANNEL_DREAD_DESC=Channel dread into the enemies. All party members except [CONTEXT_PARTY_MEMBER_NAME_HEALER] will be feared for the duration of the channel
 SKILL_SANGUINE_STRIKE_NAME=Sanguine Strike
 SKILL_SANGUINE_STRIKE_DESC=Deals [ATTRIBUTE_FIRE_DAMAGE] to all party members
 SKILL_BLOOD_SEAL_NAME=Blood Seal
-SKILL_BLOOD_SEAL_DESC=Places a debuff on the targets, dealing [ATTRIBUTE_FIRE_DAMAGE] every second. <br><br>Whenever this debuff is dispelled it will slow the [CONTEXT_PARTY_MEMBER_NAME_HEALER] for a short duration.
+SKILL_BLOOD_SEAL_DESC=Places a debuff on the targets, dealing [ATTRIBUTE_FIRE_DAMAGE] every second. <br><br>Whenever this debuff is dispelled it will slow the [CONTEXT_PARTY_MEMBER_NAME_HEALER] for 20 seconds.
 
 
 SKILL_SERPENTS_BREATH_NAME=Serpent's Breath
@@ -1056,5 +1062,27 @@ SKILL_BERZERKING_ROAR_NAME=Berzerking Roar
 SKILL_BERZERKING_ROAR_DESC=Enters into a berzerking mode, reducing all enemies' [ATTRIBUTE_MAXIMUM_HEALTH] by {0}% as well as increasing [ATTRIBUTE_ALL_DAMAGE_DEALT] by {1}%. This effect can stack
 
 SKILL_THE_SERPENT_MANA_SHIELD_NAME=[BOSS_UVORRIOS_NAME]'s Mana Shield
+
+SKILL_CHARGED_BRILLIANCE_NAME=Charged Brilliance
+SKILL_CHARGED_BRILLIANCE_DESC=Channel for upto a fixed duration and then fire a ball of brilliance in the direction that the caster is facing.<br><br>The ball deals [ATTRIBUTE_LIGHTNING_DAMAGE] to all enemies and heals all party members in its path based on the percentage of time channeled.
+SKILL_CHARGED_BRILLIANCE_SHORT_DESC=Channel for upto a fixed duration and<br>then fire a ball of brilliance after
+SKILL_CHARGED_BRILLIANCE_FULL_CHANNEL_DESC=100% channel damage/healing:
+
+SKILL_HOLY_PULSE_NAME=Holy Pulse
+SKILL_HOLY_PULSE_DESC=After casting a spell, create a holy explosion around the caster that heals all party members in its radius.
+SKILL_HOLY_PULSE_SHORT_DESC=After casting a spell, heals party members around the caster
+
+SKILL_STASIS_WARD_NAME=Stasis Ward
+SKILL_STASIS_WARD_DESC=Place the party member under stasis, stunning them for the duration but making them immune to [ATTRIBUTE_PHYSICAL_DAMAGE] and heals every second 
+SKILL_STASIS_WARD_SHORT_DESC=Stunning a party member, <br>making them immune to [ATTRIBUTE_PHYSICAL_DAMAGE] and heals every second 
+
+SKILL_RECONSTRUCT_NAME=Cauterize
+SKILL_RECONSTRUCT_DESC=Cauterize the party member, dealing [ATTRIBUTE_FIRE_DAMAGE] to them but causing them to receive a buff that heals every second after. <br><br>This effect can stack
+SKILL_RECONSTRUCT_SHORT_DESC=Deal [ATTRIBUTE_FIRE_DAMAGE] to a party member <br>but cause them to receive a buff that heals every second after
+
+SKILL_CHAIN_RENEWAL_NAME=Chain Renewal
+SKILL_CHAIN_RENEWAL_DESC=Heal the taget for a moderate amount. The healing then bounce to 2 additional party members, healing them as well. <br><br>The healing amount is reduced by 50% per bounce
+SKILL_CHAIN_RENEWAL_SHORT_DESC=Heal the taget for a moderate amount<br>then heal 2 additional party members after
+
 
 END

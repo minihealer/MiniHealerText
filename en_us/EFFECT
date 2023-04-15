@@ -10,6 +10,7 @@ EFFECT_X_INCREASED_BY_Y={0} increased by {1}
 EFFECT_X_INCREASED_BY_Y_PERCENTAGE={0} increased by {1}%
 EFFECT_X_REDUCED_BY_Y={0} reduced by {1}
 EFFECT_X_REDUCED_BY_Y_PERCENTAGE={0} reduced by {1}%
+EFFECT_HEALING_EVERY_SECOND=Healing every second
 
 EFFECT_GENERIC_ABSORB_DMG=Shielded, absorbing damage
 
@@ -45,7 +46,7 @@ EFFECT_OATH_NAME=[UI_TOOLTIP_OATH_NAME] Effect [0]
 EFFECT_OATH_DESC_0=Casting [SKILL_FLASH_HEAL_NAME] with [TALENT_INFUSED_LUMINOSITY_NAME] will also cast on this target
 
 EFFECT_SEAL_OF_LIGHT_NAME=[SKILL_SEAL_OF_LIGHT_NAME] Effect [0]
-EFFECT_SEAL_OF_LIGHT_DESC_0=When healed by [SKILL_DIVINE_MEND_NAME] <br>The seal will explode, healing the target significantly <br>as well as dealing [ATTRIBUTE_FIRE_DAMAGE] too all enemies
+EFFECT_SEAL_OF_LIGHT_DESC_0=When healed by [SKILL_DIVINE_MEND_NAME] <br>The seal will explode, healing the target significantly <br>as well as dealing [ATTRIBUTE_FIRE_DAMAGE] to all enemies
 
 EFFECT_DIVINE_FOCUS_NAME=[SKILL_DIVINE_FOCUS_NAME] Effect [0]
 EFFECT_DIVINE_FOCUS_DESC_0=Focused, the next Paladin spell cast will be more powerful
@@ -683,10 +684,10 @@ EFFECT_DECAYING_SKIN_NAME=Decaying Skin Effect [0]
 EFFECT_DECAYING_SKIN_DESC_0=Puppet master is slowly dying, corrupting everything around him
 EFFECT_DECAYING_SKIN_DESC_1=All enemies lose 0.5% percent of their [ATTRIBUTE_MAXIMUM_HEALTH] per second
 EFFECT_SUFFERING_NAME=Suffering Effect [1]
-EFFECT_SUFFERING_DESC_0=Losing 35 [ATTRIBUTE_INCREASE_HEALPOWER_FLAT_TEXT] every second until health is lower than 30% 
+EFFECT_SUFFERING_DESC=Losing {0} [ATTRIBUTE_INCREASE_HEALPOWER_FLAT_TEXT] every second until health is lower than 30% 
 EFFECT_SUFFERING_STACK_NAME=Suffering Stack Effect [1]
-EFFECT_SUFFERING_STACK_DESC_0=Reduce [ATTRIBUTE_INCREASE_HEALPOWER_FLAT_TEXT] by 35
-EFFECT_UNBREAKABLEWILL_NAME=UnbreakableWill Effect [0]
+EFFECT_SUFFERING_STACK_DESC_0=Reduce [ATTRIBUTE_INCREASE_HEALPOWER_FLAT_TEXT]
+EFFECT_UNBREAKABLEWILL_NAME=Unbreakable Will Effect [0]
 EFFECT_UNBREAKABLEWILL_DESC_0=Massively increase all resists
 EFFECT_UNBREAKABLEWILL_DESC_1=Massively increase [ATTRIBUTE_BLOCK_CHANCE_TEXT]
 EFFECT_UNBREAKABLEWILL_DESC_2=Maximum elemental resistances increased
@@ -947,14 +948,14 @@ EFFECT_ABSORBING_FEAR_DISABLED_DESC_2=Dread again
 EFFECT_SHARPENED_BLADE_NAME=Sharpened Blade Effect [0]
 EFFECT_SHARPENED_BLADE_DESC_0=Increase all damage dealt by 100%
 EFFECT_PUPPETFY_NAME=Puppetfy Effect [1]
-EFFECT_PUPPETFY_DESC_0=Stunned, soul is ripped out of the body
+EFFECT_PUPPETFY_DESC_0=Soul is ripped out of the body
 EFFECT_PUPPET_DOLL_NAME=Puppet Doll Effect [1]
 EFFECT_PUPPET_DOLL_DESC_0=If this effect expires, the body of the puppet dies
 EFFECT_PUPPET_DOLL_DESC_1=If the doll dies before the effect expires
 EFFECT_PUPPET_DOLL_DESC_2=the soul is returned to the body
 EFFECT_PUPPET_DOLL_DESC_3=Puppet Doll's stats are scaled 
 EFFECT_PUPPET_DOLL_DESC_4=with the party member's stat
-EFFECT_THUNDER_ASSAULT_NAME=Thunder Assult Effect [0]
+EFFECT_THUNDER_ASSAULT_NAME=Thunder Assault Effect [0]
 EFFECT_THUNDER_ASSAULT_DESC_0=Charging up
 EFFECT_TARGET_DUMMY_NAME=Target Dummy Effect [0]
 EFFECT_TARGET_DUMMY_DESC_0=Recovers all damage taken
@@ -999,7 +1000,7 @@ EFFECT_DEATH_CALLING_DESC_OVERRIDE=Increase the damage taken from Death's Callin
 EFFECT_SILENCED_NAME=Silenced Effect [1]
 EFFECT_SILENCED_DESC_0=Cannot cast any healing skills
 EFFECT_MINION_NAME=Minion Effect [1]
-EFFECT_MINION_DESC_0=This minon will also die when all other bosses dies
+EFFECT_MINION_DESC_0=This minion will also die when all other bosses dies
 EFFECT_HELLFIRE_BURST_NAME=Hellfire Burst Effect [1]
 EFFECT_HELLFIRE_BURST_DESC_0=Deals [ATTRIBUTE_FIRE_DAMAGE] when expired
 EFFECT_HELLFIRE_BURST_DESC_1=The damage is increased by 1%
@@ -1191,10 +1192,11 @@ EFFECT_SUFFOCATION_ARROW_DESC_0=stunned
 EFFECT_EDWIN_DIVINE_PROTECTION_NAME=[BOSS_EDWIN_SHORT_NAME]'s Divine Protection Effect [0]
 EFFECT_EDWIN_DIVINE_PROTECTION_DESC_0=Immune to all damage
 EFFECT_EDWIN_DIVINE_PROTECTION_DESC_1=The protection is removed when the 2 golems are killed
-EFFECT_ATONE_NAME=Atone Effect [1]
-EFFECT_ATONE_GREEN_NAME=[EFFECT_ATONE_NAME]
-EFFECT_ATONE_YELLOW_NAME=[EFFECT_ATONE_NAME]
-EFFECT_ATONE_RED_NAME=[EFFECT_ATONE_NAME]
+EFFECT_ATONE_NAME=[SKILL_ATONE_YELLOW_NAME] Effect [1]
+EFFECT_ATONE_GREEN_NAME=[SKILL_ATONE_YELLOW_NAME] Effect (Green) [1]
+EFFECT_ATONE_YELLOW_NAME=[SKILL_ATONE_YELLOW_NAME] Effect (Yellow) [1]
+EFFECT_ATONE_RED_NAME=[SKILL_ATONE_YELLOW_NAME] Effect (Red) [1]
+EFFECT_ATONE_PURPLE_NAME=[SKILL_ATONE_YELLOW_NAME] Effect (Purple) [1]
 EFFECT_ATONE_DESC_0=Only 1 of the Atone debuff has the real sin. 
 EFFECT_ATONE_DESC_1=Dispelling the wrong Atone debuff will deal
 EFFECT_ATONE_DESC_2=heavy [ATTRIBUTE_NEMESIS_DAMAGE] to all party members
@@ -1245,6 +1247,9 @@ EFFECT_IMMORTALITY_DESC_0=[ATTRIBUTE_BLOCK_CHANCE_TEXT] increased
 EFFECT_GATHERED_WIND_NAME=Gathered Wind Effect [0]
 EFFECT_GATHERED_WIND_DESC_0=You have gathered some wind
 EFFECT_GATHERED_WIND_DESC_1=moving will consume the wind
+EFFECT_GATHERED_WIND_TOWER_NAME=Gathered Wind Effect [0]
+EFFECT_GATHERED_WIND_TOWER_DESC_0=Reaching 100 stacks will consume the wind and grants
+EFFECT_GATHERED_WIND_TOWER_DESC_1=all party members [ATTRIBUTE_CAST_SPEED] and [ATTRIBUTE_ATTACK_SPEED]
 EFFECT_GUST_NAME=Gust Effect [0]
 EFFECT_GUST_DESC_0=Movement speed increased
 EFFECT_GUST_DESC_1=Cast speed increased
@@ -1315,7 +1320,7 @@ EFFECT_ENERGIZED_DESC_0=[CONTEXT_ELEMENT_PHYSICAL] auto attacks deal extra [ATTR
 EFFECT_APOCALYPSE_TOME_NAME=Apocalypse Tome Effect [0]
 EFFECT_APOCALYPSE_TOME_DESC_0=Attacking an additional time
 EFFECT_SYMBOL_OF_HOPE_NAME=Symbol of Hope Effect [0]
-EFFECT_SYMBOL_OF_HOPE_DESC_0=[ATTRIBUTE_INCREASE_HEALPOWER_FLAT_TEXT] increased
+EFFECT_SYMBOL_OF_HOPE_DESC_0=<br>
 EFFECT_SYMBOL_OF_HOPE_DESC_1=Shield effect increased
 EFFECT_SYMBOL_OF_HOPE_DESC_2=All party members' base damage increased
 EFFECT_SYMBOL_OF_HOPE_DESC_3=All party members' block/[ATTRIBUTE_DODGE_CHANCE_TEXT] increased
@@ -1449,7 +1454,7 @@ EFFECT_DECIMATE_DESC2=Can only be removed by taking damage from [SKILL_DUSKWIND_
 
 EFFECT_BLACKOUT_NAME=[SKILL_BLACKOUT_NAME] Effect[1]
 EFFECT_BLACKOUT_DESC=Deals massive [ATTRIBUTE_NEMESIS_DAMAGE] when expired
-EFFECT_BLACKOUT_DESC2=Deals [ATTRIBUTE_NEMESIS_DAMAGE] based on remaining duraion when dispelled
+EFFECT_BLACKOUT_DESC2=Deals [ATTRIBUTE_NEMESIS_DAMAGE] based on remaining duration when dispelled
 EFFECT_BLACKOUT_DESC3=The lower the remaining duration is, the lower the damage
 
 EFFECT_QUICKSILVER_NAME=[ARTIFACT_QUICKSILVER_NAME] Effect[0]
@@ -1622,7 +1627,7 @@ EFFECT_SERPENTS_CURSE_DESC_1=[BOSS_UVORRIOS_NAME] gains mana if dispelled before
 
 EFFECT_DESOLATE_CHAINS_NAME=[SKILL_DESOLATE_CHAINS_NAME] Effect [1]
 EFFECT_DESOLATE_CHAINS_DESC_0=Moving too far from the other chained party member will break the chain
-EFFECT_DESOLATE_CHAINS_DESC_1=and deal heavy [ATTRIBUTE_FIRE_DAMAGE] too all party members
+EFFECT_DESOLATE_CHAINS_DESC_1=and deal heavy [ATTRIBUTE_FIRE_DAMAGE] to all party members
 
 EFFECT_BLOOD_SEAL_NAME=[SKILL_BLOOD_SEAL_NAME] Effect [1]
 EFFECT_BLOOD_SEAL_DESC_0=Dealing [ATTRIBUTE_FIRE_DAMAGE] every second
@@ -1630,12 +1635,22 @@ EFFECT_BLOOD_SEAL_DESC_1=Dispelling this effect will heavily reduce [CONTEXT_PAR
 EFFECT_BLOOD_SEAL_DESC_2=[ATTRIBUTE_MOVEMENT_SPEED] for a few seconds
 
 EFFECT_BLOOD_SEAL_SLOW_NAME=[SKILL_BLOOD_SEAL_NAME] Effect [1]
-EFFECT_BLOOD_SEAL_DESC_0=[ATTRIBUTE_MOVEMENT_SPEED] heavily reduced
+EFFECT_BLOOD_SEAL_SLOW_DESC_0=[ATTRIBUTE_MOVEMENT_SPEED] heavily reduced
 
 EFFECT_RAGE_NAME=[RUNE_RAGE_NAME] Effect [0]
-EFFECT_RAGE_DESC=Comsume {0} stacks to attack multiple times
+EFFECT_RAGE_DESC=Consume {0} stacks to attack multiple times
 
 EFFECT_DECAYING_CORPSE_NAME=Decaying Corpse
 EFFECT_DECAYING_CORPSE_DESC=Losing {0}% of [ATTRIBUTE_MAXIMUM_HEALTH] every second. <br>The health loss effect grows stronger as time passes
+
+EFFECT_STASIS_WARD_NAME=[SKILL_STASIS_WARD_NAME] Effect[0]
+
+EFFECT_SOUL_NAME=Soul
+EFFECT_SOUL_DESC=Upon reaching {0} stacks <br>gain a small amount of [ATTRIBUTE_INCREASE_HEALPOWER_FLAT_TEXT] permanently
+
+EFFECT_DISARMED_NAME=Disarmed [1]
+EFFECT_DISARMED_DESC=Can not basic attack
+
+EFFECT_LIGHTNIGN_FIST_DESC=Attacking at maximum attack speed, will be disarmed for a few seconds after
 
 END

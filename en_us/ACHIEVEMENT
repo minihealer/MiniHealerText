@@ -1,3 +1,4 @@
+
 ACHIEVEMENT_TITLE=Achievements
 ACHIEVEMENT_DESC=Gain various rewards and bonuses for what you did throughout your journey
 
@@ -75,6 +76,6 @@ ACHIEVEMENT_DESC_SPECIAL_NO_SOUL=Defeat [CONTEXT_DIFFICULTY_INSANE] {0} without 
 ACHIEVEMENT_NAME_SPECIAL_ALL_SOUL=All the Souls
 ACHIEVEMENT_DESC_SPECIAL_ALL_SOUL=Defeat [CONTEXT_DIFFICULTY_INSANE] {0} without destroying a single soul
 
-ACHIEVEMENT_DESC_NO_BONUS=No Bonus Availiable
+ACHIEVEMENT_DESC_NO_BONUS=No Bonus Available
 
 END

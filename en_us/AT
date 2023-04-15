@@ -27,6 +27,16 @@ AT_UI_DEFEATED_TITLE=Defeated!
 AT_UI_CONQUERED_TITLE=Conquered!
 AT_UI_VICTORY_DESC=You acquired the following
 
+AT_UI_INFINITY_TOWER=Infinite Tower
+AT_UI_INFINITY_TOWER_DESC=Airene Tower will continue past the final floor<br>Scrolls will no longer drop from minor enemies after floor 3<br>Enemies grow stronger after each floor past floor 3<br>Shop gets more expensive after each floor past floor 3
+AT_UI_INFINITY_FLOOR=[AT_UI_INFINITY_TOWER] Floor {0}
+AT_UI_INFINITY_CLIMBED_TO_FLOOR=Climbed to: Floor {0}
+AT_UI_INFINITY_FLOOR_MONSTER_HEALTH=Enemies have {0}% more [ATTRIBUTE_MAXIMUM_HEALTH]
+AT_UI_INFINITY_FLOOR_MONSTER_DAMAGE=Enemies deal {0}% more [ATTRIBUTE_TOTAL_DAMAGE_TEXT]
+AT_UI_INFINITY_FLOOR_MONSTER_SPELLPOWER=Enemies have {0}% more [ATTRIBUTE_SPELLPOWER_TEXT]
+
+AT_UI_INFINITY_CHEWING_BONE_NAME=Chewing Bone
+AT_UI_INFINITY_CHEWING_BONE_DESC=Looks like we ran out of options so here's a chewing bone for ya! Just how many of these things can you collect?
 
 AT_UI_VICTORY_DESC_MAP=You have conquered the [LOCATION_AIRENE_TOWER]!
 AT_UI_VICTORY_STATS_TIME_TAKEN=Total time: {0}
@@ -44,11 +54,14 @@ AT_UI_TOWER_ATLAS_SEARCH_PLACEHOLDER=Enter text to search
 AT_UI_TOWER_ATLAS_PICKED_DESC=You have picked this {0} {1} times
 AT_UI_TOWER_ATLAS_CURSED_DESC=You have been cursed by this {0} times
 
-AT_UI_SKILL_DRAFT_TITLE=Choose a Skill
-AT_UI_SKILL_DRAFT_DESC=Choose one of the following skills
+AT_UI_X_PERSON_GAINS={0} gains
+AT_UI_GAIN=Gain
+
+AT_UI_SKILL_DRAFT_TITLE=Choose your starting skills
+AT_UI_SKILL_DRAFT_DESC=Choose one skill from this pool
 AT_UI_SKILL_DRAFT_DRAG_DESC=Select this skill by dragging it to your skill bar
 
-AT_UI_SKILL_DRAFT_MAIN_TITLE=Choose Your Main Healing Skill
+AT_UI_SKILL_DRAFT_MAIN_TITLE=Choose Your Main Healing Skills
 
 AT_UI_BLESSING_DRAFT_TITLE=Gain a Blessing
 AT_UI_BLESSING_DRAFT_DESC=Select the blessing to gain its power
@@ -71,13 +84,16 @@ AT_UI_SCROLL_REROLL_DESC=Choose upto {0} scroll to reroll
 AT_UI_SCROLL_DRAFT_TITLE=Choose a Scroll
 AT_UI_SCROLL_DRAFT_DESC=Choose one of the following scrolls
 AT_UI_SCROLL_DRAFT_SKIP_DESC=Skip (+{0} <sprite=9> )
-AT_UI_SCROLL_DRAFT_SACRIFISE_SKIP_DESC=Skip to gain {0} [CONTEXT_SCROLLS]
+AT_UI_SCROLL_DRAFT_SACRIFISE_SKIP_DESC=Skip to gain {0} [CONTEXT_SCROLLS] ({1}/{2} times)
 
 AT_UI_RUNE_DRAFT_TITLE=Choose a [MATERIAL_RUNE_NAME]
-AT_UI_RUNE_DRAFT_DESC=Drag a [MATERIAL_RUNE_NAME] to improve one of you or your party member's skill
+AT_UI_RUNE_DRAFT_DESC=[MATERIAL_RUNE_NAME] can improve party member's skills or overall stats
 
 AT_UI_TINKERSPARK_SHOP=[CONTEXT_NPC_NAME_TORRI]'s Shop
 AT_UI_TINKERSPARK_DIALOG=My my...a customer! Everything's for sale here!
+
+AT_UI_REFORGE_DESC=Drag a {0} from your inventory to reforge
+
 
 AT_DRUID_SIGIL_DESC=Restores {0} [CONTEXT_MANA] every {1} floor <br><br>+{2} [ATTRIBUTE_MANA_REGEN_FLAT_TEXT]
 AT_PRIEST_SIGIL_DESC=+{0} [ATTRIBUTE_INCREASE_HEALPOWER_FLAT_TEXT] <br>+{1}% [ATTRIBUTE_CAST_SPEED] <br><br>+{2} [ATTRIBUTE_INCREASE_HEALPOWER_FLAT_TEXT] every {3} floors
@@ -97,8 +113,8 @@ AT_CHAOS_MOD_REWARD_MAX_CHAOTIC_DESC=Permanently increases the maximum chaos lev
 AT_CHAOS_MOD_RUST_DESC=You no longer have starting gold
 AT_CHAOS_MOD_CRUEL_DESC=Enemies deals {0}% more damage
 AT_CHAOS_MOD_IMPOSING_DESC=Enemies has {0}% more [ATTRIBUTE_MAXIMUM_HEALTH]
-AT_CHAOS_MOD_DROUGHT_1_DESC=Elite enemies now drop [CONTEXT_SMALL] [CONTEXT_MANA_POTION] instead
-AT_CHAOS_MOD_DROUGHT_2_DESC=Bosses now drop [CONTEXT_MEDIUM] [CONTEXT_MANA_POTION] instead
+AT_CHAOS_MOD_DROUGHT_1_DESC=All enemies now drop [CONTEXT_SMALL] [CONTEXT_MANA_POTION] instead
+AT_CHAOS_MOD_DROUGHT_2_DESC=
 AT_CHAOS_MOD_MISERY_DESC=Enemies now drop {0}% less gold
 AT_CHAOS_MOD_TORMENT_DESC=Whenever another party member dies, all other party members lose health equal to {0}% of their [ATTRIBUTE_MAXIMUM_HEALTH]
 AT_CHAOS_MOD_BAD_BLOOD_DESC=Whenever you overheal with direct and non heal overtime healing skills, you lose health equal to {0}% of the amount overhealed
@@ -108,7 +124,7 @@ AT_CURSE_CHAIN_NAME=Curse of Chains
 AT_CURSE_CHAIN_DESC=All spells now have a global cooldown of {0} second
 AT_CURSE_EXPOSURE_NAME=Curse of Exposure
 AT_CURSE_MALEDICTION_NAME=Curse of Malediction
-AT_CURSE_MALEDICTION_DESC=All overhealing now casuses the healed targt to lose health equal to {0}% of the amount overhealed
+AT_CURSE_MALEDICTION_DESC=All overhealing now casuses the healed target to lose health equal to {0}% of the amount overhealed
 AT_CURSE_SERPENT_NAME=Curse of the Serpent
 AT_CURSE_SERPENT_DESC=Every {0} seconds, increase the mana cost of all spells by {1}% for {2} seconds
 AT_CURSE_GRIEF_NAME=Curse of Grief
@@ -155,7 +171,7 @@ AT_ABSOLUTION_DESC=+{0}% [ATTRIBUTE_SHIELDING_EFFECT] per [SKILL_TAG_DEFENSIVE] 
 AT_AURA_MASTERY_DESC=All Auras no longer reduces maximum mana
 
 AT_DARK_MAGIC_DESC=+{0} [ATTRIBUTE_INCREASE_ALL_PHYSICAL_DAMAGE_FLAT_TEXT] per [SKILL_TAG_OFFENSIVE] scroll
-AT_SACRIFICE_DESC=You can now skip picking a [CONTEXT_BLESSING] and pick {0} [CONTEXT_SCROLLS] instead
+AT_SACRIFICE_DESC=You can now skip picking a [CONTEXT_BLESSING] and pick {0} [CONTEXT_SCROLLS] instead <br><br>This can only happen up to a maximum {1} times
 
 AT_EVERGREEN_DESC=-{0}% all blessing cooldowns
 
@@ -166,7 +182,7 @@ AT_ENERGY_AURA_SCROLL_DESC=+{0} additional [ATTRIBUTE_INCREASE_ALL_LIGHTNING_DAM
 AT_BLESSING_FORTIFY_NAME=Fortify
 AT_BLESSING_FORTIFY_DESC=[CONTEXT_PARTY_MEMBER_NAME_TANK] now always have [LINK_GARRISON] <br><br>[CONTEXT_PARTY_MEMBER_NAME_TANK] effect no longer grant [ATTRIBUTE_PHYSICAL_RESIST]
 
-AT_BLESSING_IMORTAL_SOULS_NAME=Imortal Souls
+AT_BLESSING_IMORTAL_SOULS_NAME=Immortal Souls
 AT_BLESSING_IMORTAL_SOULS_DESC=Your critical heal grants the target [LINK_GARRISON] for {0} seconds
 
 AT_LAST_STAND_DESC=Party members have [LINK_GARRISON] effect when their health is below {0}%

@@ -57,5 +57,5 @@ ARMORY_TRIO_REAUG_SELECT_NEW=Select a new augmentation
 
 ARMORY_ITEM_ACQUIRED_X=<br>Acquired: {0}
 ARMORY_ITEM_MAX_STACK_X=<color=#{0}>Maximum stack: {1}</color>
-
+ARMORY_CHAOS_SLOT=This slot can equip any weapons, armors, or accessories
 END
