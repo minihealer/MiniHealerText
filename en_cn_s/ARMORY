@@ -58,4 +58,6 @@ ARMORY_TRIO_REAUG_SELECT_NEW=选择一个新的强化效果
 ARMORY_ITEM_ACQUIRED_X=<br>已获取：{0}
 ARMORY_ITEM_MAX_STACK_X=<color=#{0}>最大数量：{1}</color>
 
+ARMORY_CHAOS_SLOT=这个位置可以装备任何武器\护甲\饰品
+
 END
